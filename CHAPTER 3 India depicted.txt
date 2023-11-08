@@ -1,0 +1,371 @@
+CHAPTER 3 India depicted
+So geographers in Africk maps with savage pictures fill their gaps, and
+o’er unhabitable downs place elephants for want of towns.
+Jonathan Swift, from ‘Poetry, a rhapsody’ If the contours of the literary India have received much attention recently, there has been much less discussion about visual traditions for representing
+it. Whereas the compendious Lexicon Iconographicum Mythologiae Classicae, offers only one image under the rubric ‘India’, it is more than a century
+ago, in an article by Hans Graeven, that a full-scale attempt was last made
+to survey all artifacts representing India. 1 The aim of this chapter is to
+revisit the material studied by Graeven, and to reconsider how India was
+represented in Greek and Roman art. Here, even more so than in the previous chapter, it is necessary to treat the end of antiquity in a somewhat
+elastic fashion: a central problem to emerge will be the belated appearance of visual representations to match literary references that were long known
+in antiquity. The artifacts that may be thought to represent India offer two difficulties of a methodological nature, and it is worth considering these at the
+outset. First, there is the very practical problem of identification. What are the criteria by which any given artifact may be thought to represent India
+specifically? There is a danger of circularity: we do not know what India is until we have found it, and only once we have found it do we know what we were looking for in the first place. This calls for a provisional, working
+solution: what are the distinguishing features of India when it occurs in Greco-Roman art? Second, in dealing with artistic representations of for- eign peoples, there is the strategic question of cultural boundaries. Within which visual tradition or traditions should we analyse those representations?
+1 Jean Ch. Baity, ‘India’, Lexicon Iconographicum Mythologiae Classicae (Zurich: Artemis, 1981-99), vol. V.i, cols. 654-5; Hans Graeven, ‘Darstellungen der Inder in antiken Kunstwerken’^D^/fBJ 15 (1900), 195-218; see now also Whittaker, Rome and its frontiers., pp. 123—6. 121
+122 Features ofa discourse The problem arises when art-historical analysis takes the linear, ‘vertical’ approach of positing traditions that are unities over time, effectively closed
+to the outside world, except, at most, in special and discernible circumstances. Rather, the approach here will be to try to explain the images
+largely within the artistic traditions of Greece and Rome. This is undertaken as a conscious strategy, without precluding the possibility that some
+features of these artifacts may be understood within the traditions of India.
+I specifically avoid speaking of cultural ‘influence’. 2 This is not to deny the
+possibility that the Greco-Roman artifacts might have been responding to
+visual traditions already existing in the subcontinent. Rather, here there is the attempt, or even experiment, to see what eventuates when the Greco- Roman artifacts are studied from within the artistic traditions they most
+obviously share. Such an analysis does not preclude others. The following pages begin with an outline of four groups of evidence, divided thematically. Section II answers the need to step back from these groups in search of a broader-based analysis, including a typology.
+I. VARIETIES OF IMAGE
+Li. Marvel The most obvious category with which to begin is that of the marvel. This
+has emerged in the earliest Greek accounts, particularly those of Scylax of Caryanda (Herodotus 4.44). Whereas Herodotus makes little reference
+to monsters in his account of India, they are the distinctive feature of
+his later contemporary, Ctesias of Cnidos. Ctesias claims to have seen a manticore ( martikhora) at the Achaemenid court ofArtaxerxes, once it had
+been brought there as a gift for the King of Kings.3 Indeed, when the word
+occurs in Greek it is as a loanword from the Old Persian.4 This creature was destined to have a particularly long life in western tales of marvel,
+for example in the manticore of medieval bestiaries, or in particular the thirteenth-century travel writings of Marco Polo and Sir John Mandeville.5
+2 Though Derrett speaks about a literary tradition, the same basic principles can be applied to the
+visual, notably by Boardman, The Diffusion ofclassical art:, likewise Daniel Schlumberger, L’Orient
+hellenise. LArtgrec etses heritiers dans TAsie non mediterraneenne (Paris: Michel, 1970). For a critique of such approaches, with reference to Gandharan art, see S. Abe, ‘Wonder house’.
+3 Ael. NA 4.21 (= F45dp) on this passage compare Chapter 1, section 1 . 4 above.
+4 The Greek martikhora appears to be a loanword from Old Persian, corresponding to a reconstructed compound, *martiya-khvara (‘man-eater’): Calvert Watkins, The American Heritage dictionary of
+Indo-European roots, 2nd edn (Boston: Houghton Mifflin, 2000), s.v. merx and swel- . 5 See, for example, the anthology compiled by Joe Nigg, The book offabulous beasts: a treasury ofwritings from ancient times to the present (Oxford University Press, 1999), where the manticore emerges as a
+India depicted 123 For a society centred on the ‘pond’ of the Mediterranean, to use Plato’s term ( Phaedo 109b) , marvels provided a ready conception of the edges ofthe
+earth. It is therefore not surprising that, in the wider Greek world postdating
+Alexander’s conquests, the marvel became a major part of the ethnographic
+imagination. The persistence of the marvellous was further assured by the prominence it attained in Roman geographies and ethnographies of the
+early empire, especially Pliny the Elder’s Natural history. In keeping with
+the popularity of this work in the western Middle Ages, it is basically
+a Plinian worldview that we find in the early medieval encyclopaedia of
+Isidore of Seville, though one with Christian elements. 6 These monstrous races are a conflation ofhuman and animal: they usually
+lack human speech, and in many cases they share features with animals. The background against which we must understand this is that the dis- tinction between human, divine and animal was central to ancient Greek
+worldviews.7 Marvels thus have a transgressive quality in so far as they
+depart from conventional categories of Greek thought. Further, it is worth
+emphasising the remarkable persistence of these monsters over time. In the words of their major scholar, Rudolf Wittkower,
+‘Marvels ofthe east’ determined the western idea of India for 2000 years, and made
+their way into natural science and geography, encyclopaedias and cosmographies, romances and history, into maps, miniatures and sculpture. They gradually became
+stock features of occidental mentality . . . their power of survival was such that they did not die altogether with the geographical discoveries and better knowledge
+of the East, but lived on in pseudo-scientific dress right into the 17th and 18th
+centuries. 8
+fabulous beast par excellence. Illustrated bestiaries, in which Christian moral teachings are extracted from the animal world, are known from the twelfth and thirteenth centuries: T. H. White, The book ofbeasts, being a translation from a Latin bestiary ofthe twelfth century (London: Cape, 1954). Joyce
+E. Salisbury, ‘Human beasts and bestial humans in the Middle Ages’, in Animal acts: configuring the human in western history, ed. Jennifer Ham and Matthew Senior (London: Routledge, 1997), pp. 9-22, shows the philosophical problems they posed. The anonymous Greek text, Physiobgus (second century ad or perhaps somewhat later) combines the Hellenistic tradition of natural history with Christian
+interpretation, and is a major part of this tradition. On the use of the Physiologus in medieval sermons,
+see Ron Baxter, ‘Learning from nature: lessons in virtue and vice in the Physiologus and bestiaries’, in Virtue and vice: the personifications in the Index ofChristian Art, ed. Colum Hourihane (Princeton
+University Press, 2000), pp. 29-41; more generally, Nikolaus Henkel, Studien zum Physiologus im
+Mittelalter (Tubingen: Niemeyer, 1976) and U. Treu, ‘The Greek Physiologus’, in Ancient history in a modem university, ed. T. W. Hillard et al. (North Ryde, NSW: Macquarie University Press, 1998),
+vol. II, pp. 426-32.
+6 Borst, Naturgeschichte.
+7 Jean-Pierre Vernant, Myth and society in ancient Greece, tr. Janet Lloyd (New York: Zone, 1990), pp. 143-82.
+8 Rudolf Wittkower, ‘Marvels of the East: a study in the history of monsters’, JWI 6 (1943), 159-97, at
+159.
+124 Features ofa discourse demerit Btot xn
+m bem lonb Ubw werbcn cttkb on bowbt
+* y> v mbottgen. l£rtkh fmb bebet tfitfltnmanbd)vnb btc Imgf „ , , ftcbrnbetemanb vn gcpcm
+Jremgcgcn bcrn parab 8 beybcmftufs (Sangce fmb ct ltd) maifdim btc cffat mbt&
+.
+batm fit babrnfo fkirtcti numb baa fit baa qcrrand mtt ant balm anfwflen mb
+tcben vom aefmAcf ber $pffd mbplimten. vnb fhtboi palbroubogan gefmad. sDafeibjl |Ittb raid) lewtan
+nafcn etna cbnen atigtfichte. J£ttb<b M>cn tntbtn fo grog Ubffeen boa fit 04a gam* .ingef ieht bamtt bebedK Jtem ettlid) an jtmgcn. bic beaten tmaitbtr ir mavraig
+nut wtntfett ole btc doflaicwt.Jtem in ban lanb 0ta lu baben etttef) fo gtofjc orn baa fit ben gontjen lab ba
+mtt bebeden.jftem m bem lanb etbiopw wanbem criid> mbcrgcbogai ala baa vibrnb etrtid) lebe rierhtmbcrt lar.Jtcm mbd) baben Wmcr.lang naftn mb gayfjfiife baaftttbcfJbokfanbambonttiattan^er legib. jtejm
+ctbiopta gem bon ntbcrgattg futb fcwt mtt tmem pray
+biercebt:
+ten ftifa.tmb fb febndl baa fit bit trtlben tf>ter Jtcm tn ban lanb 0csb*a baben f ic menfebegcflalt ml
+pferbe f^efa.Jtcm alba finb aucb Inrt fiipff dnpogen
+iangf mbtrerben ntcbf frond bia jam too. Jtcm mbe
+gefctttdttt bta groffen iaicwnbcre bfet man baa m tnbw mcn|dxn feyen mtt fed>a htttben.Jtem ettUcb nodet vfi ra«?binb«tfW§cntroncnb.ctriu^btt an benbat mb
+f3gm fkbe finger baben.cttkb mben waffetn wonebe
+balb menfdxn mbbaibe pfetb* gcjlaU babenbe Jm
+iraber mtt petten bta otiffbie praft aaffbe bawbt eben vnb on bar.Jtcm mctbtopta aegen bem mbergang ba
+ben ctrficb wetawgf0ofno ml£npta ftb<$n iexvt mn
+jfrand>£bdfcn mnb fi«bdn.tW<b tflale 3ugufhrt»e
+iber geet bic verfeti gegem vnfent fiigen fere. Docb iff cm
+[groflet fiteyt mber fcwtftt tvtber ben wone bea gemay
+j rten rolcfe.bae germggumb aUentbalben menfebe <mff ber etbtn feyen.mbbie gegen emanber fcwtibc bar
+-tuff {lecn-rm»b bocb alle menfeben a fcbarrtcl gem b« mel ftrcn.in vcvcvunbttfy trartlmb bocb ttnr ober bu
+bKtr fetfen gegcti rmta wombat rat fallen. 2lbcr bae
+fcknbt aogber naatr.bamt gtctd>errraa als ba |inl bee
+fedra nytmbert tfl bam u» ben fcttem.ba traffet nynbert benn m ben waffcm.rnnb be? gayfltt nytmbctt berni tn bem gayft.alfo au<b ber fbd ber ceben nynnbat anberg
+Ixro barn tn trfclba.
+#.
+Figure 2 Monstrous people in the Nuremberg chronicle (Hartmann von Schedel, 1493). Courtesy of Parkins Library, Duke University.
+India depicted 125 Oddly enough, though these monsters stretch all the way into the eigh- teenth century, their visual (as opposed to verbal) depictions do not go
+particularly far back, in fact no further than the early Middle Ages, it seems.
+If this is true, then the early medieval manuscripts of, say, the Alexander
+romance, are belated representations of phenomena already known from
+the early fifth century BC, a full millennium earlier. If one compares the preponderance of monsters in Hellenistic literature, or in the Natural his- tory of Pliny the Elder, then their absence in contemporary Greco-Roman
+art is really striking. Hence, in order to find the implicit visuality of Pliny’s ethnography realised, we need to look at medieval works, such as the
+thirteenth-century Hereford (world) map. Monsters are clearly central to
+this monastic, classicising view of India. To take an even later example of the same phenomenon, Hartman von
+Schedel’s Nuremberg chronicle of 1493 exhibits shadow-feet, one-eyed monsters and the like. In both these cases, we see not only the continuity of
+monsters but also how easily they can be transferred from one edge of the earth to another: they are a marker of India, but also of other distant places, such as Africa or Ethiopia. The Hereford map and the Nuremberg chronicle are, in their different ways, realisations of the visuality implicit in the monsters of Scylax of Caryanda and others. In both instances, the principle seen here is not far from that enunciated by Jonathan Swift, writing about
+eighteenth-century maps, in the passage quoted as the epigraph to this chapter. In maps particularly, monsters serve as ‘place holders’ for exotic
+locations: they are a response to horror vacui. The quotation is itself testa- ment to the durability of the monsters into and beyond the early modern
+period. In a major study concentrating on the early modern through the colonial period, monsters feature as a major part of the western artistic response to Indian religious art. 9
+It emerges that in Greco-Roman antiquity monsters were even more than that: to a significant degree, they may be regarded as a Mediterranean reaction to India tout court.
+1. 2. Triumph ofBacchus
+Second, there are a number of sarcophagus reliefs, in which India is rep- resented as part of the so-called triumph of Bacchus. This was a favourite topic in Antonine and Severan times, that is, from around the mid-second
+9 Partha Mitter, Much maligned monsters: history ofEuropean reactions to Indian art (Oxford: Clarendon,
+1977).
+
+I2 India 7 depicted through the early third century ad, though there are several literary refer- ences already in the Augustan age.
+10 These depict a celebratory procession of the god Bacchus or Dionysus, returning after his conquest of the Indians. In some cases, male Indian prisoners are included; typically, elephants and
+tigers or panthers pull his chariot. In perhaps the most famous instance, the sarcophagus at the Walters Gallery in Baltimore, there is even a giraffe. This god is linked with the generative powers of nature, and hence the
+exotic animals; his saving powers are such that his retinue ( thiasos
+)
+includes people from the earth’s imagined corners. While Dionysus is one of the most frequently depicted of the gods
+in Greek ceramics, the theme of his triumphal return from the east is distinctive of the Roman empire. In particular, it was in vogue in the second and third centuries ad. 11 At least two emperors from the earlier part of this period, Trajan and Lucius Verus, conducted extensive campaigns to the east of the Mediterranean, so that, by extension, this ‘far eastern’ motif had an immediate military context, as we shall discuss in Chapter 5. The scene combines African motifs with Indian: as a species, the giraffe of the Baltimore relief lives solely in sub-Saharan Africa and not in India. The same piece includes two young boys, accompanied by a satyr, who are presented as young followers of the god. The corkscrew-curl design of their hair is a regular feature for the depiction of Africans in Greek and Roman
+art. On a fragment at the Metropolitan Museum, likewise from a Bacchic triumph scene, African features are even more apparent: here thick lips and
+a broad nose strengthen the ethnic identification. 12 Elephants are a problem here. The two separate genera of elephants, the Indian and the African, differ considerably in appearance. Apart from
+being substantially smaller, the Indian has smaller ears and a flatter head, and a differently curved back. On this basis, it would seem feasible to try
+10 Prop. 3. 17.21-22; Verg. Eel. 5.29-31; and Aen. 6.804-5; Ov. Ars am. 1.549-50; and somewhat later,
+Sil. Pun. 17.645-48. Bacchic processions were already mentioned by Catull. 64.251-64; cf. Ov. Met.
+4.25—27. The yoking of tigers referred to in several of these texts seems to have symbolised civilising power, and in the case of the Virgil texts mentioned may have been linked with the public image of
+Augustus (at Hor. Carm. 3. 3. 13-15 the link is explicitly made).
+11 The compendious work of Friedrich Matz, Die Dionysischen Sarkophage, 4 vols. (Berlin: Mann,
+1968-75), shows a marked centre of gravity in the empire. The conquest of the Indians is presented
+in vol. Ill, pp. 422—33. As in the case ofother polytheist mythology, Dionysian themes largely ceased
+to be deployed around the time of Constantines Edict of Milan in ad 312/313: Guntram Koch,
+Friihchristliche Sarkophage (Munich: Beck, 2000), p. 346. On vase paintings of the earlier period,
+see esp. Thomas H. Carpenter, Dionysian imagery in Archaic Greek art (Oxford: Clarendon, 1997).
+12 Anna Marguerite McCann, Roman sarcophagi in the Metropolitan Museum of Art (New York: Metropolitan Museum of Art, 1978), p. 87.
+128 Features ofa discourse to distinguish the two in their artistic representations.13 In certain instances of ancient art it is possible to distinguish one of these from the other, but
+even in such cases we cannot assume that the artist had seen the beasts in the flesh, had grasped and could convey the differences between the genera. A remarkable class of evidence is provided by a number of marble heads, ofwhich the finest and best known is now at the Galleria Borghese in Rome.
+Others are in smaller galleries in Rome, and in Madrid and Copenhagen.
+In each case there is a bearded man with a contemplative expression. A
+cirrus knot on the top creates the effect of an Indian hairstyle on what would otherwise be unexceptional marble heads from the Severan age or somewhat earlier. 14 In the case of the Galleria Borghese bust, the use of
+coloured marble ( bigio morato) distinctively indicates the dark complexion
+of certain foreigners.15 The connection with South Asia is easily established by a similarity to the Boddhisatva figures of Gandharan art. These may
+be considered a generic ethnic type (Volkstypus) rather than representing
+individuals; the earlier dating of the busts would align them with the bar- barians commonly represented in Trajanic reliefs. One scholar has gone so
+far as to link this ethnic type with the spate of foreign ambassadors received by Trajan after his return to Rome in ad 107, since we know that Indians were among their number.16 It is also tempting to link these hairstyles with
+the late-antique importation of ‘Indian hair’ ( capilli Indict) mentioned in the Digest. 17 The Barberini ivory is another work of art in which India is represented. This carved ivory panel, housed at the Louvre, is now firmly linked with
+the emperor Justinian I (r. ad 527—65). The mounted emperor occupies
+the central panel, below the figure of Christ and two angels in the upper
+panel. At his feet is the bountiful earth, personified as a woman in an
+attitude of supplication. A general bringing a small figure ofNike (Victory)
+to the emperor occupies the left-hand panel, the right panel being lost. The
+13 H. H. Scullard, The elephant in the Greek and Roman world (London: Thames and Hudson, 1974),
+e.g. pp. 23-4.
+14 Piotr Bienkowski, Les Celtes dans les arts mineurs greco-romains (Cracow: Polish Academy, 1928), pp. 228—42, and Rolf Michael Schneider, Bunte Barbaren: Orientalenstatuen aus farbigem Marmor in der romischen Reprdsentationskunst (Worms: Werner, 1986), pp. 156-8. On the Trajanic connection,
+Erika Simon, ‘Barbarenkopf’, in Fiihrer durch die djfentlichen Sammlungen klassischer Altertiimer
+in Rom, vol. II, ed. Wolfgang Helbig, 4th edn (Tubingen: Wasmuth, 1966), p. 718 no. 1957; cf. Ancient Rome and India, ed. Rosa Maria Cimino (Delhi: Munshiram Manoharlal, 1994), pp. 126-8. For cirrus knots on Boddhisatva figures see, e.g., The crossroads ofAsia: transformations in image and symbol in the art ofancient Afghanistan and Pakistan, ed. Elizabeth Errington and Joe Cribb
+(Cambridge: Ancient India and Iran Trust, 1992), pp. 199-229.
+15 Schneider, Bunte Barbaren, p. 156
+16 Simon, ‘Barbarenkopf, 718, referring to Cass. Dio 68.15.1. 17 See Chapter 4, section 1 . 4.
+Figure 4 Marble head with cirrus knot, Trajanic. Villa Borghese, Rome.
+130 Features ofa discourse
+Figure 5 Barberini ivory, sixth century ad. Louvre, Paris.
+lowest panel contains a number of well-known motifs from Roman art. At
+the bottom right there are two men stooped in gestures of obeisance, their
+legs covered and upper bodies naked; the heads of both are covered with
+fabric, and in each case two horn-like objects stand erect from the front of
+the head. One of them carries a large elephant tusk over his left shoulder. They alternate with an elephant, its trunk pointed upward as if to honour
+India depicted 131 the emperor, and a panther or tiger. Together these features suggest that Indians are being represented. They are balanced in the lower panel with two other ‘barbarian’ men, who also approach the emperor in reverence, but
+the difference is that these are trousered and wear Phrygian-style caps, which would link them with the Mesopotamian world, i.e. western rather than southern Asia. 18 If the men at the lowest panel do indeed represent Indians, then there is a coincidence of subject-matter (which includes an ivory tusk being offered to the emperor, and an elephant) and artistic medium.
+In both the sarcophagi and the ivory, humans are in close proximity to animals, but distinct from them.19 The animals themselves are exotic but
+realistic, without being monsters in the Plinian sense.
+I.3. Personification Third, India is presented as a personification. The two instances here, if the
+identification is correct, are the great hunt mosaic of the Villa Filosofiana near Piazza Armerina in Sicily, and a silver platter from Lampsacus now at the National Museum in Istanbul. These date from the early fourth and
+the sixth centuries respectively. The mosaic at the Villa Filosofiana contains a dark-skinned woman
+reclining or sitting on a rock, half-naked and unshod. 20 She holds an ele- phant tusk in her left hand, and in her right hand a bouquet. A common
+feature in personifications of this type is the cornucopia, the horn of plenty, which the tusk in this mosaic effectively replaces. 21 On her right is an ele- phant (again, whether African or Indian is a matter for debate), and on her
+left a tiger; above the elephant is a phoenix. This bird presents a difficulty, for
+in Greek and Roman thinking the phoenix was usually linked with Egypt, where Pharaonic art had long since represented it; 22 on the other hand,
+18 See Anthony Cutlers article, ‘Barberini ivory’, in Oxford dictionary ofByzantium (Oxford: Claren- don, 1991), with further bibliography; cf. Thomas F. Matthews, Byzantium from antiquity to the Renaissance (New York: Abrams, 1998), p. 42.
+19 The same is true, of course, for other ivory representations ofelephants. Whether they were thought
+to come from Africa or India, they still connote the expanse of empire, and hence the universal reach of imperial power. Thus, the ivory diptych (probably fifth century), sometimes linked with
+the Symmachus, shows the emperor, on his way to apotheosis, drawn in a carriage by four elephants.
+20 Andrea Carandini et al., Filosofiana, the villa ofPiazza Armerina: the image ofa Roman aristocrat at
+the time of Constantine (Palermo: Flaccovio, 1982), esp. p. 230, arguing that the woman represents
+India.
+21 Marcel le Glay, ‘Africa’, LIMC I.i (1981), 250-5, at 254 (arguing for the identification of the figure
+as Africa).
+22 Both Pliny ( HN 10.4) and Tacitus (Ann. 6.28) show the link in Roman thought between the phoenix and the sun. See further Rainer Vollkommer , ‘Phoinix IIP, LIMCVlll.i (1997), 987—9, and
+R. van den Broek, The myth ofthe Phoenix, according to classical andearly Christian traditions (Leiden:
+Brill, 1972).
+132 Features ofa discourse
+Figure 6 Personification of India, apse of Great Hunt mosaic, Villa Filosofiana, Piazza Armerina, Sicily, fourth century ad. the elephant most immediately evokes a link with the Roman province of
+Africa, as distinct from Egypt. 23 It is possible that the wealthy owner of
+the villa was involved in the hunting of big game on the nearby African continent and its importation to Rome, and it is in this way that the theme
+of the great hunt mosaic (and the smaller hunt mosaic) has been explained. But, in the case of the female figure adjoining the great hunt mosaic, the
+identification with Africa is not convincing, given that the characteristic feature of personifications of Africa was the presence of an elephant tusk, horns or ears on the head of the female figure. 24 Here we do have a tusk, but it is cradled rather than worn on the head. Further, the tiger as a species
+is not to be found in any part of Africa, and in Roman art was typically associated with India and other parts . 25 It seems then that the elements of
+the mosaic point in different directions within the eastern Mediterranean and beyond. Against such a background and with these qualifications, it is quite plausible to link the female figure with India.
+23 Le Glay, ‘Africa’, gives several such instances; cf. Scullard, Elephant. 24 Le Glay, ‘Africa’.
+25 On the geographic distribution of the tiger, see DNP, ‘Tiger’. Again, an Achaemenid link is visible when Ael. (NA 15.14) speaks of tigers as royal gifts.
+Figure 7 Personification of India, silver platter, Istanbul, sixth century AD. Courtesy of the Deutsches Archaologisches Institut, Berlin. The silver platter presents similar difficulties. It was found in Lampsacus,
+in a basement together with several silver spoons carrying the inscription Hagiou Georgiou (‘belonging to [the church of] Saint George’), so that we may imagine that the silverware once belonged to a church by that name. It depicts a female figure leaning or seated on elephant tusks. In her left hand
+she holds a bow, and her right is raised, the palm opened outward. Over
+curled hair she wears a turban, from which two sharp objects protrude. 26
+India depicted
+16 The turban, at least, can be explained with reference to an ancient Roman text. Curtius says the following of Indian clothing: corpora usque adpedes carbaso uelant, soleis pedes, capita linteis uinciunt (‘They cover their bodies down to the feet with fabric, and wear sandals on their feet and linen
+134 Features ofa discourse She wears a richly embroidered robe that leaves her right breast uncovered,
+a necklace, and bracelets on her arms and wrists. Surrounding her are a parrot and a guinea-fowl, two monkeys (both of which have neck-bands,
+suggesting domestication), and at the bottom two men accompanied by
+large cats on leashes. These men are themselves wearing loose-fitting robes, turbans with two antenna-like objects sticking upward from them. 27 The substance of the platter is richly varied: a gold rim surrounds the
+platter, and each of the surrounding images is gilded, except for the guineafowl that is gilded merely in his feet and head. The woman’s body is covered with finely worked black enamel; some ofthe enamel has come offthe arms,
+revealing the original silver, roughened so that the enamel would hold fast. Her robes, jewellery, footwear and headwear are gilded, as are the tusks and
+her bow. The Indianness ofthis artifact has never been disputed since it came to the
+attention of scholars, not least on the grounds of the animals. The parrot is linked with India; the monkeys could be Indian; so too the cats, which have been identified as a tiger and a panther respectively, by their coats and the shape of their heads. Aelian in fact speaks of tamed monkeys and panthers
+in India (Historia animalium 15.14), and the tiger is generally associated with the subcontinent. The one anomaly is the guinea-fowl, which as a
+species is unique to Africa; but on this platter its African provenance is overshadowed by its Indian connections. 28 Part of the problem in making
+the identification stems from the fact that personification in Roman art was commonly used for provinces:29 if it is indeed India that is represented here, that would make it an exception, the consequences of which will require explanation below. One reason for stressing the Indian connections of these personifications
+is their thematic resonance with Indian art. A particularly widespread motif
+in Kushan art is that of the woman and tree, known as the Salabhanjika (named in part for the sal tree). 30 An example of this is the Vedika pillar with Yaksini, found at Bharhut in Madhya Pradesh and dating to the Sunga
+on their heads’: 8.9.21). Carbasus is the general word for fine fabric, and here may be used in contradistinction to linen to indicate a cotton fabric: Graeven, ‘Darstellungen’, 206, with reference
+to Strabo 15.1.71 C719.
+27 These protruding objects invite comparison with the two men at the bottom of the Barberini ivory.
+28 In so far as the figure suggests fertility, it recalls Bacchus’ status as an agricultural divinity in early
+Italian religion: it shows nature at its most fecund, in ways that the elder Pliny or Strabo would have
+understood.
+29
+J. M. C. Toynbee, The Hadrianic school: a chapter in the history ofGreek art (Cambridge University
+Press, 1934).
+30 Ananda K. Coomaraswamy, Yaksas (New Delhi: Munshiram Manoharlal, 1971), pp. 32-6.
+India depicted 135 period, roughly 100-80 bc.31 Yakshi (or yaksinis), like their male counterparts called yaksas, are localised, lesser tutelary divinities, nature spirits that were part of early Indie cults and later incorporated into Buddhism. Their
+features are linked with fertility and abundance and ‘may connote both
+their own procreativity and that of nature in general’.32 In this case, the tree-touching gesture awakens nature from its dormant state and makes
+the tree bloom.33 Typically, these voluptuous female figures wear heavy
+earrings, bangles, armlets and necklaces. Both of the Roman artifacts exhibit some of the features of the Salabhanjika. The Piazza Armerina mosaic has the woman beneath two trees, grasping one with her right hand. On the platter, the woman’s left hand
+is entwined with the long bow, which may here be serving the same function as a tree; the palm of her right hand is pointed outward, in a gesture
+similar to that of the Yaksini holding the branch. Both of the women are wearing necklaces and bangles. Coincidences of this kind may be small
+in themselves but their aggregative effect is substantial, especially when
+the two personifications have been thought on other grounds to denote
+India.
+I.4. Christian topography A tradition that stands out from the three above is that linked with the
+Christian topography of Cosmas Indicopleustes. The text survives in three manuscripts, which contain some striking illustrations of South Asian ani- mals. The unusual quality of these miniatures matches the strangeness of
+the text itself, a text arguing that the earth is in the shape of the Tabernacle mentioned in the book of Genesis. 34 In this respect it is an early and striking example of what has been called ‘Mosaic ethnology’.35 The manuscripts by which Cosmas’ text is reconstructed are three in number, one from the ninth century and two from the eleventh century.
+All three contain illustrations, though they differ as to what is illustrated;
+31 This artifact of reddish-brown sandstone is now to be found at the Indian Museum in Calcutta: Susan L. Huntington, The art ofancient India: Buddhist, Hindu, Jain (New York: Weatherhill, 1985),
+p. 69; cf. Coomaraswamy, Yaksas, pp. 5-6.
+32 Huntington, Art ofancient India, p. 68.
+33 Stanistaw J. Czuma, Kushan sculpture: images from early India, with Rekha Morris (Cleveland: Cleveland Museum of Art, 1985), p. 99.
+34 For a scholarly edition of the work, including reproductions of the miniatures, see Wanda Wolska- Conus (ed.), Cosmas Indicopleustes, Topographie chretienne, 3 vols. (Paris: Presses Universitaires, 1968).
+35 Trautmann, Aryans, pp. 41-61.
+136 Features ofa discourse
+Figure 8 Yakshi (female figure), red sandstone, second century ad, Victoria and Albert Museum, London.
+India depicted 137 other cycles also are contained in these manuscripts.36
+It is clear from
+Cosmas’ references to illustrations that his original text contained images. Furthermore, there are strong grounds to see the impact of classical art on
+the tenth century especially, that is, in the period following the Byzantine
+iconoclastic movement between 717 and 842.37 All this gives prima facie grounds for assuming that the existing illustrations reflect Cosmas’ original manuscript. Predominant among these miniatures are animals, though there are a few humans and plants as well. The pattern throughout this book of the
+Christian topography is that first there comes a miniature, then a description by Cosmas. The animals include a rhinoceros, bull-stag ( taurelaphos), wild ox (agriobous), unicorn ( monoceros) and a hog-deer (choerelaphos)
+I
+s Further, there is a giraffe that is vertically challenged (11.4), and a very
+horse-like hippopotamus (literally ‘river-horse’, 11.9), both of which suggest that the artist had no personal knowledge of the animal concerned,
+despite Cosmas’ claims to the contrary. There is a unicorn, but otherwise
+all the animals are recognisable creatures of the real world, rather than
+monsters.39 Apart from the animals there are also humans: one man is pictured below
+a coconut tree, wearing a skirt-like garment that may represent a kind of
+dhoti, and holding a scythe; another between a pepper-tree and a coconut
+palm; another, rather damaged illustration, shows a man shooting a muskdeer. In the case ofthe most clearly visible ofthese, the man exhibits the kind
+of coiled hair usually identified with Africans. Some attention is paid to
+social organisation: the story of the merchant Sopatrus implies an openness and accessibility of Sri Lanka, and its intelligibility to the Roman world. Cosmas also reflects an awareness of Christian missionary activity.40 If this
+is true, it would not be surprising that Cosmas’ description of Sri Lanka
+36 The mss are the Codex Vaticanus Graecus 699 (9th century); Laurentianus Plut. IX.z8; Sinaiticus Graecus 1186. See Paul Huber, Heilige Berge: Sinai, Athos, Golgota - Ikonen, Fresken, Miniaturen, 2nd
+edn (Zurich: Benziger, 1982), pp. 56-115, esp. 109-12.
+37 Foremost in developing the idea of a ‘Macedonian Renaissance’, under the emperors Leo VI the Wise and Constantine VII Porphyrogenitus, has been the work of Kurt Weitzmann. See, e.g., his ‘The classical in Byzantine art as a mode of individual expression’, in ByzantineArt, an [sic] European
+art: lectures, n.e. (Athens: Department ofAntiquities, 1966), pp. 148-77; and his articles in Studies in
+classical andByzantine manuscript illumination, ed. H. L. Kessler (University of Chicago Press, 1971),
+esp. pp. 126-50 and 151-75. For a reconsideration of some of the same issues, see Anthony Cutler, ‘Originality as a cultural phenomenon’, in his Byzantium, Italy and the north: papers on cultural
+relations (London: Pindar, 2000), pp. 26—45.
+38
+11. 1, 3, 5, 7, 8.
+39 It is telling that the least realistically imaginable animal described gets the careful comment that Cosmas has not seen a specimen: the povoKEpcos, which we might translate as unicorn (11.7). 40 eKKAqala, KAqpiKol, tticttoI, 3.65.
+138 Features ofa discourse
+Figure 9 Cosmas Indicopleustes, manuscript miniatures, eleventh century. Sketches by
+Alexander Hollmann.
+139
+(c)
+India depicted
+L f irno'no fr*J*oC'
+Figure 9 ( cont.)
+14° Features ofa discourse
+is one that emphasises and increases its familiarity to a Greek-speaking
+readership in the Mediterranean. With Cosmas we are thus not talking narrowly about the subconti- nent itself but about Sri Lanka; the visual tradition linked with his work
+focuses on animals rather than monsters particularly, but also includes some humans engaged in perfectly everyday activities.
+II. A TYPOLOGY OF INDIAS The analysis that emerges from this survey is to some extent already clear.
+It is possible to divide it into three categories: together, these may be
+understood as contexts within which India was understood by Greeks and Romans. Indeed, it appears that there was no single, canonical way of pre- senting Indians; rather there were several ways, each corresponding to visual codes already well established in other, non-Indian contexts. In other words,
+the categories offered may be considered processes of transference from the
+well known to the less well known, from the Mediterranean pond to vistas beyond. These categories or processes overlap, as will soon be evident, but equally they shed some light on the ways in which visual codes could and did generate meaning, and, by these familiarising processes, negotiated between artist, patron and viewer in the social sphere. The obvious point at which to begin is the monstrous paradigm that places India on the edges of the earth. This has its origins in the earliest Greek accounts ofIndia, indeed in some ofthe earliest Greek historiography, with its concern for ethnography and geography. The conflation ofhumans
+and animals is central to this paradigm. This type of visual representation
+is especially belated, in view of the time separating Scylax and other early Indographers on the one hand, and the many medieval images on the
+other. Secondly, the mosaic and the platter point to a provincial paradigm of
+India. This is in some ways a surprise, given that India never was a Roman
+province and, given our hindsight today, never came close to becoming one
+(see further Chapter 5). But, for current purposes, this historical fact is less significant than the nature of imperial self-presentation. The same process of representation used for Africa in the mid-first century bc, and for other Roman provinces in the first two centuries ad, served the subcontinent in the fourth and sixth centuries. This connection goes some way towards accounting for the femaleness of the figures: the personification of lands and cities tends to be female, whereas rivers are usually represented as male
+figures. This is itself part of a phenomenon whereby Roman provincial
+India depicted 141 conquest is symbolically represented in terms of sexual dominance, even
+rape.4’ Underlying the image of India as a province is the issue of imperial
+ideology, and particularly the power of Alexander as a precedent.42 As
+further investigation will show, it is no accident that the personifications of
+India, as seen on the mosaic and platter, effectively present it as a province. The principle of military conquest is implicit equally in the Barberini ivory, emphasised by the presence, in the lowest of its three panels, of adult men
+stooped in gestures of obeisance. In that case, the emperor Justinian, seated on his horse, has his feet touched by a woman (representing earth) and
+his lance by a non-Roman (thus marked by trousers and headgear), both
+of them in supplication. Seen against this comparandum, neither of the two personifications overtly presents India in an attitude of subjugation. In
+this respect these figures do not match, for example, the mid-first-century ad relief from Aphrodisias: there, the emperor Claudius, in heroic nudity,
+seizes the hair of Britannia as she lies on the ground, as if about to strike her with his sword. Whereas Britannia here is represented as an Amazon,
+India in the two images shows no explicitly martial context.43 Thirdly and finally, there is an eastern or Indian Ocean paradigm. The
+decisive point here is the overlap in elements associated with Africa and
+those of India. In light of histories and archaeologies on the Indian Ocean
+as a connected zone, it comes as no surprise that northeastern Africa or Ethiopia should be considered within the same geographic unit as the subcontinent;44 nor indeed in light of Homer ( Odyssey 1.22—24). 45 Indeed, we should make a virtue out of the supposed confusion or conflation of
+India and Africa: rather than being purely a mistake,46
+it emerges here as a means of comprehending the unfamiliar with reference to the known. On
+41 Whittaker, Rome and its frontiers, pp. 115-43, linking the symbol and the practice of rape.
+42 E.g., Trajan in Cass. Dio 68.29.1, on which see further discussion in Chapter 5, section 1 . 5 below.
+43 K. T. Erim, ‘A new relief showing Claudius and Britannia from Aphrodisias’, Britannia 13 (1982), 277-81. Several other artifacts of the second and third centuries ad, especially coins, show Britannia
+as a province; some ofthem show subjected Britannia in relation to Roman triumph, e.g., a medallion from Trier (ad 296), in which the emperor Constantius raises Britannia from her kneeling, suppliant
+position. See further Martin Henig, ‘Britannia’, L1MC III.i (1986), 167-9.
+44 Notably, though for a later period, K. N. Chaudhuri, Trade and civilisation in the Indian Ocean: an economic history from the rise ofIslam to 1750 (Cambridge University Press, 1985); Andre Wink,
+‘From the Mediterranean to the Indian Ocean: medieval history in geographic perspective’, CSSH
+44.3 (2002), 416-45-
+45 ‘But the god [Apollo] had gone to the far-off Aethiopians - / the Aethiopians, remotest of people, divided asunder, / some where the sun sets, and some where he rises.’ Cf. Chapter 1, section I.i above.
+46 Philip Mayerson, A confusion of Indias: Asian India and African India in the Byzantine sources’, JAOS 113 (1993), 169-74. See also Schneider, L’Ethiopie et Linde.
+142 Features ofa discourse the basis of this paradigm, there is no need to make a hard-and-fast decision between an African, Egyptian and Indian identity for the Piazza Armerina woman. When scholars do make such a choice, the decision rests merely on
+the emphasising of one aspect at the expense of others. More compelling
+than any such choice is the idea that the figure is a melange orientate, her Indian features no less present than others, and thus signifying a more
+generalised east, a land that was distant but still comprehensible. Within this paradigm, it is Cosmas who gives India a sense of specificity that is lacking in other writers. On the one hand, this specificity is not
+surprising: on theological grounds, he argues that the universe contains no
+antipodes, against the Aristotelian philosopher John Philoponus. It suited Cosmas’ cosmological purposes to present an India that was not marvellous
+in the normal sense. This is underlined by the fact that he was himself a
+trader who travelled to the subcontinent as well as along the east coast of Africa, and he was in a position to say that he had seen, traded and
+even eaten some of the animals he describes. It should be remembered
+from the Piazza Armerina mosaic that animals were themselves objects of
+luxury consumption in the Roman world, most notably in public displays. Cosmas’ India, like that in the Periplus of the Erythraean Sea, is part of a trading zone that stretched all the way to the Red Sea and the African coast.
+III. CONCLUSION
+It is hard to explain why visual representations of India should be so few and far between. One possible line of argument is that the canon of classical iconography was already established by the Hellenistic period, when
+marvellous creatures became so much a part of literature. If this is indeed
+the case, artifacts add a further dimension to the phenomenon identified by Dihle concerning sources of knowledge about India. 47 Just as a literary canon of information about India had been established by the Hellenistic period, and allowed no room for the new and different information from
+traders, so an iconographic canon had been established in the classical period, before the Hellenistic concept of marvellous India took root. But to what extent is it possible to speak ofa visual canon for representing
+India? It would be wrong to overestimate the coherency of such a canon.
+Indeed, assessment of the evidence in this chapter leads to a conclusion
+that distinguishes it in extent from the texts considered earlier, namely
+that there are significantly different Indias within the visual traditions of
+47 Dihle, ‘Conception’.
+India depicted 143 Greco-Roman antiquity. No single, canonical India has emerged here, but
+rather a number of images that differ vastly from each other, belonging to
+different visual discourses. Despite the paucity of evidence, it is tempting
+to see in this variety a combination of positive and negative views, much
+like the mixture of admiration and contempt that has been seen in the highly differentiated set of Roman images of Parthians. 48 Such a conclusion
+prepares us to consider Roman contexts for thinking about India, contexts
+that relate variously to commodities, to imperial expansion or to holiness. The variety we have seen between the three paradigms here confirms the
+plurality that can be identified in the literary texts, between the Indus Valley region of the Alexander historians on the one hand, and the western coast known to those concerned with the monsoon trade. Given that sea-travel was quicker and cheaper than long-distance overland travel, there is every
+reason why Cosmas’ mercantile, southern India and Sri Lanka should have
+a more human face and, in this sense, should more closely approximate the Mediterranean world than does the Indus valley. By way of a coda let us dwell briefly on one aspect of the ethnographic
+record that seems to be entirely missing from the visual: the wise men,
+the Brahmans and Gymnosophists of Alexander histories and the Alexander Romance tradition. Though these made such impression on Greek and Roman minds, they evidently do not occur in their representations of the subcontinent. Again, there is a chronological issue here in the for- mation of visual traditions: it appears that the image of India as a place of holiness postdates that of India as a place of marvel, and hence there
+is no visual tradition for depicting Indian holy men. This absence is all the more striking when we compare later artifacts, such as the eighteenth- century Mughal scene illustrating the interview between Alexander and
+the philosophers (who here look effeminate rather than grizzled old men);
+or in the nineteenth-century British-made imperial monument to Warren
+Hastings now at Calcutta. On one side of Hastings is a Muslim and on
+the other a bookish Hindu, whom we might understand as a distant but
+direct descendant of the philosophers met by Alexander. 49 In its own way,
+this statue may be taken as emblematic of the contrasting dynamics of
+continuity and change in western visual representations of India.

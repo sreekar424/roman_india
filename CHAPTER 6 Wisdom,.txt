@@ -1,0 +1,1155 @@
+CHAPTER 6 Wisdom,
+I. WRITING WISDOM
+Holiness is one of the main spheres to be considered in any survey of Greek and Roman ideas about India. Closely related and, as we shall see, just as culturally specific, is the concept of wisdom.
+1
+By way of a working defi- nition, we may posit that Indian wisdom (typically of wisdom in general)
+is a kind of mystified knowledge; 1 this mystification is central to the concept of the holiness of certain Indians. We shall have to consider how, if at all, the distance implicit in specifically Indian sages is an extension of
+the separation that in so many instances marks off the sacred as such. 3 To
+be sure, the Indian sages identified as Brahmans and Gymnosophists made
+a major impression on the Alexander historians, and for a long time were
+considered the bearers of Indian holiness. Indeed, as we saw in Chapter i, Alexander’s encounter with them is a feature of all the major witnesses of
+his expedition. Such an assertion is supported by the considerable degree of
+overlap in the Alexander historians, and also the Alexander romance tradition. From that time onward the Brahmans were to become an important
+feature of Greco-Roman Indography. Now the Brahmans do not appear to have featured in accounts predating Alexander, if we are to judge from the apparent silence of Herodotus and Ctesias. This chapter therefore proceeds from a conclusion reached in Chapter i: that Greeks became aware of Indi- ans before they developed an interest in Indian wisdom. This provides an
+instructive contrast with, say, Jews or Babylonians in Greek perceptions,
+1 It is no accident that both the religious and philosophical sides of Greco-Roman Indography are taken into account in the standard collection of texts discussed here: Bernhard Bteloer and Franz Bomer (eds.), Fontes Historiae Religionum Indicarum (Bonn: Rohrscheid, 1939).
+1 The connection between wisdom and knowledge is unproblematic if one considers, for example,
+Stoicorum Veterum Fragmenta 1.216. More difficult is the question of what kind of knowledge is at
+stake: see G. B. Kerferd, ‘What does the wise man know?’ in The Stoics, ed. John M. Rist (Berkeley: University of California Press, 1978), pp. 125-36.
+3 Mary Douglas, Purity and danger: an analysis ofthe concept ofpollution and taboo, rev. edn (London:
+Routledge, 2002), e.g. pp. 8, n. 251
+252 Contexts ofa discourse
+cases in which the wisdom of a foreign society was among the first and
+most enduring part of its ethnographic image.
+In this chapter we shall seek out the Indian sages amongst various kinds of Greek and Latin texts, measuring them up, where appropriate, against the picture to emerge from other (Sanskrit and Chinese) sources. If we are to understand them as bearers of holiness, we must compare them with
+other holy people, such as Magi, Chaldaeans and Druids. The history of Alexanders expedition is central here, not only among the authors mentioned above, but also in alternative traditions, including the brief text On
+the life ofthe Brahmans linked with the Alexander romance. Such texts in the ‘popular’ Alexander tradition present Alexander as a scholar, eager for knowledge about the curiosities of the strange world he encounters, or even
+as a pilgrim, seeking out the Indian sages once he finds out about them
+and then reverencing them. A more obvious kind of pilgrim is Apollonius, whose travels to India are described in Philostratus’ hagiography of him. Apart from the Brahmans, another part of Indian religion to be noticed by Greeks and Romans was Buddhism. It is not until Clement ofAlexandria
+(Stromateis 1.305) in the late second or early third century that Buddhism
+is explicitly mentioned in a Greek text.4 Clement speaks of the Buddha
+merely as one revered for his piety. For Jerome, the Buddha was the founder
+(princeps) of the Gymnosophists; he was borne from the side of his mother, who was a virgin: Among the Gymnosophists of India, as it were through adherents of this folly, the view is handed down that a virgin gave birth to the Buddha, the originator of their
+sect, out of her side. This is nothing unusual for barbarians, when the Greeks in
+all their learning suppose that Minerva was born from Jupiter’s head and Father Bacchus from his father’s thigh. (AgainstJovinianus 1.42) 5 Jeromes concern with virginity in the treatise as a whole goes some way
+towards explaining the Buddha’s supposed virgin birth, a detail which is not
+otherwise attested. In fact, Jerome soon goes on to talk about the marital
+piety of Indian women, as expressed in sati (1.44). However, the birth from
+4 It is possible, however, that the term lappavat refers to Buddhists: Grigorij M. Bongard-Levin and
+Sergei Karpyuk, ‘Nachrichten iiber den Buddhismus in der antiken und friihchristlichen Literatur’, in Hellenismus, ed. Betnd Funck (Tubingen: Mohr Siebeck, 1996), pp. 701-12. Predating Greek and
+Latin literary references to Buddhism, a Kushan coin of around ad ioo presents a standing Buddha
+and the Greek legend BOAAO: see further Errington and Cribb, Crossroads, pp. 46-8, with Millar, ‘Looking east’, 519.
+* apudgymnosophistas Indiae quasiper manus huius opinionis auctoritas traditur, quodBuddhamprincipem
+dogmatis eorum a latere suo uirgo generarit. nec hoc mirum de barharis, cum Mineruam quoque de capite
+Iouis et Liberum Patrem defemore eius procreatos doctissimafinxerit Graecia. A. Dihle, analysing this passage, suggests that Jeromes source was Egyptian, perhaps Clement
+himself: ‘Buddha und Hieronymus’, in Antike und Orient, pp. 98—101.
+Wisdom 253
+his mother’s side does tally with Buddhist scriptures. Here, Jerome’s explicit comparison with Dionysus is a matter of presenting two different kinds of
+foreigners, both the ‘most learned’ Greeks and Indians: in the process a kind of consensus barbarorum is presented. Given that the life of Gautama
+Buddha, the earliest historical figure in Indian history, dates back to the
+fifth century bc, 6 this represents a remarkable time-lag, one that deserves consideration in its own right. In this passage, India and Greece are on
+the opposite ends of the scale between learning and its opposite (which is harder to label: a special kind of barbaries). Something to consider in this chapter is the extent to which learning, paideia or doctrina, was a criterion with which to evaluate Indian sages. A major theme examined here is that of India as a destination of religious
+travel. In fact, the varying role of travel as a phenomenon in all of this will demand our attention. The travellers mentioned above came from the
+west; others would come from the east. Towards the end of the period covered here, we do know of one Fa-Hsien,7 a Chinese pilgrim who visited
+India’s Buddhist sites during the years ad 399-414. In their different ways
+these descriptions reflect India’s status as a site of spirituality.
+8 This chapter must also set the scene for an account of another kind of religious travel, namely Christian missionary activity. This will involve, however cursorily, the figures of the apostle Thomas and Pantaenus, separated by almost two
+centuries. For all their differences in motive and circumstance, all these instances reflect the journeys of specific individuals, and the very fact of
+individuality is worth noting.
+It is therefore important to consider consultation with the Brahmans
+as a kind of traffic in wisdom, a traffic that crossed cultural boundaries. Arnaldo Momigliano’s landmark study, Alien wisdom, 9 continues
+6 On the dating of the historical Buddha see, e.g., Hermann Kulke and Dietmar Rothermund, A history ofIndia, 3rd edn (London: Routledge, 1998), p. 52. 7 Also known in Roman transliteration as Fa Hian or Fa Hien or Fa Xian. Among the various translations
+available see Fa-Hsien, A record ofBuddhistic kingdoms: being an account by the Chinese monk Fa-Hien
+ofhis travels in India and Ceylon (ad 399—414) in search ofthe Buddhist books ofdiscipline, trans. James
+Legge (Oxford: Clarendon, 1886). Fa-Hsien was the first, and perhaps the most famous, of several Chinese Buddhist missionaries to India: see I-ching, Chinese monks in India: biography of eminent monks who went to the western world in search ofthe law during thegreat T’ang dynasty, tr. Latika Lahiri (Delhi: Motilal Benarsidass, 1986), p. 12 n. 3. Cf. Jack Finegan, An archaeological history ofreligions of
+Indian Asia (New York: Paragon, 1989), esp. pp. 120-2 and 318-19.
+8 One substantial work traces the early history of Buddhism in the northern part of the subcontinent, informed partly by Carl Jung’s interest in eastern religions: Peter Lindegger, Griechische und romische Quellen zum periphdren Tibet, 3 vols. (Zurich: Libresso, 1979-93)* 9 Alien wisdom: the limits ofHellenization (Cambridge University Press, 1975). In a sense the book is misleadingly titled, given that its main concern is the broader one of‘the cultural connections between
+Greeks, Romans, Celts, Jews and Iranians in the Hellenistic period’ (6). Cf. Guy Stroumsa, Barbarian
+philosophy: the religious revolution ofearly Christianity (Tubingen: Mohr Siebeck, 1999), esp. p. 58.
+254 Contexts ofa discourse to offer questions for the study of knowledge at the intersection of cultures. Yet India does not feature in the book. There is no reference to India as a place of wisdom, as it would later be for Apollonius, nor
+to the Indian sages who made such an impression on the historians of
+Alexander. But there is a general difficulty in considering India’s wisdom, as there is in considering that of any foreign peoples: to what extent are we justified in talking about wisdom per se, given the difficulties in defining ancient notions ofwisdom? Any attempt to tell the full story of Greco-Roman wis- dom would have to pace itself against a major history of Greek philosophy, and would have to take into account the iconography of the intellectual
+(itself a hard human category to pin down), histories of Gnosticism, and much else besides. Such a task is clearly impracticable. 10 Yet again, any
+approach to the issue of Greek and Roman travel to India has to deal with
+the related issues of holiness and wisdom, however provisionally. At the very least, if we want to examine a particular instance of alien wisdom, it
+is necessary to see it also in light of the non-alien.
+II. WISDOMS ALIEN AND OTHER
+It might be worthwhile to outline at this point some features of wisdom,
+as attested in a variety of other sources, as a control against which to test the Indian material. 11 These criteria are offered in the understanding that no single wise person is likely to exhibit all of them. For reasons that will become clear in the course of this chapter, the philosopher Pythagoras
+recurs as a point of comparison.
+II. i. Metamorphoses of sophia But the prehistory of religious travel proceeds even Pythagoras. Though
+Odysseus supposedly ‘knew the minds’ of the peoples he encountered, 12 he was no religious traveller: such things as he observed, e.g., the harbour
+10 W. K. C. Guthrie, A history of Greek philosophy, 6 vols. (Cambridge University Press, 1962-81); Paul Zanker, The mask ofSocrates: the image ofthe intellectual in antiquity (Berkeley: University of
+California Press, 1995).
+11 The concept of wisdom per se occurs rarely in the standard works of reference, whereas it arises often in connection with particular persons, notably the Seven Sages; and of particular travellers, in Hartog, Memories ofOdysseus.
+12 ttoAAcov S’dvOpcoTTCov i6ev aoTEa Kai voov iyvco (vopov Zenodotus). Odysseus’ intelligence raises questions of ethical ambiguity: W. B. Stanford, The Ulysses theme, 2nd edn (Ann Arbor: University of Michigan Press, 1968); Hartog, Memories ofOdysseus, pp. 15—39.
+Wisdom 2-55 at Scheria, most famously, are viewed and described with a view to their practical viability for shipping and agriculture. 13 This has been seen as a colonist’s perspective, articulated at the time of Greek expansion into Magna Graecia. On the other hand, religion is a major part of Herodotus’
+ethnographic vision.'4 As we saw in Chapter i, Herodotus makes little of
+the religious or intellectual world of the Indians, being concerned instead with the more practical elements of social life. Though Herodotus does not
+use the terms Brahman and Gymnosophist, there is one passage in which
+he describes an ascetic kind of lifestyle: However, there is another Indian group with different customs: they neither kill any being nor plant crops nor build houses: instead they eat vegetables, and they
+collect, cook and eat - complete with pod — a certain kind of seed, which is about
+the size of a millet-seed and grows without being planted. If anyone takes ill, he
+goes to a remote area and lies down, and nobody is concerned whether he is dead
+or sick. (3.100)
+15 Though this passage refers to an ethnic group rather than a social class, it has sometimes been thought to point to the Brahmans.' 6 We may note here that Herodotus identifies this as an ‘alternative’ lifestyle among Indians, these comments coming in the course of a description of the various groups of
+Indians. Given the importance of religion in Herodotean ethnography, this silence about Brahmans comes as a surprise. At all events, it is not until the Alexander historians that Brahmans and
+Gymnosophists, literally ‘naked philosophers’, come to the forefront of
+Indography. (Sometimes the two terms are used more or less interchangeably, sometimes they refer to different groups.' 7 In some cases the term is used to refer to Egyptian priests, as in Philostratus.)
+13 Note, e.g., 6.262-72 and 9.131-141. Cf. Carol Dougherty, The poetics of colonization: from city to text in Archaic Greece (Oxford University Press, 1993), p. 21; cf. now her The raft of Odysseus: the ethnographic imagination ofHomer's Odyssey (Oxford University Press, 2001).
+14 Walter Burkert, ‘Herodot als Historiker fremder Religionen’, in Herodote et les peuples non grecs (Vandoeuvres: Fondation Hardt, 1988), pp. 1-32.
+15 ‘E'TEpcov 6e ectti ’IvScov o8e aAAos Tpotros- oute kteivoucti ouSev Epvpuyov oute ti crrrEipoucji oute
+oiKias vopi^ouai EKTqa0ai Troir^ayEouai te, Kai ocutoTcti <6aTrpi6v ti> ectti octov KEyypos to
+pEyaOos ev k&Auki, auTopaTOV ek tt\s yf|S yivopEvov, to auAAEyovTES auTq Trj k&Auki Evpoucn te Kai CTiTEOVTai."Os 8’av e$ voOaov auTcbv ttectt], eAOcov es tt)v Epqpov keTtot ^povTi^Ei 5e ou8eis OUTE airoQaVOVTOS OUTE KCCPVOVTOS.
+16 See section III.i below for the vacillation between Brahmans as a priestly caste and ethnic, geographically distinct group.
+17 Christian[us] Lassen, ‘De nominibus, quibus a veteribus appellantur Indorum philosophi,’ Rheinisches Museum 1 (1833), 171-90, documents the varied use of Gymnosophista, Bragmanus and other terms such as Sarmanus/Samanaeus. The pointed distinction between these groups is one reason
+that Buddhists may be indicated by the last term: see n. 4 above.
+256 Contexts ofa discourse Though Brahmans and Gymnosophists do not appear in Greek sources
+till Hellenistic times, there is already a pre-existing framework within which
+they can be understood, a framework which can be substantiated from
+Herodotean ethnography alone:18 the Histories say much about the priests of Egypt and Babylonia; as we have seen, one part of Indian society was
+thought to follow ascetic practices. How far in grasping the history of wisdom will a word-study of sophia and sophos bring us? We would want to know, for one thing, in what sphere
+it is that sophia prevails, that someone is sophos. From a number of studies
+that have been undertaken on these lines some clear lines of development
+can be identified. 19 In Homer, it means expertise in a technical sphere, as for example in the case of a shipbuilder (Iliad 15.412), and so the use of the word is to remain through the archaic period.20
+It is only with the references
+to the Seven Sages, beginning with Plato ( Protagoras 343a), that the term
+takes on its central modern sense, given the variety of skills they embodied,
+especially in statecraft.
+21 It is with the Seven that expert knowledge (varying, it is true, in degrees of
+specificity) becomes mystified knowledge. A key step in this transition was
+the sphere of statesmanship: it is in this sphere that their general skills had
+a very specific, socially significant role to play, and a civic aspect involving moral virtue. This process of mystification depended, in part, on physical
+distance. Travel is a standard part of the sage’s repertoire, if not a major
+feature: either he came from outside the polis, e.g., Anacharsis, or he was a
+local citizen who would go abroad for a spell, as in the case of Solon. 22 For Plato’s time, Socrates of the Apology and the Crito may be regarded
+as the sage par excellence, as the embodiment ofsophia. 23 His commitment
+18 Following Murray, ‘Herodotus’, much has been made in Chapter 1 above of the ways in which
+Herodotus set the terms of Hellenistic ethnography, though this is true for India to only a limited
+extent.
+19 E.g., W. K. C. Guthrie, The Sophists (Cambridge University Press, 1971), pp. 27-9.
+20 Guthrie, Sophists, p. 27.
+21 For an example of this intermediate stage, see Plut. Them. 2 on Mnesiphilus, whom Themistocles
+admired: ‘This man was neither an orator nor one of the so-called natural philosophers, but had made a special study of what at that time went by the name of “wisdom”. This was really a combination of political acumen and practical intelligence, which had been formulated and handed down in unbroken succession from Solon, as though it were a set of philosophical principles.’ Cf. G. B. Kerferd, ‘The first Greek sophists’, CR 64 (1950), 8-10, at 9, on the use of sophistes here and
+elsewhere.
+22 Such variations within an identifiable tradition have been illustrated by Andrew Szegedy-Maszak,
+‘Legends of the Greek lawgivers’, GRBS 19 (1978), 199-211; and Karl-J. Hohlkeskamp, ‘Arbitrators, lawgivers and the codification of law in Archaic Greece: problems and perspectives’, Metis 7 (1992), 49-81.
+23 Cf. Kleiner Pauly s.v. ‘Sophia’ (Heinrich Dorrie); now DNP s.v. ‘Weisheit’ (Franco Volpi et al.) points the way to comparative approaches.
+Wisdom *57
+to that cause is proven by his semi-voluntary martyrdom.24 Socrates may
+himself have followed the Pythagorean principle of striving for wisdom,
+and it is probably Plato who first used the term ‘philosophy’ in this modern
+sense.
+25 It is no coincidence that the one explicit story about Indian sages to precede Alexander’s expedition adheres to the name ofSocrates. Aristoxenus ofTarentum (fl. 320—300 bc) tells the tale that in 399, the year of his death, Socrates encounters a visiting Indian sage in Athens. Scornfully, the sage tells Socrates that knowledge ofhuman affairs is not possible without knowledge
+of the divine: Aristoxenus the musician says that the Indians’ version is as follows. One of their number happened to encounter Socrates in Athens and asked him, ‘How do you
+pursue philosophy?’ When Socrates answered that he did so by inquiring into human life, the Indian laughed, saying that nobody can contemplate human affairs without knowing the divine. 26 The question over the historicity of this anecdote need not detain us here. 27 At all events we can note that we see here, unusually, an Indian interlocutor
+to Socrates, who by the time of Eusebius had long since come to embody
+polytheist thought. By Aristotle’s time, several changes will have taken place, partly due
+to the specialisation and systematisation of knowledge that characterised the Lyceum. Well before this time, the emergence of the Sophists would be one factor in the specialisation of knowledge. The controversy surrounding
+the Sophists was itself, in an important sense, a crisis over the nature of wisdom, and one implicit, for example, in debates over the gods and over the
+relative status of nomos and physis, 28 Though we cannot regard the Sophists
+24 Tessa Rajak, by identifying parallels between Socrates’ death and that of Eleazar in IV Maccabees, alerts us to a possible Socratic paradigm at work in Hellenistic Judaism: ‘Dying for the law: the
+martyr’s portrait in Jewish-Greek literature’, in Portraits: biographical representation in the Greek and
+Latin literature of the Roman empire, ed. M. J. Edwards and Simon Swain (Oxford: Clarendon,
+1997), pp. 39-68, at 58-60.
+25 Walter Burkert, Greek religion (Cambridge, MA: Harvard University Press, 1985), p. 306; cf. ‘Platon oder Pythagoras? Zum Ursprung des Wortes Philosophic’, Hermes 88 (i960), 159-77.
+26
+<pr)cji 6’ Apictto^evos 6 poucjiKos ’IvScov elvai tov Aoyov toOtov. A0t|vticti yap EVTuyeiv ZcoKpaTEi
+TGOV avSpcbv EKEIVCOV EVa TIVCC, KOCTTElTa aUTOU 7TUV0dVE(70ai, Tl TTOIGOV (|)lAoaO(}>Oir|. toO 5’ eIttovtos, oti £t|tgov TtEpl tou ccvOpcoirivou fMou, KarrayEAdcjai tov ’I vSov, AsyovTa pfi 5uvaa0a(
+Tiva tcc avOpcoTtiva kotiSeiv ayvooOvtcc yE Ta 0Eia. Fr. 53 (= Eus. PE11 . 3), Die Schule desAristoteles
+II. Aristoxenos, ed. Fritz Wehrli, 2nd edn (Basel: Schwabe, 1967), pp. 25 and 67-8. Cf. Wilhelm
+Halbfass, India and Europe: an essay in understanding (Albany: SUNY Press, 1988), p. 9.
+27 Jrlliozat, ‘Valeur des connaissances’, 99-100, may be alone in advocating its historicity, finding
+similarities between this fragment and the teachings of the Upanishad on atman and brahman. (The more usual, sceptical line on this is seen in Jaeger, Festugi&re and earlier scholars there cited.)
+28 On the Sophists as a challenge to conventional thought and morality, see, e.g., Burkert, Greek
+religion, pp. 311-17. It is typical of the nature of the conflict that Socrates was seen by some as a
+258 Contexts ofa discourse
+as a philosophical movement, it is true, in general, that they tended to be philosophical relativists, sceptical about the possibility of knowledge of
+universal truth’/9 The professional status of the Sophists and its attendant
+suspicions of venality were to prove politically dangerous in the classical
+polis. 3 ° The very term ‘Sophist’ came to carry negative connotations by
+the time of Plato. The pejorative sense was well established by the time Diogenes Laertius was writing in the second century ad (see 1 . 12). Though
+the Sophists went by the specialised name sophistai rather than sophoi; yet it
+is clear that the bad reputation they had gained gave a bad name to wisdom
+generally. As symptoms of the crisis over wisdom we may mention two very
+different instances: the execution in 399 bc of Socrates, though so pious and wise as portrayed by his pupils Plato and Xenophon; and the explicit problematisation of wisdom (and piety) when Pentheus is killed, despite having defended the rational order.31 These changes in the commonly perceived status ofwisdom may be considered a pendant to the increasing specialisation in scientific and philo- sophical thought in Aristotle’s age, a process which was to develop further
+in the Hellenistic age. The Museum in Alexandria focused on research, an activity which attracted the patronage of the Ptolemies, whereas the Academy and Lyceum had been first and foremost institutions of teaching. 32 It was in this context of increased specialisation and professionali- sation that the third and second centuries bc witnessed major changes in astronomy, biology and other spheres ofwhat we might today call science.33 Later in the Stoic school of Hellenistic philosophy, one that would prove
+so important in late Republican and subsequent Roman thought, great emphasis came to be placed in the sage (sophos or sapiens) as a bearer ofwis- dom. The Stoic conception ofwisdom borrowed from the Platonic/Socratic paradigm the idea that a series of steps had to be taken on the road to
+Sophist (notably in Aristophanes’ Clouds), though he himself seems to have been hostile towards them (note, e.g., PI. Hp. mai. 282b-283b).
+29 George Kennedy, A new history ofclassical rhetoric (Princeton University Press, 1994), p. 7.
+30 See, e.g. , Josiah Ober, Mass andelite: rhetoric, ideology andthepower ofthepeople (Princeton University
+Press, 1989), on the explosive power of oratory in the classical polis.
+31 Pointedly expressed at Eur. Bacch. 395; cf. Burkert, Greek religion, p. 317 and E. R. Dodds, Euripides Bacchae, edited with introduction and commentary (Oxford: Clarendon, i960) ad loc.
+32 G. E. R. Lloyd, Greek science after Aristotle (New York: Norton, 1973), p. 3; cf. Fraser, Ptolemaic
+Alexandria, esp. vol. 1, pp. 305-35; and Library ofAlexandria, ed. Macleod.
+33 ‘Two key methodological principles, the application of mathematics to the investigation of natural phenomena, and the notion of deliberate empirical research, go back to the earlier period which
+culminates in Aristotle. What the later period . .
+. provides is, above all, examples of the application of these principles in practice.’ Cf. Lloyd, Greek science
+,
+p. 177 and Fraser, Ptolemaic Alexandria, pp. 376-446.
+Wisdom 259 wisdom; to this it added the concept of self-sufficiency. 34 With the possible exception of Marcus Porcius Cato, this goal could not be attained. 35 Later still, in the second century ad, the Second Sophistic, represented
+in this chapter by the biographer Philostratus, would be an age which
+saw the reinvention of the sophist-as-rhetorician. With this cultural ideal a
+specific, rhetorical concept of sophia became rejuvenated. 36 Typically of his times, Philostratus ‘ [saw] sophistry as a philosophical movement embracing
+Hellenic wisdom and eloquence in a Neoplatonic synthesis’. 37 Paideia as a shared ideal, bonding members of local elites to each other or collectively to the emperor, was focused most intensely on these philosophers of the later Roman empire in the east . 38 One might say it fostered the creation of an
+‘imagined community’ oflearned men based on a selective view ofthe earlier history of rhetoric. 39 In this late-antique world, Greek philosophers became
+symbols of a common culture among aristocrats over a wide geographical
+area. It is against this background that we must consider, on the basis of
+Philostratus’ Life ofApollonius ofTyana, how and why Indian sages captured
+the imagination.
+If this diachronic survey has achieved nothing else, it shows the vastly changing conceptions of wisdom (implied by the changing word-history),
+34 On self-sufficiency as an ethical ideal, see Diels-Kranz 86 Ai and 12. Cf. also Glenn W. Most, ‘The
+stranger’s stratagem: self-disclosure and self-sufficiency in Greek culture’, JHS 109 (1989), 114-33, and Chapter 2, section II. 2 above.
+35 Dorrie, ‘Sophia’, DKP V. 270-1. On Cato’s exemplarity for later generations, see A. E. Astin, Cato
+the Censor (Oxford: Clarendon, 1978).
+36 For a pointed reminder of the dynamic interface between philosophy and rhetoric during the Second
+Sophistic, we do well to recall the career of Dio of Prusa: expelled from Italy and his native Bithynia, he consulted the Delphic oracle about what he should do. He was told to continue doing what he had done till he reached the ends of the earth, and took this to mean he should follow the life of an
+itinerant, mendicant Cynic sage. See J. L. Moles, ‘The career and conversion of Dio Chrysostom’, JHS 98 (1978), 79—100, and C. P. Jones, The Roman world of Dio Chrysostom (Cambridge, MA:
+Harvard University Press, 1978); Swain, Hellenism, pp. 187-241.
+37 George A. Kennedy, Greek rhetoric under Christian emperors (Princeton University Press, 1983),
+p. 137. On their cultural world, see Glen W. Bowersock, Greek sophists in the Roman empire (Oxford: Clarendon, 1969). On archaism and a general obsession with the past, E. L. Bowie, ‘Greeks and
+their past in the Second Sophistic’, P&P 46 (1970), 3-41. The skepsis about any supposed ‘Greek
+renaissance’, articulated by P. A. Brunt, ‘The bubble of the Second Sophistic’, BICS 39 (1995), 25-
+52, is now answered by Bowersock, ‘Philosophy and the Second Sophistic’, in Philosophy andpower
+in the Greco-Roman world: essays in honour ofMiriam Griffin, ed. Gillian Clark and Tessa Rajak
+(Oxford: Clarendon, 2002), pp. 157—70.
+38 See Peter Brown, Power and persuasion in late antiquity: towards a Christian empire (Madison:
+University of Wisconsin Press, 1992), pp. 35-41 and passim\ Swain, Hellenism and empire.
+39 The term is from Benedict Anderson, Imagined communities: reflections on the origins and spread of
+nationalism, rev. edn (New York: Verso, 1991), who examines the role of printed texts and maps
+in creating fellow-feeling in a later, industrialised age. By virtue of its selectivity, this phenomenon
+might also be regarded as an instance of the ‘invention of tradition’, to follow Hobsbawm’s essay by
+that tide.
+i6o Contexts ofa discourse and its sensitivity to the specific issues of the day. The political and intellec- tual crisis surrounding the Sophists of the fourth century bc is something we must particularly bear in mind as a key point in the reinvention of wis- dom. It provided not only the need, but also some of the means by which
+such conceptions could be constructed. In this sense, as I shall suggest, the Brahmans were ben trovati as bearers of wisdom at a time when existing notions of wisdom had been destabilised.
+11.2. Elements ofwisdom From these very general considerations a few features of wisdom deserve
+to be isolated. 40 The first is that it tends to be individualised, by which I mean the degree to which it is identified with individual persons. 41 This we see most obviously and importantly in references to the Seven Sages. Flowever much membership of this group might have varied, its total number remained constant. 42 The phenomenon of writing philosophic
+biographies, attested in the works of Diogenes Laertius, Philostratus and
+Eunapius from later antiquity, exemplify this tendency. Broadly speaking,
+this habit should be understood in terms of the habit of attaching sayings
+to a particular person (sayings which may originally have been orally trans- mitted), with the result that a legend concerning that person springs up. In the case of Pythagoras, a legend had arisen within a hundred years of his death (around 570 bc), and Aristotle talks about Pythagoreans rather than
+a putative person Pythagoras. 43
+40 In so far as the following criteria are chosen by individuals for themselves rather than ascribed
+to them by others (and that distinction is a difficult one), this may be called self-fashioning, to follow an oft-cited study: Stephen Greenblatt, Renaissance self-fashioningfrom More to Shakespeare
+(University of Chicago Press, 1980). While the instances we are here dealing with are in the first instance representations, we should not pretend that there is no element of choice, manipulation on the part of subjects themselves.
+41 This sense of individuality must be distinguished from the tendency to personify wisdom as a character, as we see in the ‘wisdom writings’ of the Old Testament: Job, Proverbs, Ecclesiastes, Ecclesiasticus and Wisdom. Much here may be called practical wisdom, with precepts for successful living. Taken
+together, these and related books reflect much of the Near Easts wisdom tradition, some of which
+was later taken over by strands of Christianity. For Gnostics, Sophia was one of the Aeons, bearer of the female principle, which in various forms could be counterpart to the Father, Christ or the
+Saviour: see J. Meyendorff, ‘Wisdom-Sophia: contrasting approaches to a complex theme’, DOP
+41 (1987)* 39I_40i; Deirdre Joy Good, Reconstructing the tradition of Sophia in Gnostic literature (Atlanta: Scholars Press, 1987).
+42 See the important article by Richard P. Martin, ‘The Seven Sages as performers of wisdom’, in Cultural poetics in archaic Greece, ed. Carol Dougherty and Leslie Kurke (Cambridge University
+Press, 1993), pp. 108-28.
+43
+J. A. Philip, Pythagoras andearly Pythagoreanism (Toronto: University ofToronto Press, 1966); Walter
+Burkert, Lore and science in ancient Pythagoreanism (Cambridge University Press, 1972).
+Wisdom 261 These legends in turn can articulate cultural ideals, as happens both in the philosophical biographies and in late-antique saints’ lives. 44 Imitatio
+Christi, so important a feature of Christian hagiography, is either tacitly or overtly held up as something that invites further emulation on the part of the reader.45 Just as the saint imitated Christ’s life of self-sacrifice, so is the saint her- or himself to be imitated. In this way, the written form of
+a Christian life is not merely a celebration but an active inducement on
+the part of its author. Out of a Christian context, exemplarity adheres to
+classical learning itself, the paideia celebrated in the philosophers’ lives of
+Eunapius, Philostratus and others.46 Especially in so far as they contain
+doxai (i.e. the distinctive sound-bytes of individual philosophers),47 these biographies are themselves performances ofpaideia. Let us take a moment
+to consider what features the lives exhibit, in so far as they represent the
+features of wisdom. The aphorism is the favoured unit for the retailing ofwisdom, and it fre- quently involves a paradox. According to Diogenes Laertius, the aphorism
+is the rhetorical feature that characterises both Druids and Gymnosophists
+(1.6). Now if paradox is central to many ascetic traditions,48 then it should come as no surprise that the distinctive forms of discourse show much
+of the rhetorical paradox. Historically speaking, this feature can be traced back to the earliest surviving archaic Greek literature.49 Theognis’ precepts on statecraft: would certainly seem to fit Aristotle’s definition of a general statement. 50 It is here that statecraft emerges as a province of wisdom in the Greek world, one that changed over time into a kind of social criticism
+44 Peter Brown, ‘The saint as exemplar in late antiquity’, Representations 1 (1983), 1-25 on the paradig- matic function of the saints’ lives. For a general reflection on the dynamics of exemplarity, see Bruce
+Lincoln, Authority (University of Chicago Press, 1994).
+45 An obvious example is Sulp. Sev. Vita Martini 1. The enjoined imitation of the saint’s life is in
+effect imitatio Christi, in so far as the saint himself followed Christ’s example. Christ’s injunction
+to renounce the world (Matth. 19:21) would prove to be paradigmatic, as we see, e.g., in the Vita Antonii 2. Compare the comments of Simon Swain (‘In a tightly controlled system like the Church
+the biographic was never simply celebration, but was also part of the disciplinary, normalizing
+process’), ‘Biography and the biographic in the literature of the Roman empire’, in Portraits, ed. Edwards and Swain, pp. 1-38 at 33. 46
+I. Sevcenko, ‘A shadow outline of virtue: the classical heritage of Greek Christian literature’, in The
+age ofspirituality, ed. K. Weitzmann (Princeton University Press, 1980), pp. 53-73.
+47 The element of personalisation certainly looms large in doxography: see, e.g., Andr6 Laks, ‘Du
+t£moignage comme fragment’, in Fragmente sammeln, ed. Most, pp. 237-72.
+48 Elizabeth A. Clark, ‘The ascetic impulse in religious life: a general response’, in Asceticism, ed. Richard Valantasis and Vincent A. Wimbush (Oxford: Clarendon, 1995), pp. 505-10.
+49 Andr£ Lardinois, ‘The wisdom and wit of many: the orality of Greek proverbial expressions’, in Speaking volumes: orality and literacy in the Greek and Roman world
+,
+ed. Janet Watson (Leiden: Brill, 2001), pp. 93-108; and Jan Fredrik Kindstrand, ‘The Greek concept of proverbs’, Eranos 76 (1978), pp. 71-85.
+50 On Theognis as a sophistes in the sense of teacher see Guthrie, Sophists, p. 29.
+z62 Contexts ofa discourse articulated by the lawgivers. Looking much further back in time and farther
+east, it is indeed tempting to see continuities between Greco-Roman aphorisms and those of the Near Eastern wisdom tradition; 51 for one thing, the Apophtbegmata patrum should be viewed as a late, Christianised instance of that Near Eastern tradition . 52 Many of these are in the form of injunctions. Indeed these early didactic roots may go some way towards accounting for the persistence of the aphorism or sententia as the expression of wisdom.
+In terms of physical appearance, there is a language of gesture that
+requires special attention in understanding ancient wisdom. 53 We shall have
+to attend to gesture in discussing the Brahmans and Gymnosophists. As
+Zanker has illustrated amply, beards are a distinctive mark of the philosopher, and hence of wisdom. 54 Here again, Socrates is an important exemplar, though of course the practice predates him significantly. 55 While there
+is to this some consistency over time, it is true that the imperial age wit- nessed many philosophical diatribes about the removal offacial (and bodily)
+hair. 56 Most significantly perhaps, social marginality shines through many of
+the cases that can be considered. If we take Diogenes Laertius’ life of Diogenes as paradigmatic of a particular kind of wise person, we see that the Cynic philosopher was from the outset a marginal figure, reacting against
+social convention, and also against the more conventional approach of the philosophical schools. By the same token, St Anthony, so central a figure in early Christian monasticism, inhabited the fringes of society. The harshness of the Egyptian desert exaggerated not only his personal sufferings but
+also his marginal position in relation to society, thereby setting extreme
+51 W. G. Lambert, Babylonian wisdom literature (Oxford: Clarendon, i960); cf. M. L. West, East of
+Helicon (Oxford: Clarendon, 1997). Peter Brown, The making opiate antiquity (Cambridge, MA: Harvard University Press, 1978), pp. 82-
+3. On this work see Owen Chadwick, Western asceticism (Philadelphia: Westminster, 1958).
+53 On gesture as index of a person’s moral or intellectual life see Jan Bremmer, ‘Walking, standing, and
+sitting in ancient Greek culture’, in A cultural history ofgesture, ed. Jan Bremmer and H. Roodenburg
+(Ithaca: Cornell University Press, 1992), pp. 15-35; and Patricia L. Cox, Biography in late antiquity
+(Berkeley: University of California Press, 1983), page xi. 54 In the case of Cynic philosophers they suggest proximity to animals: Michel Onfray, Cynismes.
+Portrait du philosophe en chien (Paris: Grasset, 1990), pp. 25—32.
+55 A. A. Long, ‘Socrates in Hellenistic philosophy,’ CQ 38 (1988), 150-71, has shown that Socrates’ reputation dropped off somewhat among Hellenistic philosophers. But note continued awareness of and interest in him on the part of Cynics. ^ A. C. van Geytenbeek, Musonius Rufus and Greek diatribe (Assen: Van Gorcum, 1963), pp. 119—23, with references; cf. Jaap-Jan Flinterman, Power, paideia and Pythagoreanism (Amsterdam: Gieben,
+1995). P- 93-
+Wisdom 263
+standards for Christian ascetic practice. 57 It has been shown that with the passage of time (and in particular the rise of Christendom) the pagan holy man of late antiquity drifted into an increasingly marginal position.58 The
+sage’s capacity to articulate social criticism was a direct result of this. The activity that many of these wise individuals pursue, that which
+in some cases actually brings them wisdom, is travel. 59 This is something
+shared by other types, particularly poets, and lawgivers.60 Travel to India may be relatively rare in the stories of philosophers, but Egypt features more prominently. Solon is supposed to have spent ten years travelling
+after implementing his reforms,6' and this may be echoed in the travels of Herodotus and Plato themselves.62 According to Isocrates (Busins 28-
+29), Pythagoras travelled to Egypt, where, naturally enough, he consulted with priests. Plutarch, after recounting Lycurgus’ travels to Crete and Asia’, goes on to speak of his supposed travels farther east: the Egyptians claim Lycurgus visited them too, a claim supported by ‘some’ Greek writers (4.5). But Plutarch backs off from the claim that he visited India and there held
+conversations with the Gymnosophists (and that he visited Libya and Spain
+as well): the authority for this claim rests solely with Aristocrates the Spartan, son of Hipparchus, says Plutarch with a note of caution:
+57 Peter Brown, ‘The rise and function ofthe holy man’, in Society andthe holy in late antiquity (Berkeley: University of California Press, 1982), has shown that this marginality played out differently in Egypt and Syria, given the differences in those landscapes, particularly the harshness of the Egyptian desert
+as opposed to the lesser climatic austerity of Syria.
+58 The increasing marginality of the pagan holy man has been shown by Garth Fowden, ‘The pagan
+holy man in late antique society’, JRS 102 (1982), 33-59, esp. pp. 51-4, with qualifications by Eisner, ‘Hagiographic geography’, 34-5.
+59 For a survey of Pythagoras’ travels, see Isidore Levy, La legende de Pythagore en Grece en Palestine
+(Paris: Champion, 1927), pp. 20-6.
+60
+Poets: Mary R. Lefkowitz, Lives ofthe Greek poets (London: Duckworth, 1981). Lawgivers (a cat- egory which overlaps with sages and even poets): Szegedy-Maszak, ‘Legends’. On this branch of
+biographical traditions see J. A. Fairweather, ‘Fiction in the biographies of ancient writers’, Ancient
+Society 5 (1974), 231-75, where many of the ‘fanciful deductions’ unmasked involve travel. Diogenes
+Laertius alone has these to offer (the list is not exhaustive): Thales visits Egyptian priests (1.27); Plato goes with Euripides to Egypt (3.6); Pythagoras visits Egypt, and speaks with Chaldaeans and Magi (8.3); Eudoxus visits Egypt (8.87); Democritus visits Egypt, Chaldaeans, Persia, perhaps
+India and Ethiopia (9.34-35); Pyrrho visits Indian Gymnosophists and Magi (9.61). See further G. S. Kirk and J. E. Raven, The Presocratic philosophers (Cambridge University Press, 1957), 77; and
+Fairweather, ‘Fiction’, 268. The pattern is clear, and can be summed up in two parts: it suits the
+lives of philosophers to have travelled; eastern lands provide the destinations of choice.
+61 Ath. pol. 12; Plut. Sol. 26. Solon’s own elegies mention the Nile and Cyprus (Anth. lyr. [3] 6.7D). Some of these travels actually took place before his reforms. There is a certain amount of flexibility in the tradition: present at all events is the element of travel. 62 On the travels of Herodotus, compare Chapter 1, section I.3 above; by the same token, Fehling
+expresses radical scepsis concerning the sages, Die sieben Weisen und die griechische Chronologie
+(Bern: Lang, 1985). On Plato, Paul Friedlander, Plato (New York: Meridian, 1958).
+264 Contexts ofa discourse Concerning his travels to Libya and Spain and his discussions with the Gymnosophists in India, I find, on investigation, no source other than Aristocrates the
+Spartan, son of Hipparchus. (Plutarch, Life ofLycurgus 4-6)
+63 There can be no doubt that this grand tour owes something to Alexander’s
+itinerary. 64 About this Aristocrates, Plutarch’s source, we know little beyond
+a handful of references elsewhere in the Lives and in Athenaeus. A prose
+writer of the first centuries bc/ad, he seems to have gone beyond the norm
+in sensationalising and glamorising Spartan antiquity. 65 The veracity or otherwise of Lycurgus’ travels need not trouble us here, in the way that it troubled Plutarch in writing the above sentence. The point remains, and
+underlines a major thesis of this chapter: a claim such as this proceeds from
+the assumption that travels bring wisdom, particularly travels to an ancient land ofthe east. 66 There is no doubt about the journey to India by Pyrrho of
+Elis. Diogenes Lartius, following Antigonus of Carystus (a contemporary
+source) and Ascanius of Abdera, says that it is here that Pyrrho acquired
+his sceptical philosophy (9.69, cf. 9.62-63).6?
+II.3. Jews, Chaldaeans and Indians Having reached this point, we are in a better position to consider the
+alienness of alien wisdom for a moment. For one thing, it adds a note of mystification. It is clear that a number of features mark out the Near
+Eastern cultures in the minds of Greeks and Romans. First, their sheer
+antiquity counted for a great deal, if we are to consider Solon’s interview with Egyptian priests (Plato Tim. 22b) or Hecataeus’ visit to that land (Hdt.
+63 6ti 5e Kcd AifSur|V Kai 'ipqpiav brfjXSEV 6 Auxoupyos Kai Trspi Tqv ’Iv6ikt)v ttXovtiSeIs toTs TupvoaotfncFTaTs <bpiXr)CT6V, oOSeua trAfiv ApiCTTOKpdtT) tov iTTirapyou 2TrapTiaTqv EipqKOTa
+yiVCOCTKOpEV.
+64 Elizabeth Rawson, The Spartan tradition in European thought (Oxford: Clarendon, 1969), p. 94.
+65 For the little available information on Aristocrates see FGrH IIIB 591, cf. RE 2.1 (1895) 941 s.v. Aristokrates 25 (Schwartz) and DNPi (1996) 1112 s.v. Arist. 4 (M. Meier).
+66 For further instances see Eisner, ‘Hagiographic geography’, 26 n. 25; esp. Porph. Vita Plotini 3 for a philosopher’s (failed) visit to Babylon and India.
+67 Everard Flintoff, ‘Pyrrho and India’, Phronesis 25 (1980), 88-108, ratifies this theory of transmission, on the basis of detailed comparison with Indian texts. The argument runs very roughly as follows:
+similarities can be found between Pyrrho’s and Indian thought; Pyrrho travelled to India (as a contemporary source indicates); therefore Pyrrho was influenced by Indian thought. I offer this analysis, at the risk of reductionism, not to caricature what may well be a careful evaluation of the
+available evidence, but to show the persistence of an ancient paradigm of thought about religious- philosophical travel. Less directly than this, M. L. West, Early Greek philosophy and the Orient ,
+(Oxford: Clarendon, 1971), sees the Iranian Magi as transmitting Indian (and of course Iranian) .thought to the Greek world. On the question of looking eastwards to explain features of Greek
+philosophy, the pointedly critical comments of A. H. Armstrong, ‘Plotinus and India’, CQ 30
+(1936), pp. 22-8, have not lost their resonance; cf. Momigliano, Alien wisdom, pp. 126-9.
+Wisdom 265
+2. 143).
+68 The whole ofJosephus’ Contra Apionem is devoted polemically to
+this question, focused on the ‘antiquity’ (archaiologia or archaiotes) of the
+Jews. Secondly, their use of writing per se, particularly in religious contexts, what has been described as ‘sacral graphocentricism’. 69 Jewish society may
+have been the most extreme case of this. 70 In the case of Egyptian and
+particularly Babylonian culture, literacy was partnered by highly developed
+scientific and mathematical skills. Thirdly and perhaps most importantly, we must consider the ongoing dependence ofthese cultures on a priestly class. An important innovation of
+the Hellenistic world, according to Bickerman,71 was that the onus ofstudying the law was for the first time placed on individual citizens, lay people
+rather than specialists. This change has its roots in Platonic and especially in universalising Stoic thought; it was adopted by some strands ofJudaism,
+as we see most obviously in Josephus. On the other hand, Babylonia,72 Egypt and seemingly also the populations of Syria and Iran resisted this development, retaining its reliance on the priestly class. The retention of
+archaic languages underscored the inaccessibility oflegal texts to lay people: thus Akkadian, written in cuneiform, continued to be used by Babylonian
+priests, and likewise Egyptian, written in hieroglyphics, for the copying of
+sacred texts. This is at a time when Aramaic and demotic respectively, and
+also Greek would have been the languages of everyday intercourse. What
+is more, the sophistication attained by Near Eastern cultures in the ‘exact
+sciences’, particularly in the astronomy and mathematics of Babylonia and
+Egypt,73 was certainly noticed in the Greco-Roman world. To be sure, in
+68 E. Bickerman, ‘Origines gentium’, Cl. Phil. 4,7 (1952), 65-81; Louis H. Feldman, Jew andgentile in the ancient world (Princeton University Press, 1993), pp. 177-8; Erich S. Gruen, ‘Cultural fictions and cultural identity’, TAPhA 123 (1993), 1-14.
+69 Alan K. Bowman and Greg Woolf, ‘Literacy and power in the ancient world,’ p. 13, in their Literacy andpower in the ancient world (Cambridge University Press, 1994). In the same volume, Martin Goodman (‘Texts, scribes and power in Roman Judaea’, pp. 99-108) makes the intriguing suggestion, contrary to what one might expect from modern society, that Romans did not view a society’s ability to write as a badge of its civilisation. This may be true, but perhaps a more pertinent problem for consideration here is whether this mattered to Romans, or whether it is more a matter of modern
+retrojection.
+70 For Goodman ‘[n]o ancient society was more blatandy dominated by a written text than that of Jews in the Roman period’ in ‘Texts, scribes’, in Literacy andpower, p. 99.
+71 E. J. Bickerman, The Jews in the Greek age (Cambridge, MA: Harvard University Press, 1988), pp. 172-3.
+72
+It so happens that Greco-Roman ideas about Babylonian antiquity are matched by the tendency
+of Babylonian scholars to ascribe great antiquity to astronomical and other texts: cf. William W.
+Hallo, ‘On the antiquity of Sumerian literature’, JAOS 83 (1963), pp. 167-76; Stanley M. Burstein,
+‘Callisthenes and Babylonian astronomy’, EMC 28 (1984), pp. 71-4.
+73 O. Neugebauer, The exact sciences in antiquity, 2nd edn (Providence, RI: Brown University Press, 1957)-
+266 Contexts ofa discourse the double spheres of astrology and astronomy (to use a predominantly modern distinction) Greeks and Romans continued to hold eastern practi- tioners in a certain degree of awe. 74 One might go as far as saying that they
+particularly respected eastern cultures for their scientific skills. Related to
+this was the tendency to use the ethnikon Chaldaeus to designate, in principle, any person able to foretell or manipulate the future. On the strength of such cases we see one feature of eastern cultures that continued to fas- cinate Greeks and Romans: the authority of priests as guardians of special knowledge. 75 This role may be considered linked with that of being arbiters of the sacred. 76 The fact that this special knowledge often verged on magic
+both heightened the marginality with which its guardians were regarded and added to its mystique. Of the Near Eastern groups mentioned, the Jews were perhaps the most
+graphocentric of all . 77 In fact the Jews deserve special attention, not least because of their supposed link with Indian philosophers. 78 In a passage well-known for the fact that it represents one of the very earliest Greek
+references to Jews, Clearchus of Soli in Cyprus speaks of the Jews as being descended from Indian Gymnosophists:
+These people (i.e. Jews) are descended from the Indian philosophers. The philosophers, they say, are in India called Calani, in Syria they go by the territorial name
+ofJews; for the region in which they live is called Judaea. 79 This passage is quoted by Josephus in his diatribe asserting the antiquity of
+the Jews. He attributes it to Clearchus, who in turn claims to be quoting
+his teacher Aristotle word-for-word. Of significance here is not so much
+the veracity of the claims made, or of the reliability of the various levels of doxography involved, but the fact of the tendency to see Jews as philosophers, in which regard they are descended from the Indian Gymnosophists. Now if Greco-Roman notions of origins tended in general to be very
+74 See Tamsyn Barton, Ancient astrology (London: Routledge, 1994), p. 9, on the ancient controversy over whether astrology came originally from Egypt or Mesopotamia.
+75 For his comments about Egypt in Homer as a ‘repository of unusual knowledge’, see Momigliano,
+Alien wisdom, p. 3. 76 For magic viewed as special knowledge, see e.g. Fritz Graf, Magic in the ancient world (Cambridge, MA: Harvard University Press, 1997), pp. 220-1.
+77 Goodman, ‘Texts, scribes’, in Literacy andpower, ed. Bowman and Woolf, p. 99.
+78 On what follows see Emilio Gabba, Greek knowledge ofJews up to Hecataeus ofAbdera (Berkeley: Center for Hermeneutical Studies in Hellenistic and Modern Culture, 1981), esp. pp. 6-7.
+79 outoi 5e eiaiv caroyovoi tuv ev *Iv6oTs <}>iAoa6<|>cov, kccAoOvtoci 8e, <}>aaiv, oi <}>iA6<to<J>oi napa pev ’IvSoTs KaAavoi, napd 8e lupois ’louSaTot Touvopa AapovTES cnro toO tottou-
+-rrpocrayopEUETai yap ov kotoikoucti tottov louSaia. (Contra Apionem 1.179 = fr* 6 Wehrli). See further Momigliano, Alien wisdom, p. 75.
+Wisdom 267
+loaded, 80 then all the more in this case, where they indicate descent. 81 Specifically, it should be noted that there is here no simple parallel between
+Indians and Jews tout court, rather the correspondence may be summed up
+as follows: Jews are to Coele Syria as Gymnosophists are to India. In other words, each represents the special philosophical elite of a distant ethnic group. As it stands, the passage suggests a need on the part of Clearchus to qualify the statement of who the Jews are, i.e. that Greeks did not know
+about them before.
+82 In this passage it appears that the less familiar Jews are presented with reference to the more familiar Indians. This link between
+Jews and Gymnosophists is made also in the course ofMegasthenes’ detailed discussion of Indian society, as reported by Clement ofAlexandria. 83 However, Megasthenes merely mentions them together rather than asserting descent. In fact, Clearchus’ interest in the east is attested by an inscription: he
+is mentioned as the one who erected the 147 Delphic maxims on a stele found in 19 66 at Ai Khanum, the Bactrian city in what is now northern
+Afghanistan. 84 There seems no reason to doubt that the Clearchus there mentioned as having travelled to that point and set up the stele was in fact
+this same person, and this identity has been accepted by Louis Robert. 85 It must, however, be admitted that we have no independent evidence for the supposed eastern travels of this Clearchus. The provenance of these inscrip- tions has been interpreted as an indication of the diffusion of Hellenism in the aftermath of Alexander’s expedition.86
+80 See G. E. R. Lloyd, Revolutions in wisdom (Berkeley: University of California Press, 1987), pp. 51-2 on ‘first discoverers’: typically, a supposed originator (mythical or legendary) is invoked to explain
+the nature of an object or a custom. More generally, Said, Beginnings, explores the extent to which
+supposed origins are retrojections.
+81 As inscriptions from the Hellenistic Near East amply attest, the language of parentage (and with it, common ancestry) was used to describe the relation between poleis: Christopher P. Jones, Kinship diplomacy in the ancient world (Cambridge, MA: Harvard University Press, 1999), and Claude
+Orrieux, ‘La “parent^” entre Juifs et Spartiates,’ in L'Etranger dans le monde grec, ed. Raoul Lonis (Nancy: Presses Universitaires, 1988), vol. I, pp. 169—91.
+82 Thus Gabba, Greek knowledge, p. 34, arguing against the interpretation that Jews were overlooked
+as powerless. We must, however, be chastened by the ‘doxographic problem’ before pushing this too
+far: the possibility of distortion on Josephus’ part cannot be ruled out.
+83 FGrH 715 F3 = Clem. Alex. Strom. 1.72.4: ‘All opinions expressed by the ancients about nature may
+be found also in philosophers outside Greece, some in India by the Brahmans and others in Syria by those called Jews’ (tr. Gabba, ibid., 7).
+84 L. Robert, ‘De Delphes 4 l’Oxus. Inscriptions grecques nouvelles de la Bactriana’, CRAI (1968), 416-
+57 = Opera minora selecta 5 (Amsterdam: Gieben, 1989), pp. 510-51. On Ai Khanum see Chapter 1, section II. 3.
+85 It may be assumed that the inscriptions appeared too late to permit mention in Wehrli’s second
+edition.
+86 E.g., Sherwin-White and Kuhrt, Samarkhand to Sardis; Green, Alexander to Actium, pp. 332-4.
+268 Contexts ofa discourse
+It is striking that in this passage the plural ‘Kalanoi’ is used in this passage. At a certain level it is clear what is happening here: the name of the Brahman Calanus, known from the Alexander historians, is generalised in
+its plural form, as if the process of individualisation is taken further, or even
+inverted. The surprise, or indeed ‘misunderstanding’,87
+is that the use of
+this term is imputed to the Indians themselves. What is more, there may be some chronological awkwardness here:88 Aristotle, to whom the comment is attributed, died in 322 bc; Clearchus wrote relatively soon after Alexander’s
+expedition. That a generalising plural should have come into currency so soon seems unlikely. Thus it would seem unlikely that Aristotle himself would have made this comment, as the fragment claims him to have done.
+If chronology is indeed a problem, then Josephus’ reliability is at issue here. Diogenes Laertius, in the context of discussing a much broader issue, preserves another fragment of Clearchus:
+Clearchus of Soli in his book On education claims that the Gymnosophists are descended from the Magi, and some trace the Jews to the same origin . 89 Here the Magi are brought into the picture, but the claim is the same as regards Jews and Gymnosophists. Again philosophy is a distinctive ethnographic feature, to the extent that it suggests genealogical descent. It is no
+accident, furthermore, that the work of Clearchus cited is on paideia. This is a fitting point at which to think more about Diogenes’ conception of wisdom as something to be learned from an older culture. Much of the prologue to his work is devoted to a sustained argument against the view
+that philosophy began with the barbarians: Some people say that the pursuit of philosophy began with the barbarians. They
+claim that the Persians have had their Magi, the Babylonians or Assyrians their Chaldaeans, the Indians their Gymnosophists, the Celts or Gauls those called Druids or holy ones . . . They also claim that Ochus was a Phoenician, Zamolxis
+a Thracian and Atlas a Libyan. (1.1) 90 The tendency to speak of Gymnosophists in the same breath as Magi
+and Chaldaeans may be regarded as typical in Greek and Roman texts.
+91
+87 Thus Gabba, Greek knowledge
+,
+p. 6.
+88 This appears not to be seen as a problem by Gabba or Feldman, yen; andgentile, pp. 5 and 204.
+89 KXsapyos 8e 6 ZoAeus ev tco rTept TtaiSEias Kal tous yupvoaocJnaTas earoyovous eTvcu tcov Maycov <J>t)criv (Diogenes Laertius 1.9 = Wehrli fr. 13). 90 To Tfjs <t>iAocro<|>ias iipyov Ivioi <j>aaiv ctrro pap(3apcov ap^ai. yeyevpaQai yap rrapd uev Fltp- aais Mayous, trapa 5e Ba|3uAcoviois f| Aaaupiois XaASaious, Kal yuuvoCTOcjucTTds trap’ ’lv8ots, itapaTE KeAtoTs Kai faAcrrats tous KaAoupEvous Apui8as Kal IeuvoSeous . . . OoiviKd te y£VECT8ai, 'f2xov> KCt' SppKa ZapoA^iv, Kai Ai|3uv AAavTa.
+91 Cf. Halbfass, India and Europe, p. 3, on this passage.
+Wisdom 269
+For Diogenes, rival claims to the origins of philosophy involve claims to antiquity itself: ‘These authors forget that the achievements which they
+attribute to the barbarians belong to the Greeks, with whom not merely philosophy but the human race itself began’ (1.3). According to Diogenes, Hermodorus the Platonist and Xanthus the Lydian both speak of a long,
+transcultural succession of philosophers: for Hermodorus this goes back to Zoroaster the Persian, five millennia before the fall of Troy; for Xanthus
+there were six millennia between Zoroaster and the expedition of Xerxes
+(1.3). In fact the word Diogenes uses here to indicate succession, diadoche,
+recurs in the prologue and later throughout the biographies as a technical term. With the help of the epitaph of ‘Theban Linus’, Diogenes claims to have proven that philosophy originated with the Greeks. Its very name resists translation into a foreign language: Thus it was from the Greeks that philosophy arose. Even its name resists translation into a foreign language. (1.4)
+91 This is a striking instance of untranslatability: 93 the phenomenon by which
+cultural capital is valued in such a way that it appears specific to its (Greek)
+milieu and thus resistant to translation. This alleged specificity is part of the process by which wisdom is mystified. Diogenes challenges Orpheus’ status
+as a founder of philosopher by questioning not his ethnic origins, but his claim to the title of philosopher (1.5). In this context where the concept of
+philosophy is ethnically loaded, it comes as something of a contradiction
+that Diogenes should include the Scythian Anacharsis among his list of
+Seven Sages. 94 So central to this inquiry is the notion that philosophy began with the barbarians that we should pause to consider two variants of it, both of which involve the Brahmans explicitly. First, Lucian in his Fugitivi shows how cliched it had already become by the late second century ad. In this parody of a Platonic dialogue, Philosophy in its personified form tells her
+father Zeus of the ills she has suffered at the hands of bogus philosophers, who turn out to be the Cynics. Recalling her reception by humans after being sent by Zeus, Philosophy has this to say:
+92 Kai co8e pev occJCEAAtivgov f)p£e <J>iXoao<J>ia, fjs Kai ccuto to ovopa tt)v pdp(3apov a-TTecrrpa'TTTai TTpooTiyopiav.
+93 Jan Assmann, ‘Translating gods: religion as a factor of cultural (un)translatability’, in The translatability of cultures, ed. Sanford Budick and Wolfgang Iser (Stanford University Press, 1996), pp. 25-36.
+94 On Anacharsis see Richard P. Martin, ‘The Scythian accent: Anacharsis and the Cynics’, in The
+Cynics, ed. Branham and Goulet-Caz6, pp. 136-55.
+270 Contexts ofa discourse When I darted off, father, I did not head directly for the Greeks; but, since it seemed to me the harder part of my task to educate and teach foreigners, I resolved
+to do that first. . . Heading initially for the Indians, the most populous nation in existence, I had no trouble in persuading them to descend from their elephants and converse with me. As a result the Brahmans, an entire tribe bordering on
+the Nechraei and the Oxudracae, are all recruited under my command: they not
+only live in accordance with my tenets, revered by all their neighbours, but die a spectacular kind of death. (Runaways 6) 95 Much of this dialogue is devoted to comment on the death of Peregri- nus, and will be discussed in this connection. Some room must of course be made for ethnographic caricature, typical of Lucian’s parodic modes
+and seen here especially in the reference to elephants. Here the idea of
+the barbarian origins of philosophy is first inverted (at first she expected
+the Greeks to be amenable to her), only to be explicitly restated. From the Brahmans she went to Ethiopia, then to priests and prophets of Egypt, then to the Chaldaeans and Magi of Babylon, then to Scythia and Thrace
+(para. 8); and only then to the Greeks, who gave her no more than a cool welcome (9). In this work Lucian is able to use an already well-worn idea
+in order to scorn a particular branch of Greek ‘philosophers’, namely the Cynics. Secondly, Clement ofAlexandria (c. AD 215) offers a slightly later variant which reveals the generally more positive Christian attitude to Brahmans.
+In a passage already referred to for its juxtaposition of Brahmans and Jews, Clement is favourably disposed to the Brahmans because their study of
+nature has brought them the outlines of Greek philosophy.96 Elsewhere he is, however, critical of the Brahmans for their exhibitionism in death
+{Strom. 3.7). A significant feature of alien wisdom to be brought out might be called
+its ambivalence. We have already seen a Greco-Roman tendency to link astronomy and mathematics with Mesopotamians (Babylonians, Magians and Chaldaeans) and to a lesser extent Egyptians. This connection could be
+95 Hi^cc psv, co TTcrrep, ouk etfi tous "EAAijvas eu0us, aAA’oiTEp e6okei poi xoAettcotepov toO Epyou
+eTvcu, to (3ap(3apous ttcuSeueiv Kai SiSckjkeiv, touto upcoTov t)£iouv Epydcrao-0ar . . . oppfjaaaa
+6e eis ’Iv6ous to irpcoTov, E0vos pEyiaTOv tcov ev tco (3ico, ou xccAettcos EirEiaa KcrrapavTas
+aaro tcov eAe<J>6cvtgov Ejaoi auvEivai, coctte Kai yEvos oAov, oi Bpaymoves, toIs NEypaiois Kai O^uSpaKais opopov, outoi toTs Nsxpaiois Kai O^uSpaKais opopov, oOtoi iravTES utt’ Epoi TaTTOVTai Kai (3io0aiv te kotoc tcx r)plv BokoOvto, TipcopEvoi irpos tcov TTEpioiKcov airavTcov, Kai caro0vf)CTKOuai irapaSo^ov Tiva tou 0avcrrou TpoTrov.
+96 On barbaros philosophia see A. Dihle, ‘Indische Philosophic bei Clemens Alexandrinus,’ in Dihle, Antike und Orient, pp. 78-88, at 78, and cf. 219.
+Wisdom 271 made in a neutral or even complimentary way. 97 On the other hand there was a dark side to this too, 98 perhaps inevitably, if we consider that the
+strict modern division between astronomy and astrology was not made till relatively late (Ptolemy makes this point polemically in the introduction
+to his Tetrabiblos) . Terms such as magus, mathematicus and Chaldaeus each have a range ofvalences, which at their most negative speak volumes for the pariah status of ‘magicians’ and ‘quacks’. 99 The miracle-working element of
+the Christian holy man has emerged as one of his most important features, but it is certainly not limited to him. 100 These various elements lead us to validate the working definition of wisdom as knowledge that is mystified. 101 We must, above all, be alert to
+a politics of knowledge in which secrecy, exoticism, authority and paideia play their part.
+10- Mystification in this sense is a means of establishing
+authority, a way that differs, say, from the systematisation of knowledge in the corpus of medical writings attributed to Galen. 103 Above all, we should
+note from the foregoing discussion that, jn so far as wisdom is the preserve of foreign peoples, it has an inaccessible quality, one that might even make
+it impossible to be known: this is part of its status as special knowledge. The
+secrecy incumbent on initiates to Pythagoreanism, though not necessarily a foreign wisdom in the first instance, may be taken as a Greek case of this phenomenon.
+So much for the features of wisdom, and particularly of ‘alien wisdom’,
+that can be isolated in theory. It is time for us to consider Brahmans, and to ask in what ways Brahmans fit the mould outlined, and to what extent the
+literary image of them combines on the one hand this mystified knowledge we have been calling wisdom and on the other hand the features ofholiness.
+97 Strictly speaking, the Chaldaeans were originally an ethnic group, which arrived in Babylonia around the ninth century bc: Amalie Kuhrt, The ancient Near East (London: Routledge, 1994),
+p. 399. Greek and Latin uses of the term exhibit massive generalisation, with the inevitable loss of
+its original ethnic referent. The same process is at work with the Magi.
+98 A notable case comes when Cato forbids the uilicus (overseer) to consult with fortune-tellers: arus- picem, augurem, hariolum, Chaldaeum nequem consuluisse uelet (Agr
+.
+7.4). In this context xenophobia
+coalesces with prejudice against magic.
+99 Note, e.g., Graf, Magic, ch. 2; W. J. W. Koster, ‘Chaldaer’, A4CII.ioo6-2i, esp. 1019.
+roo R. Reitzenstein, Hellenistische Wundererzahlungen (Leipzig: Teubner, 1906), examining the theme
+ofmiracle-working in a wide variety oftexts, among holy men, magicians, thaumaturges and others. On the concept of mystification (and its attempted reversal on the part of modern scholars) see,
+e.g., G. E. R. Lloyd, Demystifying mentalities (Cambridge University Press, 1990).
+101 On the politics of special knowledge see the important study of Marie-Therese Fogen, Die Enteig- nung der Wahrsage. Studien zum kaiserlichen Wissensmonopol in der Spdtantike (Freiburg: Suhrkamp,
+1993)- 103 Dale B. Martin, Inventing superstition: from the Hippocratics to the Christians (Cambridge, MA:
+Harvard University Press, 2004).
+272 Contexts ofa discourse
+It will become clear that Brahmans and Gymnosophists emerged substantially after Alexander’s expedition.
+III. BRAHMANS AND GYMNOSOPHISTS
+III. i. Social hierarchy In order to consider the Brahmans, the Indian ascetics par excellence, we
+need a historical context. In sketching this we must draw on a wider range of
+sources before focusing on Palladius himself. Just who were these Brahmans
+that made such an impression on Greek and later Roman writers? Turning first to Indian sources, we hear of Brahmans spoken of unequivocally as a social group, i.e. as a ‘caste’ in terms of the varna system. The
+Purusa-sukta (Hymn of man) is one of the hymns dealing with the creation, and it is here that we find classical Indian literature’s most significant refer- ence to Brahmans: the gods create the world by dismembering the primeval
+giant Purusa:
+His mouth was the Brahman,
+his two feet were made the warrior, 104 his two thighs the Vaisya; from his two feet the Sudra was born.
+(Rig Veda 10. 90. 12) By linguistic evidence it is known to be one of the last of the Rig Veda
+to be composed, and it can be dated to as late as around 500 bc. This is the earliest Indian reference to the system of four social classes or varnas, and the only one in the Vedas. 105 (The historical problem that this refers to four castes, compared to the seven in Greco-Roman sources, need not concern us here: see Chapter 2.) The term brahmana originally applied
+to one possessing the mystical force, brahman. Its earliest use was for the
+priest overseeing the entire sacrificial ritual, and who could by his magical spells counteract the evil influence eventuating from minor errors of ritual. By the end of the Vedic period its use had been broadened to
+104 rajan-ya (‘royal’ or ‘warrior’), the name given to the second caste, is related to word raj, ‘rule’ (cf. Latin reg-). After the Vedic period the term ksatriya was used instead for this group: A. L. Basham,
+The wonder that was India, rev. edn (New York: Hawthorn: 1963), p. 141.
+105 Arthur A. Macdonell (ed.), A Vedic reader for students (Oxford: Clarendon, 1917), p. 201; Wendy
+Doniger O’ Flaherty (ed. and tr.), The Rig Veda (Harmondsworth: Penguin, 1981), p. 30. On
+the interpretation of this passage in terms of Indian historical consciousness, see Romila Thapar,
+‘Society and historical consciousness: the Itihasa-Purana tradition’, in Situating Indian history: for
+Sarvapalli Gopal, ed. Sabyasachi Bhattacharya and Romila Thapar (Oxford University Press, 1986), PP- 353-83 . at 356-7.
+Wisdom 273
+refer to all members of the priestly class. After the Vedic period the Brah- man class, already split into septs (gotrd), divided further into branches
+(sakha), determined by the choice ofwhich recension of the Vedic texts was
+honoured.
+In terms of the social structure that transpires from texts such as the Laws ofManu (though much later, round the turn of the millennium, in
+its extant form, it reflects an already old tradition), we know of various
+further subdivisions. 106 Among these were the semi-legendary rshis, who
+combined the roles of seer and composer of the sacred Vedic texts.
+107 For
+the performance of sacrificial duties there were a number of priests ( rtvij): invokers ( hotr), cantors (adgatr) and those carrying out the rituals by hand
+(,adbvaryu). By virtue of this priestly capacity, the Brahmans may be regarded India’s arbiters of the sacred par excellence. Most of the Brahman class lived off
+royal patronage, but some owned land which was worked by peasants. That
+they are socially distinct from other groups may be deduced from Manus
+injunction (4.84) that Brahmans do not accept gifts from members of the
+ksatriya class. Serving as the king’s council, those brahmans in the purohita
+class had great influence.108 These would appear to match Megasthenes’ group of ‘councillors’ (FGrH 715 F4 = Diod. 2.41.4). There is ample Indian evidence for Brahmans leading lives devoted to religious observance, remote from the rest of society. Kalidasa’s Sakuntala gives an almost utopian picture of communities of Brahman hermits
+living in forests, supported by gifts of the king and of nearby peasants. However, the Laws of Manu and other Smrti texts suggest that most Brahmans are likely to have lived less idyllic lives, if we are to take into account stipulations about their involvement in loans and trade. There was
+certainly a stigma attached to professional activity on the part of Brah- mans, and this was sometimes expressed in the form of satire at their expense. The key passages on Indian society generally have been traced by Jacoby
+back to Megasthenes; so too those on the Brahmans.109 In a lengthy
+106 For what follows I am indebted to Basham, The wonder, pp. 139-41.
+107 The coincidence in number between the Seven Rshis of Indian mythology with the Seven Sages of the Greek tradition does not mean we should see a connection through Indo-European roots: Martin, ‘Seven sages’, p. 121, and John E. Mitchiner, Traditions ofthe Seven Rsis (Delhi: Motilal
+Benarsidass, 1982).
+108 Basham, The wonder, p. 100.
+109 Jacoby’s grounds for identifying Megasthenes as the source for Diodorus’ long Indographic passage 2.35-42 are more tenuous than might initially appear: Chapter 1, section II. 2 above.
+274 Contexts ofa discourse description of Indian social organisation, we read the following about the group
+110 of philosophers’:
+(i) The entire population of India is divided into seven castes (mere), the first of which comprises the tribe of philosophers — outnumbered by the other castes but exceeding them in pre-eminence. Being exempt from all public duties, they
+are neither anyone’s masters or servants. (2) However, they are called upon by
+private citizens to offer all the sacrifices due in their lifetimes and to hold rites for those who have died, for they are considered to have shown themselves dearest to the gods and especially adept in matters concerning Hades, and for this service they receive gifts and honours. To the population of India as a whole they perform enormous services: assembling in a huge gathering at the start of the year, they tell the populace about droughts, rains, favourable winds, diseases, and whatever is useful to those listening. (3) . . . [Both king and ordinary people make provisions
+accordingly.] . . . The philosopher who goes astray in his forecast receives no
+punishment other than criticism and spends the rest of his life in silence. (FGrH
+715 F4 = Diod. 2.40. 1-3)
+111 We must note that these ‘philosophers’ serve priestly functions (note para- graph 2 above): this combination is not characteristic of the Greco-Roman
+world’s pagan priesthoods. 112 The fact that they preside over sacrifices marks them out as ‘pagan priests’, ones whose priesthood is further sanctified by
+their status as philosophers.1 ' 3 In Diodorus’ long passage this, however, not the only meros with which we can identify the historical Brahman. Of the seventh caste Diodorus has
+the following to say: The seventh caste is that of deliberators and councillors, whose concern is with the
+decisions affecting shared interests. Numerically this group is the smallest, but in nobility of birth and in prudence it is the most deserving of admiration, for the
+110 On problems surrounding the use of the term ‘caste’, see Chapter i, section 1 1.2. to Trav TrAf)0os tcov Iv8cov els etttcx pepr) 8if)pr|Tai, cov eoti to pev irpcbTov auo"rr]pa
+<J>iAoao<l>cov, ttAtiQei pev tcov aAAcov pepcov Aeitropevov, Trj 8’ euK^avelpc TravTcov TrpcoTeOov. dAeiToupyr)Tot yap ovtes oi <J>iA6ao<J>oi Tracrris Oiroupyias ou0
+’ ETEpcov Kupieuouaiv ou0
+’ u^’
+ETEpcov Secmo^ovTai. irapaAap(3dvovTai 8’ Otto pev tcov ISicotcov eis te Tas ev tco plco Quotas
+Kai eis Tas fwv teteAeutt|kotcov ETripeAeias, cos QeoTs yeyovoTes Trpoo<|)iAEOTaToi Kai Trepi tcov
+ev a8ou paAiOT’ ep-Treipcos exovtes, toOttis te t^s UTtoupyias 8d>pa te Kai Tipas Aappavouaiv
+a^ioAoyous' tco 8e koivco tcov ’Iv8cbv peyaAas TrapeyovTai XP£ ^ a5 TCxpccAapPavopevoi pev koto to veov etos ETti tt)v peydAr)v auvo8ov, TrpoAeyovTes &£ toTs ttAt)0eoi Trepi auxpcov
+Kai ETTopAeyovTES 8e toTs ttAtiOeoi irepi auxpwv Kai eiropPpias, eti 8’ avepcov euiTvoias Kai voacov Kai tcov aAAcov tcov Suvapevcov tous aKouovTas cb^eAhaai. ... 6 8’ airoTuxcov tcov
+(|> iAoo6<t)cov ev Tats TrpoppTiaeaiv aAArjv pev oOSepiav ava8ex£Tat Tipcopiav r| pAao^piav,
+d(J>covos 8e SioteAeT tov Aoittov piov.
+112 Pagan priests: religion and power in the ancient world\ ed. Mary Beard and John North (London: Duckworth, 1990).
+113 E.g., ibid., pp. 8—9; John Scheid, ‘The priest’, in The Romans, ed. Andrea Giardina (University of Chicago Press, 1993), pp. 55-84, at 57-9.
+Wisdom 275
+king’s advisors and the administrators of the affairs of state and judges of disputes
+are drawn from among them, and generally speaking they take their leaders and
+magistrates from among these people. (2.41. 4)
+114 Within Arrian, for one, there is some degree of confusion as to whether
+the Brahmans are a tribe or a class. In most cases he talks about them as a
+tribe, but at anab. 6.16.5 he seems to be referring to them as a sect rather than a tribe, as instigators of a rebellion against Alexander’s conquest (cf. 6.17.2). At this point Arrian, in a curious remark, promises that later in
+his Indica he will tell more about the wisdom of the Brahmans, ‘if that
+is what it is’, a promise that is not realised in the surviving work. 115 It is worth noticing here that as soon as Arrian refers to the group, ‘the sages of India’, he refers to their wisdom, yet he seems to question the nature of that wisdom. If this interpretation is correct, we might take it to be a reminder of the fragility of ‘alien wisdom’.
+Pliny in his Natural history (6.64) speaks of the Brahmans as follows, as an umbrella ethnic group: The races that deserve mention as we leave the Hemodi mountains ... are the Isari, Cosiri, Izi, and spread across the mountains the Chirotosagi and several tribes with
+the name of Bragmanae, among them the Mactocalingae. 116 This is part of Pliny’s geographical survey of northern India, and he mentions Brahmans here in order to characterise the region. In fact, they will have been found much farther south than Pliny indicates, so that his geographical accuracy on this score is poor. A short while later, speaking of the social divisions of the Indians of the Ganges valley, Pliny states that there are five groups or genera, to which
+a further one of half-wild people is added at the end. The fifth of these has the features we expect to identify with the Brahmans, yet nowhere does
+Pliny make such a connection:
+114 ef^Sopov 8 icrri pipos to (SouAeOov pcv Kai auvESpeOov tois Orrep tuv koivcov (3ouAevopevoi5,
+ttAt]9ei psv eAdytcrrov, EuytvEia 8e Kai ppovfiaei pdAujTa 0aupa£opEvov ek toutcov yap 01 te cruppouAot toT; paaiAeOaiv Eiciv 01 te StoiKT|Tai tcov koivcov Kai oi SiKacrrai tcov ap<|>ia|3r|- toupevcov, Kai Ka0oAou tous pyspovas Kai tous apyovTas ek toutcov iyouai.
+1.5 Cette p
+cbv (sc. Bpaypavcov) lyco Tfjs cro<f>las, si 84 tIs ecttiv, ev tIJ 'IvStKij §uyypa<|>Tj SpAcbaco. This is not enough to sustain the idea that the second section of Palladius’ text is indeed Arrian’s,
+as it claims to be (1.15): for one thing, it is not in his style to indulge in such long speeches as characterise that part of the work. See William H. Willis and Klaus Maresch, ‘The encounter of
+Alexander with the Brahmans,’ ZPE 74 (1988), 59-83, at 61-2, with refs.
+1.6 gentes, quas memorare non pigeat a montibus Hemodis, . . . Isari, Cosiri, Izi et per iuga Chirotosagi multarumque gentium cognomen Bragmanae, quorum Mactocalingae. Stoneman, ‘Naked philosophers: the Brahmans in the Alexander historians and the Alexander
+Romance', JHS 115 (1995), 115-29 at 101-2 compares Strabo 15.1.66 C716.
+276 Contexts ofa discourse There is a fifth class of persons devoted to wisdom, a group highly esteemed by them and nearly raised into a religion; they always end their life by suicide upon
+a pyre that is already set aflame. (6.66)
+u? Somewhat surprising here is that, in emphasising the respect that the Brahmans command as practitioners of wisdom, Pliny implies that they
+are themselves nearly honoured as gods. We may also notice that self- immolation is given as one of their features. Presumably this is an extrap- olation from the story of Calanus.118 Several of the Greek and Roman references to Brahmans present them
+as teachers. Thus Apuleius, in speaking of the education of Pythagoras
+(fLor. 15.11-13), mentions lessons among the Indian sages, both Brahmans -
+hi sapientes uiri sunt, Indiae gens est - and Gymnosophists. In the same
+breath he mentions mathematical lore taught by the Egyptian priests and
+the astrology taught by the Chaldaeans. In this group the Brahmans stand out for their ability to withstand bodily hardships: The Brahmans have combined the general principles of Pythagoras’ philosophy:
+physical and mental discipline, the number of parts of the soul, and stages of life, the torments and rewards everyone’s spirit receives according to merit. (15.13)
+119
+It is also in their role as teachers that Ammianus mentions them, following on his excursus on the ‘land of the Magi’ (23.6.33). In this case their pupil is Zoroaster, presented as a Bactrian sage.
+120 Apollonius pays homage to them
+also as a pupil reverences a teacher. 121 It is this didactic role that we should
+bear in mind when Alexander meets the Brahman Dandamis.
+In Chapter 1 we caught a glimpse of Calanus the renegade, the subject of Dandamis’ harsh words. Here and in the Palladius text discussed below
+he emerges as a complex figure, especially when we measure up the various
+texts against each other.122 Arrian (Anab. 7.2-3) speaks of Calanus’ lack
+117 quintum genus celebratae illis (Mayhoff, illi[c] tradd.) etprope in religionem uersae sapientiae deditum
+uoluntaria semper morte uitam accenso prius rogo finit.
+118 The practice ofsati among Indian widows is discussed separately in Chapter 2, section II. 5. 119 Bracmani autem pleraque philosophiae eius contulerunt, quae mentium documenta, quae corporum
+exercitamenta, quot partes animi, quot uices uitae, quae diis manibus pro merito suo cuique tormenta
+uelpraemia. On this passage see the lengthy note by Andr6 and Filliozat, L’Indey pp. 379-81.
+120 Joseph Bidez and Franz Cumont, Les mages hellenises. Zoroastre, Ostanes et Hystaspe d'apres la tradition grecque (Paris: Belles Lettres, 1938), vol. I, p. 27 and vol. II, p. 96 n. 2, write this reference off as too
+late to be trustworthy. Certainly Ammianus uses poetic, evocative language in his brief description. An unusual feature of this passage is his reference to the astrological observation of the Brahmans -
+rationes mundani motus etsiderum - which may be explained by their supposed link with the Magi.
+121 Jer. Ep. 53.1; Sid. Apoll. Epist. 8.3.4.
+122 R. Stoneman, ‘Who are the Brahmans? Indian lore and Cynic doctrine in Palladius’ de bragmanibus and its models,’ CQ 44 (1994), pp. 500-10, at 505.
+Wisdom 277
+of self-control, thereby echoing the negative side of what Strabo describes
+as a dispute in the sources (15.1.68 C718). But when Plutarch has him
+reciting a parable {Alex. 8.65) there is no hint of a negative attitude on the
+author’s part, nor presumably that of his source. In Philo he receives an
+outstandingly good press: he is praised for his exemplary, truly philosophic
+attitude, and, by implication, for his denial ofthe flesh in taking his life.
+123 It
+is possible that Philo is well disposed to the Indians in view of the supposed
+link between Jews and Indians we have seen in Josephus. 124 On the other hand, several fathers of the church are negative towards the Brahmans: when Tertullian claims that Christians do indeed help to support the state, he does so by contrasting them to the socially aberrant Indian sages: ‘for we are not Indian Brahmans or Gymnosophists, forest-dwellers and exiles from life’.
+125 The point of comparison is, properly, with Indians in general, but the reference to the Brahmans and Gymnosophists tacitly reaffirms the
+Christians’ own status as philosophers of a kind.126 This is taken further by Augustine, who opposes the notion of salvation for the Indians and
+scorns their marginal status relative to society and their distance from the Christian faith: The gymnosophists of India, also, who are said to practise philosophy in the jungles of India without clothing, are citizens of that [earthly] city, and yet they abstain from procreation. For such continence is good only when it takes place in keeping
+with faith in the highest good, which is God. {City ofGod 15. 20)127 Clearly we are dealing with a wide range of opinions, among Christian
+writers and others. Of these, it was to be the positive one that would
+predominate in the medieval west.
+128 Within Indian texts there is also a substantial degree of variation in the presentation of Brahmans. 129 Much of Sanskrit literature was actually produced, or at least written down, by Brahmans, and tends consequently to represent their perspectives and interests. On the other hand, Buddhist texts
+123 In the quod omnis probus liber est 14.92-96 he is among the dvSpcov aya6cbv; cf. the general comment at vita Abraham 33.181—82 on the praiseworthiness of the Gymnosophists and their wives
+in readiness to face death.
+124 Cf. section II. 3 above.
+125 neque enim Brachmanae aut Indorum gymnosophistae sumus, sylvicolae et exules vitae {apol. 42.1).
+126 Cf. section II.3 above.
+127 et Indorum Gymnosophistae, qui nudiperhibenturphilosophari in solitudinibus Indiae, dues eius mundi
+sunt, et a generando se cohibent. non est enim hoc bonum nisi cumfit secundumfidem summi boni, qui Deus est. 128 This was partly as a result of the strength of the Alexander legend: Thomas Hahn, ‘The Indian
+tradition in western medieval intellectual history’, Viator 9 (1978), 213-34.
+129 On Sanskrit representations of Brahmans see Basham, The wonder, pp. 139-41.
+278 Contexts ofa discourse generally exalt the ksatriya class over the Brahman. This is usually done with
+reverence for the Brahmans. These sources portray very different kinds of Brahman, and in so doing offer very different attitudes to priestly practices performed by members of the class. Here we find both learned Brahmans,
+performing rituals and receiving due reverence; but also village Brahmans, who live by fortune-telling and sorcery, and are less honoured. In fact, the
+fool ( vidusaka) in Sanskrit drama is typically presented as a Brahman; just
+as he is gluttonous, so bibulousness is sometimes linked with Brahmans.
+Sanskrit sources portray the Oxudrakai group, who are admittedly on the
+fringes of Brahman society, as one of the many disorderly people of the Punjab. 130
+III. 2. Alexander’s interview: Palladius and others
+It is against this complex background that we must turn to a late-antique story about Brahmans. In Chapter 1 we saw that the Brahmans came
+into view during Alexander’s campaign. Indeed, they might be considered, together with the details of Indian social structure, to be the major
+addition to Greek Indography to emerge from the campaign. Thus it is that an account of Alexander’s journey now occupies us: not one of the
+earliest, certainly, but a text that describes them in vivid detail. 131 This is the treatise On the life ofthe Brahmans, attributed to Palladius and transmit- ted on the fringes of the Alexander romance tradition. It survives in both a Greek version and in a Latin translation erroneously ascribed to Ambrose.
+Because of the obscurity of this work and its importance to this chapter, I shall summarise it before embarking on an analysis. The summary in itself will bring to light various aspects of wisdom touched on above, and these
+aspects will be further teased out in what follows. As it now stands, the work falls into two disparate sections. In the first, the primary narrator tells what he has learned about the Brahmans and how. He has not been to this distant and dangerous place, having fallen ill and
+had to turn back on his travels in that direction (1.1). He did, however, find
+130 O. Stein, RE 36.2024—32, at 2031, s.v. Oxudrakai; Karttunen, Hellenistic world, pp. 216—18, 226—8; Bosworth, Commentary, vol. II, p. 219.
+131 The role of Brahmans in the Alexander historians has been touched on above in the introduction,
+so that text of Palladius is offered to indicate a different and perhaps more complicated strand in an alternative tradition. It is for two reasons that I choose this text over the much more widely
+disseminated Alexander romance, first, it was composed by a Christian bishop, of whom we have
+other writings; secondly, the Alexander romance has already received comprehensive treatment by
+Stoneman, ‘Naked philosophers’. The first of these reasons makes it possible for us to set the work
+in a Christian milieu.
+Wisdom 279
+out much from a Theban scholar who travelled there of his own accord, was captured and used the opportunity to study the Indians. This Theban, who becomes the secondary narrator for much of the rest of section I, sails
+first to Adule and Axum in his quest for the island of Taprobane. Here in Axum, ruled by a local Indian king,131 he joins some local Indian traders who are setting out for the land of the big-headed Bedsades. Once among
+the Bedsades, he is taken captive and charged with trespassing, and taken
+to the leader. He can neither understand what is being said to him, nor make himself understood, in the absence of a translator. He is convicted to work in the royal bakery, where he remains six years, long enough to learn the language and find out about the way of life of the residents (1.9). He
+gains his release during a clash between the local potentate and another:
+the great king forces the ruler of Bedsades to release the traveller to avoid
+slighting the powerful Roman state (this results from the intervention of
+the opposing potentate, 1.10). At this point the primary narrator resumes, recounting various details about the Brahmans: they are set aside by divine dispensation, they keep no animals and don’t farm, they eat only what the earth produces of its own accord; they pray unceasingly, gazing at the sky rather than eastward, though they have only little knowledge of God and of Providence (1.12—13). They live on the far side of the Ganges, their wives on the near side; they meet only a short period every year for the purpose of procreation, and
+only produce up to two children - the reason their race is not numerous. The river Ganges is hard to cross in view of the very long Odontotyrannus,
+big enough to swallow an elephant whole. Near the rivers are very large serpents, of which I have seen only the skin. The primary narrator ends off by saying that he is enclosing a work by Epictetus’ student Arrian, one that provides the recipient with a moral code worth following (1.15). The second section begins by presenting itself as the comments of Dandamis, teacher of the Brahmans.'33 Alexander was dissatisfied with Macedonia and desired to rule our part of the world as well, on the false pretext that
+his father was Ammon (2.1). He prayed to Wisdom, mother of Providence,
+for a meeting with the Brahmans, having heard about them from Calanus
+(2.2). The Brahmans and Indians spoke to Alexander as follows: you have come to us in search ofwisdom, which we gained and which rules our lives.
+132 Again we have here the conflation of Ethiopia and India. When Taprobane is described as the place where the great Indian king rules over minor potentates ‘as over satraps’, the comparison with Persia
+is striking.
+133 This introduction varies in the different manuscripts; its authenticity is brought into question by
+the switch to the third person at 2.12.
+2.8 o Contexts ofa discourse We philosophers are not subject to worldly rulers (2.3). Calanus, through whom you came to know about us, was a wicked man, for he pursued
+wealth, and the riches which he obtained made a backslider out of him, though he had drunk the Tiberoboam’s waters of self-control (sophrosune, 2.4). We are by nature without riches, and death is our companion; wearing nothing, in accordance with nature, and see no virtue in killing other
+people, but have conquered our inner warfare and regard the demands of
+desire our enemy (2.5-7). Your definition of a philosopher, on the other hand, is one who talks too much, and even pursues luxury, wealth and
+power (2.8). (There is a fair degree of repetition here, in which Dandamis
+pointedly contrasts the Brahmans’ renunciation of worldly goods with the Macedonians’ desire for the same.) Calanus left the fold, having fallen prey to avarice and become unworthy
+of God’s love (2.10). But there is among our number a man who lives in the
+forest, Dandamis: it is to him that Alexander is taken when he asks to speak
+to their leader (2.11-12). Because he could not see him lying in the forest he sends Onesicritus,134 who at first tries to lure Dandamis with a mixture of death-threats and promises of gifts (2.13-14). Dandamis’ response is that Alexander is not immortal and hence in no position to threaten; he disdains the gifts, because his simple life suffices, and ignores the threats (2. 15-17). Alexander will have to come to him if he wishes an interview (2.18). Intrigued by Onesicritus’ report, Alexander goes to the forest with fif- teen soldiers to meet Dandamis. When he says he wishes to learn God’s wisdom, he is told that his worldly desires have left no room in his heart
+for this: his geographical ambitions are singled out (2.20-21). Dandamis’
+cross-questioning of Alexander culminates with his central, paradoxical
+creed: desire nothing, and everything will be yours; desire ( epithumia) is the mother ofpenury, and never finds what it seeks (2.23). He invites Alexander
+to join him as a pupil in the life of renunciation, sustained by Providence
+(pronoia); he extols the benefits of his own life, being able to foretell the works of God and to intercede with God’s Providence (2.24—25). Killing
+is criticised and contrasted with the life of pacifism and tranquillity: ulti- mately Alexander cannot avoid God’s justice, however aggressive he might
+be. He is told to live the life allotted him by God rather than killing others, which is presented as greed. (2.26-30). The speech ends with the promise
+that Alexander’s failure to obey will be met with punishment, at a future time when his success in war will not help him (2.30).
+134 The unusual —KpaT— ofthe name is transmitted in the majority ofthe manuscripts, and is matched by a corresponding -a- in the Latin.
+Wisdom 281 Alexander is both struck and pleased by what he hears, ‘for there was in
+fact a divine spirit in him but one which had, by an evil demon, been per- verted into murder’ (2.31). He salutes Dandamis for his greatness, beyond what Calanus had led him to expect; struck by the blessings of the tranquil life, he contrasts his own life of fear, especially at night-time, even of his friends (2.32—33). In practice, though, he cannot repudiate his own
+actions, and would in any case be prevented by his soldiers from living in the wilderness (2.34). To honour Dandamis he orders slaves to bring gifts of gold and silver coins, of clothing, bread and oil, for ‘it is a good deed to honour wisdom .'35 Dandamis refuses the gifts, inveighs against luxurious
+living, for he feeds on air and the water of the river, and all his needs are supplied by God. But he does accept the oil, ‘in order not to dishonour one honouring wisdom’, pours it on a pile of wood, sets it alight and prays
+to God (2.37-39). Alexander, moved by these ‘wise and true words’, takes back the gifts refused, whereupon Dandamis launches on a further exposition of his doctrine (2.41-57). In fact the rest of the work is taken up with a further speech of Dandamis, much of it echoing earlier sound-bytes, much of it contrasting Brahmans with Macedonians and Greeks. Calanus is criticised for learning Brahmans’ secrets under false pretences, only to abscond to the Greeks: it is he who has instigated Alexander’s killing of Brahmans, despite
+their peacefulness and lack of materialism (2.41-42). Much is said about
+eating and appetites, now in terms of slavery and freedom (2.44); this leads
+to attacks on the eating of meat, and also on the drinking of wine and on
+castration (2.45, 47—48, 54). Epicurean, Stoic and Peripatetic philosophers
+are all scorned, the first two for their effeminacy and their desire for money
+respectively (2.53). Dandamis ends his speech by saying that the Brahmans
+pity the Macedonians, and indeed all of humankind, and will play no part
+in the hostilities that beset them; again he offers Alexander the possibility of staying with them in the wilderness, following a peaceful life, imitating God (2.55—57). ft is on this note that the work ends.
+Self-evidently, the story shows many of the features sketched earlier in
+this chapter: for example, they speak in paradoxes, their gestures are accentuated, their social position marginal. There are so many ofthese features in evidence in this text that we may regard its main characters, the Brahmans,
+as figures of wisdom. Let us consider some aspects of this in greater detail.
+135 Jyco yap EUEpyEToOpai aocpav Tipcov (2.35-36).
+282 Contexts ofa discourse
+Significantly, they do not themselves travel, 136 but they are the objects of
+religious travel. In general, the story may be said to represent an element present in the other Alexander histories: Alexander’s pothos. The very fact of Alexander’s presence at the edges of the earth shows this. In fact, the drama implicit
+in this confrontation over the nature of knowledge is heightened for its being at the same time a cross-cultural encounter. The tendency to think of the conqueror in moralistic terms is of course not new, and apparent
+in Plutarch’s rhetorical treatise On the fortune ofAlexander. This may be
+regarded as typical of the ancient habit of focusing on the personality of a
+‘great man’.137 There is in fact a contradiction in the presentation ofAlexander here. On
+the one hand, he is supreme representative of the world, and particularly of
+its desires and lusts. As we have seen, he is the figure ofworldly authority,138 the sounding board against which the Brahmans can advertise themselves. At stake here is nothing less than the question about the nature of true knowledge: the worldly or geographical knowledge of Alexander, with its implicit proximity to power (e.g., 2.21), is contrasted with knowledge of
+the divinity. On the other hand, his own search for the Brahmans is in itself a search for wisdom (e.g., 2.39). The scholarly side ofAlexander is brought
+out more clearly in the western medieval tradition. 139 In its basic outline the story-pattern is a familiar one from the realm of folklore: a sage’s encounter with a king, whom he outwits.140 But it is more than that. Much of the first part reads like an ancient novel: the almost picaresque story of travel, capture and release, and there is some
+complexity of narrative frames. A rationalising element is seen, for example, at 1. 13 on the procreative habits of the Brahmans, as if in answer to the question, how else would their tribe increase? (The issue is complicated by the hostility to marriage exhibited in the work, a feature that has
+136 Except, perhaps, in so far as Calanus accompanies Alexander’s retinue up till his spectacular death. This occurs not here but in other versions, notably Arrian Anab. 7.2—3. This is presented not as
+travel in search of wisdom but as a result of his loss of self-control and consequent estrangement from the Brahmans.
+137 For Alexander as a prime target of the Cynic project of subverting authority, see Anthony A. Long, ‘The Socratic tradition: Diogenes, Crates and hellenistic ethics’, in The Cynics, ed. Branham and
+Goulet-Caz£, pp. 28-46, at pp. 29 and 35 n. 20: ‘Even if the encounters between Diogenes and
+Alexander the Great are spurious, they became the favourite Cynic illustration of ethical opposition
+to political kingship.’
+138 On Alexander (like Plato) as a figure of authority against which Cynics react, see The Cynics, ed. Branham and Goulet-Caz6.
+139 See Chapter 5, section 1 . 6. 140 E.g., Stoneman, ‘Naked philosophers’, 114, adduces the Life ofAesop and the Jewish stories of Esther and Daniel, among others.
+Wisdom 283 been taken to betray Gnostic links.) The presence in the text of learned
+digressions is also in keeping with the Greek novel, if one compares, say, Heliodorus’ excursus on the hippopotamus, and indeed Philostratus’ Life of
+Apollonius,'4' On the other hand, the second part is characterised by maxims or gnomai
+of a moralising nature. Much space is devoted to the arguments in favour of vegetarianism. 142 This is merely one of several ways in which accepted
+social practices are questioned, in a manner and tone reminiscent of the Cynic diatribe. We have seen earlier in this chapter the tendency, common
+to Greco-Roman and several other cultures, to give maxims or paradoxes a
+special status as rhetorical units of wisdom. The language of gesture as it occurs in this story accentuates difference
+in both social status and in worldview: it is no coincidence that Alexander
+is standing while they are lying on the ground.'43 We might sense here an
+implicit comparison with the striding of a commander in the Iliad, eager
+to assert himself on the battlefield.'44 More specifically, the presentation of
+this episode in the Alexander romance invites comparison with the ritual prostration (proskynesis) required by Persian kings and, controversially, in 327 bc by Alexander himself.'45 The gesture is spoken of by Aristotle as a
+specifically barbarian mark of honour (Rhetorica 136^36).
+It has been pointed out, in a cultural history of ancient gesture, that
+sitting or lying on the ground is part of a complex of gestures which all aim at a total self-abasement of the subject’;'46 and that ‘[t]he presentation of the self in public . . . was often acted out according to the contrast of high (upright carriage) and low (sitting, prostration)’; in the process
+hierarchies of prosperity and power were enacted.'47 The Brahmans are then very notable for the extent of their self-abasement. That this self-abasement should not be taken for obeisance towards
+authority is made clear in the response of the Brahmans to Alexander. This is reminiscent of Diogenes the Cynic’s famous response to Alexander’s question of what he desired from him: ‘Get out of my sunlight.’148 In so far as body-language defies the norms of social hierarchy, Palladius’ Brahmans
+can very easily have been taken for Cynic sages.
+141 Shadi Bartsch, Decoding the ancient novel (Princeton University Press, 1989).
+142 Stoneman, ‘Brahmans’, 504-9.
+143 On gesture as a central aspect of self-presentation in Roman society which places such a high premium on public rhetoric, see, e.g., Cox, Biography, xi; Brown, Power and persuasion, p. 57; Maud Gleason, Making men (Princeton University Press, 1995).
+144 Bremmer, ‘Walking, standing’, pp. 16-17.
+145 Bosworth, Conquest and empire, pp. 284-7, narrates the crisis this sparked in Alexander’s camp.
+146 Bremmer, ‘Walking, standing’, p. 26. 147 Bremmer, ibid. 148 Arr. Anab. 7.2.1.
+284 Contexts ofa discourse The emphasis placed in the tale of Calanus on suicide by fire has invited
+several scholars to seek parallels in Indian society, but such attempts have borne little fruit. For example, in Jain asceticism starvation rather than fire
+is the preferred method ofsuicide. 149 It appears, at any rate, that this form of
+suicide elicited two different lines of response. First, there were those who
+admired the control ofthe self it expressed, hence the many references to the
+fact that Calanus went calmly into the fire without protesting or flinching,
+as, for example, we saw in Philo above. On the other hand, the calculated exhibitionism involved could cause irritation, as it does in the case of the (admittedly fictional) speaker of Lucian’s On the death ofPeregrinus. We
+should bear in mind that for Greeks and Romans self-immolation was
+never regarded as an acceptable form of death, and remained a marker of
+foreignness. 150 Perhaps the most important figure for us to notice is the Brahmans’
+distance from human culture, their marginality, already touched on in connection with Tertullian and Augustine. In fact, ‘India’ is in this text the shorthand expression for the wilderness ( eremia) of that region, which is set up as a utopia, at the expense of ‘the world’ as represented by Alexander. Dandamis . . . was lying among the woods, resting peacefully on leaves, close by a spring from which he drank as if milking the breast of mother earth . 151 As Dandamis is reported to say later, ‘in the wilderness, the soul is tempted
+towards virtue’.' 52 This utopian vision relies heavily on the idea of nature
+as a refuge from human culture, which comes across as the activities of
+money-seeking, warfare, meat-eating and the drinking of alcohol - all of which come under the rubric ofdesire. Underlying this is a view ofnature as radically distanced from culture. Whereas other holy persons, for example
+in Syria and Egypt, assumed positions which were marginal to their own
+societies, ‘India’ here emerges as being itself marginal to the Greco-Roman
+world embodied in Alexander. This may be considered a geographical vari- ant on the theme of social marginality that we noticed in the case of the Christian holy person. Stepping back a moment from these features of the story, what are we
+to make of its curious textual history? The authorship of Palladius is now
+149 Stoneman, ‘Brahmans’, 505—6.
+150 Anton J. L. van Hooff, From autothanasia to suicide (London: Routledge, 1990), pp. 57-9.
+151 AavSapiis . . . ev uAr| avaKEiTai etti c|)uAAois lapivois eyyus ex001' Tnyy^v cos pa^ov oncepaiov aiaeAycov MTjTpos (2.12).
+152 nEipa^ETai yap eis apET-pv ev ipripipc cpuyil (2.28).
+Wisdom 285
+generally accepted,153 the first part being the safer bet. 154 It is easy to see how part of the work can have got caught up in Alexander legends.155 It was
+written by Palladius of Helenopolis (b. 363/364), who served as bishop first in Bithynia (c. 400—406) and later in his native Galatia (c. 412-0 431). His
+support for John Chrysostom earned him exile from Bithynia in 406, as well as suspicion of sympathy towards Origenism; after being expelled from
+Bithynia he travelled within Egypt before assuming his new see. The Lausiac
+history, which he composed around 419, remains, along with Athanasius’
+Life ofAnthony, a key witness to early Egyptian monasticism. His treatise ‘On the life of the Brahmans’ gained currency in the west through its translation into Latin by Pseudo-Ambrose.'56 A textual tradition in the
+east nearly matching that of the Alexander romance for complexity is an
+indication of its widespread popularity. It was in Egypt that the Romance
+was much read, and it is probably here that the text was composed.
+If, then, we can safely assume authenticity, it is intriguing to consider the work alongside two other aspects of its author’s life. First, what connections can be drawn between this work and the more famous Lausiac history (which
+does not mention it, or in fact Brahmans at all)? Certainly the first-person narration of the first section of the life of the Brahmans can be paralleled
+in the Lausiac history, where he makes constant reference to his own travels in Egypt. It can be no coincidence that, at a time when Christian ascetic theory and practice reached new heights in the Mediterranean world, Indian
+ascetics should have attracted attention. Even if the monastic movement
+had by the early fifth century spread well beyond its Egyptian desert origins (witness Syria), then Anthony’s Egypt continued its exemplary status. If it could be shown that Brahmans too participated in the world of ascetic
+piety, then their spectacular achievements would redound to the glory of Christian asceticism. In this way, the Brahmans, already familiar from
+stories about Alexander, would offer Christians some exotic and eminent
+comrades.
+153 The arguments of E R. Coleman-Norton, ‘The authorship of the Epistola de Indicis gentibus et de Bragmanibus , Cl Phil. 21 (1926), pp. 154—60, still hold firm, however tenuous his grounds
+for claiming that Palladius himself travelled to the east (itself perhaps another instance of the
+‘biographical fallacy’ noted above in connection with the Greek lyric poets). More recent scholarship on the subject heavily favours Palladian authorship: J. D. M. Derrett, ‘The history of “Palladius on the races of India and the Brahmans’” C&M 21 (i960), 64-35; Beverley Berg, ‘The letter of
+Palladius on India’, Byzantion 44 (1974), pp. 5-16; Wilhelm Berghoff, Palladius, de gentibus Indiae
+et Bragmanibus (Meisenheim: Hain, 1967); Richard Stoneman, Legends ofAlexander the Great (London: Everyman, 1994).
+154 For discussion see Derrett, ‘Palladius’, 64-135.
+155 Partly because it narrates the journey of an Egyptian scholar: Berg, ‘Letter of Palladius’, 5-16.
+156 Latin tr. ed. Berghoff, Palladius.
+286 Contexts ofa discourse This line of interpretation gains strength ifwe take into account Jerome’s claim of Palladius’ complicity with the Origenist controversy. The notion
+that all people, not merely Christians, would be saved effectively gives greater room for the Brahmans within Christian thought: at the very least, Origenism redirects emphasis from conversion to the ascetic ideal itself. In
+the light of Origenism it is easy to see why the Brahmans could, in such a brand of Christianity gain sanctity by their ascetic achievements, and could
+in so doing effectively become a non-Christian holy people.157
+III.}. Christians and Cynics The Cynic connection has already been brought out in earlier scholarship.158 This is an important line of inquiry, and one that gains huge importance if we remember that, as we have seen, Arrian, for one, speaks of Calanus and
+Diogenes in the same breath (Anab
+.
+7.2-3).159 We should not forget that the earliest Greek name associated with the interview, apart from Alexander
+himself, is Onesicritus, whom we know to have been a pupil of Diogenes
+of Sinope. 160 But if we consider the authorship of the work we must be mindful also of a different context, that of Christian asceticism. The main
+question we have to consider is, what is it about the Brahmans that appealed
+to Christians? To be sure, the work has many features in common with Christian asceti- cism. But the problem comes when similar features are identified in other brands of ascetic behaviour. Thus we have the conquest of inner warfare
+(reminiscent ofAnthony’s fight with his own sexuality, presented in Athanasius’ vita in very physical terms),'61 submission to the divine, renunciation of the world. But then, as a recent collection richly illustrates,'
+62 there are non-Christian traditions of renunciation too.
+157 However, Berg, ‘Letter of Palladius’, sees the text as Gnostic with Encratite elements; Penelope
+Photiad&s, ‘Les diatribes cyniques du papyrus de Geneve 271, leurs traductions et elaborations
+successives’, MH16 (1959), 116-39, csp- 12.6, as Arrian.
+158 E.g. Victor Martin, ‘Un recueil de diatribes cyniques Pap. Genev. inv. 271’, MH16 (1959), 77-115. Stoneman, ‘Brahmans’, takes this further with a valuable critique of earlier analyses, but see also Willis and Maresch, ‘Encounter of Alexander’, concerning recently found papyrus fragments.
+159 Diog. Laert. (6.76, 79) tells us that Diogenes the Cynic died the same day as Alexander, at the age of
+eighty, that is on 13 June 323. Such a coincidence must be regarded as improbable, and it might be
+best to interpret the story as expressing a pointed juxtaposition between authority and subversion: Long, ‘Socratic tradition’, in The Cynics, ed. Branham and Goulet-Caz6, pp. 28-46, at 45. While
+the historical arguments for Alexander’s meeting with the Brahmans are stronger, we must here too make provision for pointed exaggeration.
+160 Brown, Onesicritus; and Pearson, Lost histories.
+161 Peter Brown, The body and society (New York: Columbia University Press, 1988).
+162 Vincent L. Wimbush and Richard Valantasis, (eds.) Asceticism (Oxford: Clarendon, 1995).
+Wisdom 287 Why should Christians have taken an interest in the Brahmans? It is after
+all a bishop of Caesarea, Eusebius ( PE 11.3), who tells the story of a visit paid to Socrates by an Indian, following Aristotle’s pupil Aristoxenus.163 For Clement, barbarian wisdom in general ‘becomes a means of criticizing the Greek confidence in human reason, the uniqueness of the Hellenic tradition, and their proud proclamation of philosophy and theory’;164 as such, it was part of the idea of ‘original wisdom’ invoked against Greek philosophy
+in its rationalising mould. These cases, taken alongside Palladius’ text, show
+us that the Brahmans, by their very lack ofpaideia, offered Christians like Clement unexpected allies, and a way of chipping away at the imposing
+edifice of polytheist philosophy. Various scholars have grappled with a possible connection between this work and Cynic philosophy.165 Is it possible that this story was a folktale circulating in Alexandria’s philosophical milieu? Certainly, as Chapter 3 shows, it is true that trade activity did bring Indian merchants to Alexandria, and Greeks and Romans to the Indian subcontinent. So it is a priori
+likely that Alexandria, as a major international centre with not only reg- ular trade activity but also a scholarly hubbub since the third century
+bc, would have been a place where such stories could be exchanged. But we must guard here against too readily speaking about ‘folktale’, when
+this obviates the need to think about points of contact with the ‘real’ world. A more profitable way to interpret this material is one which makes
+us recognise the prominence and changing fortunes of holy men and of Cynic sages; and, further, explore features those holy men shared with
+other types of sages, such as wandering Cynics and even Brahmans.166
+It
+is in the sphere ofperceptions that we must seek the possibility of overlap between holy men and Cynics ofthe Mediterranean world on the one hand, and the Brahmans of India on the other. There is no underestimating the
+significance of contemporary perceptions of such people. The room for slippage within such perceptions is attested in an important study ofJesus’ contemporary reception. 167
+163 See section II.i above. ,S4 Halbfass, India and Europe, p. 9.
+165 Beverley Berg, ‘Dandamis: an early Christian portrait of Indian ascetism’, C&M 1970 (31), 269-
+305, has seen Dandamis as an entirely Cynic figure; more moderately, Stoneman in ‘Brahmans’ and
+‘Naked philosophers’ agrees in essence but looks to earlier roots, e.g. Hdt. 3.100 on the non-violence of the Indians. Brown, Onesicritus, has argued both that Cynic doctrine originates in India andthat Dandamis is a projection of the Cynic - seemingly contradictory positions.
+166 This is already to some extent implicit in Reitzenstein’s study on wonder-working, though Brahmans
+themselves do not come under the spotlight: Hellenistische Wundererzahlungen.
+167 Morton Smith, Jesus the magician (San Francisco: Harper and Row, 1978), focusing on exorcism,
+‘nature miracles’ and healing; cf. Fogen, Enteignung, pp. 189-92.
+288 Contexts ofa discourse This apparent confluence of elements brings us to a problem of analysis which we may term comparative asceticism. There is in general the risk of overinterpreting similarities of ascetic practice that may not necessarily be related; in fact there are many other ascetic practices throughout the world, and the same features tend to recur, such as mortification of
+the flesh and vegetarianism. Yet it would seem worthwhile here to consider the possibility that all three had some effect on each other. Similarities between Christians and Cynics were asserted by Lucian and Aelius
+Aristides,’ 68 and much of the recent research on the historical Jesus, at
+least in the eyes of contemporaries, as a Cynic sage.’ 69 Certainly, Dandamis
+exhibits many of the features of Diogenes of Sinope in Diogenes Laertius’
+Vita. There too we must be conscious of projection, given the time-lag of some 500 years between them; and Cynicism had had a varied career by the time Diogenes Laertius was writing.’70 After having low prestige it gained greatly when in the high empire the Stoics claimed them as their philosophical ancestors; qua philosophers they were to get the approval of
+Julian the Apostate, who nonetheless criticises their exhibitionism.'7’ It is also true that neither Dandamis nor Diogenes of Sinope exhibit all the features of the holy man, especially his functions as arbitrator in nonreligious contexts; but both share his histrionics (particularly in the Syrian
+version), and his place on society’s margins. If holy people such as Symeon
+the Stylite appeared in the Byzantine world at a time of Christianisation,’72 then it would not seem unfair to see the Brahman (or for that matter the Cynic sage) as answers to the same area of religious need - all of this in a period of heightened religious conflict.
+IV. THE DIFFUSION OF PA I DEIA: APOLLONIUS OF TYANA We turn now to the testimony ofIndian holiness given by the writer ofa very
+different text: the life of Apollonius of Tyana by Philostratus, composed
+probably around ad 222-35. 173
+I n rhe most obvious sense, Philostratus’
+168 Derek Krueger, ‘The bawdy and society’, in The Cynics
+,
+ed. Branham and Goulet-Caze, pp. 222—39.
+169 Smith, Jesus.
+170 Branham and Goulet-Caz£, The Cynics, introduction.
+171 Or. 6, to the uneducated Cynics’; elsewhere (esp. or. 7) Julian tries to breathe new life into the Cynic movement, and to show the unity of their philosophy. At issue in both, to an extent, is their degree ofpaideia. Like several contemporaries, Julian reveals admiration for the ‘classical’ Cynicism
+of Diogenes while attacking theit contemporary followers as charlatans: G. W. Bowersock, Julian
+the Apostate (Cambridge, MA: Harvard University Press, 1978), pp. 81-2; Athanassiadi, Julian and
+Hellenism, pp. 128-31.
+172 Derek Krueger, Symeon the holyfool (Berkeley: University of California Press, 1996).
+173 Eisner, ‘Hagiographic geography’, 22, following E. L. Bowie, ‘Apollonius of Tyana: tradition and
+reality’, ANRWU.16.Z (1978), 1652-99.
+Wisdom 289
+life of Apollonius exhibits the same features that we have already seen. His eastward journey has the form, at first glance at least, of a pilgrim- age to the wise teachers of ancient societies, inviting comparison with
+Herodotus’ visit to the Egyptian priests, and it is in this light that we see the Brahmans (note esp. 1.2). Yet, as Eisner has made clear in a recent
+article, the hagiography harbours different modalities of travel: on this score alone, its complexities are considerable. In the course of this discussion, we shall have to consider the judgement that ‘Philostratus presents Pythagoras as a recipient and transmitter ofEgyptian and, ultimately, Indian wisdom’. 174 Most of what we know about Apollonius comes, in fact, from Philostratus, a fact that brings difficulties if we are searching for the historical Apollonius, given the nature of Philostratus’ own agenda, as we are able to reconstruct it from his other works. The work itself is more hagiography
+than biography.175 To complicate matters, when Apollonius attracts interest again in the fourth century, it is in a highly polemical context: at issue is the comparison of him with Christ. This topic is brought out polemically
+in Eusebius’ Against Hierocles, at a time when the debate over Apollonius
+heated up amidst conflict between polytheists and Christians.176 But, before we concern ourselves with the complexities ofApollonius’ story, let us first outline the Indian leg of his travels, as told by Philostratus. 177 Having remained twenty months at the court of the Parthian king Bar- danes or Vardanes at Babylon, Apollonius sets out with Damis and some
+other servants. He has received from his host the necessary camels and
+guide. They cross the Hindu Kush and reach the Indus. Here they are amicably received by the local satrap, who heeds Vardanes’ letter of intro- duction and aids their river-crossing. This satrap intercedes with his own
+king, who rules the land between the Indus and the Hydraotes (Ravi), for
+174 Halbfass, India and Europe, p. 9.
+175 Edwards in Portraits, ed. Edwards and Swain, p. 233.
+176 Eusebius’ authorship has been impugned by Tomas Hagg, ‘Hierocles the lover of truth and Eusebius the Sophist’, SO 67 (1992), 138-50. Contra: Timothy D. Barnes, Constantine and Eusebius (Cambridge, MA: Harvard University Press, 1981), pp. 164-7, who dates its composition to shortly before 303. What is more, the VA shows certain parallels to Christian hagiography, and these may in
+fact betray influences from Christian texts: Smith, Jesus the magician, pp. 84-93; Swain in Portraits, ed. Edwards and Swain, p. 28.
+177 For an older generation of scholarship concerned primarily with the historicity of the journey, see the analysis of Vincent A. Smith, ‘The Indian travels of Apollonius of Tyana’, ZDMG 68 (1914), 329-44, with ample reference to earlier work; cf. Christopher P. Jones, ‘Apollonius ofTyana’s passage
+to India’, GRBS 42 (2001), 185-99. It is striking that Eusebius never denies that Apollonius visited India, though he does ridicule the travellers’ tales he brings back. More specifically, the historicity of Apollonius’ companion Damis has been doubted by Barnes, Constantine and Eusebius, p. 166; Bowie, Apollonius’, sees him as an invention of Philostratus.
+290 Contexts ofa discourse
+safe passage. Having crossed the Indus, they reach Taxila,178 where they
+are received for three days by an Indian philosopher-king, known by the Parthian name of Phraotes (2.19—20). Their lengthy conversations span var- ious topics, including the nature ofphilosophical training, of rulership, and
+Apollonius advises the king on a legal dispute (2.39). From here the travellers set out to find the Indian sages, taking with them fresh camels and a
+letter of introduction from the king. Two days from Taxila they come upon
+the battlefield where Alexander defeated Porus. They cross the Hydraotes and then the Hyphasis. Still thirty stadia from the Hyphasis they catch
+sight of monuments marking the limit of Alexander’s expedition (2.43). They then cross that part of the Hindu Kush which stretches down to the Arabian Sea, coming to a plain irrigated by channels from the Ganges. Here they hunt dragons. Having heard ofa great city called Parax or Paraka,
+situated at the foot of an unspecified mountain, they proceed for four days through fertile countryside until they arrive at the castle of the sages, placed
+atop a hill. Here Apollonius stays for four months as a guest of the philosophers, with whom he converses regularly in Greek. 179 Among others, he meets
+Iarchas, chief of the sages. Supplied again with a guide and fresh camels he travels for ten days before reaching the sea.
+180 He reaches an unnamed
+port where passenger ships lay at anchor, and sends the camels home with
+a letter addressed to Iarchas. He embarks one of the ships, encouraged by
+a gentle breeze; but soon sailing conditions become much less favourable
+at the mouth of the Hyphasis. He sails past the mouth of the Indus, along
+the Makran to the mouth of the Euphrates, following the route taken by
+Nearchus (3.53). He returns to Babylon and visits king Vardanes. From
+there he travels by land to Seleucia via Nineveh, then by ship to Cyprus, and thence to Ionia. (Book four is devoted to his travels in Ionia, the Greek
+mainland and Italy.) Apollonius’ own status as a sage is assured at the start by his own stated search for wisdom: such is his piety that he exceeds Pythagoras in sophia
+178 Though there might be archaeological evidence for Taxila as a 'university city’ (Smith, ‘Indian
+travels’, 336), this diagnosis cannot be made of Philostratus’ chapter: the grandeur of the royal palace includes Greek reliefs, and the city is compared with Nineveh, but it would be going too far to speak of this as a site of Greek paideia in the text: Dani, Taxila.
+179 We may note that, in keeping with the ancient (mosdy historiographic) discourse on autopsy,
+Philostratus actually meets the Brahmans in person. Just as Onesicritus is an intermediary in the Alexander histories, so the Indian messenger fulfils that function here.
+180 Philostratus claims at this point that he kept the Ganges on his right and the Hyphasis on his left, a geographical possibility.
+Wisdom 291
+(1.2). This search for wisdom is explained by the author as a series of
+interviews with the Babylonian Magi, Indian Brahmans and Egyptian Gymnosophists. At the same time, as the author concedes, these very visits made
+him subject to accusations of quackery, accusations which Philostratus is at pains to counter from the outset. Some praised him, but for others these
+visits were grounds for suspicion: Because he was in contact with the wizards of Babylon, the Brahmans of India, and
+the naked philosophers of Egypt, some dismissed him as a charlatan, and alleged that he was a wizard, passing a negative judgment on him. (1.2)
+181 Again we see the fragility of wisdom: journeys of the kind that conferred wisdom on the Seven Sages are the very ones that elicit criti- cisms of Apollonius’ quackery. Philostratus’ defends Apollonius by comparing him with Empedocles, Pythagoras and Democritus, who spoke
+with Magians though themselves never resorted to magic. Even Plato, whose reputation for wisdom is beyond reproach, visited Egypt to speak with its prophets and priests. And so Philostratus’ apologia continues.
+Philostratus does not suggest that the eastern sages are in themselves dubious: at issue is the acceptability of consorting with them on the part of Greeks. The polemical note of these comments is matched by many of
+the earliest references to Apollonius, on the part of both Christians and
+polytheists. 182 One feature that marks this text from other ancient ethnographies is the
+attention given to language. A striking case comes at 3.12, when Apollonius meets the Brahmans’ messenger. ‘He ran up to Apollonius and spoke to him in Greek. In itself this did not seem remarkable, for the inhabitants of the village spoke Greek.’183 The surprise comes when the messenger
+addresses the visitors by name. For Apollonius, this is a sign of the Indians’ foreknowledge and hence their ‘true wisdom’, and as such marks the success of their journey. This he says to Damis:
+‘We have reached men,’ he said, ‘who are absolutely wise, for they seem to have
+the gift of premonition.’ (3.12)
+184
+181 oi Se, etteiSt] n&yois Ba|3uAcovicov Kai ’lv8cov Bpaxpacn Kai toIs ev AiyuiTTu rupvois
+CTUvsyevsTo, nayov TjyoOvTai auTov Kai 8ia(3aAAouaiv cos (3iaicos cro<f)6v, kokcos ylyvcbaKOVTgs•
+182 See the testimonia collected by G. Petzke, The Traditionen iiber Apollonius von Tyana und das Neue
+Testament (Leiden: Brill, 1970), pp. 19-45.
+183 TtpoaSpapovTa 8e tco AttoAAgovigo <f>covrj 'EAAaSi TTpoaeiireiv auTov, Kai toOto pev outtco Qaupacrrov 8o£ai 81a to Kai tous ev Trj kcopt] travTas caro TEAArivcov <j> 0£yy£a0ai.
+184 uapa av8pas, £<J>r|, ao<f>ous aTEyvcos f|Kop£v, EoiKaai yap TtpoyiyvcboKEiv.
+292. Contexts ofa discourse The emphasis on Greek language as a cultural index may be regarded as typical of the work as a whole.185 It is part of Philostratus’ particularly Hellenising view of India.
+It is already clear that Philostratus’ India emphasises the diffusion of
+paideia. Beyond this, if we ask what role it plays in the text, two answers can be given. The first, more obvious, one involves travel as a source of
+authority. It is his journey to India that empowers Apollonius, from a
+certain point of view, to confront the Roman emperors. His two very dif- ferent interviews with the Indian kings prepare the way for those with two Roman emperors, namely Vespasian at Alexandria (5.27-38) and particularly Domitian at Rome (7.32-33 and 8.1-5). The last of these is in the form of a legal trial, from which Apollonius is acquitted and departs
+miraculously. There are important differences between the Indian rulers, differences whose significance becomes even more apparent in hindsight. On the one hand, the philosopher-king Phraotes, advocates the simple life free of war, as well as vegetarianism, and speaks fluent Greek
+(2.25-29); he tells of strict rules restricting admission to the status of
+philosopher (2.30). On the other, the unnamed Indian king dismisses philosophy as foolishness and is contemptuous of the Greeks generally
+(3.28—29). Though Apollonius successfully refutes the king’s insult of the Greeks as ‘slaves’, he refuses his invitation. This second king in his boastful- ness comes close to Aristotle’s idea that India contains despots, and contrasts with the philosopher-king.186 Later in the hagiography, Apollonius clashes with both Nero and Domitian, whereas Vespasian seeks his guidance. The
+difference between these two models of rulership has already emerged in
+India. Even if the second king’s comments on the Greeks reflect badly on
+himself, India in this work is nonetheless the place that makes critique possible. The philosopher Iarchus criticises the Greeks as hypocritical in their
+lip-service to justice (dikaiosune, 3.25). In his encounters with the Roman
+emperors, it is Apollonius’ travels that make it possible for him to speak
+truth to power; in so far as this is especially true of the Indian leg of his
+185 Apollonius’ impeccable Greek is without any tinge ofa Cappadocian accent (1.7). See the discussion of Flinterman, Power, paideia, pp. 90—100. In general, on the role of language in the construction of
+Hellenic culture (though focusing on an earlier period and on differences between Greek groups),
+see Hall, Ethnic identity and HelLenicity.
+186 The unnamed king’s accusation that the Greeks were the ‘slaves ofXerxes’ resonates with Aristotle’s comment on Indian despotism, which he attributes to Scylax: cf. Chapter 1, section I.i above. This view contrasts with Aristotle’s positive image of the philosopher-king: Malcolm Schofield, Saving
+the city: philosopher-kings and other classical paradigms (London: Routledge, 1999).
+Wisdom 293
+journey, by implication India itself is the space of critique. This is true of India in a way that does not apply to Egypt, that part of Apollonius’ journey described in book 6. Apollonius’ lengthy speech in his own defence
+against Domitian’s accusations contains praise of Indian philosophers, dis- tinguished from Egyptian, as his teachers (8.7). Second, less obviously but no less significantly, India invokes the memory
+ofAlexander in a particular way. References to Alexander are relatively few, yet he is a profound presence in the text, not only by means of his own
+itinerary but also that of his general Nearchus (2.17 and 3.53). What is more, India’s sacred geography is mapped in relation to Dionysus and
+Heracles, themselves linked with Alexander’s expedition. The invocation of Alexander is no simple matter, and is certainly not adulatory in an uncomplicated way; rather, it contains a strong sense of revisionism. Thus
+the party visits the shrine of Dionysus at Mount Nysa (2.9). In describing
+this episode, Philostratus enters into discussion about whether Alexander
+did in fact ascend or whether, according to local tradition, he refrained from
+doing so in order to spare his troops the temptations of grapes available
+there. The tone of the chapter is defensive, as if Philostratus is aware of
+controversy on the subject. In this way Alexander is the subject of ongoing
+debate. By the same token, the travellers’ refusal to visit Mount Aornus
+shows both awareness of the campaign and a willingness to diverge from
+its path (2.10). The memory of Alexander lives also in relation to monuments. His combat with Porus is commemorated in several ways in book 2. One
+of Porus s elephants, by the name of Ajax, still lives at Taxila. Enjoying
+celebrity status well into its fourth century of life, it wore golden rings on
+its tusks, to which Alexander had added a dedicatory inscription to the Sun (2.12). The temple of the Sun was adorned with golden images of
+Alexander, whereas those of Porus were of black bronze (2.24, cf. 2.20). Such references to Porus emphasise his subjugation to Alexander, and one
+even suggests affectionate loyalty (2.20—21). The most remarkable monument to Alexander comes, however, at the point where Apollonius and
+his party cross the river Hyphasis, and thus proceed farther into India than
+Alexander’s troops had allowed. Near the river they found altars inscribed as follows: ‘To father Ammon and his brother Heracles and Athena Pronoia and Olympian
+Zeus and the Kabeiri of Samothrace and the Indian Sun and Apollo of Delphi.’ They say that a bronze stele was also dedicated, and on it was inscribed: ‘Alexander reached this point.’ We may imagine that the altars were the work of Alexander,
+294 Contexts ofa discourse who thus acknowledged the extent ofhis empire, but I suspect, on the other hand,
+that the stele was put up by the Indians beyond the Hyphasis, so as to express their pride that Alexander had gone no farther. (2.43)
+187 This location is presented as a very distinctive landmark within Philostratus’ cultural geography of Hellenism. Its placing at the end of the second book
+merely heightens its impact. The sentiment expressed, containing as it does a hint of resistance to Alexander, is somewhat at odds with Porus’ adulation of him. Given the nature of Alexander in the text, however, this
+is no serious contradiction; it merely points to a variety ofresponses inspired by his campaign. Philostratus’ gloss in this extract certainly differs from the more laudatory responses to Alexander’s campaign. The possibility of varied responses to Alexander’s campaign is analogous
+to the complexity of India itself in the Life ofApollonius. On the one hand
+it shows the diffusion of Hellenism, particularly in light of the attention given to the Greek language; on the other, it is also a source of wisdom, and of authority. In this respect, India in this text, is distinctly superior
+to Egypt. It is thus not surprising that Apollonius is both a pilgrim, going
+to learn from the Indian sages, and also a teacher. The clearest example of
+this is the counsel he gives Phraotes in a legal dispute (2.39). Philostratus,
+it is true, devotes some attention to the topography and natural history of
+India. Much of this, however, is highly stylised. It would be more accurate
+to say that it occupies a complicated place in Philostratus’ ‘hagiographic geography’: by virtue of its remoteness, it symbolises the diffusion of Greek
+culture, and is thus a place-marker of sorts.
+188
+V. MODALITIES OF TRAVEL
+Again we are faced with the simple question: what is the geographical area described by Greeks and Romans as India? Naturally enough, the Brah- mans of the Alexander histories are a feature of the Indus Valley. Indeed
+Alexander’s ‘India’ was very much the Indus Valley. Philostratus’ story of
+Apollonius, which can be closely mapped, adheres narrowly to the route taken by Alexander and, finally, by his officer Nearchus. All of this is unsurprising, in the light of Chapter 1. Indian history, on the other hand, shows
+187 FIATPI AMMOINI KAI HPAKAEI AAEAdXAl KAI A0HNAI PIPONOIAI KAI All OAYMTIIWI KAI ZAMO0PAIHI KABEIPOII KAI INACOI HAICOI KAI AEAOtol ATTOAAtoNI, <t>aai Serai cttt)Xt)v dvoKEicrGai x^Ak^v, f) £Tnyeypd<})0ai AAEEANAPOI ENTAY0A EITH. tous pev 6f) (3copous AAe£av6pou T)yGopE0a to Trjs eocutou dpyns TEppa TipcbvTOS, tt^v 8e (TTT|Ar|v tous peTa tov
+"Y^aoiv 1v6ous dva0Eivai SoKcbpoi AapTtpuvopEvous etti tco AA£^av8pov pf] npo£A0£iv Tpoaco.
+188 On this, more generally, see G. W. Bowersock, Hellenism in late antiquity (Ann Arbor: University of Michigan Press, 1990).
+Wisdom 295
+us that Brahmans were by no means confined to this region, in that we do
+have Sanskrit texts from before the time of Alexander, speaking of Brah- mans in the Ganges valley. 189 This is the best corroboration we can hope to find for the Indian king’s comment to Apollonius: Alexander merely spoke
+to the warlike Oxydracae tribe, whereas the ‘true sages’ 190 live between the Hyphasis and the Ganges, in territory never reached by Alexander (2.33).
+It is here that the Greco-Roman field of vision shifts eastwards of Alexander’s conquests. Very different still in its setting is the Thomas story, which
+refers more to the south of the subcontinent. These southern parts came
+into the Greco-Roman field of perception only later, as we see in Pliny’s Natural history and other texts mentioning Roman trade. Though such
+trade, famously, had little impact on the formation of a literary image of
+India, it had the effect of making possible the kinds of contact that fostered the diffusion of Christianity.191
+Vi. Pilgrimage into mission The geographical question of north versus south is thus linked with that of modalities of travel. To be sure, much has emerged in this chapter to portray India as a site of pilgrimage, and this relates mostly to the north and
+northwest. The paradigm of pilgrimage was set up by Alexander’s interview with the Brahmans, and underlined by his oft-described reverence toward
+them.'92 Historically, this may be true in retrospect only, i.e. much more the
+interpretation of later commentators than part ofAlexander’s own actions; but at all events the paradigm thus created was a strong and enduring
+one. 193 It was reinforced by a number of factors: the antiquity of Indian
+civilisation was well known, and may variously have accounted for and
+been strengthened by a tendency to link Brahmans with other eastern
+189 By contrast, the Shatapatha Brahmana (Brahmana of the hundred paths), a text of around the eighth century bc, speaks of Brahmans living in the Gangetic plains, i.e. in the northeast of the subcontinent: Kulke and Rothermund, History ofIndia, pp. 48-9.
+190 oi 6e crrexvcos ao<f>oi.
+191 Dihle, ‘Conception of India’ (= Antike und Orient, pp. 89-97, at 91 )* has shown that the spread of Christianity largely matches trade routes of the first and second centuries ad. Note also his comment on the different geographical conceptions of India mentioned here, pp. 89—90.
+192 With much continuity up to the present day, parts of India have also been the site of Buddhist
+pilgrimage: for a sample of texts reflecting this, including Fa-Hsien, see the collection edited by
+Molly Emma Aitken, Meeting the Buddha: on pilgrimage in Buddhist India (New York: Riverhead,
+1995). Benares, or the modern Varanasi in the central Gangetic plain, is an example of an urban
+centre which has religious rather than specifically political significance.
+193 Hahn, ‘The Indian tradition’.
+296 Contexts ofa discourse
+sages, namely those of Egypt and Babylonia.' 94 Furthermore, in historical terms Brahmans held a powerful and insular position in Indian society, so
+that Indian society may have seemed to Greeks and Romans to support a strongly institutionalised brand of holiness - one which, more than in their own societies, explicitly linked holiness and wisdom. Of the two texts we have considered here at length, Palladius’ On the life ofthe Brahmans was composed more than two centuries after Philostratus’
+Life ofApollonius ofTyana. But the Alexander tradition stretches back much
+further into the past (as is shown by the Berlin papyrus), and it is quite
+possible that Philostratus in fact knew the Alexander romance, for many
+of its features seems to be presumed by the biography, with its greater sophistication.' 95 Accordingly, the kind of travel we find in Philostratus
+is more complicated than that in Palladius (and indeed elsewhere in the
+historical and romance traditions of Alexander). What is at stake in this kind of religious travel? Travel in itself dramatises
+the exchange of cultural capital, as Eisner has shown.'96 The same could
+be said of the recurrent and variable motif of Alexander’s interview with
+the Indian philosophers: a confrontation of political authority and social criticism. This emerges from Palladius and the Alexander romance tradition even more strongly than the earlier Alexander historians. We have already noted above that a sense of separation or distance tends to be implicit in the sacred; one could claim here that this sense is magnified by distance involved in travel. What is more, if priests in the Greco-Roman world are in any case a group of people set apart, then Indian priests are that much
+more radically set apart. Certainly there is from the fourth century ad a
+substantial Christian tradition of travel to a particular holy land, following Helenas discovery of the True Cross, but we must not forget that there had already been a strong precedent in Greek religion in the form of travel
+194 Ultimately, as we shall discuss in the conclusion, this may have been a factor leading to a totalising Roman view of ‘the east’.
+1,5 Stoneman, ‘Naked philosophers’.
+196 Pilgrimage was by no means a Christian invention: Sabine MacCormack, 'Loco, sancta-. the organisation of sacred topography in late antiquity’, in The blessings ofpilgrimage, ed. Robert Ousterhout
+(Urbana: University of Illinois Press, 1990), pp. 7-40, and R. L. Wilken, The land called holy (New Haven: Yale University Press, 1992), emphasise polytheist and Jewish precedents respectively. Matthew Dillon, Pilgrims andpilgrimage in ancient Greece (London: Routledge, 1997), esp. pp. 60-
+98, identifies three types of pilgrim ‘seeking a solution to specific problems’ (60): those visiting an
+oracle to secure a god’s approval or advice, those seeking initiation into a mystery cult in the hope of
+a better afterlife, and those seeking a cure. Eisner, ‘Hagiographic geography’, in suggesting Christian paradigms for Apollonius’ ‘pilgrimage’ might have made clearer that Christian pilgrimage, strictly speaking, did not occur before Helena’s discovery of the True Cross: e.g., Wilken, Land called holy, pp. 101-25; an<i Hunt, Holy Landpilgrimage, pp. 28-9.
+Wisdom 297
+to shrines and oracles, and also in the post-exilic Jewish concept of the Promised Land. To what extent do Greco-Roman ideas about India’s holiness begin with
+Alexander? Did the earlier Greek travellers visit India as a site of holiness,
+in the way that Hegel diagnosed?197 Not so, in so far as the Achaemenid
+context outlined in Chapter 1 was most readily understood in a military
+light. The Brahmans do not feature in any accounts of India preceding
+Alexander. Whether or not Alexander actually sought the Brahmans out as wise people is impossible to say. But it is clear that the post-Platonic period
+left much room for sages untainted with the negative effects of the Sophistic
+revolution; other eastern sages, such as Magi or Chaldaeans came into the breach in a more obvious way than did Brahmans, given that they were
+better known to Greeks at this time. But it is clear that the Brahmans were
+to some extent viewed in the same light as these other sages, by extension
+if nothing else.
+It is one thing to speak of modalities of travel per se and another to talk about India as a destination of such travel. It does seem, from our survey, that India became such as a destination at a relatively late stage, if we are to think ofpre-Alexander accounts. On the other hand, the principle of travel to eastern lands is well established from the lawgivers. It appears, however,
+that this generally means Mesopotamia and Egypt rather than India. From
+Herodotus and Plato alone we see that eastern lands constitute a region deserving to be visited by those seeking wisdom, but in those authors India does not get explicitly included. But pilgrimage on these lines is not the whole story. Another kind ofjour- ney exists from much earlier, and considerably complicates the picture. The
+travel ofGreco-Roman sages involved a degree ofteaching also on their own
+part - something that essentially reverses the direction of cultural assimilation. It is thus important to emphasise the complexity of Philostratus’ Life ofApollonius, as a text harbouring varied concepts of religious travel.
+V.2. Thomas and tradition Christian texts concerning India show much in common with polytheist ones, not least in their coverage of the sages. Yet there is a specifically Christian India, in which the subcontinent is a place of mission, and inspires
+*97 ‘Without being known too well, it has existed for millennia in the imagination of the Europeans as a wonderland. Its fame, which it has always had with regard to its treasures, both its natural ones, and in particular, its wisdom, has lured men there.’ (Hegel, Philosophic der Weltgeschichte, quoted
+in translation by Halbfass, India and Europe, p. 2)
+298 Contexts ofa discourse teaching rather than learning. Embedded within this missionary perspective is a distinction between northern (mostly northwestern) and southern
+India, one that reflects different travel routes.
+It is the apostle Thomas that is, at least in the modern period, most widely
+considered the first Christian missionary to India. 198 Fifteenth-century Por- tuguese colonial accounts reported Christians on the southern coast who
+honoured Thomas as their founder. As early as Gregory ofTours in the fifth century, some Christians considered Thomas to have been martyred near Chennai (Madras)
+.
+199 By at least the fourth century Thomas was linked with
+peninsular India. But, as we shall see, this identification comes relatively
+late in the day. The major source of this tradition is the apocryphal Acts ofThomas. Originally written in Syriac, as now seems likely, in the early third century ad,
+it was translated into Greek at an early date. 200 Through these and further
+translations, into Latin and most other languages of early Christianity, it became widely diffused in late antiquity. According to this text, the apostles at Jerusalem divide amongst themselves the lands for missionary travel. Thomas, to whom India falls, is unhappy: And India fell by lot to Judas Thomas the Apostle. And he was not willing to go, saying, ‘I have not strength enough for this, because I am weak. And I am a Hebrew: how can I teach Indians?’ And whilst Judas was reasoning thus, our Lord appeared
+to him in a vision of the night, and said to him: ‘Fear not, Thomas, because my
+grace is with you.’ But he would not be persuaded at all, saying: ‘Whithersoever you will, our Lord, send me; only to India I will not go.’ 201
+It is only when, by chance, an Indian merchant comes to Jerusalem that Judas is sold by Jesus as a slave and a carpenter, and thus goes to India some- what against his will. This merchant is in the service of king Gudnaphar. Once in India, he builds a palace for the king; he is imprisoned because he
+donates his payment to the poor. The rest of the work consists of a series of ‘acts’, including the expelling of demons. In its contents the work is similar to the four other apocryphal Acts. His eventual martyrdom comes
+as a result of his success in converting various people, including the wife
+198 Brown, Indian Christians.
+199 Gregory of Tours, Glor. mart. 32 [PL 71, 733!]. This continues to be a cult site of Thomas today, along with another at Kalliene near Mumbai (Bombay). N. J. Thomas, Die syrisch-orthodoxe Kirche
+der siidindischen Thomas-Christen (Wurzburg: Augustinus, 1967); still fundamental is A. Mingana,
+‘The early spread of Christianity in India’, Bulletin oftheJohn Rylands Library 10 (1926), 435-96.
+200 A. F. J. Klijn, The Acts ofThomas: introduction, text, and commentary
+,
+2nd edn (Leiden: Brill, 2003),
+pp. 3-4 and 8-9, revisited by Jan N. Bremmer, ‘The Acts of Thomas: place, date and women’, in The apocryphal Acts of Thomas, ed. Jan N. Bremmer (Leuven: Peeters, 2001), pp. 74-90; in what
+follows, I am indebted both to Klijn’s edition and Bremmer’s volume.
+201 Klijn, Acts of Thomas, p. 17.
+Wisdom 299
+of an officer of the king. Thomas preaches against marriage which, unless
+chaste, is a ‘deed of shame’ (e.g., chs. 14 and 54). The king, having ordered Thomas’ execution, finally converts to Christianity after the dust from the
+apostle’s grave cures his sick son. In the text conversion is expressed in terms of purity and abstinence from sex. The emphasis on purity and redemption from corruption has been seen in light of the encratitic strands of eastern
+Christianity. 101 Compared with Philostratus’ Life ofApollonius, there is little in this text that gives topographical specificity to India. However, what is especially interesting is Thomas’ hesitation to go to India, even though he is otherwise
+a willing missionary. The Latin version adds an explanation:
+For that region is distant and rough, and the inhabitants of the place are evil and
+ignorant of the truth. 203 The significance of this passage is that it brings the vague Christian missionary idea of India closer to the ethnographies surveyed in Chapter 2. It
+is thus no surprise that it is a Latin translation that adds this detail. The tradition surrounding the Acts involved overland exchange net- works between Mesopotamia and the Persian Gulf, and thus, in its earlier forms, points more strongly to the northwest than the south. The
+supposedly Indian names found in the text are identifiably Persian, an
+indication of northwestern links. The ruler mentioned in the text, Gundaphorus, has been identified from coin finds with Parthian dynasts of
+the first centuries bc and ad.104 Thomas’ itinerary from Mesopotamia to the Indus valley demonstrably coincided with the Persian Gulf sea-route. In this respect, Thomas’ India occupies the same geographical space as Apollonius’. Though the Acts have become well known over time, they represent only one strand of missionary history. On the other hand, some earlier strands of Christian tradition present Bartholomew as the first missionary. Eusebius reports that Pantaenus, a Stoic philosopher and Clement’s teacher
+at Alexandria, was ‘appointed to preach the gospel ofChrist to the peoples of
+the east, and travelled as far as India’. 105 Having reached the subcontinent,
+202
+Y. Tissot, ‘L’encratisme des Acts de Thomas’, ANRWW.z^ (1988), pp. 1415-30.
+203 De miraculis beati Thomae apostoli 46.3: regio enim ilia longinqua et grauis est, incolae quoque loci
+illius iniqui et ignorantes sunt ueritatem: Klaus Zelzer, Die alten lateinischen Thomasakten (Berlin: Akademie, 1977). An Arabic version goes even further: ‘for they are hard men, like wild beasts, and
+it will be difficult for them to receive the hearing of the words of the Gospel’ {Preaching ofThomas,
+Arabic, ed. Smith Lewis, p. 80). Klijn, Acts of Thomas, p. 19, lists examples from the Hebrew bible of rejections of the divine call. 204 Dihle, Antike und Orient, pp. 65-8; Raschke, ‘New Studies’, 1368-72.
+205 Hist. eccl. 5.10 cos Kai KT)puKa toO Kcrra Xpiarov eOayyeAlou tois ett’ avocToAfjs e0vecjiv avaSeixOfjvai, psypi Kal TBS ’IvScov crrEiAdiiEvov yfjs; cf. Jer. Ep. 125.3.
+300 Contexts ofa discourse he found that there was already a handful of Christians in situ. This group owed its origins to the apostle Bartholomew, who on his missionary journey
+to India had left behind a copy of Matthew’s gospel written in Hebrew
+characters.
+206 By contrast to the details of the apocryphal Acts, Eusebius
+has Thomas travel to Parthia, where eventually he dies a peaceful death. For Philostorgios also, writing shortly after ad 400, it was Bartholomew
+that brought the gospel to India (Hist. eccl. 18.33). The tradition concerning Bartholomew involves southern India, and is related to the monsoon route. Within that framework, a link with Alexandria is unmistakeable in the case of Pantaenus. It is in this light that we may understand a reference to Indian
+religion in an Egyptian papyrus of the second century ad: the mother of
+the Buddha is referred to as Isis (P. Oxy. 1380). Related to this monsoon connection are the stories of the Indian Theophilus in the mid-fourth century. Born on the island of Dibus, he was brought to the court of Constantius II as a hostage and raised there, he later became a bishop and a counsellor to the emperor and ambassador. Whether the island of his birth should be identified with the Maldives or
+Socotra, it is clear that this figure also is linked with the monsoon route
+rather than the Persian Gulf route, and with the southern rather than the northwestern part of the subcontinent. 207 How, then, can we explain the overlap of these traditions, whereby Thomas had become associated more with the south than the north of
+India?208 How and why did Thomas come to displace Bartholomew as first missionary of the south? The change seems to have occurred in the third century, at a time when there was a clear drop in the monsoon trade. This was a period when the Roman state underwent economic and political turmoil, and the early Sassanid rulers extended their power to India via the
+Persian Gulf. It is thus reasonable to conclude, with Dihle and Van den
+Bosch, that by the end of the third century Christians in south India had
+stronger ties with the Syrian church of Sassanian Mesopotamia than Egypt and other parts of the eastern Roman empire. 209
+106 The language involved no doubt reflects the ancient view, current until recendy, that the Gospel
+of Matthew was originally written in Hebrew. See further Jacob Neusner, ‘The Jews east of the
+Euphrates’, ANRWlI.9.1 (1978), 46-69.
+207 Gianfranco Fiaccadori, ‘Teofilo Christiano’, SCO 33 (1983), 295-331 and 34 (1984), 271-308; Albrecht
+Dihle, ‘Die Sendung des Inders Theophilos’, in Antike und Orient, pp. 102-8.
+208 In one fourth-century attempt to align the diverging traditions on this score, Ephraim the Syrian
+refers to the moving of the relics from south to north: carm. Nisib. 42.
+209 According to the Chronicle ofSeen, David, bishop of Spasinou Charax (Basra) travelled to India during the years 295 and 300 (Patrologia Orientals 4.236, 292). Circumstantial evidence suggests
+that this was more likely southern than northern India: Albrecht Dihle, ‘Early Christianity in
+Wisdom 301 What these divergent Christian geographies have in common is that India lies beyond easy reach, and thus represents the ultimate achievement
+of mission. For the Syrian tradition, a Parthian locale for Thomas would
+not have been far enough, and hence the tendency to associate him, more
+impressively, with India

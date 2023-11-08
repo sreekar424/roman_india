@@ -1,0 +1,858 @@
+CHAPTER I Achaemenid India andAlexander
+By way of introducing the book as a whole, this chapter strives to outline
+the features of Greek Indography, from the earliest texts up to the late Hellenistic world of the first century bc, and as far as possible to account for those features. What were the historical moments at which these ideas were
+formulated, and what were their sources? An earlier rendition of this story
+offers a three-part chronology: (i) Greek writings from Asia Minor from
+the later sixth to the early fourth century bc; (2) works based on Alexander’s campaign, which brought thousands of Greek troops to the Indus Valley around 327-325 bc; and (3) writing produced by Greek ambassadors sent by Hellenistic states in the third century.1 This periodisation provides a
+plausible starting point, but one that we shall reconsider in the course of
+the chapter. Even though several scholars have perceived continuity over
+time, the importance ofAlexander’s campaign in the production of images
+is a familiar fact, so familiar indeed that we may well ask to what extent
+it tends to be overstated. 2 This question can only be considered by sifting through Greek accounts before and after the campaign. One of the tasks of this chapter is thus to assess the campaign as an ethnographic moment,
+that is to say, as a defining point in the generation of knowledge about
+India and its inhabitants. Throughout these pages we shall be attentive to the contexts in which India is mentioned, whether in its own right, as part of a larger schema, or as a passing reference.
+1 E. R. Bevan, ‘India in early Greek and Latin literature’, in The Cambridge history of India, ed.
+E. J. Rapson, rev. Indian repr. edn (Delhi: Chand, 1962), vol. I, pp. 351-83, at 353.
+2 On the question of continuity and change, see especially Dihle, ‘Conception’; elsewhere, Dihle has emphasised the role of Poseidonius in that continuity (Antike und Orient, pp. 21-6). Also Klaus
+Karttunen, ‘The country of fabulous beasts and naked philosophers: India in classical and medieval
+literature’, Arctos 21 (1987), 43-52.
+II
+<u3
+O
+"Oc
+<sQrt 2
+Acbaemenid India and Alexander 13
+I. THE EXTENT OF ACHAEMENID POWER
+Darius Is rise to power in the Iranian world in 522 was a violent and
+perhaps illegitimate one: after crushing the forces of Gaumata, the Magian
+(Median) priest known to the Greeks as Smerdis, he quashed a series of
+uprisings which allowed him to ‘re-establish [] the people on its foundation, both Persia, Media and other provinces’, as he was later to say on the Behistun inscription (DB 1.66-7).3 While this lengthy inscription, dating from the early years of Darius’ reign, makes no mention of India, the King
+of Kings does mention India among the lands he controls in a slightly later inscription, at Persepolis (c. 518-513): Darius the Great King, King of Kings, King of countries, son of Hystaspes, an Achaemenian. Saith Darius the King: This is the kingdom which I hold, from the Scythians who are beyond Sogdiana, thence unto Aethiopia; from Sind, thence unto Sardis - which Ahuramazda the greatest of the gods bestowed upon me. May
+Ahuramazda protect me and my royal house. (DPh 1-7: Kent, Old Persian, 136-37, adapted) On the strength of this apparent change, and at the same time on the evidence of Herodotus (discussed below), it has been supposed that Darius conquered India some time before 513.
+4
+It is clear that India, ‘Sind’ in the
+inscription, is not merely the easternmost of his provinces; it is specifically, in Darius’ rhetoric of power, a marker of the extent of his kingdom. In the Old Persian of the inscription, a language which Darius may in fact have had created for that purpose, the name of the province is a direct loanword from the contemporary Sanskrit: the Indian name for the river Indus and its valley is Sindbu, whereas the Mababbarata uses a different appellation for the south Asian peninsula, namely Bharat? The royal complex at Persepolis
+3 Pierre Briant, From Cyrus to Alexander: a history of the Persian empire (Winona, IN: Eisenbrauns,
+2002), pp. 107-14. On the lists of provinces, Roland G. Kent, Old Persian, 2nd edn (New Haven: AOS, 1953), e.g., pp. 119 and 136; Willem Vogelsang, ‘The Achaemenids and India’, Achaemenid
+History Workshop 4 (1990), 93-110. For the place of India within an Achaemenid (and Zoroastrian) worldview consisting of ‘seven regions’, see A. Sh. Shabazi, ‘Darius Haft Kisvar’, in Kunst, Kultur und
+Geschichte derAchamenidenzeit und ihr Fortleben, ed. Heidemarie Koch and D. N. Mackenzie (Berlin: Reimer, 1983), pp. 239-46. The recent survey by Bruno Jacobs, Die Satrapienverwaltung im Perserreich zurZeit Darius III (Wiesbaden: Steiner, 1994), gives Herodotus little credence in reconstructing the
+satrapies, privileging instead the retrospective evidence of the Alexander historians; on India esp. pp. 243-7 and 261-72.
+4 M. A. Dandamaev, A political history ofthe Achaemenid empire (Leiden: Brill, 1989), p. 144; Dominique
+Lenfant, ‘L’Inde de Ctesias’, Topoi 5 (1990), 309-36, at 309 n. 2.
+5 Kent, Old Persian, p. 214; David Neiman, ‘Ethiopia and Kush: Biblical and ancient Greek geography’, Ancient World 3 (1980), 35-42, at 38, with further references. When the author of the Periplus ofthe Erythraean Sea speaks ofthe Indus as ZivOos (34) he appears to be translating directly from the Sanskrit. Cf. Plin. HN6.71: Indus incolis Sindus appellants. Hebrew Hoddu (e.g., Esther 1:1) and Aramaic Henda.
+Figure i Indian contingent in tribute procession at the Apadana complex in Persepolis,
+sixth century bc. Courtesy of the Oriental Institute, University of Chicago. also offers visual representations of Indians among the many tribute-bearers and throne-bearers. On the stairway of the Apadana or audience-hall, each of the Indians wears a short skirt, baring his chest and legs; they carry jar- shaped objects, which may correspond to the containers for the gold-dust mentioned by Herodotus (section I.3 below). 6
+I.i. Scylax and the King ofKings
+It is with Scylax of Caryanda that the history of Greek Indography concretely begins, for it is in connection with him that we find the first explicit reference to India.7 Herodotus records that Darius sent Scylax, a sea-captain
+6 Erich F. Schmidt, Persepolis, 3 vols. (Chicago: Oriental Institute, 1953—70), vol. I, pp. 70-90 and vol.
+Ill, p. 152. See also Ernst Badian, ‘The King’s Indians’, in Alexander der Grosse, ed. Wolfgang Will (Bonn: Habelt, 1998), pp. 205-24.
+7 See FGrH 709, esp. F1-7. For modern discussions see esp. F. Gisinger, ‘Skylax’, RE IIIAi (1929), 619-46; cf. also Wilhelm Reese, Die griechischen Nachrichten iiber Indien (Leipzig: Teubner, 1914), pp. 2-3 and 39-52; Milns, ‘Greek writers’, at 353-5; Dihle, ‘Indien’, RAC, 2-3. Rudolf Giingerich, Die
+Kustenbeschreibung in der griechischen Literatur (Munster: Aschendorff, 1950), pp. 9-10, and Pietro Janni, La Mappa e il Periplo (Rome: Bretschneider, 1984), p. 47, underline his importance in the
+literary history of the periplus.
+Achaemenid India andAlexander 15 from Ionia, on a mission to explore the sea-route down the Indus and then from its mouth towards the Arabian peninsula, up to the Suez, i.e. to the northwest corner of the Red Sea: Darius was the discoverer of the greater part of Asia. Wishing to know where
+the Indus (the only river with crocodiles, save one) ran into the sea, he sent a number of men, on whose trustworthiness he could rely, and among them Scylax of Caryanda, to sail down the river. They set out from the city of Caspatyrus, in the region called Pactyica, and sailed downstream in an easterly direction to the
+sea. Here they turned westward, and after a voyage of thirty months, reached the
+place from which the Egyptian king . . . sent the Phoenicians to sail round Libya. Once the voyage was completed, Darius conquered the Indians, and made use of
+the sea in those parts. Thus all Asia, except the eastern section, has been found to exhibit the same features as Libya. (Herodotus, Histories 4.44)
+8 This event has been dated to the early years of Darius’ reign, perhaps around 519. On this analysis the voyage made possible the conquest of
+‘Sind’. 9 From the basis of a modern map it is not clear how Scylax can have
+sailed ‘in an easterly direction’ towards the sea, when the Indus runs in a southwesterly direction. Further, it maywell be asked how Scylax was able to assemble a fleet on the waters of the Panjab in Gandara country.10 On such
+questions of detail the available sources leave us in the lurch. At all events, the route Scylax took allowed him to discover the shape and position of
+Arabia.11 It is the lack of plausible details that caused an earlier generation of modern scholars to doubt the veracity of Scylax’ expedition. The extended
+duration ofthe journey, thirty months, and the apparent lack ofinformation
+11 See further Albrecht Dihle, Arabien und Indien’, in Herodote et les peuples non grecs, Entretiens 35 (Vandoeuvres: Fondation Hardt, 1990), pp. 41-61, at 42.
+1 6 Creation ofa discourse about the Persian Gulf have compounded misgivings. 12 But these doubts
+have largely been laid to rest with the discovery, during excavations at Suez, of inscriptions which would seem to corroborate Scylax’ journey and
+Darius’ acquisition of control over India. 13 To judge from the paucity of direct references to him, it appears that he was more known about than known. There are strong indications that among classical authors he was displaced as a source and authority at an
+early stage. Certainly, Aristotle’s single passing refence to Scylax (Politics I332b24) is so vague that it could have been at second hand. By the same
+token, when Strabo mentions him as ‘the ancient writer’ it seems that he implies a venerable authority of the distant past, vaguely known by
+reputation rather than specifically referred to by chapter and verse. 14 Aristotle gives the impression that Scylax was concerned with India’s
+political conditions:
+Clearly, it is best that the same persons should always be rulers and ruled for all time. But since it is not easy to attain this, and since there is nothing to match
+the difference prevailing among Indians between rulers and ruled, according to Scylax, it is obviously necessary, for several reasons, for all persons to share equally
+in ruling and being ruled in turn. (Politics I332b2i-27)‘s This appears to prefigure the model of ‘oriental despotism’, to use a phrase coined in nineteenth-century political theory: for Aristotle, India is the touchstone whereby to measure social relations prevailing in the Greek
+world, and Scylax is merely a source guaranteeing the truth value of his information. Within Aristotle’s framework, this is a dystopian view of society, and it suggests an extrapolation of Greek views about Persian kingship. But it is also important to emphasise that this is merely a passing reference
+to India, and arguably says more about Aristotle than it does about Scylax. By contrast to this supposedly political element of Scylax, most sur- viving fragments suggest that monstrous creatures formed the significant
+
+18 Folklore theory circumvents the need to recover historically the origins of such phenomena, and
+explains them instead in terms of common story-telling elements, which may be common even to
+societies with no apparent historical link. Given the complicated and largely irretrievable origins of both the early Greek and Indian verse traditions, and given the common ancestry of Indo-European
+roots, the approach has much to offer in a case such as this. Stith Thompson, Motif-index offolkliterature, 6 vols. (Bloomington: Indiana University Press, 1955-8), abounds with examples ofstrange animals; on gold-digging ants, B756.
+19 Milns, ‘Greek writers’, 354: ‘old Indian books’.
+20 In general, there is very little evidence concerning the ancient equivalents of Dolmetsch-translation:
+see, e.g., J. P. V. D. Balsdon, Romans and aliens (Chapel Hill: University of North Carolina Press, 1979), PP- r37—8; Dihle, ‘Indien und die hellenistisch-romische Welt in der neueren Forschung’, Geographia antiqua 1 (1992), 151-9 at 156. Claims that Herodotus knew no language other than Greek, and was therefore reliant on interpreters, merely underline the degree to which the mechanics of ethnography were of little interest to the ancient authors: e.g. Josef Vogt, ‘Herodot in Agypten’, in Herodot. Eine Auswahl aus der neueren Forschung, ed. Walter Marg (Darmstadt: Wissenschaftliche
+Buchgesellschaft, 1962 [1929]), pp. 412-33 at 420.
+18 Creation ofa discourse information, from either written or oral sources of mythology. 21 At all events, it is important to note that the rhetoric of strange animals is fully present in the very first Greek description of India, and would remain an
+integral part of it throughout antiquity and beyond. There is a further question of language: did Scylax write in Greek, and,
+if so, why? Herodotus’ description would suggest that he wrote specifically with Persian military purposes in mind. Certainly none of the fragments would encourage us to assume that he wrote in anything but Greek. There
+is no hint of translation, nor do the sources suggest that he knew Persian. Once again, ancient writers tend to gloss over the issue of inter-linguistic understanding, along with other questions about the means of information
+gathering. What, indeed, are we to make of the work as a whole?22 On the basis of historiographic tradition, it would be easier to conceive of Scylax’ work
+as a bald topography than a literary treatment; by the same token, the marvellous creatures are hard to account for.
+23 Indeed, it is impossible to know how closely the surviving Greek fragments reflect the information he
+provided to the King of Kings. For all the questions they leave unanswered, the fragments of Scylax do make clear one important fact about the evolution of an image of India. At the point when India shades into Hellenic consciousness it is in fact the Indus valley, namely Iranian India as it had been annexed by Darius. Thus
+it was to remain for considerable time to come, as subsequent discussion
+will show. 1. 2. Hecataeus’ cosmos Among the three hundred or so fragments of Hecataeus of Miletus, only
+eight relate to India, and most of these are merely toponyms and ethnic
+appellations preserved in the dictionary of Stephanus of Byzantium.24 The
+second book of Hecataeus’ Periegesis or Periodos ges was devoted to Asia as a whole, and included Africa as well. Thus we hear of Gandarai and Gandroi (F294), Kaspapyrus (F295), Aegante (F297), Callatiae (F298), Opiae
+21 Karttunen’s attempts to identify Ctesias’ dog-heads as a neighbouring people are inconclusive: Early Greek literature, pp. 180-5.
+22 There seems to be no particular reason to suppose, with Giingerich, Kiistenbeschreibung, p. 10, that Scylax wrote his narrative in the first person.
+23 Gisinger’s claim, ‘Skylax’, 624, of a literary work is hard to sustain.
+24 FGrH 1, with Jacoby’s own commentary ad loc. Equally fundamental is Jacoby’s own article, ‘Hekatios’, RE VII. 2 (1912) 2667-769. Note also Reese, Nachrichten, pp. 57-71; Milns, ‘Greek writers’, 356-8; Dihle, RAC, 3-5.
+Achaemenid India andAlexander 19 (F299). 25 In the last of these, after mentioning the Opiae who live along
+the Indus, Hecataeus places a desert ( eremie) just beyond the habitation of
+Indians. As we shall see, this conception of India as being at the easternmost end of the oikoumene is continued by Herodotus, and is to become an issue in Alexander’s campaign. None of the fragments concerning India makes
+any reference to monstrous races, a fact that may reflect an emerging ratio- nalism in historical writing. 26 If these fragments give an accurate reflection of the original text, Hecataeus’ India seems to have been largely restricted to the listing of peoples and places: the question of naming is one that will engage us later. More puzzling is Aelian’s statement that Hecataeus tells of Amphiaraus’
+falling asleep while guarding the Indian king {HA 13.22 — F33).27 Amphiaraus was perhaps part of an aetiological myth about the foundation or
+civilising of India, inviting comparison with Heracles and Dionysus in that
+respect. In the absence of detailed evidence, this seems to be the most
+plausible conjecture. Hecataeus mentioned inland towns and people in a work more comprehensive and larger in scale than that of Scylax: the Periegesis represented a kind of compendium of Ionian geography. 28 Further, Hecataeus’ work may
+be seen as a move towards a critical, rationalising historiography, depart- ing from earlier, more myth-based attempts to make sense of the past. 29 Whereas the periplus form in its strictest sense is well suited to sailing in and
+observing the Mediterranean basin, it is less well suited to the geography of
+25 Note the question of common identity here, with Herodotus’ Kaspatyrus (3.102; 4.44) and Kallistiae
+( 3 . 97)- 26 This element of Hecataeus is evident from the very first fragment attributed to him by Jacoby FGrH Fia. See further Marcel Detienne, The creation of mythology (University of Chicago Press, 1986 [1981]), pp. 70—9; Peter Derow, ‘Historical explanation: Polybius and his predecessors’, in Greek
+historiography, ed. Simon Hornblower (Oxford: Clarendon, 1994), pp. 73—90, at 74; Momigliano,
+‘Historiography on written tradition and historiography on oral tradition’, in his Studies in his- toriography (London: Weidenfeld and Nicolson, 1966 [1961]), pp. 211-20, at 212; John Marincola,
+Authority and tradition in ancient historiography (Cambridge University Press, 1997), p. 225.
+27 Jacoby in his commentary admits puzzlement concerning context and relevance. Likewise, Bethe, RE 1.2 (1894) 1886—93, offers no clue as to a possible link between Amphiaraus and India, nor is there any help in O. Wolff, Ausflihrliches Lexikon der griechischen und romischen Mythologie, ed. W. H. Roscher (Leipzig: Teubner, 1884-6).
+28 Jacoby, ‘Hekataios’, 2688, 2699, 2718; Pierre Schneider, L’Ethiopie et llnde. Interferences et confusions aux extremites du monde antique (Rome: MEFRA, 2004).
+29 Momigliano, ‘Fattori orientali della storiografia ebraica post-esilica e della storiografia greca’, Terzo Contributo alia Storia degli Studi classici e del Mondo antico (Rome: Edizioni di Storia e Letteratura, 1966 [1965]), vol. II, pp. 807-18, sees in Hecataeus (as in Herodotus) the crystallising of Greek
+tradition at the point when confronted by other traditions of the near East: by this reckoning the
+Persians’ westward thrust to the Aegean provided the catalyst for the formation of Greek historiogra- phy. See also his ‘II razionalismo di Ecateo di Mileto’, Atene et Roma n.s. 12 (1931), 15-44. Hecataeus’ methods are in any case hard to reconstruct: Marincola, Authority, p. 166.
+20 Creation ofa discourse
+Asia. 30 But from the evidence of Hecataeus’ work that we do have, there is no reason to assume that at this stage of our story India is already a unitary whole; indeed Indians are merely one people among many in the region around the Indus.31 While we know Hecataeus visited Egypt (Hdt. 2.143), there is no indi- cation that he travelled to India, and this suggests that he gained his infor- mation second-hand.32 Equally, there is no hint that he observed other marginal people in the course of his sea-voyages, namely, the Ethiopians
+in the south, the Celts in the west and the Scythians in the north.33 It
+is certainly possible that Hecataeus used Scylax as a source, and then in turn provided Herodotus with his material; but such possibilities cannot
+be proven in light of the available evidence.34 It would be wrong, however,
+to exclude oral sources of information about India, stories circulating in learned circles, of which Hesiod’s fantastic creatures are examples. When
+Athenaeus says that both Scylax and Hecataeus compared the shape of the Indus with an artichoke ( kunara), there is a faint suggestion that Hecataeus
+used Scylax as a source.35 It is with Hecataeus that the earliest Greek map can be reconstructed, and
+it is within this overall worldview that we should locate India. The fragments
+suggest that Hecataeus conceived of the inhabited world in a disk-shape
+in two parts, Europe and Asia/Africa, above and below the Mediterranean
+respectively, and surrounded by Okeanos. By this scheme India and the Indus River are in the farthest east. Even if one admits the dangers and
+difficulties of making such a reconstruction, there can be no doubt that Hecataeus set India into a larger, abstracted scheme of the world.36 The car- tographic significance of Hecataeus’ India is immense, when the only earlier Greek map of which we can speak, that of Anaximander ( c. 610-546 bc),
+30 Jacoby, ‘Hekataios’, 2718; cf. Giingerich, Kiistenbeschreibung, Janni, Mappa.
+31 Dihle {RAC, 3) suggests it was Herodotus who was the first to see India as a unit.
+32 Jacoby, FGrH comm, ad frr. 294-99; ‘Hekataios’, 2689-90. 33 Jacoby, ‘Hekataios’, 2708.
+34 The main difficulty in making such an inference is that it is Herodotus himself that gives us our
+strongest impression of Hecataeus. It has been suggested that Herodotus’ image of Hecataeus owes more to his imagination than to Hecataeus’ own writings or to oral tradition, as an imaginative
+reconstruction: Stephanie West, ‘Herodotus’ portrait of Hecataeus’, JHS hi (1991), 144-60.
+35 Athen. 2.82 p. 70 = 709 F4, cf. Hecat. F296. Jacoby, ‘Hekataios’, 2729-34, discusses this and other
+parallels.
+36
+J. B. Harley and David Woodward, ‘The foundations of theoretical cartography in archaic and classical Greece’, in History ofcartography, ed. Harley and Woodward (Chicago: University of Chicago
+Press, 1987), vol. I, pp. 130-47 at 134-5. The much reproduced image purporting to be a ‘reconstruction of the world according to Hecataeus’ (p. 135) should be regarded with special caution, given
+the fragmentary nature of the evidence.
+Achaemenid India andAlexander 21 seems more concerned with celestial than terrestrial mapping, and thus to have no ostensible interest in India.37
+I.}. Herodotus and the satrapies With Herodotus’ Histories
+,
+Indography takes a new turn. ’ 8 The monstrous
+races ofScylax and the toponyms ofHecataeus give way to a more discursive type of ethnographic observation and to a specific focus on Indian gold. In
+fact, the question of Herodotus’ reliance on Scylax and Hecataeus on the
+subject of India is one that must remain open.39 At all events, the Histories do afford the rare opportunity of seeing these features in the context of a
+larger work. There is no Indian logos (excursus) in the full sense that there is an Egyptian or a Persian logos, for example. Yet as the discussion below will show, Herodotus’ comments, most substantially at 3.97-106, cover much
+the same topics as the fuller logoi, namely, a mixture of physical and human
+geography, as if following a standard questionnaire.40 Embedded within
+this passage, chapter 103 constitutes a kind of sub-subdigression, on the
+subject of camels. But even here the emphasis on India’s natural resources
+is maintained, for the camels are used by Indians in their search for gold in the desert: as we shall see, gold is at the centre of Herodotus’ conception of India. Again, the Persian framework is all-important. Following the narrative of Cambyses’ death and Darius’ accession (3.61-87) comes a descrip- tion of the reorganisation of the Persian empire undertaken by Darius
+(3.89-117). Among the twenty tribute-paying satrapies, beginning with
+Ionia in the west, eastern-lying India is the last to be mentioned (3. 94).
+41 This division does not include the Paricanii or the Aethiopians of Asia, who are included in the seventeenth satrapy (also 3.94). The Indians pay
+37 Harley and Woodward, ‘Foundations’, pp. 132-4.
+38 On India in Herodotus see esp. Dihle, ‘Arabien und Indien’; cf. Reese, Nachrichten, pp. 57-71; Klaus Karttunen, ‘The ethnography of the fringes’, in Brill's companion to Herodotus, ed. Egbert J. Bakker
+et al. (Leiden: Brill, 2002), pp. 457-74; cf. the commentary, Erodoto. Le storie, ed. David Asheri
+et al. (Milan: Mondadori, 1990), vol. Ill, pp. 324-9.
+39 Questions over whether Herodotus’ work is complete or not cast a certain amount of doubt over
+this point; I assume here that the Histories as we now have them represent something like a complete whole as envisaged by Herodotus. For a recent consideration of Herodotus’ place in the history of
+historical writing, see Robert Fowler, ‘Herodotus and his contemporaries’, JHS 11 6 (1996), 62-87.
+Still important is Momigliano’s essay, ‘The place of Herodotus in the history of historiography’, reprinted in his Studies in historiography, ch. 8. 40 On the standard ethnographic ‘questionnaire’, see Chapter 2, section II below.
+41 Asheri et al. , Erodoto, p. 305; Smith, Early history, pp. 40-1.
+22 Creation ofa discourse more tribute than any province, namely 360 talents of gold per year, which amounts to approximately one-third of the total tribute of the empire: The Indians, who are more numerous than any other nation we know, paid a
+tribute beyond that of every other people, namely 360 talents of gold-dust. This was the twentieth satrapy. (3.94.2a) 42 An important feature of this passage is the implication that the wealth of
+India can be measured, specifically in this Achaemenid context. Measuring
+recurs in Herodotus’ description of Persia, contrasted with Greek virtue
+{arete), which resists quantification.43 Measurement will demand attention
+in later Indography as well, for example in Pliny’s idea of India as a source of commodities (Chapter 3 below).
+If the Persian empire provides the main context for Herodotus’ comments, then the acquisition of gold provides its main focus. As if inspired by this, Herodotus proceeds to give a briefethnographic description ofIndia
+(3.97-106). 44 Indian gold is mentioned several times within these descriptions. 45 Thus we hear of Indians living near the town Caspatyrus and in the
+Pactyic country, north of the other Indians, in what is now northeastern
+Afghanistan. 46 These, the most warlike of the Indians, live like Bactrians and get gold from the nearby desert with the help of gold-digging ants
+(3. 102). 47 Herodotus goes on to describe how this gold is obtained in the
+42 ’Iv8gov 8e TrAqflos te ttoAAco ttAeiotov ectti ttocvtcov tcov t]MeTs i8|jev dvQpcoTrcov Kai <f>6pov cnrayiveov irpos ttovtccs tous aAAous e^tikovtcc Kai TpiTiKoaia TaXavTa q/qypaTos- vopos
+ElKOCTTOS OUTOS.
+43 David Konstan, ‘Persians, Greeks and empire’, Arethusa 20.1-2 (1987), 59-73.
+44 Within this passage, paragraph 103 constitutes a still further level of digression, concerning the physiology of the camel supposedly used in the acquisition of gold.
+45 To a degree that some moderns, esp. in the nineteenth century, have found hard to understand. Gregory L. Possehl, Indus age: the beginnings (Philadelphia: University of Pennsylvania Press, 1999),
+p. 232, offers a map of gold deposits in ancient India. He makes the following suggestion while speaking of the alluvial deposits in Afghanistan, Pakistan and northwest India, as opposed to the deep reefs and veins of southern India: ‘That it is in somewhat short supply today might simply
+reflect the fact that the lode deposits were worked out by the peoples of the Indus Age and their descendants who sent so much of their wealth to the Persian kings’ (p. 234). The shallower types of gold-working are much harder to trace archaeologically: F. R. Allchin, ‘Upon the antiquity and
+methods of gold mining in ancient India’, JESHO 5 (1962), 195—211.
+46 Possehl, Indus age, 234, identifies Caspatyrus (or Caspapyrus) as Kabul and the Pactyic country as Paktun country, i.e. the land of Pushtus; cf. Barrington atlas ofthe Greek and Roman world, ed. J. A.
+Talbert, (Princeton University Press, 2000) map 6 C3.
+47 These gold-digging ants have long been a puzzle, admitting no conclusive solution. Several have invoked the Mahabharata, with its references to pipillika (‘ant-gold’): see, e.g., Bevan, ‘India’,
+p. 356; A. B. Bosworth, ‘Aristotle, India, and the Alexander historians’, Topoi 3 (1993), 407-24 at 412
+n. 24; Asheri, Erodoto, ad loc.
+Achaemenid India and Alexander 23 desert and how it is transported on camels (3.104-5).48 The Persians are the source of this information:
+Such, according to the Persians, is the manner in which the Indians get the greater part of their gold, some is dug out of the earth, but of this the supply is more
+scanty. (3.105.3)49 The designation of the Persians as the source, repeated in the same para- graph,50
+is in keeping with a common Herodotean formula: a less distant group is cited as a source of information about a more familiar one. This
+is seen, for example, when the Thracians are mentioned as a source for ethnographic information for the area beyond the Danube (5.10). What are we to make of the gold-digging ants? For a long time they have troubled those concerned with their historicity. Among the many
+attempts to explain them, the marmot ( marmota Himalayand) has been
+perhaps the most plausible candidate. 51 More significant to note here is that Herodotus’ discussion suggests that these gold-digging ants, whatever
+actual animal they may indicate, are not of the same order of marvel as the Makrokephaloi and other strange creatures of Scylax. Since the fragments do not mention them in the same breath it is reasonable to assume that they derive from a different source of information. The other specifically Achaemenid context in which Indians appear is the
+list of national contingents comprising Xerxes’ army and fleet (7.61—99). 'x Like the satrapy list above, this catalogue, complete with the names of
+48 Between the two passages quoted above there is an inconsistency, in that at 3.94 Herodotus talks about vpriypcc (from q/qx00 ’ the frequentative of yaco, hence ‘scrapings’ or ‘gold-dust’), whereas at 102 and 104-5 he uses the more normal term xpvcios.
+are key parts of Herodotus’
+‘source-fiction’; on this passage, pp. 97-8. However, the argument for radical skepsis concerning
+Herodotus’ use of sources has been directly answered by several scholars, e.g., Fowler, ‘Herodotus’; W. Kendrick Pritchett, The liar school ofHerodotus (Amsterdam: Gieben, 1993). Francois Hartog, The mirror of Herodotus: the representation of the other and the writing of history, tr. Janet Lloyd
+(Berkeley: University of California Press, 1988), and Phiroze Vasunia, The gift ofthe Nile: hellenizing Egyptfrom Aeschylus to Alexander (Berkeley: University of California Press, 2001), have shifted the emphasis from empiricism to representations.
+51 The suggestion goes back, in modern classical scholarship, to Christian Lassen’s compendious
+Indische Alterthumskunde, 5 vols. (Leipzig: Kittler, 1856-62), vol. Ill, pp. 314-15. Among more recent supporters of this identification ofMurmeltiere-. Reinhold Bichler, Herodots Welt (Berlin: Akademie,
+2000), pp. 25-6; Heinz-Gtinther Nesselrath, ‘Herodot und die Enden der Erde’, MH 52 (1995), 20-44. Dihle, RAC, 4; Andrea Zambrini, ‘Gli Indika di Megastene (I)’, ASNPu (1982), 71-149, at
+121. There have been many. The issue is usually linked to Herodotus’ reliability. W. Tarn’s suggestion, The Greeks in Bactria and India (Chicago: Ares, 1997) pp. 104-8, that they were a false intelligence to cover up the real sources of gold, identified as Siberia, has not worn well. For detailed discussion
+see Lenfant, ‘L’Inde’, 311.
+24 Creation ofa discourse commanders and descriptions of armour, also offers insights into the composition of the empire. It is organised in such a way that after Persians and Medes come the eastern nations from Tigris to Indus (7.62-68), then
+the southern (7.69—71), then those of Asia Minor (7.72—79) and finally those from the Levant (7.89-95). This comes to a total of sixty-three eth- nic groups, divided into infantry (7.61-83), cavalry (7.84-88) and sailors (7.89-99). The Indians are light-armed foot soldiers, and in this respect they match some of the other outermost peoples, namely the African Aethiopians (7.69) and Libyans (7.71): The Indians wore garments made ofcotton and carried bows and arrows of reed. In addition they had iron weapons. They were arranged to march under the command
+of Pharnazathres son of Artabas. (7.65)^ The term xulon usually indicates wood, but is used at 3.47.2 to indicate cotton-producing trees. Apart from these geographical features, there is no mistaking the human
+focus of Herodotus’ Indography. And here the description is qualitatively different than other authors’ descriptions of marvellous races. The types of
+topic he broaches are in keeping with those on the Egyptians, so that we
+might speak here of a kind of compacted logos, 53 At two different points, cannibalism is a feature of Herodotus’ descrip- tion of India. One of these occurs in the passage under discussion. Among
+the Padaei, a nomadic group of the easternmost region, the sickly are killed by their friends, so that they do not succumb slowly to disease:
+If one of their number, whether man or woman, is ill, his closest male friends kill him (in the case of a man), on the grounds that if he wasted away in sickness his
+flesh would spoil. (3.99.1) 54 Likewise the aged are sacrificed and eaten, not that many reach an advanced
+age. 55 In the very next paragraph, Herodotus goes on to describe the cus- tom of other Indians who kill no living creature, nor do they sow or live in houses; the sickly go instead into the desert in order to die. The obvious
+juxtaposition of opposites here may be taken as an example of antinomy
+Chapter 2, section II. 5.
+Achaemenid India and Alexander 2-5 or polarity, a principle that takes on particular force in the description of
+foreign peoples. 56 In this case, it is at the very eastern fringes of the inhabited world, immediately adjacent to the eastern desert, that cannibalism
+is practised. This is in keeping with the Herodotean scheme of a ‘world
+in which things become progressively more strange as one moves outward from (Greek) normality at the centre’. 57 Even so, it has a religious context (OuaavTEs) . In fact, Herodotus gives remarkably little attention to Indian
+religious practices, if one compares his other ethnographic digressions. 58 Earlier, by way of illustrating the madness of Cambyses, Herodotus tells a story to illustrate the loyalty each society shows towards its accepted
+practices. Darius summons the Callatiae, who eat their parents after they have died, and asks them what possesses them to do such a deed. The fact that they flinch at conscious reflection on this custom is for Herodotus
+a sign that ‘custom ( nomos) is king of all’. 59 This instance of cannibalism
+differs from that at 3.99, and indeed from that of the Massagetae (4.26), in that here people who are already dead are eaten, whereas in the other cases death is anticipated. 60 If Herodotus’ Indians are a means of discussing cultural difference, the more somatic considerations of race come to the fore as well. This we see in the description of the ‘non-cannibalistic’ Indians mentioned above (3.101). Their skin and their semen are black, and in both respects they resemble
+the Ethiopians. The dual mention here of Ethiopians in this short para- graph suggests that a somewhat familiar people render an unfamiliar one
+less strange; certainly the blackness of the Ethiopians is a well-established
+56 Polarity is an organising principle in Herodotus’ writing, e.g., A. B. Lloyd, Herodotus, Book II: introduction (Leiden: Brill, 1975), pp. 149-53; more generally, G. E. R. Lloyd, Polarity and analogy: two types ofargumentation in early Greek thought (Cambridge University Press, 1966), e.g. pp. 342-5 on the course of the Nile. Thomas, Herodotus in context, pp. 77-9. aptly warns of the dangers of
+extrapolating supposed antitheses between Greeks and barbarians into geographical symmetry (as presented, e.g., on reconstructed maps of older scholarship).
+57 John Gould, ‘Herodotus and religion’, in Greek historiography, ed. Simon Hornblower (Oxford: Clarendon, 1994), pp. 91-106, at 97-9.
+58 Dihle, ‘Arabien und Indien’.
+59 vonov uccvtcov PaaiAsa (3.38.4), in which Herodotus quotes Pindar (fr. 169.1 S-M). The rich concept of nomos is glossed by Sally Humphreys, ‘Law, custom and culture in Herodotus’, Arethusa 20 (1987), 211—20; its ethnographic implications explored by Thomas, Herodotus in context, pp. 122—33.
+60 W. W. How and J. Wells, A commentary on Herodotus, 2 vols. (Oxford: Clarendon, 1912), vol. I, p. 311 on 4.26. For E. M. Murphy and J. P. Mallory, ‘Herodotus and the cannibals’, Antiquity 74.284 (2000), 388-94, Herodotus’ comments reflect the ‘misunderstanding of a funerary ritual’ of defleshing or dismemberment. Among the many general discussions ofcannibalism, two deserve special mention: both William Arens, The man-eating myth: anthropology andanthropophagy (Oxford University Press, 1979), and Frank Lestringant, Cannibals (Oxford: Polity, 1997), show the dual tendency of imputing
+the practice to other societies (however that otherness might be determined) while denying its presence in one’s own.
+26 Creation ofa discourse commonplace by Herodotus’ time. Again, people at the farthest edges of
+the earth are the most unusual. When Herodotus comments that these people live far from the Persians in a southerly direction, and were not
+Darius’ subjects, there is the implication that they do not merit discussion
+in an Achaemenid context: These Indians live far south, far from Persia, and they were never under King
+Darius’ sway. (3.101.2)
+61 As in so many descriptions of the blackness of the Aethiopians, the focus
+is purely somatic, and is not ostensibly accompanied by any moralising comment.62 As ifthe tenor ofHerodotus’ Indographic excursus were not clear enough,
+he concludes it with some striking comments of a generalising nature. For Herodotus, India has specific interest for being at the very edges of the earth
+(3.106.1), a sentiment he repeats in the very next sentence for emphasis. This remark emerges as the key to Herodotus’ fascination with India, just as his famous comment that Egypt has the most marvels ( thomasia) in the world may be regarded as the key to his obvious fascination with that land:
+It seems as if the extreme regions of the earth were blessed by nature with the most
+excellent phenomena, in the same way as Greece enjoys a climate more excellently tempered than any other country. (3.106.1) 65 Implicit in this comment is a particular kind of fascination about the edges ofthe earth, one by which they have a certain advantage over the Hellas; but
+then Hellas is blessed with a degree of moderation unique to itself. 64 The
+fascination is thus offset. If we compare this passage with those describing
+the amount of tribute paid by Indians, then we see in India a coming
+together of two central Herodotean concerns: that with marvel ( tboma) in the broader sense and, more specifically, that with the grandeur of the
+Persian empire. In this way India has a specific role to play in telling of the
+‘great and wonderful actions of both Greeks and barbarians’ he mentions
+64 The balance of the idea is of course stressed in the repetition of KaAAicrra. On India itself as utopia,
+see Chapter 2, section I II. 3 below.
+Achaemenid India and Alexander 27
+in the proem to the first book: 65
+it is simultaneously a vivid marker of the edges of the inhabited world and an indication of the magnitude of the Achaemenid empire. When Herodotus goes on to describe Arabia, he begins by saying that
+it is the southernmost part of the inhabited world. 66 And he proceeds in the next sentence to mention Arabia’s wealth in spices, which constitute an
+equivalent to Indian gold, just as the Arabian flying snakes and the bat-like creatures which attack people’s eyes are a parallel to the gold-digging ants. Again, this is an ethnographic vision centred on commodities. There is no suggestion that Herodotus’ travels took him as far east as India. He may have been the first Greek historian to use autopsy, opsis, in a systematic fashion, but the principle did not apply to his comments on
+India. 67
+It is in his second book that Herodotus most frequently invokes
+his own experience, as a way of counteracting the marvellous element which was so much part of it. 68 For India, then, it is Scylax, who himself sailed down the Indus, who provides the authority that Herodotus’ own autopsy would otherwise have lent. At all events, it may be that
+this less direct authority is one reason why Herodotus’ description of
+India is relatively toned down, and less fully worked out than his other
+logoi. 69 Herodotus talks of Scylax in such a way as to set him up as the sort of
+authority to which he could appeal, in the absence of his own travels to
+India. But what of his actual Greek sources? He mentions none explicitly as such. Most but not all scholars agree that Herodotus did in fact make use of
+Scylax. 70 Hecataeus too has been suggested as a direct source. 71 Now given Herodotus’ obvious reliance on Hecataeus in the Egyptian logos, it would
+be reasonable to assume that he used Hecataeus on India too, though there
+65 ipya pEyaAa te kco OcopaaTa, Ta pev "EAAricn, tcc 6e (3ap(3apoiai.
+66 TTpos 6’ au pEcrapppiris kaybri) Apaj3iq tcov oikeopevcov ycopEcov «rn (3.107.1). The overlap in diction with 3.106.1, quoted above, is striking.
+67 Gruido Schepens, VAutopsie dans la methode des historiens grecs du Ve siecle avant J.-C. (Brussels: AWLSK, 1980), pp. 56-70; Marincola, Authority, p. 63. Thomas, Herodotus in context, pp. 200-11,
+stands back from the question of historicity with regard to Herodotus’ supposed observation, and
+stresses instead the link evident between his language and that of scientific writers; cf. pp. 235-48.
+68 Thomas, Herodotus in context, esp. pp. 213-48, argues that controversy and polemic underly the work as a whole, including the digressions and use of the first person.
+69 Bichler, Herodots Welt, p. 61, rightly identifies the restrained quality of Herodotus’ India.
+70 Jacoby, Reese pro; Milns, ‘Greek writers’, 356, contra.
+71 For an assessment of Herodotus’ debt to Hecataeus, both through ancient statements on the subject and through inference, see A. B. Lloyd, Commentary vol. I, pp. 127—9. With the partial exception of
+Scylax, mentioned as a traveller not a writer (4.44.1), Hecataeus is the only literary source Herodotus
+mentions by name. Cf. Dihle, RAC, 1996.
+28 Creation ofa discourse
+is no direct evidence to that effect; and no overlap in content other than
+the reference to Kaspaturos.72
+It is clear, on the one hand, that Herodotus has a scholar’s and ethnologist’s eye for the customs of foreign peoples; yet it is impossible to divorce
+the focus of his comments entirely from practical interests. This is a prob- lem for the larger structure of the work: in the earlier books, ethnography
+is pursued on a big scale and seems an end in itself, whereas later it has
+a much lesser role to play. Even in the first four books, the excursuses
+serve as explanation for the themes of the work as a whole, both broader and more specific, and it is in this sense that Herodotus’ ethnographic
+habit has been well characterised as a certain ‘access to history’. 73 When
+Herodotus focuses on the military capacity of the Indians, we see hints of not only Achaemenid information, and even of Achaemenid interests. This same principle would then be true when he begins his description of
+Arabia by speaking of its spices in detail at 3.107.1. As in the case ofArabia, Herodotus’ strong emphasis on commodities is a reminder of the extent to which the Persian empire provided Greeks with a lens through which to view
+India.
+I.4. Marvels and lies ofCtesias
+It is with Ctesias, a Cnidian physician and contemporary of Herodotus,
+that the fullest point of pre-Alexander Indography is reached.74 Despite
+the relative profusion of Indographic texts linked with his name, Ctesias
+is a shady figure, whose life cannot easily be reconstructed.75 Diodorus
+Siculus tells us that Ctesias went to Persia as a prisoner of war (2.32.4). At
+the Persian court his medical skills were utilised by Artaxerxes II Memnon
+(reigned 405/4-359/8 bc): here he treated the royal family and won the confidence of the king’s mother. Having remained at the Persian court for
+72 Assuming that the same place is being referred to in each case: see the cautious location by M. Erdosy in Barrington atlas, ed. Talbert, map 6 at C3, with Directory.
+73 Donald Lateiner, The historical method ofHerodotus (Toronto: University of Toronto Press, 1989), pp. 145-62; cf. Hartmut Erbse, Fiktion und Wahrheit im Werke Herodots (Gottingen: Vandenhoeck & Ruprecht, 1991), pp. 158-9.
+74 Janick Auberger has depicted Ctesias as an intermediate figure between the older Indography of
+Scylax, Hecataeus and Herodotus on the one hand, and the new generation ofAlexander historians on the other: ‘Ctesias et l’Orient’, Topoi 5.2 (1995), 337-52. Jacoby’s edition of Ctesias, FGrH 688, should now be read together with the commentary by Dominique Lenfant, Ctesias de Cnide, La
+Perse, Linde (Paris: Belles Lettres, 2004).
+75 See esp. the discussions by Truesdell S. Brown, ‘Suggestions for a vita of Ctesias of Cnidos’, Historia 27 (1978), 1-19, and B. Eck, ‘Sur la vie de Ctesias’, REG 103 (1990), 409-34; and compare now the
+concise survey by Rudiger Schmitt, ‘Ctesias’, in Encyclopaedia Iranica, ed. Ehsan Yarshatar (1993),
+vol. VI, pp. 441-6. These efforts owe much to Jacoby’s RE article, ‘Ktesias’ (1922).
+Achaemenid India and Alexander 29
+sixteen or seventeen years, he departed in 398/7.76 In the preceding year he had served as an intermediary between the Persian king and Conon of
+Athens. These circumstances suggest that Ctesias had privileged knowledge of
+the Achaemenid empire. Given what we know about the presence of Greeks
+in Persia, we can safely assume that language was no obstacle to communication, especially in light of Ctesias’ apparently lengthy sojourn at the
+court. Even if Ctesias did not himself learn to speak Persian during this time,77 he would likely have had contact with merchants and other travellers passing through the capital at Persepolis, and perhaps even access to royal documents.78 In his capacity as a medical doctor, Ctesias was not unique. We hear of one Apollonides of Cos at the court ofArtaxerxes I (ruled 465-424; Ctesias F14 para. 14, from Photius), and at the court of Artaxerxes II there was
+also Polykritos of Mende (Ctesias Tyd = Plut. Art. 21.2). That travelling doctors were in general a well-known phenomenon can be inferred from
+the opening paragraph of Hippocratic Airs waters places, for one. Ctesias was in fact a contemporary of the historical Hippocrates. The biographies of various learned persons, not merely doctors, include travel. 79 The medical connection may be taken further. Ctesias’ apparent emphasis on natural history as opposed to ethnographic description is in keeping with medical interests, but again it must be asked whether the provenance
+of the fragments does not distort the picture, particularly in Aelian. Certainly, there is a tendency in Ctesias to focus on unfamiliar birds and
+animals, rather than on the social practices of humans.80 On the other hand, geography is neglected, and the fragments offer no reference to the major city of Taxila. It may be no accident that, with the exception of
+Photius, it is principally zoologists and paradoxographers that preserve his fragments.81
+78 Romm, Edges, p. 86; A. T. Olmstead, History of the Persian empire (University of Chicago Press, 1948), pp. 380-1.
+79 Jean-Marie Andr6 and Marie-Franfoise Baslez, Voyager dans I'antiquite (Paris: Fayard, 1993), pp. 229-30; Lenfant, Ctesias, p. xi. 80 Joan M. Bigwood, ‘Ctesias’ parrot’, CQ 43 (1993), 321-7, at 323.
+81 See Jacoby, ‘Ktesias’, 2037, for details.
+30 Creation ofa discourse Whereas the Persika consisted of twenty-three books, one book only was
+devoted to the Indika
+.
+Sl The remaining fragments are only eight in number,
+but one of them is the fifty-one-section summary by Photius, amounting to more than twenty-two pages in Jacoby’s edition (F45, from Photius). 83 The
+use of the Ionic dialect suggests continuity with the ethnographic tradition of Hecataeus and Herodotus. This fragment may be taken as typical of
+Ctesias’ methods and concerns.
+84 The main passage is devoted mostly to a description of India itself: these are preserved at Bibl. 72 p. 45an-46a37 and p. 46b25-47b4, the two
+passages being interrupted by an excursus on the Pygmies. 85 There follows
+a description of the Cynocephali and their territory (p. 47b5—49^9), and
+then of three marvellous peoples of India (p. 49b20—38). Photius adds a
+postscript on the credibility of Ctesias (p. 49b39~50a4). The circumstances of Ctesias’ life are one thing, and the historical value of his writing is another: its veracity was challenged from as early as Aristotle’s time. The tone with which Lucian scorns Ctesias, referred to in the same breath as Herodotus, shows that his name was already a byword
+for mendacity by the second century ad. 86 The reception of Ctesias is a matter in its own right. However, it appears that Ctesias himself made a point of challenging Herodotus’ authority. Now Herodotus himself was much criticised as a liar, 87 and Ctesias’ criticism is, apart from anything
+else, a testimony to Herodotus’ importance for the evolution of Greek his- toriography. As regards India, this is a matter of rival claims to authority. By now marvels are a severe challenge to historical writing: it is partic- ularly at the edges of the earth that Herodotus is open to criticism for
+lying. The marvel, so important to Ctesias ethnography with its tendencies towards natural history, became an embarrassment to the development of a
+82 Phot. 45a2o; Aelian 16.31; Paus. 9.21.4.
+83 This may be regarded as one of Photius’ many ‘book-reviews’, to use the term of N. G. Wilson,
+Scholars ofByzantium (Baltimore: Johns Hopkins University Press, 1983), p. 93.
+84
+J. M. Bigwood, ‘Ctesias’ Indica and Photius’, Phoenix 43 (1989), 302-16. On the other hand Eck,
+‘Vie de Ctesias’, 425, is more sceptical about the extent to which Photius remains true to Ctesias’
+original.
+85 A schematic survey of the relevant fragments is given by Reese, Nachrichten, pp. 73—6.
+86 Lucian Ver. hist. 1.3 and 2.31 combines Herodotus and Ctesias as targets of scorn. (Jacoby does not
+include Lucian among the testimonia on Ctesias.) See esp. J. R. Morgan, ‘Make-believe and make
+believe: the fictionality of the Greek novels’, in Lies andfiction in the ancient world, ed. Christopher
+Gill and T. P. Wiseman (Austin: University of Texas Press, 1994), pp. 175-229.
+87 Most famously Thuc. 1.22, where he is not named, and Plutarch’s de malignitate Herodoti (though
+in neither critique do the ends of the earth feature); for a survey of his reception see Momigliano,
+‘Place of Herodotus’, in Studies in historiography.
+Achaemenid India andAlexander 3i new kind of historiography that was beginning to emerge.
+88 This is one possible reason why Ctesias became so vilified by the writers of self-consciously
+serious history. When the Indography of Ctesias is so different in character
+to that of the earlier writers discussed above, it is perhaps useful at this point to invoke a passage attributed to Herodotus’ younger contemporary,
+Hellanicus of Lesbos (c. 480-395 bc): according to a later mythographer,
+‘Hellanicus says that there is a spring called Sille, in which not even the
+lightest objects can float.’ 89 Now we know that Hellanicus wrote extensively on ethnography and geography, but this is his only reference to India, and
+the circumstances of its survival are such that we have no context for it. But
+it does suggest that by the later fifth century there was talk of the wonders
+of India beyond the strange creatures of the kind mentioned in Scylax. On
+the strength of this, it appears that Ctesias was not the first to produce the kind of Indography for which he would later become notorious. Despite references to a Persian sojourn, Ctesias at no point claims to have visited India. Among many attempts to defend him from ancient and modern criticism, 90 some have claimed that Ctesias did not see India itself, yet saw Indian animals, plants and other objects at the Persian court. This
+claim should be taken seriously as a way of refining the concept of autopsy
+or personal observation, one that is so important to classical historiography. Various studies of the phenomenon have shown that even some small aspect of autopsy in a tradition can result in elaborate claims about truthfulness:
+i.e. if an earlier author saw something, then those using his work could
+themselves claim authenticity.91 It follows that Ctesias’ claims to having
+seen ‘Indian things’ himself, may mean that he had himself seen Indian
+objects and perhaps people at the Persian court. By way of assessing the character of his Indology, it is worthwhile to distinguish between Ctesias as a source and Ctesias as a historical figure, between writer and traveller. To make this distinction is to go against the
+grain of an ancient tendency to tend to conflate the two: in many cases, it seems, to question the veracity of a writer’s travels is a way of questioning
+his authority as a source.
+88 Momigliano, ‘Tradizione e invenzione in Ctesia’, in his Quarto Contributo (Rome: Edizione di Scoria
+e Letteratura, 1969 [1931]), pp. 181-212 at 211; cf. Emilio Gabba, ‘True history and false history in
+classical antiquity’, JRS 71 (1981), 50-62.
+89 ‘EAAocvikos ev ’IvSoTs eTvcu (Jvqcn Kp-qvqv ZlAav KaAoupEvr|v, Kai tcx EAa^poTorra KaTomrovti^etcci {Paradoxogr. Vatic. Rohde 36 = FGrH 4 F190).
+90 The many articles of Bigwood and Karttunen deserve mention here among modern discussions of
+Ctesias. Typically of earlier writers, Bevan (‘India’, p. 356) accuses him both of being a ‘deliberate
+liar’ and of plundering the material of others, provided it was ‘sufficiently sensational’.
+91 Autopsy was not so absolute as it might initially seem: Thomas, Herodotus in context, pp. 235-47.
+32- Creation ofa discourse How are we to understand the intentions lying behind the work? Little is gained by claiming that ‘Ctesias, again like Scylax, seems to have composed his Indica primarily to entertain rather than inform his Greek
+audience’. 92 For one thing, broader trends in fourth-century historiogra- phy make the fantastic elements in Ctesias seem rather like ‘an important
+step in the development toward a kind of historiography distinguished by
+pathos or melodrama’. 93 To be sure, it has been claimed with justification that Ctesias was an originator of the historical romance, at the very least that certain types of prose narrative may be traced back to his work. 94 Yet,
+as soon as we cease to retroject modern notions about truth and fiction, it becomes clear that such claims minimise the historical value, if not histo- riographical aims, of the work in favour of supposed entertainment value. Recent work on the novel has made it clear that ‘historical’ and ‘fictional’ elements can coexist in the same work. 95 In fact, it is a feature of the Greek
+novel, being the latecomer that it was, to be receptive to elements usually linked with other genres. 96 An eastern setting is common to many novels, though sometimes the eastern connection is little more than a title; it implies nothing necessarily about any possible eastern origins of the story involved. It is indeed possible that the novel’s own concern with truthfulness and fictionality has some bearing on the reception of Ctesias. At
+any rate it would be wrong, on the basis of such considerations, to rule out the possibility of a political role played by the circulation of a work
+such as Ctesias’, on similar lines to those which have been suggested for Megasthenes. 97 What of Ctesias’ sources? A recent scholar, perhaps with a sense of apol- ogy for the marvellous character of his tale, points to ‘intermediaries who
+were not necessarily well-informed’. 98 Such a suggestion merely adds an
+additional tier of speculation, and as such achieves little. Ctesias claims to have seen a manticore ( martikhora) at the Persian court, brought there as a royal gift:
+92 Romm, Edges, p. 86. 93 Schmitt, ‘Ctesias’, 444.
+94 E.g., Jacoby, ‘Ktesias’, 2045; Schmitt, ‘Ctesias’, 442.
+95 Tomas Hagg, ‘Callirhoe and Parthenope: the beginnings of the historical novel’, CL Ant. 6 (1985), 184—204; cf. Momigliano, ‘The historians of the ancient world and their audiences: some suggestions’, ASNP 8 (1978), 59-75, at 74; Oswyn Murray, ‘Herodotus and Hellenistic culture’, Classical Quarterly 22 (1972), 200-13, at 212.
+96 B. P. Reardon, Theform ofGreek romance (Princeton: Princeton University Press, 1991); Tomas Hagg,
+The novel in antiquity (Berkeley: University of California Press, 1983).
+97 Susan Sherwin-White and Amalie Kuhrt, From Samarkhand to Sardis; a new approach to the Seleucid empire (London: Duckworth, 1993); see section II. 2 below.
+98 Joan M. Bigwood, ‘Ctesias, his royal patrons and Indian swords’, ///£ 115 (1995), 135-40, at 140.
+Achaemenid India andAlexander 33 Ctesias states that he has indeed seen this animal in Persia, after it had been brought
+as a gift to the king of the Persians - if in fact Ctesias has credibility in matters of
+this kind. (F45d(3 = Aelian, Historia animalium 4.21)" In the same paragraph, Aelian states that Ctesias himself appealed to local knowledge to substantiate his claims: ‘so states Ctesias, and he says that Indians [writers?] agree with him’.100 Whatever may be the historical reality behind this creature, the tale may offer an important pointer. To be sure, a
+great many of the Indian things Ctesias mentions he could have seen at the
+Persian court: wine and cheese (Photius 49b3), oil (49326), light-coloured Indians (463.26) and rare animals. These are the kinds of object the King
+of Kings received as presents and tribute from his subjects.
+101 The above account makes clear that Ctesias was important in the inte- gration of the truth/falsity distinction into historical writing. This same
+distinction, and with it the figure of Ctesias, is important to the different genesis of the Greek novel. Though only one of the twenty-three books
+of Ctesias’ Persika concerned India, it was India more than anything that determined Ctesias’ subsequent reputation among later authors. In this way, India itself was central to the development of Greek historiography. What is more, India’s very marginality gave it a privileged position in the
+early history of Greek map-making, as a marker of the edges of the world,
+in the cosmologies of Hecataeus and Herodotus. When Alexander III of Macedon succeeded his father Philip II in 336 BC there was thus already a
+vivid Greek notion of India
+II. i. A conqueror and his historians
+It is with Alexander’s eastern expedition that the body of information about
+India reached new levels of complexity. To judge from the profusion of Alexander histories, there can be no doubt that the campaign marked a period when suddenly a great deal more information about India was avail- able. However, specific questions posed here are whether this was a retro- jection of later times, and whether the influx of new information was one
+99 AEyei 8e koci EopccKEvai to5e to £coov ev FTEpaais KTT)aias e£ ’IvScov kopictOev Scbpov tw FlEpacbv
+(3 ccctiAeT, ei 5r) too ikccvos TEKpripiaxjai Omp tcov toioutcov KTT]cnas. For discussion of this passage, Lenfant, ‘L inde’, 315—16, and Christopher Tuplin, ‘Parks and gardens’ Achaemenid studies (Stuttgart: Steinev, 1996), p. 109.
+100 XfiyEi 5e apa KTT]CTias Ken <J>T]aiv opoAoyEiv ocutco tous ’Iv5ous. The manticore is further discussed
+in Chapter 3 below.
+101 Aelian 4.21, 46; cf. Jacoby, ‘Ktesias’, 2037.
+34 Creation ofa discourse of quantity more than quality. As we try to reconstruct Alexanders Indian
+expedition historically, the problems encountered are in many ways typical of the problems of Alexander history in general. Major difficulties stem from the fact that the earliest extant histories come some three centuries
+after the fact, however faithfully they might have reflected the contemporary accounts of Callisthenes, Onesicritus, Aristobulus and Nearchus; and
+even then there are serious questions about bias in the earlier sources, as
+far as they can be reconstructed. Nonetheless a substantial historical record
+exists, which has been subject to extensive source criticism. 102 Alexander’s campaign in India (summer 327 to autumn 325 bc) itself deserves consideration, as perhaps antiquity’s most celebrated journey of
+discovery. The basic story can be found most fully in Arrian’s Anabasis 5-6, where the campaign is marked as a major episode in its own right.103 The
+most important of the other ancient accounts are those of Curtius Rufus’
+History ofAlexander the Great 8.9-9.10 and Plutarch’s Life ofAlexander
+57-66. 104 Since so many modern historians have already crafted a narrative on these lines, here it is necessary to rehearse only the barest outline of the campaign, so as to be able to consider selected features. 105 Alexander, having moved through what is now Afghanistan, is well received at the city ofTaxila. 106 The ruler Taxiles allies himselfwith Alexander in the hope of gaining support against his neighbours, Abisares and
+Porus. Abisares submits to Alexander but Porus resists. Alexander cannot remain in Taxila but is sufficiently interested in what he sees there to send his
+102 Of the major contributions to source criticism embracing more than one author, the studies of
+Jacoby and Lionel Pearson, The lost histories ofAlexander the Great (Philadelphia: APA, i960), has
+yet to be replaced, despite being somewhat outdated; cf. more recently A. B. Bosworth, From Arrian
+to Alexander: studies in historical interpretation (Oxford: Clarendon, 1988). On the general problems
+concerning sources in Alexander history see, e.g., Simon Hornblower, ‘Sources and their uses’, CAN 2nd edn (1994), vol. VI, pp. 1—23; and Pearson, Lost histories, i —2.1. 103 A. B. Bosworth, A historical commentary on Arrian’s History of Alexander (Oxford: Clarendon,
+1995), vol. II, p. 9, compares Herodotus’ style of digressing.
+104 Diod. 17.84-105 and Justin 12.7.4-12.10.7 should also be compared.
+105 Among recent narrative histories the following are significant: Jakob Seibert, Alexander der Grosse (Darmstadt: Wissenschaftliche Buchgesellschaft, 1972), pp. 155-70, with his particularly detailed maps, esp. no. 26; P H. L. Eggermont, Alexander’s campaigns in Sind and Baluchistan (Leuven:
+Peeters, 1975), and Alexander’s campaigns in Southern Punjab (Leuven: Peeters, 1993); E. Badian,
+‘Alexander in Iran’, in Cambridge history ofIran (Cambridge University Press, 1985), vol. II, pp. 420-
+501, at 461-75; Badian, ‘Alexander at Peucelaotis’, CQ 37 (1987), 117-38; A. B. Bosworth, Conquest and empire (Cambridge University Press, 1988), pp. 119-39. See now also Frank L. Holt, Into the land ofbones: Alexander the Great in Afghanistan (Berkeley: University of California Press, 2005).
+106 Ahmad Hasan Dani, The historic city ofTaxila (Tokyo: Centre for East Asian Cultural Studies, 1986)
+.
+This updates the three-volume report of excavations undertaken in 1913-14: Sir John Marshall,
+Taxila: an illustrated account ofarchaeological excavations . .
+. (Cambridge University Press, 1951); cf.
+P. M. Fraser, Cities ofAlexander the Great (Oxford: Clarendon, 1996), pp. 159—60.
+Achaemenid India andAlexander 35 officer Onesicritus to find out more about its sages. One of these philosophers’ attaches himself to Alexander’s entourage for some time, and later, upon becoming ill at Persis, freely goes to his own death on a burning pyre. The battle with Porus at the Hydaspes (Jhelum) brings the campaign to a climax. Once the troops are lined up on opposite sides of the river, Alexander uses a ruse to distract the enemy, and deploys his cavalry, which proves more effective than Porus’ elephants. King Porus is captured in battle but
+Alexander, impressed by his bravery and imposing physique, spares him, and gives him the status of a vassal potentate. In the battle Alexander loses his horse, Bucephalus. It is buried with pomp, and the newly established settlement of Alexandria Bucephala is named in its honor. 107 A definitive moment is reached at the river Hyphasis (Beas), at which
+point Alexander’s troops refuse to go any farther, whereas he himselfstill has
+a burning desire to press on till the Eastern Ocean. 108 The long-festering grievances of the soldiers are expressed first in informal meetings, and
+then to Alexander by Coenus, the senior phalanx commander. At a second meeting Alexander finds that he cannot persuade his troops or officers to venture farther east with him. After three days spent alone he finally accepts the decision to turn back, thereby reaching reconciliation with his men.When he returns to the Hydaspes in late September he finds that a
+fleet is already being built at the newly founded cities of Bucephala and
+Nicaea, both located in the vicinity of the encounter with Porus. This fleet consists in the main of light transport craft, which were to carry horses, troops and provisions down to the southern ocean, under the command of
+Nearchus, assisted by Onescritus. 109 While the ships carry most of the cavalry, hypaspists and archers, the rest of the troops and some 200 elephants move on foot under the leadership of Craterus and Hephaestion. Alexander’s own activities at this time are directed against the Oxydracae (Ksudrakas) and Malli (Malavas), located on the lower reaches of the Hydraotes. Indigenous resistance is concentrated in a number of strongholds and met
+with a particularly ferocious response. 110 It is during an assault on the citadel of the Malli that Alexander is impaled by an arrow in the chest, and only narrowly escapes death thanks to surgery performed by Critobulus of Cos.
+107 Fraser, Cities ofAlexander, pp. 161—2.
+108 The troublesome but important question of Alexander’s aims will be discussed below.
+109 The question of the relative roles of Nearchus and Onesicritus is assessed by Waldemar Heckel, The marshals ofAlexander's empire (London: Routledge, 1992), pp. 228-30.
+110 A. B. Bosworth, Alexander and the East: the tragedy oftriumph (Oxford: Clarendon, 1996), esp. pp.
+133—41, stresses the ferocity of the campaign in general and this encounter in particular.
+36 Creation ofa discourse To what degree can we reconstruct Alexander’s intentions as he moved
+eastward? How far did he plan to go?111 If the historical reconstruction of
+intentions is a questionable exercise at the best of times, and one of the
+least plausible aspects of ‘great man’ historiography, then the character of
+the sources makes it all the more so in this case. Yet this is a topic we
+must consider, because of its prominence in the Greek and Roman texts, and because those texts give geographical knowledge itself a role in the
+question. According to Arrian (Anabasis 5.26), Alexander tries to encourage
+his troops at the Hyphasis by claiming that their goal, the Eastern Sea, is not far away. In Arrian’s account, the military discourse of encouragement
+is mixed with a scientific theorem, one involving the geography of the
+east.
+112 If anyone wishes to hear what will be the limit of the fighting, he should know that there remains no great expanse of land before us up to the river Ganges and the
+eastern sea. This sea, I tell you, will prove to be joined to the Hyrcanian sea; for the
+great sea encircles all the land. And it will be for me to show both Macedonians
+and allies that the Arabian Sea forms a continuous stretch ofwater with the Persian Gulf, and the Hyrcanian Sea with the Arabian Sea. From the Persian Gulf our fleet shall sail round to Libya, as far as the Pillars of Heracles; from the Pillars all the
+interior of Libya then becomes ours, just as all of Asia is in fact becoming ours, and the boundaries of our empire here are becoming those which the god set for the entire continent. (5.26.1—2)
+113 If we are to take this passage seriously, there might be a point in thinking of the famous marvels of India in an early context: that of soldiers on the campaign. Certainly fear is a major part of the campaign narratives. Rivercrossings and battles provide several moments at which this factor reaches
+crisis-point. At many stages the solders’ fear is contrasted with Alexander’s
+111 A recent review of the scholarly literature on this subject stresses the early months of 330 bc, and
+esp. the death of Darius as the conspiracy of Bessus, as the turning point in Alexanders objectives: M. B. Hatzopoulos, ‘Alexandre en Perse: la revanche et l’empire’, ZPE 116 (1997), 
+later discussion in other contexts, namely emulation ofAlexander. If this was to prove a major theme in the self-presentation of Roman leaders
+later,
+114 then we shall have to consider the role of India in those processes of self-presentation. But, again, how far did Alexander really intend to go? Curtius’ comment,
+for example, that Alexander intended to make for India and from there for Ocean, is not necessarily ofgreat value in historical reconstruction.115 Given
+the temporal distance between the surviving Alexander historians and their subject, and given Alexander’s own charisma, this is exactly the kind of
+issue that will have been most prone to distortion. Alexander did receive reports that the Ganges lay twelve days’ march beyond the Hyphasis, and
+these reports could have encouraged him,"6 despite the fact that he could
+expect grim going all the way, and then the Ganges’ east bank to be densely populated with hostile groups. This information was awkward enough
+for him to disbelieve or dissimulate to his troops."7 It is very likely that geographical misconceptions (or even conscious misrepresentations) played
+a part in Alexander’s strategy: whatever Alexander might have thought, his assertion that Ocean was nearby seems to have had the effect of revitalising his exhausted troops. In principle, there would have been every reason for
+114 On problems surrounding Alexanders exemplary status, see Pierre Vidal-Naquet, ‘Flavius Arrien
+entre deux mondes’, in Pierre Savinel (tr.), Arrien, Histoire dAlexandre (Paris: Minuit, 1984), esp. PP- 330-43-
+1,5 ceterum Indiam et inde Oceanum petiturus (8.5.1).
+116 Cun. 9.2.5.
+117 Plut. 62.2; Arr. 5.25.2; Just. 12.8.10-15.
+38 Creation ofa discourse Alexander to think of India as the eastern edge of the world, in keeping with
+the Hecataean and Herodotean conceptions mentioned above. It was only
+after Alexander’s expedition that India was no longer thought to lie on the
+eastern edge; now glimmers of knowledge about the Ganges appeared."8 To what extent that is the product of retrospective fabulation on the part of later historians is unclear, yet it seems likely that it reflects the situation of the campaign itself. In the Romance tradition this desire ofAlexander to proceed beyond the Hyphasis is transformed into the supposed fact of his actually having done so."9 In this narrative, rivers hold an ambiguous position. Significantly, the Hyphasis (Beas) is presented as a border of knowledge. Arrian discusses the pre-eminence ol the Indian rivers among all those of Asia, and ends his description by keeping open the possibility that says that there might be
+even greater rivers in India, unknown to him. This passage is remarkable both for the role of the Hyphasis and for the fact that Arrian suspends his own authority:
+It is possible that also many other greater rivers run through India. But I can make
+no accurate assertions about territory on the other side of the Hyphasis, because Alexander did not get beyond the Hyphasis. (Indica 3.10-4.1)
+110 This sentiment is matched at 6.1 and Strabo 15.1.37 C702, the latter being
+particularly interesting since it states explicitly that India’s remoteness and
+the consequent ignorance of writers leads to exaggeration and marvel- mongering. (Strabo goes on to instance gold-digging ants.) On the other hand rivers are also a rationalisation of space, in this case articulated in retrospect, in such a way that the narrative easily focuses on these points.111 The military story of Alexander’s campaign is punctuated and segmented
+by the rivers crossed, particularly in Arrian’s account. One river, the Hydaspes, is also the path of travel, and likewise the
+Acesines, another tributary of the Indus. In the narrative of Nearchus’
+voyage, which begins with the river journey down to the Indus delta, these two rivers fulfil a very different role (chapters 18-19).112 As Arrian hastens to remind us, the bulk ofhis story concerns Nearchus’ voyage from the mouths
+118 Dihle, RAC, 6, with reference to earlier writing.
+119 E.g., Alexander Romance (rec. y) 2.35a.i5; cf. the Byzantine poetic version (cod. Marc. 408), lines 4811, 4840 and 4858.
+122 On rivers as boundaries or connectors of people, Franz Schon, ‘Fluss’, in Mensch und Landschaft in der Antike. Lexikon der historischen Geographie, ed. Holger Sonnabend (Stuttgart: Metzler, 1999),
+Achaemenid India andAlexander 39 of Indus to the Persian Gulf (19.9), and it is Nearchus’ own account that forms its factual basis (20.1). Asceticism is one feature that impressed Alexander’s entourage. The rig- orous discipline and self-sacrificing ways of the Indian philosophers struck a chord for Onesicritus, who claimed to find in their lifestyle an analogue and model for Cynic philosophy.123 This episode predicts the fascination that Christians would come to have with the Brahmans and Gymnosophists, as will be discussed in Chapter 6. Important for current purposes is Calanus, who is a key to the formation of this image, creating as a he did a model of both self-mortification and social criticism, as Strabo 15.1.64 C715, for one,
+reveals. The angles of self-control and criticism point in the direction of an emerging concept of ascetic practice, one that would later come to have
+philosophical and religious implications in the world of early Christian
+asceticism. 124 Onesicritus was instructed to meet with the philosophers. They would
+not themselves be summoned, and Alexander wished neither to go himself nor to force them. At a distance of fifteen stadia from the city Onescritus found fifteen of them, sitting naked in various postures on the stones. He
+spoke to Calanus, one of them, and is told also to sit naked on the stones so
+that he can hear the teaching of the wise men. When Onesicritus says that he was sent to learn about wisdom and report back to Alexander, Calanus
+proceeds to rail against gluttony and luxury. In a kind of Golden Age legend he tells of an earlier time when the world produced goods in abundance; now people had lost self-control and returned to satiety and arrogance, and
+as a result the world had declined. Another sage, Mandanis (also referred to
+in the sources as Dandamis), is more conciliatory at first in his attitude to the Greeks, and rebukes Calanus as arrogant for having made Onesicritus undress and be seated in discomfort.
+pp. 145-50; on later antiquity, C. R. Whittaker, Frontiers ofthe Roman empire: a socio-economic study (Baltimore: Johns Hopkins University Press, 1994), pp. 26 and 61.
+123 See further Truesdell S. Brown, Onescritus (Berkeley: University of California Press, 1949); Dihle, RAC, 7; James S. Romm, ‘Dog heads and noble savages: Cynicism before the Cynics?’, The Cynics: the Cynic movement in antiquity and its legacy, ed. R. Bracht Branham and Marie-Odile Goulet- Caze (Berkeley: University of California Press, 1996), pp. 121-35, at I22- On Onesicritus as historian see esp. Pearson, Lost histories, pp. 83-111, who stresses his link with Xenophon, and Paul P6dech,
+Historiens companions dAlexandre (Paris: Belles Lettres, 1984), pp. 71-158. Apparently he is the first Greek to mention Taprobane, modern-day Sri Lanka (FGrH 134 F12-13 = Strabo 15.1.15 C690 and
+Pliny HN 6.81; cf. Meg. F26): D. P. M. Weerakkody, Taprobane: ancient Sri Lanka as known to Greeks and Romans (Turnhout: Brepols, 1997), pp. 27-9, and Stefan Faller, Taprobane im Wandel
+derZeit (Stuttgart: Steiner, 2000), pp. 29—34.
+124 Note esp. Derek Krueger, ‘The bawdy and society: the shamelessness ofDiogenes in Roman imperial
+culture’, in The Cynics
+,
+ed. Branham and Goulet-Caz£, pp. 222-39; A. Brian Bosworth, ‘Calanus and the Brahman opposition’, in Alexander der Grosse, ed. Wolfgang Will (1998), pp. 173-204.
+40 Creation ofa discourse The very name of Calanus is an act of translation.115 Plutarch tells us that he received that name from the Greeks because he greeted them with kalyam,
+the Sanskrit form of the greeting khaire (Alex. 65.5). Since this supposed
+Sanskrit greeting makes no sense as it stands, it has been understood instead
+as kalyanam, hence the proximity to the name as it occurs in the Greek and Roman sources.
+126 Sphines, his real name according to Plutarch, cannot be
+linked to any known Indian name. Names are not the only problem in making sense of Calanus. For example, how are we to square Calanus’ own eulogising of the king (e.g., Strabo
+15.1.68 C717) with the frequent criticism by the later historians that the con- temporary writers would flatter Alexander?127 In this passage Strabo accuses the sages themselves of impetuosity and lack of self-control, which is after
+all what they most profess to teach. But it is clear that Calanus, through his link with Onescritus and thence Diogenes and ultimately Socrates, stands
+at a particular moment in the history of social criticism and of asceticism, representing a special kind of ‘alien wisdom’.
+Stepping back a moment from the narrative, we should consider the sources used by the Alexander historians. Two writers who stand out for having dealt with this most easterly part of the campaign are Nearchus and
+Onesicritus, these two being identified as admiral and helmsman of the
+fleet respectively (Arrian, Indica 18.9-10). This has been taken to mean that Nearchus was in overall command, Onescritus in charge of navigation. 128 It is Nearchus who is cited by Arrian as the main source for the narrative section of his Indica. lz
+9
+To consider the question of sources at a further remove: from whom did
+Callisthenes and other contemporary historians glean their information on
+India? In a provocative recent study, Bosworth has suggested some complicity between indigenous priests and the Macedonians gleaning information from them. 130 This raises several questions of methodology, and is a helpful
+125 The codices of Diodorus, e.g., 17.107.1, consistendy refer to him as Kapccvos instead.
+126 Jean Filliozat, ‘La valeur des connaissances gr£co-romaines sur Tinde,Journ. sav. (1965), 97-136, at 109. J. W. de Jong, ‘The discovery of India by the Greeks’, Asiatische Studien 27 (1973), 115-43 at 120.
+117 Cf. Pearson, Lost histories, pp. 22-49, on Callisthenes. For Bosworth, ‘Calanus’, the divided literary representation of Calanus stems from divisions between Brahmans at the time of Megasthenes’ visit to India.
+128 E. Badian, ‘Nearchus the Cretan’, YCIS 24 (1975), 147-70 at 159.
+129 Ch. 20.1. Nearchus and Megasthenes, ‘men worthy of credit’, SoKipco av5pE (17.6) are together
+cited as the sources for the first, ethnographic section of the work. Note the remarks of
+P. A. Brunt, ‘On historical fragments and epitomes’, CQ 30 (1980), 477-94, at 482, on the difficulties of reconstructing Nearchus from Arrian and Strabo, his main repositories.
+130 Alexander and the east, 98-132.
+Achaemenid India andAlexander 4i corrective to the tendency of ancient texts to emphasise matters of fac- tual accuracy over those of sources. Bosworth’s inquiry is informed by a
+relatively new trend in social anthropology to concentrate on the process whereby information is assembled — a process characterised by contingencies and problems of translation - rather than the static object of earlier ethnographic writing. 131 Tantalisingly, Strabo mentions in passing that Mandanis is speaking through the medium of three interpreters (who know, apart from language, no more than the masses, says Mandanis). 132 He mentions this to underline how hard it is for anything he himself says to have an impact, whereas Alexander would have the power to force people, where necessary, to learn
+to exercise self-control ( sophronein). The matter of interpreters is, however, not developed in ways that would be interesting to modern ethnographic
+studies, with their emphasis on methodology. Among Strabo’s considerable criticism, ‘flattery’ is a particular point, one made in connection with Callisthenes particularly. Strabo’s allegations of
+flattery resonate with the rhetoric of bigness surrounding the contents of
+the description itself. As we have seen above, the idea of abundance, if not
+bigness, is present in Herodotus’ India. This is something pre-existing that the context of Alexander seems to have magnified.
+Finally, what role did Aristotle himself play? Only in the eastern tradition, much of it dating to the later period, is he said to have accompanied
+Alexander’s expedition. 133 Even if we make allowances for the vagaries of
+biographical tradition, there are strong indications that Aristotle was the teacher of the young Alexander: we can therefore infer that he was a major
+source of Alexander’s geographical knowledge, and hence of the assumptions informing his strategies. On the other hand, as we have seen above,
+the extant works of Aristotle contain little engagement with geography or
+131 Edmund Carpenter, Oh, what a blow that phantom gave me! (New York: Holt, Rinehart and
+Winston, 1973), pointed ahead to later studies such as those in Writing culture: the poetics and
+politics ofethnography, ed. James Clifford and George E. Marcus (Berkeley: University of California
+Press, 1986). For the semiotic approach to the concept of culture, Clifford Geertz, The interpretation ofcultures, 2nd edn (New York: Basic, 2000), remains seminal well after its original publication in 1973- 132 15.1.64 C716; cf. B. C. J. Timmer, Megasthenes en de Indische maatschappij (Amsterdam: H. J. Paris, 1930), p. 45; de Jong, ‘Discovery’, 119.
+133 Ingemar During, Aristotle in the ancient biographical tradition (Goteborg University Press, 1957); Max Brocker, Aristoteles als Alexanders Lehrer in der Legende (diss. Bonn 1965). For two attempts
+to reconstruct historically the possible involvement of Aristotle, see James S. Romm, ‘Aristotle’s elephant and the myth ofAlexander’s scientific patronage’, AJPhil. no (1989), 566-75, and Bosworth,
+‘Aristode’.
+42. Creation ofa discourse
+in fact with India; as a result there is no reason to believe that this is an
+issue in which Aristotle influenced him directly. 134
+II. 2. Megasthenes and Chandragupta ’s court
+It comes as something of a surprise that a writer who is subsequently accorded greater credibility than others was not part of Alexander’s campaign but visited India in its aftermath. Like Scylax and Ctesias before him, Megasthenes was attached to a royal court/35 in his case to that of Seleucus I Nicator (c. 358—281 bc). He visited the court of the Maurya emperor Chandragupta, known to the Greeks as Sandrakottos, as an ambassador either of
+Seleucus himselfor of Sibyrtios, satrap ofArachosia/36 This court was based
+in Palibothra, known in Sanskrit as Pataliputra, near modern-day Patna/37 Megasthenes’ account seems from its fragments to have been the fullest account of India that the Greco-Roman world ever had/38 From the point of view of ancient Indian history, Megasthenes’ Indography does in fact appear to offer particularly valuable evidence, especially with regard to ele- phants and other military matters/39 What is important, for our purposes, was the perception that Megasthenes’ account deserved some credibility by
+virtue of its author’s own travels. Arrian mentions him as an example when speaking of those who took
+part in Alexander’s campaign’ (6.1-2). According to the usual chronology,
+this is an apparent error. If so, it would be interesting to account for. Possibly, it reflects the intertextual relation between the various Alexander histories by Arrian’s time, in a kind of echo chamber. Or it might be
+considered testimony to the power of autopsy, in ways which might even
+have pre-empted medieval ideas about Alexander himself as scholar and
+explorer. Or it could be that the early loss of the contemporary Alexander
+historians gave Megasthenes added significance, faute de mieux. More radically, a recent study would take Arrian at his word, and consequently place Megasthenes’ journeys as early as 320-318 bc, that is, before Chandragupta’s power stretched as far as the Indus valley/40
+134 Bosworth, ‘Aristotle’, 423. 135 Cf Romm, Edges, pp. 83-4.
+136 On Chandragupta and Sibyrtios see the texts given by Jacoby at T2, esp. Arr. Anab. 5.6.2; cf. Stein, ‘Megasthenes’, RE XV.i (1931) 230—326, at 230-1. Among modern accounts John D. Grainger,
+Seleukos Nikator: constructing a Hellenistic kingdom (London: Routledge, 1990), p. 154, is particularly
+skeptical of Megasthenes.
+137 Talbert, Barrington atlas 6 F4. 138 Bevan, ‘India’, p. 400.
+139 Thomas R. Trautmann, ‘Elephants and the Mauryas’, in India: history and thought, ed.
+S. N. Mukherjee (Calcutta: Subarnarekha, 1982), pp. 254-81.
+140 A. B. Bosworth, ‘The historical setting of Megasthenes’ Indica', Cl. Phil. 91 (1996), 113-27: by
+Bosworth s dating, Megasthenes belongs to the same world as the Alexander historians, and his visit to the Mauryan court perhaps as early as 319/318.
+Achaemenid India andAlexander 43
+If the doxographic problem casts a shadow over this chapter as a whole,
+then Megasthenes presents an extreme case. The longest of the fragments
+given by Jacoby at no point names Megasthenes as source.
+141 Now it is true that the degree of overlap with similar material in Strabo, Pliny and
+Arrian points to a common source, most likely Megasthenes. It is also true
+that Diodorus generally tends not to name his sources,
+141 certainly less frequently than do the other writers. But this is hardly conclusive, and as things stand the identification of Megasthenes as the direct source is less secure than Jacoby would lead his readers to believe. 143 Whatever the specifics of this passage and others like it, there is no denying the importance of Megasthenes to the later tradition. Any survey of
+the later, Roman-period Indographers makes clear that Megasthenes more
+than anyone else tends to be cited as an authority. And what is more, while he too is liable to criticism, it is he who is most often praised as accurate. 144 The thesis that the reliability of an ancient Indographer is in direct pro- portion to his dependence on Megasthenes is today easily dismissed as an
+editor’s enthusiasm for his author.'45 It might be said that within the competitive context of an emerging tradition, it is Megasthenes’ text as much
+as any that becomes an object of struggle over veracity. Whereas Diodorus,
+as we saw, says little about his sources, Strabo and Pliny are very doxographic, in that their mode for recounting information about India (and indeed about other distant places) is couched in the competitive language
+of rival authorities, of truth and fiction. For these later writers then, it is Megasthenes’ Indica that takes on the role of the key text that needs to be proven or disproven on any given point.'46 Given the sheer bulk of fragments of Megasthenes and given the ancient
+critical debate around them, we have to pose the question: what are the
+features of Megasthenes’ description, and to what extent does it differ from
+earlier ones? One aspect of his Indography, absent in earlier Greek texts, is the description of an Indian city, namely Palibothra. It is no coincidence
+that its founding is ascribed to Herakles (Diodorus 2.39), in view of his role
+141 FGrH 715 F4 = Diod. 2.35.1-2.42.4, the contents of which are discussed below.
+142 Kenneth S. Sacks, Diodorus Siculus and thefirst century (Princeton University Press, 1990), argues
+for Diodorus’ Bibliotheke to be seen in its own right, as a product of its own times, rather than the product of a mere copyist.
+143 The text of Megasthenes is reconstructed by Jacoby as FGrH 715.
+144 Truesdell S. Brown is one of his most avid modern apologists: see esp. ‘The reliability of Megasthenes’, AJPhil. 76 (1955), 18-33.
+145 For Brown, ‘Reliability’, Megasthenes deserves credit for rejecting Ctesias’ account and ‘his ability to give a straightforward account of what he had seen’ - hints of special pleading on Megasthenes’
+behalf.
+146 See, e.g., Brown, ‘Reliability’, as well as his ‘The merits and weaknesses of Megasthenes’, Phoenix
+11 (1957). 12-24.
+44 Creation ofa discourse
+as a culture hero. 147 Megasthenes thus represents a move beyond the Indus
+valley per se, eastward toward the Ganges valley. There is no indication in the fragments that this was somehow a different region; rather, Palibothra
+is part of the same geographic entity, ‘India’. Perhaps the most striking feature of Megasthenes’ India is its abundance. This means, in Diodorus’ breathless description, a hypertrophe of
+the natural realm: animal (e.g., elephants, monkeys and snakes), vegetable
+(a double harvest) and mineral (supplies of gold and silver) all occur. It should be stressed that these are not monsters, in the style of Ctesias, but more realistic animals that are great in size and number. The excess of its scale makes Diodorus compare Libya. In size and number, India’s elephants exceed even Libya’s.'48 The key to this general principle of plenty, verging even on beauty, is clearly articulated by Diodorus at an earlier passage:'49 For India is a land of exceptional beauty, and since it is crossed by many rivers
+it is supplied with water over its whole area and produces two harvests each year. As a result it has such an abundance of the necessities of life that at all times it blesses its inhabitants with plentiful enjoyment of them. People say that because of the favorable climate in those parts the country has never endured famine or
+the destruction ofcrops. Also, it has an unbelievable profusion ofelephants, which
+both in courage and bodily strength far surpass those of Libya, and likewise gold,
+silver, iron and copper; further, one can find within its borders great quantities of
+precious stones of every kind and of almost all other objects which contribute to luxury and wealth. (Diodorus 2 .i6.3-4)' 5 ° There is a certain amount of internal comparison too:151 e.g., Gandaridae
+produces the largest elephants (2.37.2) and this is why it was long able to evade capture. Diodorus claims that it is on account of their consequent
+military power that Alexander refrained from attacking the Gandaridae
+147 Among the many celebrations of Heracles as a culture hero, Isocrates’ praise of his psyche (spirit)
+is noteworthy, especially when it is addressed to Philip in 346 bc ( Oration 5.109-10); cf. G. Karl
+Galinsky, The Herakles theme: the adaptations ofthe hero in literature from Homer to the twentieth century (Totowa: Rowman and Littlefield, 1972), pp. 101-25.
+149 This passage Jacoby has not specifically attributed to Megasthenes, though it has all the features of
+F4, which he does see as Megasthenes’.
+1,0 P yap ’Iv6ixf| x“Pa Siacfopos oCroa t<o xaAAst xai ttoAAoTs SieiAtipuevti ttotccuoT$ apSEUETal te tToAAaxoO xai Sittous xa9' Exaorov fviatrrov fx<()EpEi xapuous' 616 xai tcov TTp6$ to
+ffiv ettittiSeIwv toctoOtov exei TtAfjOos coote 81a ttavTOS aj)0ovov aTToAauaiv toTs Eyxcoplois
+trapEXEcreai. AcyETai Se ptiSettote xaT'auTqv yEyovtvai aiToSsiav fj tfiOopav xapTttov Sia tiJv tuxpacriav tcov tottcov. lyu Se xai tcov tAEtfavTcov amtrtov trAfiSos, ot Tats te aAxai$ xai Tats toO crcbpaTOS pcopais troAu ttpoexoucti tcov iv Trj AipOt] yivopEVcov, opolco; Se xpvcrov, apyupov, crlSTipov, yaAxov Ttpos Se toutois A10cov TravTolcov xai ttoAuteAcov krriv ev aCnr|
+TrAfi0os, eti Se tcov aAAcov aiTavTcov aytSov tcov trpos Tpuc^pv xai ttAoOtov Sioteivovtcov.
+151 Such comparisons make it necessary to question Romm’s contrast between Libya and India as mysteries of internal and external space respectively ( Edges, p. 83).
+Achaemenid India and Alexander 45 even when he had conquered other Indian tribes: he heard of their 4,000
+elephants in military service and of their readiness to withstand his attack
+(2.37.3). This we can dismiss as a misunderstanding on the part of Diodorus
+or his sources, given that Alexander never did reach the Ganges. 152 Yet even
+this comment is testimony both to the influence of geographical information, of news’ as a factor within the military strategy of this campaign; and
+military value of elephants.153 It is indeed with the elephant that we find a
+significant overlap of natural history and military interests. Rivers are another important feature to suggest both scientific and mili- tary interests. Certainly, the big rivers bulk large in three of the major texts preserving Megasthenes’ fragments: Diodorus, Strabo and Arrian.154 As a testimony to their scale, the Indian rivers are said to surpass those of Asia, even if the Danube and Nile were to unite (Arrian, Indica 3.9). Arrian in fact goes on to discuss, with reference to Megasthenes, the huge proportions of
+the Ganges and its tributaries (4.2-16). It is bigger than the Indus. Both of them far surpass the Nile and Danube in volume, since the latter two have no tributaries (4.13). This comparison is not only a matter of establishing what is ‘bigger and better’, but illustrates the principle that has also been shown in Theophrastus’ botany, also in the wake ofAlexander’s expedition: the known is used to explain the unknown.155 In keeping with the line of thought expressed in the Hippocratic Airs
+waters places we encounter the principle of environmental determinism
+involving the inhabitants of India. 156 Just as Indian elephants, living in this plenteous land, are strong (in fact stronger than Libyan) and well trained
+for war, so India’s inhabitants are of unusually large stature. They are skilled
+as a result of breathing pure air and drinking fresh water (Diodorus 2.36.1). We have now seen, in various parts ofthe natural sphere, a great deal ofthe marvellous. How did readers understand this? According to a provocative
+recent study, marvels carried the sense of the disturbing and threatening: by this interpretation, marvels in post-Alexander accounts of India served
+as a justification for the failure of the Seleucids to conquer what had by now become the Mauryan kingdom.157 This suggestion is attractive, but it
+152 Bosworth, Arrian to Alexander, p. 131.
+153 Note Bosworth ‘Aristotle’, 413, on Persian elephants (e.g., Curt. 5.2.10). See further Trautmann,
+‘Elephants and Mauryas’, and Chapter 4 below.
+154 Diod. 2.37.1-7 = F4; Arr. Ind. 4.2-12 = F9; Strabo 15.1.3$ C702 = F9 also.
+155 P. M. Fraser, ‘The world of Theophrastus’, in Greek historiography, ed. Simon Hornblower,
+pp. 167-92 at 173.
+156 Thomas, Herodotus in context, esp. pp. 86-98, explores the complexities of this text in relation to
+historical writing; also Benjamin H. Isaac, The invention ofracism in classical antiquity (Princeton
+University Press, 2004).
+157 Sherwin-White and Kuhrt, Samarkhand to Sardis, p. 97.
+46 Creation ofa discourse has weight only if it can be proven that the marvellous carried the sense of
+threat, and that seems something of a stretch. 158 Megasthenes gives considerable attention to social stratification, in what
+has tended to be described as the caste system. 159 In the longest continu- ous passages Jacoby attributes to him, Megasthenes discusses the hierarchy of Indian society. 160 His description of the seven groups begins with the philosophers, who are first in prominence though smallest in number. They
+are exempt from state service, except in so far as they fulfil priestly duties on behalf of private citizens, including funerals and foretelling the future
+that do not seem far from those of a priest of the Roman state. The term in Diodorus and Strabo usually translated as caste’ is meros, whereas Arrian
+uses genos.' 61 Each writer goes on to describe the other six groups, which are, in order: farmers; cowherds and shepherds; artisans; the military; inspectors; and councillors. In each case, as with the philosophers, the description of
+the class includes their occupation, their numbers and their relation to the power of the state. What are we to make of this careful attention to social structure? On
+the one hand, Herodotus speaks of a seven-fold division of Egyptian society, so perhaps Megasthenes’ comments are a Herodotean projection, not
+to be taken seriously. Herodotus says: ‘There are in Egypt seven classes (gened), which are called respectively, priests, warriors, cowherds, swineherds, shopkeepers, interpreters, and pilots’ (2.164). These are the classes of the Egyptians, and their names are given them from their crafts. He
+then proceeds to subdivide the warriors into the groups Hermotybies and
+Calasiries, according to region (2.165-66). On the other hand, these passages have received detailed attention from historians of Indian society, and
+158 Gabba’s article, ‘True history’, and the substantial new discussion of paradoxography by Guido
+Schepens and Kris Delcroix, ‘Ancient paradoxography: origin, evolution, production and reception’,
+in La letteratura di consumo nel mondo Greco-latino, ed. Oronzo Pecere and Antonio Stramaglia
+(Cassino: Universiti degli Studi di Cassino, 1996), pp. 373-460, have much more to say about
+credibility than about any possible fear that might be engendered. Nor is fear prominent in Caroline W. Bynum’s compelling discussion ofmarvel in the western Middle Ages: ‘Wonder’,/!///? 102 (1997), 1-26.
+159 Given the controversy over the term and concept of caste in modern Indian historiography, it would seem incautious to talk about caste in the period under discussion. At one extreme, Nicholas
+B. Dirks has argued for discontinuity between precolonial and cplonial notions of caste: Castes ofmind: colonialism and the making ofmodem India (Princeton University Press, 2001). Certainly Megasthenes’ discussion has received censure from Bernard S. Cohn, ‘Notes on the history of the study of Indian society and culture’, in his An anthropologist among the historians and other essays (Oxford University Press, 1987), pp. 136-71, at 138-9; see also Donald F. Lach, Asia in the making
+ofEurope (University of Chicago Press, 1965), vol. I, p. 10.
+160 F4 = Diod. 2.40.1—2.41.4, which overlaps considerably with the lengthy F19 = Arr. Ind. 11 and
+Strabo 15.1.39-49 C703-7 (interrupted).
+161 Cf. Diod. 2.40.6 (j)0Aov.
+Achaemenid India andAlexander 47
+especially of Indian law. 161 Megasthenes’ account has often been compared on particular points with an Indian treatise on statecraft, the Arthasastra. However, the comparison is a difficult one since this text, traditionally linked with Chandraguptas minister Chanakya, is most likely a later creation.163 What makes Megasthenes’ account stand out from others, as best we
+can reconstruct them, are his statements concerning India’s antiquity.164 Again, the main source is Diodorus’ rich but troublesome passage (2.38-
+39 = F4). The stories about Dionysus and Heracles are important for the time-depth they confer on India. They are presented as civilizing divinities, who come to a nomadic people and bestow on them the accoutrements of
+culture. 165 Diodorus seldom names his sources, but in this case he twice
+attributes these stories to Indian wise men, thereby implying a certain
+critical distance (2.38.3, cf. 2.39.1). Like the issue of the antiquity of the Jews relative to that of the Egyptians, it is contentious: Arrian, for one,
+dismisses it as a Macedonian boast, but not without recounting it first.' 66 Needless to say, many issues are at stake when origins are perceived across
+cultural boundaries.167 Given the Greek identities of the two divinities, this may be taken as an assertion of Greek cultural priority. At the same
+time, qua charter myth, this is a way of accounting for Hellenism in the far eastern corner of the inhabited world. Given what we know from epigraphy, and especially the well-known bilingual edicts of Ashoka with their finely carved Greek and Aramaic,168
+it is remarkable that there are so few literary
+162 See esp. Bernhard Breloer, Kautaliya-Studien, 2 vols. (Bonn: Schroeder, 1927—8); O. Stein, RE-, Timmer, Megasthenes en de Indische; and Allan Dahlquist, Megasthenes and Indian religion: a study
+in motives and types (Stockholm: Almqvist and Wiksell, 1962).
+163 Detailed textual analysis shows that the work is the product of multiple authors, compiled perhaps as
+late as the mid-second century ad: Thomas R. Trautmann, Kautilya and the Arthasastra: a statistical investigation ofthe authorship and evolution ofthe text (Leiden: Brill, 1971). Hardly contemporary
+with Chandragupta, it nonetheless claims continuity with that period, though in a normative
+rather than descriptive fashion: Romila Thapar, Early India: from the origins to ad 1300 (Berkeley: University of California Press, 2002), pp. 184-6.
+164 On the particularity of this in ancient ethnography see, e.g., Karl Trudinger, Studien zur Geschichte der griechisch-romischen Ethnographie (Basel: Birkhauser, 1911), p. 75.
+165 On nomadism as an ethnographic trope see Brent D. Shaw, ‘“Eaters of flesh and drinkers of milk : the Mediterranean ideology of the pastoral nomad’, Anc. Soc
+.
+13—14 (1982—3), 5—31; Hartog, Mirror ofHerodotus.
+166 Ind. 5.10; cf. 5. 3. 1-4, where he takes issue with Eratosthenes.
+167 E. J. Bickerman’s essay, ‘Origines gentium’, Cl. Phil. 47 (1952), 65-81, remains an important articu- lation of this principle; cf. Time: histories and ethnographies, ed. Diane Owen Hughes and Thomas
+R. Trautmann (Ann Arbor: University of Michigan Press, 1995).
+168 First published by Daniel Schlumberger et al. , ‘Une bilingue gr£co-arameene d’Asoka’, Journal
+Asiatique 246 (1958), 1—48; cf. Sherwin-White and Kuhrt, Samarkhand to Sardis, pp. 100—3, and
+Thapar, Asoka and the decline ofthe Mauryas, rev. edn (Oxford University Press, 1997).
+48 Creation ofa discourse references to the diffusion of Greek culture. This must count as a major
+absence from the literary tradition discussed here. Apart from this, there does not appear to be any significant indication of the passage of time in Greek Indography. Significantly, most of the verbs used in the fragments quoted are in the present tense, what has been called the ethnographic present.169 Just how typical of ethnographic writing is this account of early Indian history? To be sure, Greeks had a very definite notion ofthe antiquity of Near Eastern civilisations, particularly those with
+traditions of writing much older than their own, for example Babylonians, Egyptians andJews.
+170 But it is not clear to what extent Indians were thought
+to share the same features as these other ancient, learned societies of the
+east, and it deserves to be noted that we have not encountered any Greek
+ideas about Indian writing: these questions will have to be discussed below
+in relation to ethnographic traditions generally (Chapter 2) and to ‘alien wisdom specifically (Chapter 6). For the present, it is sufficient to note
+that the notion of Indian antiquity is a highly qualified one, contingent even on the antiquity of the Greeks themselves. Even if it was not a fiction of Alexander’s own propaganda to the degree Bosworth has claimed, then
+it certainly does imply the cultural priority of Greeks, and, as such, seems
+like an invented tradition par excellence.171
+II.3. Bactrians and ‘Indo-Greeks’ From a Greek point of view, South Asia did at one point constitute an empire in its own right, in the sense of governance, albeit for only a brief period. It is necessary here to shift the focus away from the military aspect of
+Alexander’s expedition, to consider instead what effect that expedition had
+169 If we stress the Greek context of this supposed Indian history, we might, with an important scholar ofmodern anthropology, see it as a case ofthe following phenomenon: ‘Whenever marginal peoples come into a historical or ethnographic space that has been defined by the Western imagination’ their own histories are quickly lost. Thus James Clifford, The predicament ofculture: twentieth-century
+ethnography, literature and art (Cambridge, MA: Harvard University Press, 1988), p. 5; cf. Cohn,
+Anthropologist. But if we are to view ancient ethnographic modes in their own right, a passage such
+as this could be argued in opposite directions: on the one it is an ethnographic history, and a rarity
+as such; on the other hand it is a limited one, and one which is predicated on the idea of Greek
+cultural priority. See further Chapter z, section II. z below.
+170 Note for example F3 Clement of Alexandria (Strom. 1.72.4) who, asserting that wisdom begins with particular ‘barbarian’ peoples by virtue of their antiquity, compares the status of Brahmans
+relative to Indian society with that of the Jews relative to Syrian. Herodotus’ emphasis on Egyptian
+antiquity forms a tacit contrast with forward-looking Greek temporalities: Vasunia, Gift ofthe Nile, pp. 110-35.
+171 To use the resonant term of E. J. Hobsbawm, in his introduction to The invention oftradition . ed. Hobsbawm and Terence Ranger (Cambridge University Press, 1983).
+Achaemenid India and Alexander 49 on the lands it traversed. This raises questions about the diffusion of Greek
+culture and language. Here we are on less firm ground, both in relation
+to the material at hand and to the concepts implicit in the scholarship on the subject. In assessing the ‘Indo-Greek or Greco-Bactrian empire
+there exist few literary sources but many coins. 172 The phenomenon we
+are examining is the establishment in the third and second centuries of
+a Central Asian empire whose leadership expressed its power in Greek
+terms, and made use of the Greek language. If these comments sound like a minimalist definition with which to approach the topic, they are thus conceived as a conscious antidote to the highly reified notion of Hellenism
+that characterises the Alexander biographies by Droysen and Tarn, in which
+an almost missionary aspect of Greek culture is evident. 173 Contrary to the anachronisms and exaggerations of these studies, not entirely expunged
+from more recent accounts, it is best for us here to take a minimalist approach, and in fact the current context requires no more than that.' 74 The settlement of Greco-Macedonian soldiers in Bactria and Sogdiana, and intermarriage with east Iranian people, brought about a Central Asian
+centre in which the elite inhabitants expressed themselves in terms of Greek
+culture. Certainly Strabo stresses the Greekness of its rulers (15.1.3 C686).175 A passage in Trogus-Justin implies that their sovereignty stretched well into the Ganges valley (41.1.8). This has made little impact on literary texts, but archaeological work
+has produced some spectacular and unexpected results. Foremost among
+them were the discoveries at Ai Khanum at the confluence of the Oxus (Amu Darya) and the Kowkcheh.176 The palace, theatre, gymnasium and
+inscriptions found there all testify to some degree of Greek presence,
+177 even if domestic architecture does not tell anything like so dramatic a story. In general, coins have played a major part in the recovery of this history
+171 E.g., Frank L. Holt, Thundering Zeus: the making of Hellenistic Bactria (Berkeley: University of
+California Press, 1999)* PP- 1 74_84- 1 73 Peter Green, Alexander to Actium (Berkeley: University of California Press, 199°) > P- 3 I2> c^* Hartog, Memories of Odysseus, pp. 158—60; and Arnaldo Momigliano, J. G. Droysen between Greeks and
+Jews’, in his Essays in ancient andmodern historiography (Oxford: Blackwell, 1977 [i 97°])> PP- 3 °7_23
+- 174 For recent synthetic histories, see Domenico Musti, ‘Syria and the East , in CAH, 2nd edn, vol. VII. 1 (1984) pp. 175-220, esp. 210-16, and Paul Bernard, ‘The Greek kingdoms of central Asia’, in History of civilizations of Central Asia, vol. II, ed. Janos Harmatta (Paris: UNESCO, 1994)
+>
+PP- 99-DOr75 Further references are given by Stanley M. Burstein, The Hellenistic age (Cambridge University
+Press, 1985), p. 71.
+176 See further Musti, ‘Syria’, p. 214 n. 67; for an archaeologist’s account, Paul Bernard, ‘Ai Khanoum
+en Afghanistan hier (1964-1978) et aujourd’hui (2001): un site en p£ril. Perspectives d’avenir’, CRA1
+(2001), 971-1029.
+177 On the inscription linked with Clearchus of Soli, compare also Chapter 6, section II.3 below.
+5° Creation ofa discourse
+(in so far as it can be recovered). The recurrence of Heracles in artifacts from here is merely one reminder of the importance of Alexander to the
+self-presentation of the Indo-Greek rulers. With the rise of the Greco-Bactrian empire in mid-third century, the Indus valley became separated, in the political sphere at least, from Seleucid
+control. Antiochus III did indeed reach the outer reaches of the valley at a later point, but his expedition failed to reconquer the area in any sense
+for the Seleucids. 178 It was around the start of the second century, when
+first Demetrius I and then Menander conquered parts of the valley, i.e. northwest India, that the Greco-Bactrians themselves reached the height of
+their power. A number ofsmall states sprang up in this vicinity, each ofthem
+having some link with Greek language and customs, but they were later to be absorbed by nomadic groups of Parthians, Sacae and Indoscythians from further east. Two shadowy but intriguing figures deserve some mention here. Demetrius I ( c
+.
+200—185 BC) of Bactria annexed Arachosia and Drangiana to
+his kingdom. There is some debate over whether coins supposedly issued by him were not rather issued by a later Demetrius contemporary with
+Eucratides I. His silver coins show him wearing an elephant cap on the
+obverse, with Heracles standing on the reverse. But it was Menander, known in Indian sources as Milinda (ruled c. 155— 130 bc) who was probably the greatest of the Indo-Greek kings. According
+to Indian tradition he led an expedition to Pataliputra in the Ganges valley but returned without having annexed anything; he embraced Buddhism
+following a conversation with the Buddhist scholar-priest Nagasena. Sur- viving coins issued by him present him as a Hellenistic king on the obverse, with Athena of Pella on the reverse, complete with the Greek inscription, ‘Menander the Saviour king’. 179 This Menander has been identified with
+the Pali work, ‘The questions of King Milinda’, which has been dated to around 150—100 bc. iSo The rise of the Parthian empire interrupted contact between these Indo-Greeks and the (rest of the) Greek world, till they were blotted out or absorbed by invaders from Central Asia around
+17 On Antiochus Ill's campaigns against the Bactrians under Euthydemus, narrated in Polybius 11.39, see A. K. Narain, The Greeks of Bactria and India’, CAH, 2nd edn (1989), vol. VIII.2, pp. 388-421
+at 397-8.
+179 Green, Alexander to Actium, pp. 320-2 (see fig. 104 for the silver tetradrachm); George Woodcock,
+The Greeks in India (London: Faber, 1966), ch. 6. Among older works, Tarn, The Greeks in Bactria and India, and A. K. Narain, The Indo-Greeks (Oxford: Clarendon, 1957), remain important, but
+require caution.
+180 -p w Rhys Davids (tr.), The questions ofKing Milinda, 2 vols. (Oxford: Clarendon, 1890-4).
+Achaemenid India and Alexander 5
+1 80-30 bc. At all events, there is no evidence of this group after this period of
+invasion. One fascinating area of evidence concerns ‘Gandharan’ art, which we
+might define as Hellenistic-Buddhist style of the western Indus Valley and
+Central Asia. It is widely agreed that Alexander’s invasion was followed by a radical change in northwest Indian artistic styles.
+181 Sculptures of the Bodhisatva, representing the young Gautama or alternatively any young man on the way to salvation, show strong features of Greek art, notably
+the series of folds in the garment worn, and the less-rounded presentation of the face. This is a classic instance in which material evidence encourages
+speculation about cultural identity. On the one hand it provides inviting source material for the study of cultural interaction;
+18- on the other hand,
+it leaves us at the level of speculation, given that the literary sources do little to round out the historical picture. In a word, then, the Indo-Greeks are a problem of indeterminate proportions for this study; hard as it is to know
+about them historically, it is even harder to detect any impact they might
+have had on the Greco-Roman ethnographic imagination.
+II. 4. Mapping India: from the bematists to Eratosthenes In the case of both Hecataeus and Herodotus we have seen how India was
+used to conceive the oikoumene on a large scale. This is what we have called the ‘cosmological India’ of Greek thought. To these writers may be added
+the historian Ephorus (c. 405 and 330 bc), who was deeply interested in geo- graphic questions and appears to have devised a novel cartographic system. India was one of the peripheral areas he incorporated into his conception of the inhabited world: by this view, according to Strabo (1.2.28 C34), the Indians occupied one of the world’s four parts, the others being inhabited by Ethiopians, Celts and Scythians. These people represent the east, south, west and north respectively, defined by the direction of the winds.'83 This
+line of thought is visible also in Aristotle’s system of winds, as described in
+181 Elizabeth Errington et at. (eds.), The crossroads ofAsia: transformations in image and symbol in
+the art ofancient Afghanistan and Pakistan (Cambridge: Cambridge India and Iran Trust, 1992). John Boardman, The diffusion ofclassical art in antiquity (Princeton University Press, 1994), offers important analysis but grounds for caution emerge in the following note and in the introduction
+to Chapter 3 below.
+182 For an assessment of colonial contexts and other methodological issues (regarding Vincent Smith,
+Aurel Stein and others), see Stanley K. Abe, ‘Inside the wonder house: Buddhist art and the west
+,
+in Curators ofthe Buddha: the study ofBuddhism under colonialism (University of Chicago Press, 1995). PP- 63-106.
+l8’ Harley and Woodward, ‘Foundations’, in History ofCartography, pp. 143-4-
+52 Creation ofa discourse
+his Meteorologica 2. 6. Some decades later Timosthenes ofRhodes (fl. 270 bc)
+refined the system ofwind directions in a way that foreshadowed the modern compass points. According to Agathemerus ( Geographiae informatio
+2.7) > Timosthenes explicitly identified the twelve winds with distant peoples or places: India is linked with the Eurus wind, being placed in the
+east-southeast, between the Apeliotes (linked with Bactriana) and Euronotus (the Red Sea and Ethiopia). But this cosmological sense of India is merely one aspect of cartographic developments: the other concerns measuring, and it is here that Alexander’s expedition played a major and concrete part. We have already seen that the campaign included a number ofscholars. The bematists (measurers’) made
+up one group whose specialised skills were part of the campaign. Their task was to measure the distances between points of rest, and to describe natural
+features of the lands they traversed. Only two of these writers are known
+by name, Diognetus and Baiton, and nothing survives intact from their accounts.1® 4 They wrote monographs called stathmoi (stages’), which went
+beyond mere lists of places to have a literary frame. These were mentioned and used by later writers, including notably Pliny (6.61-62); most of the fragments linked with their names concern distances between parts of the
+area covered by Alexander’s campaign. Though the reports of the bematists were, inevitably, subjected to crit- icisms of exaggeration, they did provide a basis for the subsequent work
+of Eratosthenes, polymath librarian of Alexandria (c. 234-196 bc).1 ® 5 If Eratosthenes is today considered the most important geographer of the
+Hellenistic age - both for his measuring of the circumference of the earth and for constructing a world map on a grid of meridians and latitudes -
+the first of these bears indirectly on India and the second directly. It was on
+a north-south axis that Eratosthenes calculated the earth’s circumference, using Alexandria and Syene (Aswan) as his points of measurement.1 ®6 The
+assumption that the earth is spherical made it possible to convert the angles, measured by an instrument called the gnomon, into stades, and ultimately
+to map the entire inhabited world (oikoumene) . He calculated the distance from the farthest points of India to those of Iberia at around 74,000 stades,
+184 For the texts, see FGrH 119-122. For the authors, see Flelmut Berve, Das Alexanderreich aufprosopographischer Grundlage (Munich: Beck, 1926), vol. II, nos. 198, 800: Fraser, Cities ofAlexander,
+pp. 75-80.
+5 Fraser, Cities ofAlexander, pp. 80—2; now Klaus Geus, Eratosthenes von Kyrene. Studien zur hellenis- tischen Kultur- und Wissenschaftsgeschichte (Munich: Beck, 2002), pp. 231 and 236.
+186 On Alexandria as a ‘centre of calculation’, see Roy MacLeod, ‘Introduction: Alexandria in history and myth , in Roy MacLeod (ed.), The Library ofAlexandria: centre oflearning in the ancient world (London: Tauris, 2000), pp. 1-15, at 3.
+Achaemenid India and Alexander 53 but then, relying on the accepted knowledge that the length of the oik- oumene was more than double its breadth, added a further 2,000 stades to both east and west to reach an adjusted total of 78,000. This distance was
+measured at the latitude of Athens:
+if the enormity of the Atlantic Ocean did not prevent it, we would be able to
+sail from Iberia to India along the very same parallel over the remainder of the
+circle, that is, the remainder once you have subtracted the aforementioned dis- tance, which is more than a third of the entire circle. (Eratosthenes in Strabo 1.4.6 C64-65)187 This scheme, with its effective omission of the Americas, would ultimately influence geographic knowledge at the time of Columbus voyages. Again, India is a useful point at which to mark the farthest extent of
+the earth, just as Iberia marks the farthest point on the other side of the east—west axis running through Athens. According to the passage in Strabo which is the basis of our knowledge of his work, Eratosthenes included a number of distances, both north-south and east-west, all of them rounded
+off to the thousands: these include the distance between the far eastern capes and eastern India (3,000 stades), between eastern India and the river Indus (16,000), and between the Indus and the Caspian gates (14,000). The
+purpose of these distances was to allow the reader to draw his own map; to
+this end, ‘seals’ (.sphragides
+)
+or irregular geometric shapes by which the map
+of the world could be put together, in the manner of a jigsaw puzzle. India was represented by a diamond-shaped quadrilateral, simpler and therefore more conceptually useful shape than that of other countries. The fact that India was now, in Eratosthenes scheme, firmly and clearly mapped made
+it possible to visualise space from the farthest east in a westerly direction. This alone is of enormous significance to our topic. Whereas so much
+of ancient Greek mapping can be understood on the model of centre of
+periphery, Eratosthenes’ worldwide grid offers a theory which allows any
+part of the inhabited world to be represented in its own right, with its own
+co-ordinates. This is a more decentred model than, say, those of Hecataeus
+or Herodotus, and something taken further by Strabo and especially Ptolemy. 189

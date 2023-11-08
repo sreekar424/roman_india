@@ -1,0 +1,13 @@
+- Convert a book PDF to Text. 
+- Read that text 
+- Break it down into smaller chunck. 
+- send each chunk to ChatGPT to generate 
+  a. detailed notes  
+  b. summary 
+- combine the detailed notes separtely 
+- combine the summary separetely 
+
+- then generate
+  - combined detailed notes, summary 
+ 
+Write it out into another text file with all these details.

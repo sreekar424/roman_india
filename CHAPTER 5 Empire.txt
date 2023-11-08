@@ -1,0 +1,979 @@
+CHAPTER 5 Empire
+Our own section of the earth, about which I am writing, swims as
+it were in the ocean which, as we have said, surrounds it; its greatest extent is from east to west, namely from India to the Pillars consecrated
+to Hercules at Cadiz, a distance of 8568 miles.
+(Pliny, Natural history 2.242) With these words, the elder Pliny introduces the topographical survey that occupies books 3 to 6 of his Natural history. He proceeds to measure the distance involved by two routes (2.243-44), beginning in each case with
+the Ganges in the east. The significance of this passage lies in the use of
+India, in the form of a river situated at its farthest corner, in measuring the
+earth. To gain perspective on this, it is necessary to revisit Plato’s supposed
+quotation of Socrates:
+I believe, he said that [the earth] is vast in size, and that we who live between
+the Pillars of Hercules and the river Phasis inhabit only a tiny portion of it: we
+live around the sea like ants or frogs around a pond, and there are many others inhabiting similar regions. (Phaedo i09bi-5)‘ In this familiar passage, Socrates (or Plato) stresses the size and complexity of the earth, which is spherical; he raises the possibility that other parts
+also are inhabited. The key point of contrast here is that, unlike Pliny’s passage above, it conveys the sense of an entire social world focused on
+the Mediterranean, a kind of epigram contrasting with the epic scale of
+Braudel’s or Horden and Purcell’s works. 2 To a certain degree, however, Socrates’ statement makes provision for
+Pliny’s, in that Socrates insists on a distinction between the great size of the
+1 £T1 TOIVUV, 6<J)T1, TTOCppEya Tl eTvOCI OCUTO, KCXl T)p6(S OlKETv TOUS HEXP1 'HpCCKAElCOV CTTT|Acbv duo OaaiSos ev crpiKpcb tivi popico, cocrTTEp TTEpl TEApa puppr)Kas f| paTpayous mpi tt)v QaAaTTctv oIkoOvtocs, Kai aAAous aAAoOi ttoAAous ev ttoAAoTcti toioutois tottois o’ikeTv. On ancient conceptualisations of the Mediterranean, see Horden and Purcell, Corrupting sea, pp. 10-12 and 530.
+2 Braudel, Mediterranean; Horden and Purcell, Corrupting sea. 203
+204 Contexts ofa discourse earth as a whole and the small size of the part inhabited. Still, the difference between the two quotations is indicative of changes in the Mediterranean world in the space of five centuries. The striking thing about the Platonic passage is that India, though already discussed by contemporary writers,
+is in a sense ‘off the map’. By contrast, both Strabo and Isidore, to take
+representatives of the start and end of the period under discussion, devote a
+certain amount of attention to India in their very different descriptions of
+the oikoumene or orbis terrarum. It is in a sense ironic that the Greek world
+of Socrates and Plato lies to the east of Italy, thus serving as a reminder of
+the geographical expanse of the Roman empire. The idea that India marked the ends of the world should not cause any alarm, as the nearly cliched quality of the epigraph suggests. As we
+shall see in the pages that follow, this sentiment abounds in texts from
+the Augustan age, as well as those from the later empire. Indeed, it is in the age of Augustus that we shall seek the creation of the cliche. But the
+deceptive ease ofthe proposition masks an intricate set of questions focused on just what that world was: the inhabited world or the Roman Empire
+specifically? What is more, we can expect this question to be answered dif- ferently for different periods of Roman history, if we were to take Augustus and Isidore as book-ends: the first because his reign marked a high point of imperial unity following the Battle of Actium, the second because his writings codify so much of ancient paideia, and defined much of its afterlife in the medieval west. This is a period of monarchy, and one theme
+of this chapter will be the relationship between conceptions of space and
+the (often symbolic) self-presentation of emperors who claim to rule that space. 3 The borders of empire are, in the period discussed, not easily distin- guished from the ends of the earth, and this is a problem which must
+engage us centrally if we are to consider what India meant as a marker of
+the distant periphery. What is the nature and degree of the overlap between
+the two? To borrow the titles of two recent studies, we are inquiring here
+into the degree to which the limits of empire coincide with the edges of
+the earth. 4 As we shall see at various points in this chapter, this question of coincidence can be traced back to the details of Alexander’s expedition: on the one hand, the Indus valley was conquered by Alexander when he
+defeated King Porus at the river Hydaspes (Jhelam). In this sense ‘India’
+3 Carsten Colpe, ‘Von Alexander dem Grossen zum Grossmongul Gehangir. Die Frage nach einer indischen Enthellenisierung des Weltherrschaftsgedankens’, in Philanthropic! kai Eusebeia, ed. Glenn W. Most etal. (Gottingen: Vandenhoeck & Ruprecht, 1993), pp. 46-73, and esp. 47-62.
+4 Ben Isaac, The limits ofempire (Oxford: Clarendon, 1992) and Romm, Edges.
+Empire 205 came to be linked with Alexander, as a marker of the ultimate military conquest. On the other hand, India was never added to Alexander’s empire
+in the sense of governance. We must remember here that military conquest was only one limited part of a Roman sense of empire: administration was
+another, in fact something much more important in the practical workings
+of hegemony. 5 If the definition of empire were not difficult enough, there is the partic- ular problem raised by the notion of imperialism. 6 As an explicit concept and term, it goes back no further than the late nineteenth century: 7
+its applicability to the Rome of the first centuries raises questions of its own. 8 There is an irony here, given the explicit and implicit comparisons that have been made between the Roman empire of Augustus and the British empire of the eighteenth and nineteenth centuries: 9 whereas the concept of
+imperialism has often centred on the British presence in South Asia, India never was part of the Roman empire in the most obvious sense, nor perhaps
+in any sense at all. There are important ways, then, in which we can use India to tease out
+the question of what ‘empire’ meant over a certain period of Roman history. Empire is effectively defined by ‘governmental superstructure’ according to one account. 10 The ‘mental maps’ emphasised in other accounts should in no way be thought to compete with this administrative sense
+5 Mommsen’s landmark work, Das romische Staatsrecht
+,
+3rd edn (Leipzig: Hirzel, 1877), emphasised a
+legalistic definition of empire, in terms of imperium: more recently surveyed by Georg Klingenberg, ‘Imperium’, RAC XVII (1996), cols. 1121—42. By contrast, a recent study pointedly emphasises economic over political senses of empire, with particular reference to the contemporary world (and
+the spatial practices that distinguish it from ancient societies): Michael Hardt and Antonio Negri, Empire (Cambridge, MA: Harvard University Press, 2000).
+6 On the difficulties of defining empire, see e.g. Kathleen D. Morrison, ‘Sources, approaches, definitions’, in Empires: perspectivesfrom archaeology and history, ed. Susan E. Alcock et al. (Cambridge
+University Press, 2001), pp. 1-9; Anthony Pagden, Empires andpeoples: Europeans and the rest ofthe world, from antiquity to the present (London: Weidenfeld and Nicolson, 2001), pp. 7—12.
+7 For a restatement of Marx’s definition of imperialism - as opposed to empire - as a modern
+phenomenon, tied to capitalism, see E. J. Hobsbawm, The age of empire, 187$—1914 (New York: Pantheon, 1987), p. 60.
+8 New approaches to the issue ofRoman imperialism are to be found in Dialogues, ed. Mattingly (1997), and Roman imperialism: readings and sources
+,
+ed. Craige B. Champion (Oxford: Blackwell, 2004). Susan E. Alcock fruitfully considers empire in terms of collective memory: The reconfiguration of memory in the eastern Roman empire’, in Empires, ed. Alcock et al., pp. 323-50.
+9 Peter Brunt, ‘British and Roman imperialism’, CSSHj (1965), 267-88, repr. in his Roman imperial themes (Oxford: Clarendon, 1990), is one notable example among many. The same topic has been
+taken up, more recently, by Javed Majeed, ‘Comparativism and references to Rome in British imperial attitudes to India’, in Roman presences: receptions ofRome in European culture, 1798—1945, ed. Catharine Edwards (Cambridge University Press, 1999), pp. 88-109, and Vasunia, ‘Hellenism and empire’.
+10 Fergus Millar et al., The Roman empire and its neighbours (New York: Homes and Meier, et al. 1981),
+p. 10.
+206 Contexts ofa discourse of empire, but rather be viewed as complementing and modifying it . 11 It is important to consider technical and ideological aspects in tandem, and in this respect a recent work by Claude Nicolet is exemplary; India
+remains, however, largely outside of his purview. 12 In this chapter, I share
+Nicolet’s view that the Augustan period was crucial to the formation of
+a discourse about empire; 13 but I go well beyond that period to trace changes and continuities ofthat discourse in late antiquity and early Middle
+Ages. The name ‘Rome’ initially denoted an agricultural village settlement from the end of the Bronze Age, around 1000 bc. 14 To recall this is to recognize the magnitude of the process that had brought it control first of Italy and then, by the mid-second century bc, of the entire Mediterranean. We detect some sense of the weight of the Roman past, grandly
+conceived, in Livy’s History. For Diodorus, Rome provided both the physical circumstances to write and also, by virtue of its expansion (he implies), the occasion for writing: 15 For this city’s pre-eminence, which stretches in its power to the edges of the inhabited world, has provided us during our lengthy sojourn there with the most
+readily available and plentiful resources. (1.4.3)
+16 There was a high premium on expressions of universal power: such was
+the nature of the political revolution that saw Octavian end the protracted
+civil conflict by wresting sole power, and then present his rule in the frame
+of republican democracy. In the late Republic, such assertions of power,
+usually with reference to Alexander, involved claims to political sovereignty, and so were part of the clashes between ‘strong men’. But if it was a
+11 An influential work is that by Peter Gould and Rodney White, Mental maps, 2nd edn (Boston: Houghton Mifflin, 1986); see also Mark Monmonier, How to lie with maps, 2nd edn (Chicago:
+University of Chicago Press, 1996). Ideological aspects of constructing spatial distance are well explored by Martin W. Lewis and Karen E. Wigen, The myth ofcontinents: a critique ofmetageography
+(Berkeley: University of California Press, 1997).
+12 Thus, most significantly, Nicolet, Space, geography, its only reference to India is on p. 21, in passing. More recently, Ando, Imperial ideology, emphasises the role of consensus in the creation and
+maintenance of political unity within the empire.
+13 Cf., for example, Roger Dion, Aspects politiques de la geographic antique (Paris: Belles Lettres, 1977),
+pp. 175-222; but note the scepticism of Nicholas Purcell, ‘Maps, lists, money, order and power\JRS
+80 (1990), 178-82.
+14 T. J. Cornell, The beginnings of Rome: Italy and Rome from the Bronze Age to the Punic Wars,
+c. 1000—264 BC (London: Routledge, 1995), pp. 48-80.
+15 In both counts, we must remember the Diodorus as a Sicilian was himself not a natural member of Rome s ruling 6lite; like other writers of universal history, or in fact large-scale geography, he came
+from the peripheries: Alonso-Nunez, ‘Augustan world history’.
+16
+f) yap TauTTis tt)S ttoAegos UTTEpoxf), SiaTEivoucra tt) SuvapEi Ttpos Ta TtEpaTa t^S oIkoupevtis, EToipoTcrras xai irAEiaTas fmiv a<f>oppas TTapEaxeTO irapE7Ti8r)|jf)aaaiv ev autr) ttAeico xpovov.
+207 Empire
+feature of Augustus’ rule to maintain the trappings of republicanism, the pretence was to wear thin and in many respects disappear in the decades
+after his death in ad 14. His rule had seen the Roman state reach military ascendancy on a scale it had not known before. This was to provide the
+basis for an empire that lasted till the late fifth century in the west and
+mid-fifteenth in the east. Self-evidently, Rome’s imperial identity evolved
+slowly. The more wide-ranging analyses of this process stress the role of
+the army, and the dual processes of political unification and decentralisa- tion of power. 17 Imperial authority and war are both part of the equation. The birth of the name Romania in the fourth century testifies to the need
+to distinguish between the City and what had by now become a world
+empire. 18 It is no coincidence that this came into use only once the city of Rome ceased to hold the monopoly of power it did at the time of
+Augustus.
+In the current framework we have to restrict ourselves to selected but
+representative points, to what has in the context of a different ethnography
+been described as ‘sightings’. 19 These are chosen for a number of reasons: merely that they are accessible to us; that they are in some manner indicative of an evolving history; and that they shed light on the perceptions of India
+over an extended period.
+I. PAX ROMANA AND PEOPLE OF THE DAWN
+The ekphrasis of Roman history on Aeneas’ Shield begins with Romulus
+and Remus and culminates, after various episodes, with the ‘fanfare’ repre- senting Augustus’ victory at Actium. The following extracts together offer us a key passage for grasping Augustus’ discourse about empire, and for the
+place of India in that discourse: Next came Antonius with outlandish wealth and multifarious arms, victorious from people of the Dawn and the Red Sea, leading the power ofthe East, ofEgypt, even of remote Bactra . . . Actian Apollo, looking on from above, began to pull
+17 Millar et al. , Roman empire, I—12; Garth Fowden, Empire to commonwealth (Princeton University
+Press, 1993), pp. 57-8.
+lS Johannes Irmscher, ‘Sulle origine del concetto Romania’, in Populi e Spazio Romano tra Diritto e Profezia (Naples: Edizione Scientifiche, 1986), pp. 421—9, on Romania as a designation of imperium Romanum, as opposed to Rome the city. This is first attested in Athanasius, Historia Arianorum 35 (ad 358).
+19 Jonathan D. Spence, The Chan’s great continent: China in western minds (New York: Norton,
+1998).
+208 Contexts ofa discourse
+his bow. All the Egyptians, Indians, Arabians and Sabaeans, terrified at this sight, turned in flight. (Virgil, Aeneid 8.685-88 and 704—6)
+2°
+It is difficult to overlook in this extract a totalising sense of ‘the east’. This
+is conveyed by a number of means: among them one might mention the building up within the passage as a whole the drama of a warlike lining-up of opposing deities, Roman and eastern; the use of the generalising term
+oriens (literally ‘of the dawn’, i.e. eastern);
+21 and the joined naming ofvarious peoples from the east, Egyptians, Indians and Arabians (‘Sabaeans’). 22 It is in this limited sense that we can talk about one aspect of Said’s Orientalism:
+the tendency to conceive of the east as a totality. To a certain degree this
+fits the circumstances of the Battle ofActium; more compellingly, perhaps,
+it was played up in the subsequent propaganda of Octavian/Augustus.15 Here is triumphalist rhetoric, in which India played a part, if a limited and predictable one. But it is another matter entirely to consider what this
+20 hinc ope barbarica uariisque Antonius armis, victor ab Aurorae populis et litore rubro, Aegyptum uirisque Orientis et ultima secum
+Bactra uenit . . . Actius haec cemens arcum intendebat Apollo
+desuper: omtiis eo terrore Aegyptus et Indi, omnis Arabs, omnes uertebant terga Sabaei. Philip R. Hardie has analysed the shield of Aeneas as a ‘cosmic icon’, and indeed the centrepiece of
+the Aeneid. Virgil's Aeneid: cosmos and imperium (Oxford: Clarendon, 1986), pp. 336-76; cf. Ando,
+Imperial ideology, pp. 278-92.
+21 TLL IX.2.1003.24, s.v. oriens, for this passage; but note also Hor. Carm. 1.12.55-56, with TLL
+IX.2.1002.76-79. In light of the ostensibly generalised use of this word, it is unclear why Whittaker, Rome and itsfrontiers, pp. 144, should take this to indicate India in a restrictive sense. Alexander is a figure around whom the idea ofthe east crystalised, especially its farthermost points: he set out to con- quer Asia and the outermost parts ofthe east: adsubigendam Asiam atque ultima orientis (Curt. 3.10.4;
+cf. 5.5.14). These parts are contrasted with ‘Europa’. Curtius speaks of India’s inhabitants as ultimi
+orientis (6.2.18; cf. 9. 10.12 also on Indians). Apart from Alexander, two others to be linked with ‘the
+east’ in a comparably generalised sense are Pompey (Solin. 1.121) and Antony (Serv. auct. ad Verg. Aen.
+8.686). In his world history, Pompeius Trogus speaks of Rome and Parthia as being the two rival world
+empires, Parthia ruling the east: Parthi, penes quos uelutdiuisione orbis cum Romanisfacta nunc Orientis imperium est, Scytharum exulesfuere (41.1.1). For discussion ofthis passage, see Alonso-Nunez, ‘Augustan world history’, at 64. In other instances the term oriens is used of Syria ( Schol’ Juv. 3.64; 4.108). The senior military office of comes orientis, introduced by Constantine, came, by the middle of
+the fourth century, to have special significance in light of conflict on the Iranian frontier. Given
+the expanding field of this officer’s power, the title proved to be suitably vague. See RE IV. 1 (1900) 659—62 (Seeck); A. H. M. Jones, Later Roman empire, pp. 104—6.
+22 With regard to this list and esp. lines 705—6, Katharine Toll, ‘Making Roman-ness and the Aeneid , CL Ant. 1 6 (1997), 34-56, at 46, exaggerates somewhat when she claims that ‘half of the peoples mentioned simply were not there’. I do agree with the observation that the foreign peoples on the
+shield ofAeneas are ‘misrepresented’ so as to appear more foreign; but I offer a different explanation
+in this chapter.
+23 On the contrast between Octavian/Augustus’ initially exuberant self-presentation with his later restraint, and the role ofActium in that process, Paul Zanker, Power ofimages in the age ofAugustus (Ann Arbor: University of Michigan Press, 1988); and Robert Alan Gurval, Actium and Augustus (Ann Arbor: University of Michigan Press, 1995).
+Empire 209 meant in the Realpolitik of Roman political-military strategy. To create a provisional distinction, then, for analytical purposes: we must be alert both
+to the rhetoric of empire and to the political and military realities linked with it, in other words both to the propaganda and the lived experience of Rome’s empire. The complexities of the situation begin to emerge when
+we avoid a narrowly representational approach: India in Pliny or Strabo not only mirrors political reality, but it also creates or at least reinforces it in Roman minds. The issue of the social reality of literary texts has been most often considered with regard to Augustan poetry, but should not be
+limited to it. 24 There is a self-reproducing quality to this kind of rhetoric; to adapt Clifford Geertz’s famous phrase, we are dealing with models of and for thinking about empire.25 Certainly the tralatician element is clearly seen in the late Roman period, when there was less actual contact, and India was presented with basically literary images. The question that is harder
+to ask is whether the same processes are true for earlier periods too, such
+as the Augustan age. There can be no doubt that the authority of written
+texts prevailed in significant ways well before the late-antique periods also: Pliny’s Natural history is an eminent case in point. 26 We are justified in speaking of this phenomenon as a discourse, where that term is used to emphasise the complexity and self-fulfilling quality of representations.
+Li. Orbis terrarum imperio populi Romani subiecta27 If statements about the grandeur of empire proliferated in the Augustan
+age, they were in essence no novelty.28 The second century bc was a key
+period in the evolution of the discourse of empire, especially the successful conclusion ofhostilities with Carthage in 146 bc. 29 Polybius is a key witness
+24 In the light of recent work on Roman poetry, it cannot now be maintained that the political element of Augustan poetry was one-way traffic from the state to writers, on the lines outlined by Ronald Syme, Roman revolution (Oxford: Clarendon, 1939), esp. pp. 459-75: more recently e.g. Karl Galinsky, Augustan culture: an interpretative introduction (Princeton University Press, 1996); Matthew S. Santirocco, ‘Horace and Augustan ideology’, Arethusa 28 (1995), 225-43, esp. 227; Thomas Habinek, Thepolitics ofRoman poetry (Princeton University Press, 1998), present literature
+as an ‘intervention’ in social practice.
+25 Geertz, Interpretation ofcultures, pp. 93-4, on models of and for society.
+26 Lloyd, Science, folkbre. 27 This is a slight adaptation of the title of the Res gestae.
+28 The significant Republican background to Augustan imperialism is one absence with which Edward
+N. Luttwak’s provocative The grand strategy of the Roman empire from the first century ad to the third (Baltimore: Johns Hopkins University Press, 1974) has been charged, with justification. For a more nuanced treatment, Susan P. Mattern, Rome and the enemy: imperial strategy in the Principate
+(Berkeley: University of California Press, 1999), esp. pp. 81-122.
+29 Peter White, Promised verse (Cambridge, MA: Harvard University Press, 1993), p. 61; more generally, Erich S. Gruen, The Hellenistic world and the coming ofRome (Berkeley: University of California
+Press, 1984).
+210 Contexts ofa discourse on this topic: if his work as a whole documents Rome’s rise to the power
+of world empire, then his sixth book in particular offers an explanation of
+the socio-political background. 30 He stands out for the clarity with which
+he was able to see Roman history as process as opposed to a mere sequence of events. 31 Cicero’s speeches are another rich source for thinking about the edges of the earth. 32 Such passages testify to the importance of this theme during
+the mid-first century bc, at a time when conflicts between rival leaders were determined as much on the fringes of the Mediterranean world as in the city of Rome. 33 As a rhetorical technique, they illustrate how an orator could appeal to (and manipulate) commonly held views, such as those of
+the ‘perfidy of the Gauls’, in communicating with his audience.
+In identifying the roots ofAugustus’ sense of empire, we should be especially alert to Crassus’ and Pompey’s activities in the eastern Mediterranean. That may have been a different ‘east’, but it was a politically significant east nonetheless, and one that contributed to the conceptual frame for subse- quent thinking. And the paradigm of Alexander, so important to Pompey,
+always contained the potential for the ‘east’ to stretch yet farther in that
+direction, even if this was never to be realised in practice. In analysing Augustan discourse, it is as well to start with a text that can be linked most directly to Augustus himself, the Res gestae: Embassies were often sent to me from kings in India; never before had they been
+seen in the presence of any Roman commander. The Bastarnae, Scythians and the kings of the Sarmatians on either side of the river Don, as well as the kings of
+the Albanians, Iberians and Medes sought our friendship by means of embassies.
+(31.1-2) 34 In particular, what we must notice in the passage quoted is the pointed use of
+‘friendship’ (amicitia)-. the wide range of its connotations is exploited so that Augustus can convey both his military supremacy and his clemency at the
+30 Frank Walbank, A Greek looks at Rome: Polybius VI revisited’, Scripta Classica Israelica 17 (1998), 45—59; Clarke, Between geography and history, pp. 77—128.
+31 Indeed, if we define imperialism as a process, we are left with Polybius, a Greek writer not a Roman,
+as the only one to take a general view of Roman imperialism: Gruen, Hellenistic world, p. 278.
+32 Ann Vasaly, Representations: images of the earth in Ciceronian oratory (Berkeley: University of
+California Press, 1993), shows how Cicero in his speeches relies on stereotypes linked to partic- ular places. The implications of this for the current study are considerable, as will be made clear in the conclusion.
+33 This is certainly true at least from the time of the First Triumvirate of 60 bc, with Crassus, Caesar and Pompey all campaigning extensively in far-flung parts of the Mediterranean.
+34 ad me ex India regum legationes saepe missae sunt non uisae ante id tempus apudquemquam Romanorum
+ducem. nostram amicitiam appetiueruntper legatos Bastarnae Scythaeque et Sarmatarum qui sunt citra flumen Tanaim et ultra reges, Albanorumque rex et Hiberorum et Medorum. (31. 1-2)
+21
+1
+Empire same time.35 The unequal power relations between Rome and its ‘friends’ are understood, to the degree that they can be casually glossed over in
+this manner. In understanding the exercise of power that lies behind these
+assertions it is again important to remember their Iranian background. 36 In the choice of terminology, Augustus carefully presents himself as a states- man in the Republican tradition, rather than a despot;37 nonetheless, both
+precedents of Darius’ and Xerxes’ inscriptions are hard to overlook, when
+they too emphasise foreigners paying tribute. 38 In general, the passage is typical of the chapters (26-33) * n which the spatial expanse of the empire is indicated: by its cool, self-assured tone it describes the borders of Roman
+governance in such a way as to stipulate its extent for future time. In Nicolet’s words, it ‘is not a text with symbolic or astrological inclinations; rather,
+it is a factual expose ofgreat sobriety’ (17). And if the Res gestae substantiates Augustus’ claim to have extended the empire’s influence to the limits of the known world, we shall have to consider to what extent the texts of Strabo, Mela and Pliny come in the wake of Roman imperial expansion; to what
+extent they too may be regarded as texts of the pax Romana. By the time of Propertius’ second book of Elegies (28-25 BC) we find
+variations on the theme of the grandeur of Rome’s conquests: No longer does the Euphrates allow Parthian cavalry to glance behind their backs, and regrets retaining possession of Crassus’ men: even India presents its neck to your triumph, Augustus, and the house of virgin Arabia trembles before you; and
+hereafter if any land retreats to the world’s end, let it be captured and feel your
+wrath! (2.10.13-18) 39
+35 On the pointed variation implicit in the term amicitia
+,
+see Ulrike Asche, Roms Weltherrschaftsidee und
+Aussenpolitik in der Spdtantike im Spiegel der Panegyrici Latini (Bonn: Habelt, 1983), esp. pp. 48-65 and 130—8, well illustrates the careful balance between triumphalism and clementia in late Latin panegyric. On the balancing ofelements in imperial self-presentation, see esp. Sabine G. MacCormack,
+Art and ceremony in late antiquity (Berkeley: University of California Press, 1981).
+36 The use ofAramaic in Asoka’s inscriptions shows the influence ofAchaemenid monumental writing:
+Millar, ‘Looking east’, 518; cf. Thapar, Early India, p. 182.
+37 Zvi Yavetz, ‘The Res Gestae and Augustus’ public image’, in Caesar Augustus: seven aspects (Oxford: Clarendon, 1984), pp. 1-36; with different emphasis, Brian Bosworth, ‘Augustus, the Res Gestae and
+hellenistic theories of kingship’, /ftS 89 (1999), 1-18.
+38 See Chapter 1, section I above. The provenance of the surviving copy and fragments ofthis inscription - Ancyra, Apollonia and Antioch - further suggests continuity between the Achaemenid epigraphic
+habit and Augustus’ self-presentation in this case.
+39 iam negat Euphrates equitem post terga tueri Parthorum et Crassos se tenuisse doLet. India quin, Auguste, tuo dat colla triumpho,
+et domus intactae te tremit Arabiae-,
+et si qua extremis tellus se subtrahit oris, sentiat ilia tuas postmodo capta manusi
+212 Contexts ofa discourse
+It will be noticed that the passage quoted promotes the illusion that India
+is already conquered by Augustus. Still with Propertius we find: Divine Caesar is contemplating war on the Indians, planning to cleave the waters of
+the gem-laden ocean with his fleet. The pickings are [will be?] handsome, citizens: the ends of the earth prepare triumphs for you; the Tigris and Euphrates will flow under your jurisdiction. (3.4.1—4)
+40 The poet goes on to recall Crassus’ loss of the standards, and the need for
+this blot on Roman history to be expiated. The pointed use of the future tense occurs also at Elegies 3.1. Here Propertius foretells conquest up to
+Bactria, which will from that point be the edge of empire: Many, Rome, will add your praises to their annals, singing one day of Bactra as the boundary of your rule. (3.1.15—16)
+41 By focusing on the future aspect of (yet more) military victories to come,
+Propertius is in effect offering an additional reason for his refusal to bow
+to supposed pressure to write grand epic in praise of the emperor. The idea
+is this: others will sing of you in the future, just as you will make further conquests in the future. While there are several levels of complexity in the
+recusatio, and indeed in the poetry of public praise generally, it is as well
+to note one particular aspect here: the use of the future tense as a means
+of deflecting expectations, its compatibility with the recusatio. This literary consideration is something to keep in mind in assessing the Augustan poets
+as possible sources for supposed expansionism. There is no missing the poem’s matter-of-fact tone, as if leaving no room for doubt that Augustus will in fact set out to conquer India. It is this casual tone of assertions about the inevitability of Roman conquest that
+calls for explanation. In translating the passage above, it is debatable how
+we should translate the ostensibly simple present-tense verbs meditatur (line
+1, ‘is planning’) and parat (3, ‘prepare’): how strong a sense of future time do they convey?41 The military-strategic side of this leads the discussion in
+40 arma deus Caesar ditis meditatur ad Indos
+etfreta gemmiferifindere classe maris. magna, Quiris, merces: parat ultima terra triumphos\ Tigris et Euphrates sub tua iurafluent.
+41 multi, Roma, tuas laudes annalibus addent, quifinem imperii Bactrafutura canent. Bactria is, strictly, to the northwest oflndia; but in context it clearly has the same function.
+42 On the Latin present tense used with forward-looking force, see Raphael Kiihner and Carl Stegmann,
+Ausfuhrliche Grammatik der lateinischen Sprache, 5th edn (Hannover: Hahn, 1976), vol. II. 1, pp. 120-1. For the counter-intuitive but powerful point that the present tense in Indo-European
+languages bears little relation to the ‘time that now is’, see Andrew L. Sihler, New comparative grammar ofGreek and Latin (Oxford: Clarendon, 1995), pp. 442-3.
+Empire 213 a different direction, to be considered later in this chapter. For the present,
+as we consider the discourse about empire, let us limit ourselves to noting
+that in this passage, and in fact in the poem as a whole, the combination
+of the military and the economic elements: the first couplet moves directly from the arma to the economic implications of conquest, as if these were
+readily concomitant. Later on, he expresses the wish that Mars grant him,
+in his lifetime, the chance to see the day ‘when I’ll see Caesar’s chariots weighed down with plunder’ (3. 5. 13).
+43 Elsewhere Propertius poses Cynthia a rhetorical question, ‘What would
+you do if I were to be kept by military service in faraway India, or if my ship were to stand still in Ocean?’44 When so much in love elegy hinges on the
+physical proximity of lovers, India stands for an extreme case of distance; military service underlines that physical absence, and plays on the common
+elegiac trope of militia amoris, ‘love’s warfare’.45 Horace, in at least two passages, shows the same principles at work. First: May [Augustus] defeat the Parthians who threaten Latium, or else the Chinese and Indians situated alongside the eastern border, subduing them in a deserving triumph. (Horace, Odes 1.12.53-57)46 And, second, this is how Horace ends a poem commemorating fifteen years47 of Augustus’ sovereignty: At you the previously invincible Cantabrian marvels, the Mede marvels, and so do
+the Indian and the fleeing Scythian, O propitious keeper of Italy and of mistress Rome. You the Nile, which conceals the sources of its streams, heeds, and so does the Hister, and the speedy Tigris, and monster-bearing Ocean that bellows
+at the distant Britons; You the land of Gaul, fearless before death, and of hardy
+Hiberia; you the Sygambri, who rejoice in slaughter, worship, having put aside
+their weapons. (Horace, Odes 4.14.41-52) 48
+43 qua uideam spoliis oneratos Caesaris axes. 44 quid si longinquos retinerer miles ad Indos, / out mea si staret nauis in Oceano? (2.9A.29-30). Goolds
+transposition is plausible, on the grounds that the couplet makes better sense following lines 19—20
+(on Cynthia’s unwillingness to be alone, sola) than 27-28.
+45 On the complexity of this elegiac trope, Kennedy, Arts of love, pp. 46-63. It may be considered
+characteristic of the paradoxical nature of love: cf. Anne Carson, Eros the bittersweet (Princeton
+University Press, 1986).
+46 ille seu Parthos Latio imminentis
+egerit iusto domitos triumpho
+siue subiectos Orientis orae
+Seras et Indos.
+47 tertio . . . lustro (37).
+48 te Cantaber non ante domabilis Medusque et Indus, te profugus Scythes miratur, 0 tutela praesens
+Italiae dominaeque Romae,
+214 Contexts ofa discourse Implicit in this is a degree of wishful thinking: if an Indian ruler did send ambassadors to Rome this need not have implied any political subordination. In any case, it is not impossible that these ‘ambassadors’ were traders.
+Yet, as a marker of the ends of the earth, it was essential for a poet to imply
+its participation in the empire, for the purposes of glorifying that empire. By the same token, Augustus’ ‘victory’ over the Parthians was not a full-scale military conquest, but a diplomatic deal. 49 In Horace’s references to India and Indians, the subcontinent is more often than not linked with another
+eastern region, be that Arabia, China or Media. 50
+1. 2. City and empire Other peoples have been restricted in the territory given them, but the extent of
+the city of Rome matches that of the universe. (Ovid, Fasti 2.683-84) 51 In this most quotable of quotes, Ovid points to a recurrent feature of
+the Augustan discourse we have been considering: to the expansion of the Roman polity well beyond the limits of a town settlement ( urbs) to embrace
+the entire universe ( orbis terrarum) , 52 But the pun is not unique to Ovid, and did not even begin with him: it had been used earlier by Cicero and
+te fontium qui celat origines Nilusque et Hister, te rapidus Tigris, te beluosus qui remotis
+obstrepit Oceanus Britannis,
+te non pauentisfunera Galliae duraeque tellus audit Hiberiae, te caede gaudentes Sygambri
+conpositis uenerantur armis.
+49 On the deal whereby the legionary standards lost by Crassus at Carrhae in 53 bc, together with
+the hostages captured during Antony’s campaign, were regained by Augustus, see Erich S. Gruen,
+‘The expansion of the empire under Augustus’, CAH IX (1996, 2nd edn), pp. 148-96, at 158-9; and
+J. A. Crook, ‘Political history, 30 bc to ad 14’, in G4//X, pp. 70-112, at 90.
+50 With China: Seras et Indos ( Carm. 1.12.56); Arabia: intactis opulentior / thesauris Arabum et diuitis Indiae (3.24.1-2), extremos Arabas
+.
+. . et Indos ( Epist. 1.6.6); Media: Medus
+.
+. . et Indus (4.14.42).
+51 gentibus est aliis tellus data limite certo: Romanae spatium est urbis et orbis idem.
+52 Later in the same work, Ovid pointedly expresses the contrast between the humble rural settlement with the subsequent world empire, by focusing on the identity of place over a gap in time: hie, ubi nunc Roma est, orbis caput, arbor et herbae / et paucae pecudes et casa rarafuit (5.93-94). The habit of
+pointing to changes over time by focusing on the same locality recurs in the considerable body of
+later writings about Rome; here, by contrast, destruction is stressed. See, e.g., Hildebert of Lavardin
+in the twelfth century, and other texts collected by Bernhard Kytzler (ed.), Roma Aeterna (Zurich: Artemis, 1972). Cf. Nicholas Purcell, ‘The city of Rome’, in The legacy ofRome: a new appraisal, ed. Richard Jenkyns (Oxford: Clarendon, 1992), pp. 421-53; Catharine Edwards, Writing Rome: textual approaches to the city (Cambridge University Press, 1996), esp. pp. 69—95.
+Empire 215 Varro. 53 It was to have a long afterlife, due at least in part to the instability of Ovid’s poetic language. 54 Be that as it may, it is the thought that is relevant here: its proverbial nature merely illustrates how familiar it was
+over a long period. To focus on the Augustan period, the sentiment itself comes as no great surprise when one considers the centrality of the city of Rome, and particularly its monuments, to Augustus’ reign. 55 Historically speaking, this was more than wordplay: indeed, Augustus’ success can be
+explained by a careful balancing of the interests of orbis and urbs. But what,
+if anything, does it imply for India, a part of the universe that was never subsumed into the Roman sphere of governance?
+If any general conclusion is to be drawn from the sources discussed in
+this chapter, it might be said that India became more ofan issue for Rome at
+this high point in its status world empire. In the Res gestae, in Virgil and in Horace we have seen a tendency to conflate empire and universe, what we
+might call false consciousness. We see here both a backward- and a forward- looking sense of empire: both the idea that the Roman state had already reached its grandiose limits, as Augustus would imply in his Res gestae, and
+the forward-looking aspect of outward expansion, most clearly seen later in Cassius Dio’s account of Trajan (subsection 1 .
+5
+below). In general, we
+might say that imperial expansion is best understood in a purely notional way, rather than being in any sense a literal plan to conquer. In other words,
+India is an issue in so far as the edges of empire were thought and spoken
+about at its centre(s) of empire. One might say, following Ovid, that Rome
+was part of the orbis in so far as it could be seen in the urbs. In the political register at least, Augustan poetry produces an enormous
+range of interpretive problems, more than bear discussion here. In particular, scholars have debated how seriously to take the adulatory aspect, especially given that some passages within the same authors sound a more
+subversive note. Simple choices are unhelpful in this regard. The approach
+taken in this chapter has been to assume that, even if the discourse of
+imperial grandeur was sometimes subverted (especially by Ovid), it made
+sense only in light of an already existing non-subversive context. It is in
+this non-subversive sense, most reliably inferred from the Res gestae, that we can indeed analyse an ‘imperial discourse’ here. Such analysis should
+not be taken to deny that, at certain points, the same language might be
+53 Parad. 18 and Ling. 5.143 respectively. See TLL IX.2.916.15-30, s.v. orbis-, cf. Otto, Sprichworter und
+sprichwortliche, no. 1834.
+54 E.g., Ven. Fort. Carm. 8.1.14; AratorA*. 2.1232. Cf. Oros. Hist. 1.1.14 (repeated in the same para- graph), and Isid. Etym. 9.4.3. Ovid’s elegiac style proved imitable in his own lifetime, if we are to judge from supposed replies to his Heroides: Am. 2.18.27-34.
+55 Diane Favro, The urban image ofAugustan Rome (Cambridge University Press, 1996); Zanker, Power
+ofimages.
+216 Contexts ofa discourse used in subversive ways, however easy or hard it might be to identify those
+points now. 56 By the time we see the discourse of empire occurring in the Augustan
+age it is already full-blown, complete with the force of cliche, if we are to judge from the tone of the comments in the poets cited above. This might cause surprise initially, but it need not do so: there are pointers
+to it in earlier literature, so much so that we might regard the Augustan references as an appropriation of existing tropes. A striking passage in Catullus clearly shows the force of hyperbole in references to the ends of the
+earth: Furius and Aurelius, Catullus’ fellow-travellers, whether he makes his way even to far-flung India, where the coast is pounded by the far-resounding eastern wave, or
+to Hyrcania and soft Arabia, or to the Sacae and arrow-bearing Parthians, or the
+plains which sevenfold Nile tinges, or whether he will trudge across the lofty Alps,
+to visit the memorials of great Caesar, the Gaulish Rhine, the formidable Britons, furthermost of people. (Catullus ii.i—12) 57 For the purposes of this poem the extremos Indos (2) are set against the
+ultimos . . . Britannos (n-12),58 who have the added feature of being horribiles. The extract testifies to the kind of ethnographic shorthand that is so much part of Augustan poetry: the use of a recurring set of adjectives,
+e.g. Arabas . . . molles (5) and sagittiferos Parthos (6). Ofcourse phrases such
+as these are not limited to poetry, but it is also true that their recurrence
+in verse may be related to the creation of a poetic language, and even to
+56 Alessandro Barchiesi, The poet and the prince: Ovid andAugustan discourse (Berkeley: University of
+California Press, 1997), brings out well the multifaceted nature of Ovid’s poetry, to take perhaps
+the most ludic of the poets here discussed. See also Duncan F. Kennedy, ‘“Augustan” and “anti- Augustan”: reflections on terms of reference’, in Romanpoetry andpropaganda in the age ofAugustus,
+ed. Anton Powell (London: Routledge, 1992), pp. 26-58; Thomas Habinek, ‘Ovid and empire’, in The Cambridge companion to Ovid, ed. Philip Hardie (Cambridge University Press, 2002), pp. 46—61.
+57 Furi etAureli, comites Catulli, siue in extremos penetrabit Indos, litus ut longe resonante Eoa
+tunditur unda\
+siue in Hyrcanos, Arabasque molles, seu Sacas, sagittiferos Parthos, siue qua septemgeminus colorat aequora Nilus;
+siue trans altos gradietur Alpes, Caesaris uisens monimenta magni, Gallicum Rhenum, horribilesque ulti- mosque Britannos
+58 See TLL II. 2195.73-77 for the juxtaposition (mosdy in poetry) of Britain and Britons with other
+people, such as Parthians and Scythians. See esp. Hor. Carm. 1.35.30 and 4.14.48.
+Empire 217
+the constraints of metre. 59 It is in this way that Catullus is central to the
+creation and refinement of a Latin poetic language. 60 Another feature of
+Catullus’ poem to note, for the purposes of comparison with later verse, is the interplay of the private with the public: Furius and Aurelius are friends
+in the private domain in the first instance, as we may safely assume, but it is by accompanying him to faraway places that they prove their friendship.
+It is only once he has recounted their ‘world-scale’ companionship that he
+asks his friends to deliver a message to his beloved, and it is this message
+that takes up the second halfof the poem. The distant parts of the world are described as Caesaris . . . monimenta magni (io): the distant parts redound
+to Caesar’s credit, for they are mentioned as a means of praising him as their conqueror. It is on this basis that we can understand references in imperial panegyric: ‘India’ as a geographic topic is subject to an escalation of rhetoric, as we shall see below.
+I.y The production ofimperial space: Strabo and Pliny
+In a telling passage, Polybius draws an explicit link between the imperial conquests of Alexander and the Romans on the one hand, and the
+increase of topographical knowledge on the other (3.58—59).
+61 He contrasts
+his own times with those of early Greek writers, unnamed but presumably Hecataeus, Herodotus and other Ionians (3.58.5). Military conquests have opened greater possibilities than ever before of knowing the world. This contrast, which goes some way toward vindicating the two quotations which began this chapter, is all very well as a general principle; but, specifically, what relevance does it have to India during the Augustan age? For one
+thing, this sense ofmilitary conquest as stimulating geographical knowledge
+brought with it an ongoing admiration for Alexander’s conquests, not least because he achieved with regard to the east what no Roman commander
+was later to do.6z
+59 Andr6 and Filliozat, Linde, p. 17, point to the ‘banalite' of formulae such as India tosta (Catull.
+45.6), ebur Indicum (Hor. Carm. 1.31.6), and Indiae conchae (Prop. 1.8.39). 60 Gordon Williams, Tradition and originality in Roman poetry (Oxford: Clarendon, 1968), pp. 701-2; Gian Biagio Conte, Latin literature: a history (Baltimore: Johns Hopkins University Press, 1994), pp. 142-52.
+61 This passage may have been written for a second edition: F. W. Walbank, A historical commentary
+on Polybius (Oxford: Clarendon, 1957), vol. I, pp. 393-4 ad loc.; see also Clarke, Between geography and history, p. hi.
+62 Johannes Engels, ‘Die Geschichte des Alexanderzuges und das Bild Alexanders des Grossen in Strabons Geographika - Zur Interpretation der augusteischen Kulturgeographie Strabons als Quelle
+seiner historischen Auffassungen’, in Alexander der Grosse, ed. Wolfgang Will (1998), pp. 131-71.
+2l8 Contexts ofa discourse We should consider Strabo, Pomponius Mela and Pliny to assess to what degree their geographies are texts of the Roman empire, on the lines suggested by Polybius. In taking the oikoumene as his subject, Strabo’s project matches the world histories ofhis contemporaries Pompeius Trogus, Nicolaus of Damascus and Diodorus Siculus. 63 The profusion of such
+intellectual projects around this time cannot be considered a coincidence, but rather suggests that the discourse ofempire at this time gained new force. Furthermore, Pliny, writing several decades later, is manifestly aware of
+Alexander’s precedent, hence the comment about ‘following in his footsteps’ in order to describe India (Chapter i above). So much of the descriptions of
+India and Indians themselves concern matters that are of military interest: the location ofrivers, mountains and settlements; among fauna the elephant was an important aspect of warfare in India, in the Hellenistic period at
+least . 64 What is more, recent scholarship on the Natural history have tended
+to view Pliny’s geographical books as an intellectual project in its own right, rather than an accumulation of details that are more or less accurate: he
+is ‘providing a general picture of the world as a whole’. 65 While Strabo and Pliny focus, in the first instance, on the ‘world’ at large, there is a subtext of empire that runs through them; both works are unthinkable for, say, the early first century bc. At the very least, it cannot be denied that Rome’s political ascendancy in the Mediterranean breathed new life into world-scale geographical and historical writing. 66 The point here is clear, but how far does it take us in trying to understand
+texts of such magnitude as Strabo’s Geography and Pliny’s Natural history?67 Certainly, nobody will deny that they are both texts of their time, and
+articulations of long traditions of scholarship. When they survey the orbis terrarum or oikoumene, it is the inhabited world rather than merely the Roman empire. There seems to be, at some level, a false consciousness in
+this, as if one is speciously passed off for the other. Whatever the physical
+63 Alonso-Nunez, ‘Augustan world history’, 56; more generally, Katherine Clarke, ‘Universal perspectives in historiography, in The limits ofhistoriography: genre and narrative in ancient historical texts, ed. Christina Shuttleworth Kraus (Leiden: Brill, 1999), pp. 249-79.
+64 Scullard, Elephant.
+65 Sallmann, Geographic, p. 191; Beagon, Roman nature, esp. p. 189 n. 50. The older approach is exemplified by J. Oliver Thomson, History ofancient geography (Cambridge University Press, 1948), pp. 226-8; for more recent scholarship on Pliny, see Chapter 2, section I.3 above.
+66 To the question of the connection between empire and geography we shall return at the end of this book.
+67 Conte, ‘Inventory of the world’, in Genres and readers, esp. p. 74: but the essay offers surprisingly
+little to justify his title. Beagon, Roman nature, pp. 187-90, offers good evidence for the link between
+Pliny’s scholarship and Rome’s political ascendancy; cf. Purcell, ‘Maps’.
+Empire 219 form ofAgrippa’s map, it does seem to have expressed the full sweep of the
+orbis terrarum, well beyond the formal limits of empire. On the face of it, there is no problem in connecting Roman geography
+with the interests and practice of empire. Both Strabo and Pliny played a
+role in the Roman military, and both of them travelled far and wide in the course of military service. 68 Certainly Pliny was well aware of Agrippa as a source of topographical information, and in fact the Natural history is one of the main sources in reconstructing Agrippa’s supposed map. 69 Both
+Pliny and Strabo speak of Alexander as a military figure whose conquests ‘opened up’ a wider world for inquiries such as theirs . 70 These are important and obvious senses of empire embedded in their texts. Yet, that said, the
+texts themselves are less than helpful in clarifying the explicit connection between science and military activity. For all the travelling that we know
+him to have done, Pliny relies much more on the authority ofbook-learning than on his own experience. 71
+I.4. Policy andpropaganda Thus far we have considered the rhetoric of empire at the time ofAugustus, and the role of India within that rhetoric. At this point, we should take
+a moment to consider more broadly the political and military realities to which it relates. There is a larger historical question we cannot escape: how
+seriously are we to take the assertions of future conquest? Quite seriously, Brunt would have us believe, in a provocative article that reopened the question of Roman expansionism and continues to be cited with regularity. 72 Earlier scholars, notably Mommsen, strenuously maintained that
+68 From the Natural history itself we do know that Pliny saw service at the source of the Danube
+(31.25), near the mouth of the Rhine, extremoque in margine imperii (12.98), and elsewhere; see also 31.20 and 16.2 (territory of the Chauci). It has generally been thought that Pliny’s lost work on Germany formed the source for Tacitus’ Germania (Syme, Tacitus, p. 127). If this is so, then Tacitus’ Pliny is completely lost to us. (Subsequent service also took him as far afield as Judaea, Syria, Gallia Narbonensis, Africa, Hispania Tarraconensis and Gallia Belgica. Yet autopsy, and the first person in general, play very little part in the HN: Beagon, Roman nature, pp. 2—6.) Pliny’s life is discussed in Chapter 2, section 1 . 3 above.
+69 Kai Brodersen, Terra Cognita. Studien zur romischen Raumerfassung, 2nd edn (Hildesheim: Olms,
+2003), pp. 268-85, argues that this was an epigraphic monument; for the more conventional interpretation, giving greater significance to the visual dimension, see Nicolet, Space, geography, pp. 95-122, and Dilke, Greek and Roman maps, pp. 41-52.
+70 Cf. Chapter 1, section II.
+71 Shaw, ‘Elder Pliny’, 431-2, and Sallmann, Geographic
+,
+esp. pp. 27-34 on Pliny’s Mosaikstil.
+72 Peter Brunt, ‘Roman imperialism’, in his Roman imperial themes, pp. 96-109, a review of Hans D.
+Meyer, Die Aussenpolitik des Augustus, reprinted from JRS 53 (1963), 170-6.
+220 Contexts ofa discourse Augustus’ goals were limited. 73 This has been questioned by a number of
+scholars in the latter part of this century. 74 Isaac’s influential study of the Roman presence in the eastern Mediterranean in the first centuries ad pre- supposes a degree of military aggression, and may be regarded as typical of more recent approaches to the topic. That said, it is difficult to point to any indication of Roman military
+interest in India. The kind of references we have seen, and those we shall see later in this chapter, tend to be very much on the level of the ideological rather than the strategic. By the same token, the few representations of India
+in maps and in geographical literature are on the large scale, on world maps,
+rather than regional or municipal . 75 No serious thought about military topographies of India can be entertained. Indeed it would be perverse
+to view the geographical and cartographic material on India in a strictly military light. If the question of ‘military maps’ is a difficult one in any case, and prone to a prioristic exaggeration on the part of modern scholars, 76 then it is not so much an issue with regard to India. The closest we come
+to seeing India on a Roman military map is in the Peutinger map. This
+survives in a Colmar manuscript from the thirteenth century, but shows
+strong evidence of a fourth-century original, and even deeper roots. 77 It is unlikely, however, that a military context can account for all the features of
+the existing map; rather, it is possible that other kinds of travel, not least commercial, may have played their part as well in determining the places, routes, natural features and distances indicated. Despite these caveats, it is important to note that it does stretch as far as India and Taprobane on its far right-hand side: whatever the constituent parts, the final product in its thirteenth-century form does indicate a universe stretching from the Straits
+73 On similar lines, E. Badian, Roman imperialism in the late republic, 2nd edn (Ithaca: Cornell University Press, 1968). On the other hand, W. V. Harris, War and imperialism in republican Rome, $27-70 BC (Oxford: Clarendon, 1979), argues for the fundamental expansiveness of the Roman state. Cf. Josiah Ober, ‘Tiberius and the political testament of Augustus’, Historia 31 (1982), 306-28.
+74 It is in no sense surprising that the postwar period, not least the period of decolonisation, has seen such a strong move to re-evaluate Roman ‘imperialism’: from a variety of perspectives, Dialogues, ed. Mattingly, and Majeed, ‘Comparativism’, update Brunt’s 1963 article. The considerable history of scholarship on this subject is very substantial and cannot be considered here in any detail.
+75 Brodersen, Terra Cognita, helpfully divides Roman spatial thinking into these three registers. 76 See A. C. Bertrand, ‘Stumbling through Gaul: maps, intelligence and Caesar’s Bellum Gallicum\ AHB 11 (1997), 107-22; cf. N. J. E. Austin and Boris Rankov, Exploratio: military and political
+intelligence in the Roman world from the second Punic War to the Battle ofAdrianople (London:
+Routledge, 1995).
+77 The edition of Konrad Miller, Itineraria Romana. Romische Reisewege an der Hand der Tabula
+Peutingeriana (Stuttgart: Strecker und Schroder, 1916), though often reprinted, is unreliable: Richard
+Talbert, ‘Cartography and taste in Peutinger’s Roman map’, in Space in the Roman world: itsperception andpresentation, ed. Richard Talbert and Kai Brodersen (Munster: Lit, 2004), pp. 113-41, including
+bibliography.
+Empire 221 of Gibraltar in the west to India in the east.
+78 In this respect it matches the expanse plotted out in the Pliny passage at the start of this chapter. In sum, no military context can be detected here; we are dealing instead with imperial discourse that is somewhat removed from practice. It cannot
+be seriously maintained that the military conquest ofIndia was a practicable
+possibility: the sheer distance between it and Italy, with the many attendant
+issues of transportation, makes this hard to imagine except in the most
+fanciful way. Even if there were some degree of Roman military presence
+in the Arabian peninsula and especially in the Nile valley from the end of
+the first century bc through the end of antiquity,79 it does not follow that troops in sufficient numbers could have been transported to the Indian
+subcontinent. We pass now to a case, some one hundred years after Augustus, which
+clearly shows the paradox we have already seen: that the prospect of con- quering India militarily was as desirable in principle as it was unrealistic in
+practice.
+I.$. Trajan s Parthian campaign
+Cassius Dio offers the evocative picture ofan ageing emperor having arrived
+at the head of the Persian Gulf, watching a ship sail to India, and regretting
+that his ambitions of conquest were now thwarted by the onset of old age and illness: Then he arrived at the ocean itself, and having found out about its nature and
+having caught sight of a ship setting sail for India, he said he would definitely have
+crossed over to the Indians, were he still young. He began to cogitate the Indians and inquired into their affairs, and he deemed Alexander blessed. (Cassius Dio
+68.29.1)
+80 This episode is part of Trajan’s Parthian campaign, dating to the summer
+of 116, just over a year before his death while returning to Rome. Whether
+or not we should take this anecdote at face value, there is no doubt that the
+78 ‘Did indicate’ is the more accurate expression in this case, given that the furthest segment(s) on the
+left (the Iberian west of the map) has/have been lost: Ekkehard Weber (ed.), TabuLa Peutingeriana. Codex Vindobonensis 324, 2 vols. (Graz: Akademische Druck- und Verlaganstalt, 1976), vol. II, p. 40, with Talbert, ‘Cartography and taste’, pp. 119-20.
+79 Bowersock, Roman Arabia; Fergus Millar, The Roman Near East, 31 bc-ad 33/ (Cambridge, MA:
+Harvard University Press, 1993), ch. 11. 80 K&vteuOev ett’ ccutov tov cokeovov eAOcov, tt)v te <f>uorv auroO KorrakiaQcbv Kai ttAoTov ti es ’Iv8iav ttAeov 18cbv, eTttev oti iravTcos av Kai etti tous ’IvSous, si veos eti fjv, EiTEpaicbOTiv. ’lv8ous te yap evevoei, Kai Ta ekeivgov trpaypiaTa EiroAuTtpaynovEi, tov te ’AAs£av8pov EjiaKapi^E. Cf.
+Millar, ‘Looking east’, 507.
+222 Contexts ofa discourse emperor, known in his own reign as optimus princeps, was a keen emulator
+ofAlexander.81 Before turning westwards, Trajan in fact first travelled up the Euphrates to Babylon, to visit the tomb ofSemiramis and to make a sacrifice
+at the house where Alexander died.82
+It is no accident that Trajan was the
+first Roman emperor to have been born outside of Italy, in southern Spain:
+this fact alone goes some way towards explaining the geographic extent of Trajan’s activities. Apart from anything else, Dio’s anecdote, written
+a century after the event, strikingly combines commercial and military
+interests. Two texts from the later fourth century suggest more strongly, if less poignantly, that Trajan’s plans extended as far as India. Rufus Festus says that Trajan, having secured the finest part of Persia, Seleucia, Ctesiphon and Babylonia, advanced as far as the boundary of India, in Alexander’s
+footsteps’ (Breuiarium 20).83 Festus’ contemporary Eutropius says much the same thing, though without mentioning Alexander (8.3.2). To these authors we shall return in section 1.6 below, but for the present we should note
+their impact on later writing. When the sixth-century historian Jordanes produces his own version, based in part on these writers, he explicitly imputes Indian ambitions to Trajan: he set up a fleet ‘from which to conquer
+Indian lands’ ( Romana 268).84 The extent of Trajan’s motives is less at issue here than the rhetoric involved in the campaign and its subsequent representation. What such
+stories do show is that eastern campaigns in the imperial period are readily connected with India, even if the exaggeration involved is conscious. Thus, when Eucian in his treatise, How to write history (section 31), scorns contemporary historians for their haste to narrate Lucius Verus’ Parthian campaign of ad 162-66, he complains that they have already written of
+future events, such as the capture of the Parthian king Vologeses III (sec- tion 31).
+85 The preface to an Indica has already been completed. The details of the campaign require authentication, but this they are about to receive in
+81 See F. A. Lepper, Trajan’s Parthian war (Oxford: Clarendon, 1948), pp. 34-9, on the chronology of
+his use of titles. On his Oriens coins, Harold Mattingly, Coins ofthe Roman empire in the British Museum. Vol. Ill, Nerva to Hadrian (London: British Museum, 1936), p. lxxxxvi. His presentation of himself as Hercules may imply a link with Alexander: Julian Bennett, Trajan, optimus princeps, 2nd edn (Bloomington: Indiana University Press, 2001), p. 72.
+82 Bennett, Trajan, p. 199.
+83 usque ad Indiae fines post Alexandrum accessit. Festus proceeds to say that Trajan set up a fleet, on
+which point scholars have disagreed: J. W. Eadie, The Breviarium ofFestus: a critical edition with
+historical commentary (London: Athlone, 1967), pp. 139-40.
+84 nec non et in mari ruhro classem, unde Indiae fines uastaret, instituit ibique suam statuam dedicauit. The statue Trajan erected there was apparently still standing by the late sixth century: The Roman
+empire: Augustus to Hadrian, ed. Robert K. Sherk (Cambridge University Press, 1988), p. 138.
+85 On the war, A. R. Birley, ‘Hadrian to the Antonines’, CAHX1, 2nd edn, pp. 132—94, at 160-5.
+Empire 223
+the form of letters received from Muziris and the Oxydraci in India. With
+mention of these letters Lucian sounds a novelistic note, comparable with
+the many letters woven into the Alexander Romanced An interesting element of Lucian’s comments is their temporality: part of the offence caused by these historians is that, in their enthusiasm to
+flatter the emperor, they get ahead of themselves. The thinly veiled allusion
+to Alexander is assured by the reference to the circumnavigation of the outer sea (31). The implication is that these historians are flattering the emperor, not unlike the way in which Alexander was flattered by several contemporaries (5).
+87 Part of the background to this is that contemporary
+history was subject to more stringent tests than were accounts of the more
+00 remote past. As the case of Trajan shows, the imperial sense of India is intensely concerned with Alexander’s conquests. But then the focus is less on the exact details of the empire actually created by Alexander; what matters here
+is that its distant location brings glory to a great man. The near absence of
+the Indo-Greeks in the later literary records may be regarded as proof of
+this. 89
+It suited the rhetoric of empire much better that India was radically other than that Ai Khanum had a theatre and a gymnasium. India is here
+less important in its own right than as the crowning glory of success against the Parthians, or later Sasanians. For Lucian in Hotu to write history, the precedent ofAlexander makes India effectively the reductio ad absurdum of
+history written to flatter the emperor.
+1.6. Itinerarium Alexandri The case ofTrajan’s Parthian campaign shows that Alexander provided a lens through which to consider India. In this regard, Trajan provides a strong
+link into later antiquity. Both Rufus Festus and Eutropius were writing around 369-70, at a time when the emperor Valens was contemplating an
+eastern campaign. This was in fact to prove his undoing, culminating with
+the massive defeat at the hands of the Goths at Adrianople (378). Noel
+Lenski’s recent study suggests that these works were written not merely to provide incitement for the emperor to proceed, but also ‘practical guides
+to Rome’s historical claims to the territories of the east’. 90 In this light,
+86 Patricia A. Rosenmeyer, Ancient epistolaryfictions: the letter in Greek literature (Cambridge University
+Press, 20or), pp. 169-92.
+87 Cf. Chapter 1, section II. 1 above. 88 Luce, ‘Bias’. 89 The meagre literary sources given by Holt, Thundering Zeus. pp. 174—84, constitute the exception.
+90 Failure of empire: Valens and the Roman state in the fourth century ad (Berkeley: University of
+California Press, 2002), p. t92.
+224 Contexts ofa discourse the references to India by Rufus Festus and Eutropius, though brief and
+arguably fanciful, cry out to be seen in the light of the politics of their authors’ time.
+It was the figure of Trajan that had been invoked, in another historical work a few decades earlier, again with an implied connection to India. The
+Itinerarium Alexandri was written by the courtier Flavius Polemius, and
+dedicated to the emperor Constantius II. The year, 340, is significant, since
+it was the very time Constantius was preparing for war against the Sasanians. Despite the initial promise ofa geographical account ( itinerarium), the work
+is in fact a potted twofold biography ofAlexander and Trajan, of which the
+Trajanic narrative is now lost. It begins: My lord Constantius, who is better even than good emperors, I, thinking it particularly beneficial, both as an omen for you and as an incentive for future people,
+if I were to compose a Persian campaign, a glorious account of emperors engaged
+in the same undertaking, but now already favourably undertaken and dispatched, namely of Alexander the Great and Trajan, [I] acceded most willingly, desirous of
+the task, because indeed it demands that I wish this, and because the successes of
+rulers encourage others to match them, (i) 9 ' There is some evidence to suggest that this text enjoyed renewed interest in 362/3, to encourage the young emperor Julian on his eastward expedition. Even if Julian’s attitude to Alexander, as expressed in his writings, was
+ambiguous, it does appear that from this time he became preoccupied
+with Alexander’s eastern conquests, to the degree that it cut him off from
+reality. 92
+It is true that, in the late republic, imitation of Alexander had been something of a mixed blessing. As Augustus was well aware, its political implications required caution in manipulating. 93 It is also true that there was a negative element to the manner in which philosophers such as Seneca
+91 dextrum admodum sciens et omine tibi et magisteriofuturorum, domine Constanti, bonis melior imperator, si orsofeliciter iam accinctoque Persicam expeditionem itinerariumprincipum eodem operegloriosum, Alexandri scilicet Magni Traianique, componerem, libens sane et laboris cum amore succubui, quod qui- dem meum uelle enim idet exigit suipensique est, quodque regentium prospera in partem subditos uocant. Ed. Raffaella Tabacco (Citta di Castello: Olschki, 2000).
+92 Polymnia Athanassiadi, /a/t'an and Hellenism (Oxford: Clarendon, 1981), pp. 224-5; R- J. Lane Fox, ‘The itinerary of Alexander: Constantius to Julian’, CQ 47 (1997), 239-52.
+93 Peter Green, ‘Caesar and Alexander: aemuUtio, imitatio, comparatio’, AJAH 3 (1978), 1-26; and
+E. Gruen, ‘Rome and the image of Alexander’, in Ancient history in a modern university, ed. T. W.
+Hillard et al. (North Ryde, NSW: Macquarie University Press, 1998), pp. 178-91, apdy warn against overestimating the extent of imitatio Alexandri in the late Republic, but they cannot explain away all the evidence for Augustus: Dietmar Kienast, ‘Augustus und Alexander’, Gymnasium 76 (1969), 43-
+56. Still fundamental is A. Heuss, ‘Alexander der Grosse und die politische Ideologic des Altertums’, A&A 4 (1954), 65-104.
+Empire 225 viewed Alexander, an exemplum of excessive ambition. 94 What we see in
+later antiquity is a whitewashed Alexander, the philosopher-king of the Alexander Romance rather than Seneca’s drunken megalomaniac. It is this
+later Roman memory of Alexander that is expressed in the Peutinger map,
+where one of the farthermost eastern places is designated as Alexander’s turning point and marked as such by an oracle. 95 This is, in any case, a distended India that blends into Scythian territory. If the Peutinger map
+harbours various sources from the late Republic into the mid-fourth century, this particular feature reflects, in the first instance, the late-antique memory ofAlexander. Medieval versions ofAlexander’s interview with the Brahmans gave later authors the opportunity to show the conqueror learn- ing humility, and on this basis he was sometimes presented as a pilgrim in search ofwisdom. 96 The figure ofAlexander was thus a bridge between the learned cultures of antiquity and the western Middle Ages, but one that underwent considerable metamorphosis in the process. To this we might add the lively folk traditions ofAlexander elsewhere, in a wide variety of regions. These can be most readily substantiated in the case of the western Middle Ages, 97 with the enormously wide diffusion of the Alexander Romance in a number of languages of the Mediterranean basin. 98 Beyond the classical canon, we find substantial Alexander traditions in the
+Iranian world; 99 and the Midrash attests to his presence in medieval Jewish
+tradition. 100 However varied this range of texts and traditions, the point
+94 Notably Sen. ep. 53.10; 59.12; 83.19. Richard Stoneman, ‘The legacy of Alexander in ancient phi- losophy, in Brill's companion to Alexander the Great
+,
+ed. Joseph Roisman (Leiden: Brill, 2003), pp. 325-45, illustrates the varied uses of Alexander as a philosophic or rhetorical exemplum. Cf. Diana
+Spencer, The Roman Alexander, pp. 89-93.
+95 hieAlexander responsum accepit: 'Usque quo AlexanderC'Wtte Alexander received the [oracular] reply: “How far are you going, Alexander?’” The oracular saying, found also in the Ravenna Cosmography,
+is part of later tradition: Miller, Itineraria Romana, p. 838.
+96 See further Chapter 6, section III. 2. 97 George Cary, The medieval Alexander (Cambridge University Press, 1956); C. Frugoni, Lafortuna
+di Alessandro magno dall' Antichita al Medioevo (Florence: La nuova Italia, 1978); D. J. A. Ross, Alexander historiatus: a guide to medieval illustrated Alexander literature (Frankfurt am Main: Lang,
+1988); Danielle Lecoq, ‘L’image d’Alexandre k travers les mappemondes medievales (XIIe-XIIIe
+)’, Geographia antiqua 2 (1993), 63-103.
+98 Fraser, Cities ofAlexander, pp. 205-26, on the genealogy of the Alexander Romance up to the earliest surviving Greek text. 99 John H. Marks, Visions ofone world: legacy ofAlexander (Guilford, CT: Four Quarters, 1985). In Persian versions of the Alexander romance, Alexander is usually but not always positively portrayed.
+In some instances, he is identified with Du’l-Qarnayn, the ‘two-horned’ prophet of the Koran
+(16:84). For further discussion, William L. Hanaway, ‘Eskanar-nama’, Encyclopaedia Iranica (1998); Faustina C. W. Doufikar-Aerts, ‘A legacy of the Alexander Romance in Arab writings: Al-Iskandar, founder of Alexandria’, in The searchfor the ancient novel, ed. Tatum, pp. 323-43.
+100 To take an example from late-antique Judaism, Alexander as judge is sympathetic to the Jews: The
+Babylonian Talmud: Seder Nezikin, four vols., ed. Isidore Epstein et al. (London: Soncino, 1935),
+vol. Ill, pp. 608-10.
+
+Empire 227
+is clear: if neither the Alexander histories nor the Greco-Roman Alexander Romance tradition had any monopoly on the Macedonian king, then it is unfair to expect that imitation ofAlexander was pursued by Roman leaders
+as a kind of ‘package deal’. We are dealing with someone who intensely manipulated his own public image, and hence it is important to emphasise
+the variety of tones with which Alexander resonated in Roman imperial
+history. If India was often part of the memory of Alexander in the Middle
+Ages, then that changed form commensurately.
+II. CHRISTIAN TOPOGRAPHY, CHRISTIAN EMPIRE Now that we have seen representations of world empire in the Augustan
+age and somewhat later, we are well placed to consider the same set of
+features at a later point in Roman history. We are dealing with the later Roman period, in a series of Christian texts: now if the ‘Christianisation of
+time’ has been well described, the corresponding Christianisation of space
+has not received equal attention, beyond the smaller scale of holy places in Palestine and elsewhere. 101 But this is worth considering in similarly broad
+terms, if we are to try to grasp what India meant to Romans of the later empire. The T-O map is most readily associated with Isidore: in this schema, the inhabited earth is represented as aT-shape within a circle (‘O’) representing
+the surrounding Ocean; Europe and Africa fill up the lower quadrants,
+together matching the extent of Asia, represented by the upper semicircle.
+First, Isidore in his Etymologiae or Origines describes an orbis terrarum
+that can be pictorially represented in this fashion; secondly, manuscripts
+of his work from the eighth and ninth centuries actually include such
+diagrams, many of them extremely schematic and simple. While Isidore is extremely important to our story, not least for the proximity of India to the
+earthly paradise in the western medieval tradition, we must consider earlier manifestations of this worldview, including Orosius, another author much
+read and copied in the western Middle Ages.
+In what we may regard as a key text of the period immediately after the conversion of Constantine, Eusebius of Caesarea offers a history of
+the world, stretching back into the distant past and culminating in the triumphal present. There is a breadth of vision implicit in Eusebius’
+101 E.g., E. D. Hunt, Holy landpilgrimage in the later Roman empire (Oxford: Clarendon, 1982); Peter Brown, The cult ofthe saints (University ofChicago Press, 1981); Beatrice Caseau, ‘Sacred landscapes’,
+in G. W. Bowersock et al. (eds.), Late antiquity: a guide to the postclassical world (Cambridge, MA:
+Harvard University Press, 1998), pp. 21-59.
+228 Contexts ofa discourse scheme, and a confident tone of its formulation. In this respect he must be
+considered alongside the earlier Christian chronographer Julius Africanus
+(c. 160—C. 240).
+102 But it was Eusebius’ work that was translated by Jerome
+into Latin, and would in that form reach many readers in the west. Some
+earlier Christian writers had shown a certain ambivalence, or even cautious optimism about the Roman empire as a political unit; perhaps the majority had been openly hostile. 103 For Eusebius, the conversion of the Roman
+empire under Constantine was the result ofdivine providence. In the course of this narrative he offers, in effect, a Christianisadon of history, by writing
+a history that embraced both Judaeo-Christian and Greco-Roman pasts. This is a key moment in the creation of a Christian discourse, a key step
+in the gaining of ‘power over the past’.
+104 Several decades later Augustine
+in his City of God shows himself heir to this conception of human history, however much that may have been refracted by the military threats now facing the empire. 103 Beyond the fourth century this model was to prove strikingly resilient, with a long history in the medieval west, as is shown, for example, in the thirteenth-century Hereford map. But it is less to Augustine than to his pupil Orosius that we must turn ifwe wish to grasp
+the place of world empire, geographically understood, in this new Christian schema. At this broadest level, the Christianisadon of space in Orosius and others requires consideration, parallel to the ‘Christianisadon of
+time’.106 What we shall see here in the fourth and early fifth centuries is the ten- dency of Christians to appropriate the language of Roman (and especially Augustan) public life, not least their military and political symbols of success, in asserting their own achievement following Constantine’s conversion
+to Christianity. However much the political circumstances of the western Roman empire may have differed by the time of Isidore, the cosmological paradigm had already been established, and was in essence to remain
+102 Africanus survives only in the fragments preserved in George Syncellus’ eighth-century Ecloga
+chronographia. For a consideration ofAfricanus, together with Eusebius, in the light of the problem
+of primordial history’, see William Adler, Time immemorial: archaic history andits sources in Christian chronographyfromJuliusAfricanus to George Syncellus (Washington: Dumbarton Oaks, 1989), pp. 43-
+71- 103 Theodor E. Mommsen, Medieval and Renaissance studies (Ithaca: Cornell University Press, 1959), pp. 267-9.
+104 Averil Cameron, Christianity and the rhetoric ofempire (Berkeley: University of California Press,
+I 99I ), PP- 120—54. The book is much influenced by Michel Foucaults concept of a ‘totalising discourse’, though it is concerned more with society than with individuals.
+105 Peter Brown, Augustine of Hippo (London: Faber, 1967), pp. 299-312; Noel Lenski, ‘Initium mali Romano populo-. contemporary reactions to the Battle of Adrianople’, TAPhA 127 (1997), 129-68.
+106 R. A. Markus, The end ofancient Christianity (Cambridge University Press, 1990), pp. 85—135.
+Empire 229
+thus to the later Middle Ages, in fact up to the time of the New World
+discoveries.107
+II.1. The western tradition ofOrosius and Isidore Born in Spain around 390, Orosius wrote Historiae adversus paganos in seven books, embracing the entire sweep of human history: the first six books range from Adam, i.e. the beginnings, to the birth of Christ, and the seventh takes the story down to ad 4x7, which we may regard as the work’s immediate terminus post quern. We see here a providential conception of
+history, valorising divine intervention at the expense of individual human
+agency (esp. 2.2.4). Unlike Augustine, he regarded the Roman empire, the
+last of the four world empires, as being part of God’s plan, for it facili- tated Christian missionary activity.
+108 The fact that Christ was born at a time when peace reigned in the world, and Augustus ruled most of it, was
+auspicious. And unlike Salvian of Marseilles, writing his De gubernatione Dei some thirty-five years later, Orosius was optimistic about the ‘barbar- ian threat’: he was hopeful that these foreigners would yet be integrated
+into Roman society. 109 This is a true universal history in its self-conscious adoption of a series of different scenes of historical narration, taking into account the perspective of both Romans and non-Romans.110 This was a major work in the creation of Christian history, especially if we consider
+the enormous influence it was to exercise in the medieval west.
+111 But it is primarily to the geographical aspects of his work that we must turn our
+attention. Orosius’ universe is tripartite: of the three continents, Asia, Africa and
+Europe, Asia matches the other two for extent.
+111 This opening articulation
+107 Anthony Pagden, Thefall ofnatural man: the American Indian andthe origins ofcomparative ethnology (Cambridge University Press, 1982). Grafton, New worlds; Romm, Edges.
+108 The three world empires before the Romans were those of the Babylonians, Macedonians and
+Africans (Carthaginians). The scheme of four world empires, articulated in heightened expectation of a decisive fifth, can be traced back to the mid-second century and the Jewish struggle against Antiochus IV ( Daniel 2:31-45 and 7:1-14): see Joseph Ward Swain, ‘The theory of the four monarchies’, Cl. Phil. 35 (1940), 1—21, 20-1 on Orosius.
+109 For a consideration of Orosius and Salvian side by side, see Francois Paschoud, Roma Aeterna. Etudes sur le patriotisme romain dans I'occident latin A Tepoque des grandes invasions (Rome: Institut
+suisse, 1967), pp. 276—310.
+110 Explicitly articulated at 5.1.3. See further, T. E. Mommsen, Medieval andRenaissance Studies, p. 334.
+111 On Orosius’ impact on medieval mapmaking, David Woodward, ‘Medieval Mappaemundi ’, in History of cartography, ed. Harley and Woodward, vol. I, pp. 286-370, at 300-1; Evelyn Edson, Mapping time and space: how medieval mapmakers viewed their world (London: British Library, 1997). PP- 32_5- 112 At 1.2.1. For the same idea expressed some two centuries later Isid., Orig. 14.3.3.
+230 Contexts ofa discourse of universal space leads up to an account of the ‘local disasters of individual nations that arose in an unending stream from the beginning’. They arose from Original Sin, as he goes on to explain right away in 1.3: in fact, it is no exaggeration that the description of the world brings home the point of
+Original Sin as a central theological concept in his history. In this respect Orosius closely follows Augustine.113 India, which is part of Asia, is bounded by the Indus on the west, the Caucasus on the north; the Eastern and Indian oceans on the other sides.
+It contains forty-four peoples, not including those living in Taprobane or on the other densely populated islands: In this territory [of Asia] lies India, whose western boundary is the Indus River, which empties into the Red Sea, and whose northern boundary is constituted by
+the Caucasian mountain; the other sides ... are bounded by the Eastern and the Indian oceans. This land has forty-four groups, excluding both those who dwell on the island of Taprobane, which has ten cities, and those who live on the very many other inhabited islands. (1.2.15)
+114 As such India is for Orosius literally at the ends of the earth, and as we
+shall see below it is later to be contrasted with the western Mediterranean
+world. Even in this briefest of surveys, its populousness is mentioned,1 ' 5 and indeed extended to Taprobane and the other surrounding islands as well.India enters the stage of world history when the Assyrian queen Semiramis invaded it. ‘Nobody had ever entered India’ except Semiramis herself and Alexander."6 This detail is subject to an intensely moralistic
+interpretation: At that time it was an even more cruel and serious matter to persecute and massacre
+peoples living peacefully than it is today; for in those days there were no such
+passions for warfare abroad nor was there such practice of lusts at home. (1.4.6)"7 As if extracting full value from his narrative ofSemiramis’ and later Bacchus’ bloody conquests (1.9), Orosius emphasises that the Indians were themselves peace-loving and non-aggressive. What had begun as propaganda
+113 Brown, Augustine, pp. 388-90.
+114 in his [sc. Asiae]finibus India est, quae habet ab occidenteflumen Indum, quod Rubro mari accipitur, a
+septentrione montem Caucasum; reliqua, a Eoo et Indico oceano terminatur. haec habet gentes XLIIII, absque insula Taprobane, quae habet decern ciuitates, et absque reliquis insulis habitabilibusplurimis.
+115 For populousness as a feature of descriptions of India, see also Chapter 2, section II.i.
+116 Indis quoque bellum intulit, quos praeter illam etAIexandrum Magnum nullus intrauit. (1.4.5)
+117 quod eo tempore ideo crudelius grauiusque erat quam nunc est, persequi et trucidare populos in pace
+uiuentes, quia tunc apud illos necforis erant ulla incendia bellorum, nec domi tanta exercitia cupidita- tum.
+Empire 231 around the time of Alexander’s conquests"8 was now to win a fixed place
+in the Christian master-narrative of world history. Bacchus’ subjugation of India is seen alongside the plagues and wars
+suffered by Ethiopians (1.9.3) and Egyptians (1.10.1—18). Again, by the law of
+Original Sin all people deserve punishment, though the Indians themselves
+are peaceful and lacking in aggression:
+Father Bacchus subdued India and drenched it with blood, filled it with carnage and violated it with lusts - even though the people of India never offended others, and were contented merely with the quiet lives of slaves. (1.9.4)
+119 Orosius makes no mention of Brahmans and other holy people, but they may well be implied in these comments about peacefulness. Such an inter- pretation gains weight ifwe remember the tendency ofAugustine and other
+Christians to speak about Brahmans as the archetypal Indians (Chapter 6
+below). In describing Alexander’s expedition to the east, his cruelty and ambition come to the forefront, in moralising terms (3.19). For Orosius, as for other epitomators of late antiquity, Alexander’s expedition did in fact take him
+to the eastern Ocean, to the edge of the world: ‘he drove his chariot round
+the turning post and entered Indus from Ocean and returned to Babylon’
+(3. 20.1).
+120 Accordingly, there is no mention of the decisive mutiny that forced Alexander to turn back at the Hyphasis.121 Alexander, the ‘acknowledged leader of the most distant east’, receives embassies:122 ambassadors from the Spaniards and Morini ‘seek him
+throughout Assyria and India, visiting ends of the earth and getting to know
+both oceans’.123 In this far-fetched tale we should remember Orosius’ own
+118 Bosworth, Alexander and the east, cf. Chapter i, section II. i above.
+119 subactam Indiam Liberpater sanguine madefecit, caedibus oppleuit, libidinibus polluit, gentem utique
+nulli umquam hominum obnoxiam, uernacula tantum quiete contentam.
+120 post quasi circumacta meta de Oceano Indumflumen ingressus, Babylonam celeriter rediit.
+121 To cite another example of the tendency of later sources to speak of Alexander as actually having
+reached the ends of the earth, we may compare Malalas (8.3 = 194-95 Dindorf): ‘Alexander also captured all the regions of India and their empires, taking prisoner Poros, emperor of the Indians; he also captured all the other empires of the barbarian peoples, except the empire of the widow
+Kandake’; a little later he is baldly said to have ‘conquered the world’. But it is clear that Malalas is working with a vague sense of India, one which stretches both to Arabia (18.16 = 435) and Ethiopia
+(18.5 = 457).
+122 The claim that Mithridates VI extended Parthian control to India (5.4) need not be taken as historical fact; rather, it reflects a scrambling of details about ‘the east’.
+123 Hispanus et Morinus ad supplicandum Alexandro Babyloniam adiit cruentumque ultro dominum, ne hostem exciperet, per Assyriam Indiamque quaesiuit, terrarum metas lustrans et utrique infeliciter notus Oceano (3.20.8).
+23 2 Contexts ofa discourse Spanish origins as he matches the eastern and western edges of the earth.124 The Morini are easily identified in Orosius’ intellectual background: they were the Gallo-Belgic tribe mentioned at the end of the ekphrasis of the
+shield of Aeneas as ‘farthermost of people’.125 Their geographic location,
+close to the Channel, thus puts them close to the ‘remotest Britons’.126 This episode is later explicitly recalled in the context of a later world
+conqueror. At 6.21 Orosius tells of embassies from Indians and Scythians
+that travelled all the way to Tarraco in Hither Spain to seek out Augustus:
+‘farther they could not have gone’.127 As suppliants they begged for his military intervention, reminding him ofAlexander the Great, just as Gauls and Spaniards had come after Alexander. In each case, we see an embassy
+that attests the expanse of political power. In the broader scheme of the work, the twin stories function as reminders that mankind everywhere, even at these very corners of earth, is tainted with Original Sin. By the time we get to the Etymologies of Isidore of Seville (c. 602—36), the tripartite orbis has become orthodoxy, as the extended description at
+I 4-3- I—3 shows. In this passage in the fourteenth book on Asia, India is described immediately after the earthly Paradise. It is important to see here
+that Paradise has a specific geographical location (14.3.2-4), something
+that was to have a profound effect on later medieval worldviews.128 The
+juxtaposition of India and Paradise is not explicitly stated, it is true, but it is directly implied by the framework and order of Isidore’s composition. The
+actual content of Isidore s description of India offers little of interest in its own right (14.3.5—7): it is very much in the Plinian tradition and predicts the western medieval tradition of subsequent world maps. Though the specific
+details of Isidore’s India are unimportant, they do mark the transition from
+a verbal to a visual mode of Indography.
+Isidore’s encyclopaedia as a whole incorporates several elements ofJewish cosmology; the matter ofparadise, however, is something that he transforms
+124 For the prominence of the western Mediterranean in Orosius, see J. M. Alonso-Niinez, ‘Orosius on contemporary Spain , in Studies in Latin literature andRoman history, ed. Carl Deroux (Brussels: Collection Latomus, 1989), vol. V, pp. 491—507; and note p. 495 for the parallelism of the two
+episodes.
+125 extremique hominum (Verg. Aen. 8.727).
+126 Orosius clich£d reference to ultimi Britanni has direct precedent in Catull. 11.12 and Hor., Carm.
+1.35.30 (further references at TLL II. 2195. 67-77).
+127 interea Caesarem apud Tarraconem citerioris Hispaniae urbem legati Indorum et Scytharum, toto Orbe
+transmisso tandem ibi inuenerunt, ultra quod iam quaerere non possent. Note especially 14.3.2: Paradisus est locus in orientis partibus constitutus, cuius uocabulum ex Graeco
+in Latinum uertitur hortus: porro Hebraice Eden dicitur, quod in nostra lingua delicae interpretatur. On the swift and extensive diffusion of the Etymologiae, with its substantial Spanish, Italian and
+French traditions, see P. K. Marshall, ‘Isidore’, in Texts andtransmission, ed. L. D. Reynolds (Oxford: Clarendon, 1983), pp. 194-6. Isidore is explicitly mentioned in the Hereford map, as is Orosius.
+Empire 233 from Persian-Greek tradition into Christian discourse. His so-called T-O
+scheme of world maps is in fact closer to a ‘Y-O’ pattern, especially if we
+consider the angle at which the Nile is often placed, beginning at the delta and heading off towards one o’clock. The same can be said of many maps,
+including the three major mappaemundi of the later Middle Ages, namely
+the Hereford, Ebstorf and Vercelli world maps. This points to the influence of Jewish maps, which are shaped in a Y-pattern. 129 The implications of
+this were enormous. For one thing, the centring of the world on Jerusalem meant that there was more ofAsia to fill up. We sense this in the difference
+in the sizes of illustrations between Europe and the outer fringes of the orbis terrarum.
+I)0 To understand the Christian tradition reflected in Orosius and Isidore we must look back not merely to the classical sources we have already considered, but also to some key texts of Jewish tradition. Of the various cosmologies implicit in the Old Testament, the one that would have the most profound effect in the medieval west was that of Noah and his sons. This foundation text, which accounts for the peopling of the earth after the new world order brought about by the flood, is an obvious place to start. Genesis 10 lists Noah’s sons, Shem, Ham and Japheth, and their descen- dants at some length. The genealogy that concerns us as we consider medieval conceptions of Asia’ begins with Shem, and proceeds through
+Arpachshad, Shelah, Eber, Joktan. Of the thirteen sons of Joktan named, who ‘occupied a stretch of country from Mesha in the direction of Sephar,
+the eastern mountain range’ (10:30),
+131 Ophir and Havilah are the ones
+that have been at various times linked with India. The precise geographical
+location of the place Ophir has caused controversy over a long period: it
+is sometimes thought to be in India, sometimes in the southern Arabian
+peninsula. 132
+129 Philip S. Alexander, ‘Notes on the imago mundi of the Book of Jubilees’, Journal ofJewish Studies
+33 (1982), 197-213; more generally his ‘Early Jewish geography’, Anchor Bible dictionary, vol. II, pp. 977-88; and Francis Schmidt, ‘Naissance d’une geographic juive’, in Moise Geographe, ed. Alain Desreumaux and Francis Schmidt (Paris: Vrin, 1988), pp. 13-30.
+130 For example, in the Hereford map the details for Europe are given much more finely and in greater
+detail, whereas, say, the sizeable representation of tower of Babylon, or indeed the ‘monstrous races’ obviates the need for fine topographic detail, textual or visual, in the more peripheral areas. Even
+the holy land of Palestine, which receives a large expanse by virtue of its relation to Jerusalem, the
+central point, is not accorded a great deal ofdetail. See further, e.g., Scott D. Westrem, The Hereford map: a transcription ofthe legends with commentary (Turnhout: Brepols, 2001).
+131 Tr. Jerusalem Bible, ed. Alexander Jones.
+132 Cf. ABD V 26-27, s.v. ‘Ophir’ (David W. Baker), on the puzzle of location. David M. Goldenberg, The curse ofHam: race and slavery in early Judaism, Christianity and Islam (Princeton University
+Press, 2003), esp. pp. 43, 241, puts this in a wider context while discussing the question, ‘how did
+ancient Jewish society look at the black African?’ (10).
+234 Contexts ofa discourse Two different sources lie behind this passage, a Priestly (P) and a Yahwist
+(J) tradition. Of these, the P-Table has been dated to the seventh century
+bc,133 whereas the J-Table is older. It accounts for Shelah, Eber, Joktan and his thirteen sons, and offered a geographical schema to match the
+genealogy. Another passage that was to have paradigmatic force for centuries of
+medieval mapmaking was the description of Paradise, in the second account of creation ( Genesis 2). After the creation of mankind, Yahweh ‘planted a garden in Eden which is in the east, and there he put the man he had
+fashioned’ (2:8). This garden contained all kinds of tree, including the tree of life and the tree of the knowledge of good and evil. The description of
+its rivers is worth close attention, for they were to provide readers with the
+ostensible possibility of fixing a locality for Eden: A river flowed from Eden to water the garden, and from there it divided to make
+four streams. (2:10) The first is named the Pishon, and this encircles the whole
+land of Havilah where there is gold. (2:11) The gold of this land is pure; bdellium and onyx stone are found there. (2:12) The second river is named the Gihon, and
+this encircles the whole land of Cush. (2:13) The third river is named the Tigris, and this flows to the east of Ashur. The fourth river is the Euphrates. (2:14) The Hebrew river-names Perat and Hiddeqel correspond without any dif- ficulty to the Euphrates and Tigris, as they have been translated above; but
+the other two rivers emerging in the garden, the Gihon and Pishon, are
+less easily located. As a broad region, nonetheless, this region of the ‘east’ {Gen. 2:8) seems to be Armenia, which we might therefore identify with
+the eastern edge of the world. In so far as precious stones occur here, this presentation of Paradise emphasises commodities. Taken together the two passages quoted above, though ‘they reflect first and foremost the world of the west, and only indirectly external geographical space’, 134 cannot be overemphasised in tracing medieval worldviews, within a chronological sweep that includes both Orosius and the Hereford map. These may be the closest the Old Testament itself comes to offering an explicit set of geographic co-ordinates on a large scale. An expanded reworking of the Table of Nations in Genesis 10 was made
+around 100 bc by the anonymous author of the Book ofJubilees (chapters 8-10).135 The work survives in Ethiopic, into which it was translated
+133 E. A. Speiser (ed.), The Anchor Bible I: Genesis (Garden City, NY: Doubleday, 1964), pp. 64-72;
+Alexander, ABD I 980; cf. Oxford Study Bible.
+134 Alexander, ‘Early Jewish geography’, p. 978.
+135 In what follows I rely on James H. Charlesworth, The Old Testament Pseudepigrapha (Garden City, NY: Doubleday, 1983), pp. 1-7.
+Empire 235 from Greek, though it was probably written originally in Hebrew. Some
+fragments survive in Hebrew and Latin. It stands out among the Jewish apocrypha for the prominence it devotes to chronology. When compared
+to the Genesis-Exodus narrative, its augmentations can be identified as coming from Jewish folklore. It was known to fourth-century Christians, for example to Jerome (Epist
+.
+78.20), who speaks of it as the ‘little Genesis. The form known to Jerome was probably the Greek translation, whose
+date is unknown; this was also the form read by the eighth-century Byzantine chroniclers Syncellus and Cedrenus. 136 This Greek version provided
+the basis also for the Latin version, which was translated no later than the
+sixth century ad,137 but possibly as early as the mid-fifth century. The following passage contains an explicit reference to India, and comes
+after it is already mentioned as being among Noah’s bequest to Shem
+(8.21):
+138 And Shem also divided his land among his sons; and the first share fell to Elam and
+his sons — what lies east of the river Tigris till it reaches the east, the whole land of
+India, and the Red Sea coast, and the waters of Dedan, and all the mountains of Mebri and Ela, and all the land of Susa, and all that is on the side of Pharnak to the Red Sea and the river Tina. (9.2) The tripartite scheme of Genesis is in Jubilees matched with that of the Ionian geography. This fact might go some way to explaining its resilience for so many centuries during the Middle Ages. We come next to Josephus, another author to interpret the Table of
+Nations for his own purposes. LikeJubilees, Josephus begins by outlining the
+territory of Shem, Ham and Japheth before speaking of their descendants
+(Ant. Iud. 1. 122—147). The composite text now known as I Enoch, ‘a thesaurus of early Jewish
+lore on astronomy, meteorology, botany and geography’, dating to the late
+first century ad, makes no explicit reference to India. Yet the journeys of Enoch, described in the section known as the Book of the Watchers, are highly suggestive: on his tour of the east Enoch saw, among other things in the desert, trees looking like those of frankincense and myrrh (29:2), and
+1,6 Syncellus (ed. A. E. Mosshamer [Leipzig: Teubner, 1984]) makes only a few passing references
+to India explicitly. Chronographic tradition embraced several Indias, and Syncellus appears to entertain both an Arabian and an Ethiopian ‘India’. This is hardly surprising in view of the early Jewish tradition concerning Kush: Goldenberg, Curse ofHam, p. 211.
+137 Some substantial fragments survive in a sixth-century MS containing also the Assumption ofMoses.
+138 It should be mentioned, as we think back on Isidore, that Eden is mentioned here in the same
+breath (8.21).
+236 Contexts ofa discourse others fragrant like mastic and cinnamon (30:2-3). Various other trees are mentioned, including the almond (31): And after (experiencing) this fragrant odour, while looking toward the northeast over the mountains, I saw seven mountains full of excellent nard, fragrant trees, cinnamon trees, and pepper. (32:1) From there I went over the summits of the mountains, far toward the east of the earth. I (then) passed over the Erythraean
+Sea and went far from it, and passed over the head of angel Zutu’el. (32:2) And
+I came to the garden of righteousness and saw beyond those trees many (other)
+large (ones) growing there - their fragrance sweet, large ones, with much elegance, and glorious. And the tree ofwisdom, ofwhich one eats and knows great wisdom,
+(was among them). (32:3) (tr. Charlesworth, Old Testament Pseudepigrapha, 50)
+It will be noticed that the paradise ofrighteousness lies on the northeast edge
+of the world, in the region of outer darkness beyond Ocean. The journeys
+elsewhere in the book are, likewise, without explicit topographical referent and yet highly suggestive of an exotic, even mystical location. Josephus’ version of the Table of Nations (Ant. Iud. 1.122-47) also adds
+topographical specificity to the Genesis text. His major concern in this is to provide onomastic correspondences: thus, for example, Arphaxades gave
+his name to the Arphaxadaeans, ‘who are called Chaldaeans today’. 139 The
+sons of Shem rule ‘Asia as far as the Indian Ocean, starting at the Euphrates’
+( I 43)- He claims he has Hellenised the Hebrew names for the pleasure of
+his readers; elsewhere he claims to have omitted names which might cause
+offence by their non-Greek sound.140
+II. 2. The eastern tradition ofCosmas Indicopleustes Orosius and Isidore emerge from this analysis as nodal points in the history of ideas, as key points of connection between antiquity on the one hand, in
+its overlapping Judaeao-Christian and Greco-Roman aspects, and medieval Europe on the other. But we come now to an east Mediterranean author who was also writing in a discernibly Judaeo-Christian tradition; who was
+heir to much of the same material as Orosius and Isidore, but responded
+in different ways, and certainly with different emphases. But whereas the
+classical tradition in Orosius and Isidore is Roman, refracted by Pliny’s Natural history, that tradition in Cosmas is Greek: among Cosmas’ sources
+139 tous vuv XocAScaous kocAouhevous (144): exotic place-names are ‘unscrambled’ through identifica- tion with better known localities. 40
+1. 129, cf. 7*369; H-68, 152; 12.57. On this point we might compare Pliny’s apologetic tone in mentioning the ‘strange names’ {barbarae appellationes) of foreign peoples, in this case of Hither Spain
+(3.29); the north-east Adriatic coast produces ‘a few names of people that merit or allow repetition’ (populorum pauca ejfatu digna autfacilia nomina, 3.139).
+Empire 237
+are Ephorus and other classical writers, but these are far outweighed by
+biblical texts.'41 In keeping with Nestorian exegesis, Cosmas’ world was in the shape of
+square building, representing Moses’ tabernacle of Genesis 10. He strives in his work to refute both the astronomy of Claudius Ptolemy and contemporary Christian Aristotelian thought, as represented by John Philoponus in the Three Chapters controversy;'42 in his arguments he favours literal acceptance of scripture, and quotes profusely from both Testaments throughout
+the work. In particular, Cosmas attacks views about the sphericity of the
+earth and the existence of Antipodes (esp. book 1). As much as Cosmas’
+worldview differed from, say, Orosius’ or Isidore’s, all three share a debt to Jewish cosmology.'43 Thus, for example, when Cosmas in his second book offers his own to Aristotelian and Ptolemaic geography we return to the by now familiar first principles ofJudaeo-Christian geography. From his exegesis of the Table of
+Nations, the following section is relevant to the east: The sons ofShem, Elam andAshur {Gen. 10:21), that is the Elamites and Assyrians and remaining nations, and as many of these as were spread far and wide over Asia and the East - the nations of the Persians, Huns, Baktrians, Indians, onwards to the ocean. (2. 27)
+144 The phrasing of the end of the extracts shows that the list of regions listed
+is not exclusive. Nonetheless, India marks the ends of the (inhabited) earth. Yet Cosmas’ sources demonstrably include not only biblical but also polytheist works. Such is the nature of his sources, as we can now imply them from his text, that he has been characterised by his most recent
+editor as a kind of low- to middlebrow autodidact: such is his watered- down coverage of scientific topics.'45 Book 12, which is not found in all the manuscripts, stands out also in the extent of its similarity of content and
+language to Hellenistic and early imperial texts such as those of Berossus, Manetho and Josephus. 146 Any implications that might be drawn from this
+141 Ephorus (2.79-80) and Hyperides (quoted at 5.26) are referred to in detail, whereas others such as Homer (12.9) and Pytheas of Marseilles (2.80) are referred to only in a very general way.
+142 Philoponus, On creation 3.9 explicitly claims that Cosmas followed Theodore of Mopsuestia in interpreting the scriptures.
+143 See further M. V. Anastos, ‘The Alexandrian origin of the Christian Topography of Cosmas Indicopleustes’, DOP 3 (1946), 73-80; Kunio Kitamura, ‘Cosmas Indicopleust£s et la figure de la terre’, in Moist Geographer ed. Desreumaux and Schmidt, pp. 79—98.
+144 uioi 8e Iqn, EAcxla kcu ’Aaoup, touteotiv EAaiiiTas Kai ’Aauplous, Kai Ta Aoitra e6vt| Kai ocra
+e£ cxutcov ETTE^ETdOTjaav egos ’Aalas Kai etti dvaToAfiv, FlEpacov, Ouvvcov, Bcncrpcov, ’IvBcov egos tou "OOkeocvoO.
+145 ‘Cosmas repr£sente la science abitardie qui caracterise certains milieux chr£tiens et paiens de la fin de l’antiquit£’ (Wolska, Topographie chretienne, p. 16).
+146 Wolska, Topographie chretienne, p. 57.
+238 Contexts ofa discourse about his intended audience must take into account that he aims the main
+thrust of his attack at those Christians who have taken pagan beliefs on
+board, and no doubt we must understand this group to encompass a wide
+range of learning: not only the likes ofJohn Philoponus but also those less learned. A few words might be said about Cosmas’ conception of the world in purely geographical terms. Paradise lies to the east: before the flood it was
+inhabited by humans (2.78-79). He locates the river Phison of Genesis in India, though refusing to choose between the Indus and the Ganges: Of these [rivers originating in Paradise] the Phison is the India river, which some
+call Indus or Ganges. It flows down from regions in the interior, and flows by many
+mouths into the Indian Sea. (2.81) 147
+It is interesting to note that at this very point Cosmas proceeds to compare
+the Phison with the Nile; and then to describe the river Gihon as flowing through Ethiopia. 148 This rapid code-switching vividly shows Cosmas’ multiple debts: to Greek learning, however indirectly gleaned, and to scripture. As such, it may be regarded as one of the many, often conflicting attempts of late-antique Christians to engender a new paideia that they could call their own. One of the main targets of Cosmas’ polemic is the notion of the
+antipodes. This he attacks by ridiculing the idea that people walk upside down.149 In mentioning Taprobane, India and Ethiopia, together with their
+flora and fauna and even to some extent their peoples, he comes to those
+regions that are generally described as antipodean in the Hellenistic or
+Plinian tradition of ethnography. A few humans are mentioned in these accounts, e.g. 11.11. On no occasion do we encounter in Cosmas the monstrous races so familiar in the Plinian tradition. In mentioning what he
+147 6 MEV cp£iCTct>v ev -rrj 'IvSiK-rj X“P<?, ov KaAouaf tives 'Iv6ov f| rdyytiv, ek twv ptaoydcov ttou
+KctTEPX°PEU°S> ttoAXoS EKpoias Eyo iv to 'IvSikw TrsXdyEi.
+It is characteristic of Cosmas Christian paideia that this passage comes immediately after an
+appeal to the authority of the pagan writers, Ephorus, Pytheas of Marseilles and Xenophanes of Colophon, who are cited because they supposedly accord with holy scripture (i.e. in supposedly opposing the idea of the earths sphericity): rat TauTa ptv oi e(;co0ev ou|j(|>covoOvtes -rrj 0Eia F pa<)>ij euploKovTai sip-praTes.
+148 The roughly contemporary version of the Table of Nations, by the Byzantine chronicler John
+Malalas, makes explicit mention of India: ‘The tribe of Shem took as the length of its territory the land from Persia and Bactria as far as India and, as for the breadth, as far as Rhinokourouroi, that
+is, from the East as far as the region of the South, including Syria and Media and the river called the Euphrates’ 1.6 (ch. 10 Dindorf) tr. Jeffreys, Jeffreys and Scott (Melbourne: Australian Association
+for Byzantine Studies, 1986), p. 5. 145 The term ‘antipodes’ implies strict symmetry across the equatorial plain, a one-to-one correspon- dence of north and south, and is thus used by Eratosthenes; on the other hand ‘antichthones’ assumes asymmetry and dissymmetry.
+Empire 239
+has seen on his own travels, he is making India and Taprobane seem more
+accessible to travellers from the Roman world. In the process he might
+be emphasising that the subcontinent was ready to receive missionaries. Despite the autobiographic element in the work, there is no hint of danger
+in travelling to and in India. 150 Autobiography is indeed one of the unusual features of the Christian topography, and one that deserves special consideration. Since so much
+stigma was attached to the profession of trading, in the classical period
+at least,’
+51 it comes as something of a surprise that Cosmas so confidently
+identifies himself as a trader. This he does explicitly at 2.54 and 56,
+152 and
+implicitly at several points when he speaks of his own travels. Not only do we hear of Cosmas the trader but also of other traders, Roman and Persian; however, no Indian traders are explicitly mentioned. What is more, in describing the natural historical details ofbook 11, he evaluates almost every item against his own experience. Thus, for example, in discussing individual animals in turn, he mentions that he has seen a giraffe, a rhinoceros (both dead and alive). Ofthe hog-deer ( taurelaphos), he says bluntly, in a variation on the theme of autopsy, that he has ‘both seen and eaten it’.’ 53 On the other hand, he has not seen a unicorn; nor a hippopotamus, though he
+has seen (and in fact sold) some of its large teeth (11.9). These two features of first-person narration invite comparison with a work in which there is no authority of books: Periplus ofthe Erythraean Sea, though of course the
+earlier work lacks Cosmas’ insistent polemical edge. There is more than one source of authority implicit within the Christian
+topography, both his own experience of the present time, complete with
+autopsy,’54 and that of the book - the book, one might say from Cosmas’
+perspective, namely the Old and New Testaments. While he does mention
+Christian missions to the Indian subcontinent, he freely admits that they
+150 The Periplus on the other hand has much to say about the practical dangers of travelling, e.g., ch. 20 on the Arabian Red Sea coastline and ch. 40 on the Indian. The dangers of travel, at the hands of bandits, is acknowledged in Roman law as a possible cause of death, e.g., Digest 13.6.5.4: Ray Laurence, ‘Afterword: travel and empire’, in Travel and geography in the Roman empire, ed. Colin Adams and Ray Laurence (London: Routledge, 2001), pp. 167-76 at 172.
+151 Andrea Giardina, ‘The merchant’, in The Romans, ed. Andrea Giardina, tr. Lydia G. Cochrane
+(University of Chicago Press, 1993), pp. 245-71; and cf. Chapter 4, section II above.
+152 He identifies himself as a business traveller when referring to his companion as aAAov eva irpay- naTEUTpv (2.56). Note also the use of the first person in the description of Adulis: ev0a Kai tt)v EUTTOpiav noiouiJeOcx ol caro ’AAE^avSpEias Kai onto TAa enTTopEuopievoi (2.54).
+153 tov 8e xoipsAa<!>ov Kai eT5ov Kai E<j>ayov.
+154 By the same token there is a vivid sense of place, namely Alexandria, as Cosmas’ base. This is clearest in the first prologue to the work; when he says that he has sold hippopotamus’ teeth ‘here’ (EVTaOfia), we may well understand him to mean Alexandria.
+240 Contexts ofa discourse have not been entirely successful. This seems to be a function of his commercial perspective, which is based on a close-up view of the subcontinent and its social relations. The animals he describes and draws owe something to the marvel tra- dition, but are much closer than Pliny’s Natural history to identifiable non-mythical animals. Thus the first chapters of book n are devoted to a variety of Indian fauna and flora: the rhinoceros, buffalo ( taurelaphos), giraffe (kamelopardalis) , wild cattle (agriobous), musk ( moskhos), unicorn
+{monokeros), wild boar ( khoirelaphos), hippopotamus (all 11.1-9); pepper and coconut {piperea and karua indika, 10.10); the seal, dolphin and turtle {phoke, delphinos and khelone). These animals may be unusual from
+a Mediterranean perspective, but they are not completely outlandish in the way that invokes, say, Ctesias’ mantichores. 155 On the other hand, the
+description of humans owes nothing to the marvel tradition: where they
+are mentioned it is with no sense of the "marvellous people’ but with some
+attention to social organisation. The story of the merchant Sopatrus reflects well on the king of Taprobane, for he is able to distinguish the equitably minted Roman coins from the dishonest Persian ones.'56 The story implies an openness and accessibility of that land, and conversely its intelligibility to the Roman world. Most importantly, there is an awareness of Christian missionary activity. That activity may not always be successful, by Cosmas’ own admission, but it is nonetheless in evidence. Taprobane has a church,
+clergy and its band of the faithful; 157 but Cosmas is unsure whether the same can be said for regions beyond it. Given the humanising description of the local inhabitants, it thus seems that Cosmas’ description of the sub- continent is imbued with the implicit idea of Christian mission. If this is true, it would not be surprising that Cosmas describes Taprobane in terms
+that emphasise its comprehensibility over its strangeness.
+III. THE RHETORICAL BACKGROUND: IMPERIAL PANEGYRIC
+The discussion above has illustrated two related phenomena: geographical
+generalisation by which a mental category of ‘the east’ is created; and the
+false consciousness of imperial rhetoric in which empire is presented as coterminous with the edges of the earth. In seeking to understand the link
+It is telling that the least realistically imaginable animal described gets the careful comment that Cosmas has not seen a specimen: the povoKEpcos, which we might translate as unicorn.
+5 19. In a detailed study of this episode, F. F. Schwarz presents Sopatrus as Cosmas’ source: ‘Kosmas und Sielediba’, Ziva Antika 25 (1975), 469—90.
+157 £KKAr|(Jia, xAripiKoi, ttiotoi, 3.65.
+Empire 241 between these, we should turn to the extravagances of imperial panegyric.
+In particular, the ‘amplifications’ described by Menander Rhetor give a compelling reason for the resulting vagueness about the (eastern) edges of
+the earth. 158 The principle can be illustrated with regard to India from a considerable range of panegyrics. Thus the anonymous panegyric of 297/8 mentions fear inspired by the emperor Constantius I among Aethiopians and Indians
+:
+May the Nile trophies under which the Ethiopian and the Indian trembled pardon
+me. May the recent destruction of the Carpi likewise be satisfied with a mention
+of its glory. (8(5]. 5.2)
+159 The speech in fact celebrates Constantius’ victory over the Britons in 297. Though India is the farthest point from Britain, it may have special rele- vance here in view of his keenness to imitate Alexander.160 At Trier in 310 the anonymous panegyrist had this to say in honour of
+Constantine:
+Beneficent gods, why is it that new divinities, destined to be worshipped the whole
+world over, always come from some very remote part of the earth? Thus Mercury
+from the river Nile, whose source is unknown, and Liber [Bacchus] from the land of the Indians, who are nearly privy to the sunrise, have shown themselves to mankind as gods manifest. (6(7] .9.4)
+161 The panegyrist goes on to claim, by way of an answer to his question here
+posed, that regions adjoining heaven are holier than Mediterranean ones;
+‘it is closer for an emperor to be sent by the gods from where the land
+ends’.
+162
+158 au^pCTEis, 368.22. On this kind ofphenomenon, called amplificatio in Latin, see Marincola, Authority and tradition , pp. 35-7, as applied to the histories of individual rulers.
+159 dent ueniam trophaea Niliaca sub quihus Aethiops et Indus intremuit. contenta sit uoce gbriae suae etiam proxima ilia ruina Carporum.
+C. E. V. Nixon and Barbara Saylor Rodgers, Inpraise oflater Roman emperors (Berkeley: University ofCalifornia Press, 1996), pp. 115-16 ad loc., discuss the question ofwhat this might mean: if the ‘Nile
+trophies’ indeed refer to the suppression of the revolt in Busiris and Coptos, then the Aithiopian and Indian’ may denote the peoples of southern Egypt. Even if this is so, it does not diminish the
+evocative force of ‘Indian’ as an expression of the broad spread of imperial power.
+160 Lane Fox, ‘Itinerary of Alexander’.
+161 di boni, quod hoc est quod semper ex aliquo supremo fine mundi noua deum numina uniuerso orbi colenda descendant? sic Mercurius a Nilo, cuiusfluminis origo nescitur, sic Liber ab Indis prope consciis
+solis orientis deos se gentibus ostendere praesentes. For an analysis of geographical space in the panegyrics, and of this passage in particular, see Nicola
+Baglivi, ‘Osservazioni su paneg. \hl(6).9’, Orpheus n.s. 7 (1986), 329—37, esp. 332.
+162 Sacratiora sunt profecto mediterraneis loca uicina caelo, et inde propius a dis mittitur imperator ubi
+terra finitur. The phrase describing India as ‘almost privy to the sunrise is matched by 10(2). 2.1, where the western side of the Ocean, near the river Ebro, is conscio occidui solis (‘witness of the
+242 Contexts ofa discourse
+Later, when Pacatus addresses Theodosius in 389, we sense some slippage between the descriptive and the normative: the question of just how far Roman power has spread is complicated by the supposed extent of the emperor’s own fame.
+For your guidance, Emperor, has frightened not only those peoples divided from
+our world by swathes of forest or rivers or mountains, but those which Nature has
+separated, made inaccessible by perpetual heat, set apart by unending winter, or cut
+off by intervening seas. The Indian is not protected by Ocean, nor the man from
+Bosphorus by the cold, nor the Arab by the equatorial sun. Your power reaches
+places that the name of Rome had hardly reached before. (2(12]. 22.2) 163 Despite their enormous distance, these peoples have heard the name of Rome, and live under the immediate shadow of its political might. Even
+if Roman power has not reached India and other distant corners in the formal sense of governance, the emperor is known and feared there. In this case, India stands for areas under Roman influence though not
+administrative control, and this respect reflects on the emperor’s personal charisma. When Hercules and Dionysus are invoked by way of comparison/64 the emperor’s wide geographic range is graphically illustrated. Artists can forget
+their depictions of those gods’ triumphs, says Pacatus, for his panegyric
+provides sufficient material for artists and historians/65 Artists, to whom favourable fate has granted the power to give fame to events, you
+too should despise those cliched themes of ancient tales, the labours of Hercules and the Indian triumphs of Bacchus, and the wars with snake-footed monsters.
+( 2 [i 2]. 44. 5) 166 To see the phenomenon of generalising about India within the rhetorical
+tradition, we must turn to the treatises attributed to Menander Rhetor, to
+setting sun’). Again a god’s wide geographical range provides the material for praising an emperor, and in this case Hercules is invoked in honour of Maximian.
+163 tua enim, Impemtor, auspicia non hae tantum gentes tremunt quas ab orbe nostro siluarum interualla uel flumina montesue distinguunt, sed quas aeternis ardoribus inaccessas aut continua hieme separatas aut interfusis aequoribus abiunctas Natura disterminat. non Oceano Indus, non frigore Bosphoranus, non Arabs medio sole securus est; quo uix peruenerat nomen ante Romanum, accedit imperium. This passage is discussed by Asche, Weltherrschaftsidee, pp. n-i8.
+164 Elsewhere the labours of Hercules are celebrated, and at 10(2) .4.2-4 Pacatus develops the double comparison of ‘divine’ assistance, suggesting that Maximian is to Diocletian as Hercules is to Jove.
+In fact, Hercules recurs in monuments and coins of the Tetrarchic period, often in connection with
+the gigantomachy. Dionysus Indian conquest was also open to explicitly negative interpretation,
+as something morally degenerate: Prudent. C. Symm. 122-8.
+3 For an historical evaluation of panegyric, Sabine MacCormack, ‘Latin prose panegyrics’, in Empire and aftermath: Silver Latin, ed. T. A. Dorey (London: Routledge and Kegan Paul, 1975), vol. II, pp. 143—205, and MacCormack, Art and ceremony, pp. 1—14.
+166 uos quoque quibus secunda sors cessit dare famam rebus, artifices, uulgata ilia ueterum fabularum
+argumenta despicite, Herculeos labores et Indicos Liberi triumphos et anguipedum bella monstrorum.
+Empire 243
+the sections devoted to the epibaterios logos, or speech on arrival (387.17—28). The author speaks of thesis or praising the ‘position’ of a country:
+our fathers did not rule over a small area like the Peloponnese, but reigned over Lydia and then subdued Caria and proceeded to conquer all the east; Egyptians, Blemmyes and the tribes of the Erembi claimed they were our subjects - they who
+in recent times appear to have been obedient to us, in the alliances and assemblies,
+(ref. in Menander Rhet.)‘67 There are textual problems in and around this passage.
+168 But, for our
+purposes, there is no mistaking a central point: the ends of the earth could
+be used in praising a ruler with whom it might be associated, at whatever
+stretch of the imagination. In the passage quoted it should be noted that Menander moves between particular lands (such as Lydia, Caria and Egypt) and a generalising idea of ‘the entire east’: Tqv ecotav cnracrav (387.24). In the context of the work/69 we can safely assume that ‘the east’ here is the
+eastern Mediterranean. Among his plentiful verbal conjurings, the panegyrist here exhibits a special sleight of hand, which might be analysed as follows in a slow- motion replay: in former times the father of the ruler conquered various
+‘eastern people’ (an implicit vagueness here being important); those eastern people have sent ambassadors to the ruler in the present; therefore we in the
+present have dominion over people from the east. This paraphrase is clearly exaggerated, but an important principle emerges here. While we should
+bear in mind that the panegyrics are very much rooted in the occasion of
+their initial delivery/70 we have seen a theme that is common to a range of them: of a generalised east, and of India specifically, bringing glory
+to the emperor, whether by virtue of the supposed extent of his rule, or by comparison with the ever-recurrent Hercules and Dionysus. This we may regard as an important link, chronologically at the very least, between
+the Roman Empire of Augustus and Trajan and that of Constantine and
+Theodosius.
+167 oi iraTEpes f^pcov i*jp£av . . . ou8e TtEpiyEypappEvcov tottcov, KaOcarEp f) nEAoirovvriCTOs, aAA’ fjp^av pev Au8ias, ETrf|p£av 5e Kaplas, Kai TTpofiAQov tt^v Icbiav atraaav kcctaorp£<f>o p£voi, Kai cbpoAoyTiCTav f^piv SouAeueiv Alyutrnoi Kai BAeppues Kai ’EpEpp&v yEVT), eittep auToi Kai
+ev toIs teAeutouois xpovoiS (|>cavovTai Ottokouovtes fjpiv ev tocis (juppayiais Kai KAfiasaiv.
+168 See D. A. Russell and N. G. Wilson (eds.), Menander Rhetor (Oxford: Clarendon, 1981), pp. 291-3 ad loc.
+169 On the authorship of the work(s) attributed to Menander Rhetor, as well as their social milieu, see Russell and Wilson, Menander, pp. xi-xii.
+170 MacCormack, ‘Latin prose panegyrics’, p. 151. In this regard Robin Seager, ‘Some imperial virtues in the Latin prose panegyrics: the demands of propaganda and the dynamics of literary composition , PLLS 4 (1983), 129-66, leaves little room to perceive differences between the panegyrics, useful as the article may be as a descriptive catalogue of topoi.
+244 Contexts ofa discourse
+IV. ORBIS TERRARUM URBI SPECTANDUS
+:
+THE MECHANICS
+OF REPRESENTATION We have already seen wordplay on urbs/orbis by Ovid and others: now
+the same pun used by Pliny in discussing Agrippa’s map (3.17) alerts us
+to the issue of reception.171 The central question for us to consider in
+this final section of the chapter is by what means India was represented. Given the centrality of maps in modern conceptions of space, it is tempting to retroject the visual element onto Greco-Roman antiquity, but it
+is not clear that this is justified. What is more, we are faced with real questions about the reconstruction of Augustan ‘maps’: any attempt to reconstruct them, as in the case of Bunbury, must rely on a combination of literary evidence and on retrojection from later medieval maps. In
+contrast to earlier studies, Kai Brodersen has recently argued for the pre- dominance of written over visual representations of space in the Roman
+empire. By this reckoning, even when images do exist, they tend to be
+less important afterthoughts, serving more of a decorative than a utilitar- ian function. 172 Of greater practical utility, and indeed significance, were
+itineraries, which more closely reflect actual routes, and make it possible
+for others to replicate particular journeys. Inscriptions play a vital role here.173 Such a view is a useful corrective to the work of earlier scholars, who assumed similarities between ancient and contemporary uses and cat- egories of maps. Yet it may be overstated: Brodersen’s definition of scale, a key component for a map as opposed to a cartogram, seems needlessly
+stringent, with the result that no candidate for a Roman scale-map can pass muster.174
+171 For the pun, see section 1 . 2 above. In the case of Pliny the reading is in some doubt, it must be
+admitted, since urbi was printed by old editions up to Harduin’s Paris edition of 1685; Detlefsen, followed by Jan-Mayhoff, preferred the rather flat reading, orbi. The conjecture does however
+receive the blessing of the TLL, which adduces 3.67 from the same book of the HNas a comparable
+case of paronomasia (vol. IX-2.9t6.24).
+172 Brodersen, Terra cognita, cf. Bunbury, History ofancientgeography, and now Carey, Pliny's catalogue, pp. 61-74, tracing links between Pliny’s text and Augustan monuments.
+175 Janni, Mappa, is fundamental in its emphasis on itineraries, an approach recently reaffirmed by
+C. R. Whittaker, 'Mental maps and frontiers: seeing like a Roman’, reprinted in his Rome and
+its frontiers, pp. 63-87 (orig. 2002). Against this, R. J. A. Talbert has argued for the importance
+of provinces as units: ‘Rome’s provinces as framework for world-view’, in Roman rule and civic
+life: regional perspectives (first to fourth centuries ad) ed. L.de Ligt, A. Hemelrijk and H. W. Singor (Amsterdam: Gieben, 2004), pp. 21-37. See also Benet Salway, ‘Travel, itineraria and tabellaria’, in Travel andgeography, ed. Adams and Laurence (2001), pp. 22-66.
+174 Brodersen, ‘The presentation of geographical knowledge for travel and transport in the Roman
+world: itineraria non tantum adnotata sed etiam picta', in Travel and geography, ed. Adams and
+Laurence (2001), pp. 7-21; and his ‘Neue Entdeckungen zu antiken Karten’, Gymnasium 108 (2001), 137-48.
+Empire 2-45 One reason this question has not been easy to resolve is the elusive nature of the ‘map’ of Agrippa, by any account a key instance of map-mindedness
+in Augustan Rome. One reason this question has been difficult to adjudicate
+is that the term ‘map’ has been made to bear too much weight, combining
+utility with symbolism. In the practice of Romans, the variety of terms used suggests a variety of ways in which space could be represented, and
+a variety of uses for those representations. It is therefore with due caution about undue assumptions about ancient ‘maps’ that we should proceed to consider some of the visual means by which India was represented. An obvious place to start is the extensive Geography of Claudius Ptolemy, which has with justification been viewed as the culmination of the Greek
+scientific-mathematical tradition of cartography. The Geography may be
+regarded as a ‘how-to’ text, intended to inform those wishing to make
+their own maps of particular areas. It is unclear whether or not the work
+itself included its own diagrams.175 The relevance of Cosmas’ Christian topography is puzzling on this very question: that text itself makes ref- erence to illustrations, and these have been reconstructed on the basis of three manuscripts of the ninth to eleventh centuries.176
+It is unclear
+to what extent Ptolemy’s text can be compared to Cosmas’ in this respect. The issue of Roman map-mindedness now gains intriguing if frustrating new evidence in the form of a papyrus from Antaiopolis in Upper Egypt and dated to the first century bc.‘77 Its drawn map, sharing the papyrus with a geographic text of Artemidorus of Ephesus (fl. ioo bc) and various
+sketches of animals, might constitute a precedent for the Peutinger map,
+particularly if its zig-zag lines represent routes. This possibility remains somewhat speculative, given that the map on the papyrus (thus far inaccessible and not yet fully published) seems to be incomplete. Nonetheless,
+the implications of the map for the present study are considerable since Artemidorus’ geographical work is known to have covered not only Spain but the farthest extreme, Taprobane (e.g., Plin. HN7.30).
+178
+175 O. A. W. Dilke, ‘The culmination of Greek cartography in Ptolemy’ , in History of cartography
+,
+ed. Harley and Woodward, vol. I, pp. 189-90. For bibliography on this question, see Dilke, Greek and Roman maps (Ithaca: Cornell University Press, 1985), p. 207 n. 28, updated by Stuckelberger, ‘Ptolemy’.
+176 Huber, Heilige Berge, pp. 109-12.
+177 C. Gallazzi and B. Kramer, ‘Artemidor im ZeichensaaT , Archivfur Papyrusforschung 44 (1998), 189-
+208, and B. Kramer, ‘The earliest known map of Spain (?) and the geography of Artemidorus of
+Ephesus on papyrus’, Imago Mundi 53 (2001), 115-20.
+178 Bunbury, History ofancient geography, pp. 61—8; Weerakkody, Taprobane
+,
+pp. 223—4; Geus, Eratosthenes, pp. 286-7.
+246 Contexts ofa discourse Ofthe visual representations presented in Chapter 3 above, two different kinds point to an imperial context: scenes of the triumph of Dionysus, on
+the Baltimore sarcophagus; and the late-antique personifications of India of the Piazza Armerina mosaic and the silver plate. The personifications aligned India with provinces ruled by the Romans, even though India never came close to political subjection to Rome. The provincial paradigm for representing India (Chapter 3, section II. 2 above) needs emphasis here for
+its obvious imperial framework. On what scale of geographical conception did India feature in Roman
+thinking? A tripartite scheme is usefully outlined by Brodersen, and let us
+briefly apply it to India: world maps, regional itineraria and local landsurveying. Of these, there can be no doubt that India registered on the
+largest of these scales, as we saw in connection with the Greek scientific tra- dition of geography in Chapter 1 above. On the smallest scale, we have no
+evidence for cadastral surveys of the subcontinent conducted by Romans in the way they were conducted for settlements ofthe Mediterranean world.179 On the other hand, it is less clear whether India fitted into the mid-scale of geography. Strabo’s Geography and Pliny’s Natural history even more so
+exhibit a confluence of different kinds of topographic information, and
+resist simplifying attempts to pigeon-hole them. To take another key witness, the Peutinger map allows no easy assumptions about military use.
+l8° We might assume a priori that a map of such a scale was useful in a military context; yet military establishments such as forts account for less of
+the actual place-markings in India than they do to its west. Such practical considerations may well be subordinated to the overall impression created by public display. Recent scholarship has pointed to the complexity and
+sophistication of the map, and we might aptly see in it the combining of
+various kinds of topographic information. A striking feature of India in the Peutinger map is its profusion of roads, some along the coast, all of which suggest much more land travel than the Periplus would lead us to expect. We can hardly imagine that these are Roman-built roads; yet they
+are presented within the symbolic frame of universal Roman power.
+181 The
+Indian roads, complete with distances, and the temple ofAugustus close to Muziris are a means of naturalising the subcontinent as part of the extended Mediterranean world, and thus by implication subject to Roman power.
+179 Brian Campbell, The writings ofthe Roman Land surveyors: introduction, text, translation and commentary to the Agrimensores (London: Society for the Promoti

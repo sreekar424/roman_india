@@ -1,0 +1,1067 @@
+CHAPTER 4 Commodities
+At some point in the micros ad, the poet Statius laments the death of
+Priscilla, wife of the emperor Domitian’s courtier Abascantus. He praises her morals by showing her imperviousness to the delights of the east: Were you to offer her Babylonian riches or heavy Lydian treasure or alluring wealth ofIndians, Chinese or Arabs, she would have preferred to die unsullied and in chaste
+poverty, to sacrifice her life so as to save her honour. (Silvae 5.1.60—63)
+1 As this passage reveals, the moral high ground was to be gained by repudiating eastern luxuries, whether they came from Babylonia, Lydia, India, China or Arabia. Statius is adapting a familiar trope: implicit in his rhetoric ofpraise for Priscilla is the conspicuousness of that repudiation, what might
+be called an inverted case offare lo splendido. For all its cliched nature, the
+extract is especially interesting for three related reasons. Firstly, it conflates various Asian lands, from Lydia in Asia Minor (the west coast of modern Turkey) to China, and thus informs us about mental maps of Statius’ world. This tendency is paralleled in other passages and deserves our close attention. Secondly, it suggests that specific goods may be associated with
+specific places: thus ‘Lydian treasure’, much as in other texts silk is asso- ciated with China, or pepper with India. To take another example, the
+elder Pliny explicitly states that perfumes are frequently named from their countries of origin (13.4), as he goes on to illustrate in detail. Thirdly, the
+extract points to the close embrace of economic and cultural aspects of Roman civilisation. It raises the question, can and should those aspects be
+kept apart? This chapter will explore some of the problems to arise in the passage: in
+particular, it will interrogate commodities and the discourse about them, as one way of examining what India meant to ancient Romans. As such, this
+is an essay in cognitive geography much more than it is an account of trade
+1 si Babylonos opes, Lydae si pondera gazae/Indorumque dares Serumque Arabumque potentes/diuitias, mallet cum paupertate pudica! intemerata mori uitamque rependerefamae. 147
+
+Commodities 149 between South Asia and the Mediterranean world.1 Focusing on the period of roughly the late first century bc to the sixth century ad we shall trace the consumption of Indian goods, or rather, of supposedly Indian goods in the Roman world. If, as the passage from Statius suggests, Romans tended
+to identify goods with their supposed places of origin, the trend seems
+particularly strong in the case of India. On this model, we shall have to inquire how distinctive its goods were, and hence how distinctive a place
+it proves to be by implication. More abstractly, by what processes was it possible for Statius to group together those five lands into a generalised, undifferentiated east? It is already clear that these questions will require us to scrutinise the notion of the exotic as applied by Romans to India. Throughout this, we are dealing with an India that slips and slides on the one hand between the physical land that can today be visited or found on a modern map, and the wonderland of ancient (and modern) thought.
+Ultimately, through commodities linked with it, it is India’s place in the
+orbis terrarum that we seek to outline more exactly.
+I. OBJECTS OF EXCHANGE AND THE MATERIALITY
+OF DISTANCE
+The emperor Justinian’s Digest, the synthetic work of Roman law promulgated in ad 533, contains a passage which offers the following list of ‘articles subject to duty’ upon entry into Alexandria: Cinnamon, long pepper, white pepper, folium pentasphaerum (unidentified spice), barbary leaf, putchuk ( costum and costamomum), spikenard, Turian cassia, cassia bark, myrrh, amomum, ginger, cinnamon leaf, aroma Indicum (unspecified Indian spice), galbanum, asafoetida, aloe-wood, barberry, astragalus, Arabian onyx, cardamom, cinnamon bark, fine linen, Babylonian furs, Parthian furs, ivory, Indian iron, raw cotton, lapis universus (unspecified precious stone), pearls, sar- donyx, bloodstones, hyacinthus (precious stone, perhaps aquamarine), emeralds, diamonds, lapis lazuli, turquoise, beryls, tortoise-stone, Indian or Assyrian drugs, raw silk, garments made completely or partly from silk, painted hangings, fine linen
+fabrics, silk yarn, Indian eunuchs, lions and lionesses, leopards, panthers, purple
+cloth, cloth woven from sheep’s wool, orchil (rouge), Indian hair. (39.4.16.7) This list of fifty-four items is attributed to Aelius Marcianus, a jurist of
+the early third century; the very fact that it is quoted suggests that it still
+2 More narrowly economic aspects are now covered by Ball, Rome in the east, pp. 123-33; Gary K. Young,
+Rome’s eastern trade: international commerce and imperialpolicy, 31 bc- ad 303 (London: Routledge,
+2001), pp. 28-32 and passim; Whittaker, Rome and itsfrontiers, pp. 163-80.
+150 Contexts ofa discourse had some relevance in the sixth century.3 Whereas some of the objects are specified as ‘Indian’, not all of these objects will have come from South
+Asia, by any means. Most will have come from the greater Red Sea area, including the eastern Mediterranean, the Nile Valley and Arabian peninsula. Nonetheless, the list does give an idea of the kinds of luxury objects traded via one of the Roman world’s most important entrepots, Alexandria;
+it also indicates the kinds of items subjected to taxation on the part of the
+state. If we wish to understand both the denotative and the connotative senses of India on the strength of objects linked with it, we should begin with the
+objects themselves, many of them emerging in the list quoted above. Let
+us start in concrete fashion by considering those objects which we know to have come from South Asia, as well as those which ancient people thought
+to have originated there. Drawing substantially on archaeology, I focus
+here on objects found within the Mediterranean world itself, especially in
+Italy, rather than those found at intermediary points such as the Red Sea
+coast (see section III. 2 below). Further, the rich material and documentary
+remains from ancient Bactria will be bracketed off from the present inquiry
+as tangential to the question at hand.4 As will become clear in the course of these pages, there are strong reasons to begin in a minimalistic fashion and only then to broaden the focus, rather than to take too broad a view from the start.
+1. 1. Spices and aromatics
+Spices are a major kind ofcommodity to emerge from Marcian’s list, includ- ing pepper, ginger and other unidentified items, which may have come ulti- mately from India. These bring us not only to a problem of identification, but also to one of definition. In common parlance, ‘spices’ today typically
+refer to the products of tropical trees, and are typically used as condiments
+to fine-tune the taste of food. If we turn to the Greco-Roman world, nei- ther is the case, or at least not predominantly so. First, as the list itself shows, there is considerable overlap in use between tropical spices in our
+sense, such as pepper and cinnamon, and others which do not necessarily come from tropical climates, e.g., terebinth, rue, cumin or saffron. 5 What is
+3 A. H. M. Jones, ‘The Asian trade in antiquity’, in The Roman economy: studies in ancient economic and administrative history (Oxford: Blackwell, 1974), pp. 140-50, at 140.
+4 Cf. Chapter 1, section II. 3 above.
+5 These are mentioned in Roman texts, and came respectively from Syria, Greece, Egypt and Cilicia:
+J. Innis Miller, The spice trade ofthe Roman empire (Oxford: Clarendon, 1969), pp. no—18.
+Commodities 151 more, we see other vegetable products that we would call herbs being used
+in many of the same contexts. Secondly, the ancient use of spices was by no
+means limited to cuisine, especially if we are to give them their inclusive, ancient sense. This is not the place for a history of spices in antiquity, but
+nonetheless several familiar points need to be raised as we stick closely to the ancient uses of spices. 6 Sources for the existence and use of spices in the Mediterranean are
+richly varied, and texts such as this are only one kind. Most spectacularly, shipwrecks from the Bronze Age show that pepper was being imported
+into the Mediterranean as early as the second millennium bc, probably by the Phoenicians originally. Greek literary texts beginning with Homer
+reveal the use of aromatics in offering sacrifices to the gods.7 The earliest Greek works to mention pepper are the gynaecological treatises attributed
+to Hippocrates: at one point the author glosses the spice as an ‘Indian drug’ {On women’s diseases 1.81). Its typical use in these medical texts is for disorders of the eyes, mixed into an ointment. Theophrastus’ work On
+odours makes it clear that pepper was among the spices known and used
+in the later fourth/early third centuries. Though he uses the loanword in naming it (peperi), he makes no explicit mention of its Indian origin, in which respect he differs from the Hippocratic text. Theophrastus’ treatise
+is in fact central to any analysis of the social meaning of spices in the ancient world: it makes clear that they were used for perfume-powders
+{aromata), cosmetics, incense {thumiamatd), and antidotes to poison
+(itheriaca). But it is in three very different texts of the first century ad that we have
+the most extensive evidence for the use of spices. These begin with the army physician Dioscorides, whose Materia medica {c. ad 65), written in Greek, illustrates the pharmacological uses. Secondly, Apicius, who lived under Augustus and Tiberius, composed a series of gourmet recipes: texts continued to be collected around his name until late antiquity. Of 478
+recipes contained in the Apician corpus, almost all require some kind of
+spicing; so did certain preparations of wine. It mentions nine spices which
+6 An important history of spices in Greco-Roman antiquity is Miller s Spice trade, especially the survey of pages 1-26. A problem with the later, more detailed part of the book is that it places too much
+emphasis on the identification of ancient literary references with modern botanical classification (on which, compare section V.2 below). See also Alfred Schmidt, ‘Drogen’, RE suppl. V (1931), pp. 172-82; Andrew Dalby, Sirenfeasts: a history offood andgastronomy in Greece (London: Routledge,
+1996), pp. 137-42 and Dalby, Empire ofpleasures: luxury and indulgence in the Roman world (London:
+Routledge, 2000), pp. 178-200.
+7 Marcel Detienne, The gardens ofAdonis: spices in Greek mythology (Hassocks: Harvester, 1977); Marcel Detienne and Jean-Pierre Vernant, The cuisine ofsacrifice among the Greeks (Chicago: University of Chicago Press, 1989).
+152 Contexts ofa discourse
+likely came from south or south-east Asia, namely pepper, ginger, putchuk
+{costum), folium (nard-leaf?), malabathrum (cinnamon leaves or their oil), spikenard, asafoetida, sesame seed and turmeric; the rest, a much longer
+list, probably came from within the bounds of the empire, or at least from
+less far afield. Pepper is by far the favoured spice, being used even in sweet
+dishes.8 Thirdly, the elder Pliny devotes books 12 and 13 of his Natural
+history to trees, many of which are spice-bearing. Proceeding region by
+region, he categorises spices and aromatics according to their provenance. Thus, whereas Theophrastus speaks in general terms about spices, Pliny
+provides a geography of them, however tentatively; as I shall argue below,
+this difference should be explained with reference to the increased mapmindedness of Pliny’s age.9 It is thus very likely that many of the spices consumed in the Roman
+world came from India: the most eminent case is provided by pepper, both long pepper and black pepper, Piper longum and Piper nigrum, which
+are native to northern and southern India respectively. Beyond pepper, an
+Indian origin is likely also for other spices, such as aloe-wood (Aquilaria
+agallocha, native to the Himalayan region of modern Bhutan) turmeric
+( Curcuma domestica, southeast Asian), and cardamom (Elettaria cardamo- mum, native to Kerala and Tamil Nadu). But in most cases, neither modern
+botany nor ancient texts allow any easy geography ofspices: thus the ginger
+taxed at Alexandria or served at Trimalchio’s dinner-party might come just
+as easily from Java or Thailand as from India, or in fact from a combination
+of those, if transported via the subcontinent.10 It is impossible to make the
+distinction, nor is it necessarily important to do so: what matters, for current purposes, is to establish that such a commodity was known and valued
+in the Roman world.
+In some cases it is not easy to distinguish between spices of Indian origin from those coming from Arabia or east Africa or southeast Asia. Notoriously, cinnamon is a case in point: Herodotus says it came from Dionysus’
+birthplace, by which he might mean India or else a more generalised east
+(3.111). At all events, he discusses it in relation to the Arabs, who are said to have obtained it from the Phoenicians. On the other hand, archaeobotanical evidence shows that it was native to Indonesia and Madagascar, perhaps even before it grew in South Asia. 11
+8 Miller, Spice trade, pp. 6—io. 9 Cf. Nicolet, Space, geography. 10 Miller, Spice trade, pp. 53—7.
+11 Miller’s discussion of this (Spice trade, pp. 153-72), emphasising far-flung commercial links, is suggestive but should be treated with caution. See Marie-Franjois Boussac and Jean-Franfois Salles
+(eds.), A gatewayfrom the eastern Meditteranean to India: the Red Sea in antiquity (Delhi: Manohar,
+2004), esp. the comment of Federico de Romanis, p. 24 n. 6).
+Commodities 153 But one larger point should be emphasised amidst the problems and
+uncertainties here. There is every indication that in Pliny’s time more spices were available in the Mediterranean than ever before, so that his work should
+be thought of as providing much information that will have been new to
+his readers. Quite apart from variety, it seems likely that this period also witnessed the increased culinary use of spices, if the admittedly tendentious evidence of Pliny, Athenaeus and Apicius is taken on board. Rome, the ancient Mediterranean’s consumer city par excellence, had developed an
+appetite for spices by the first century ad.
+It is important to emphasise that the culinary use of spices was by
+no means the earliest or most important in the Greco-Roman world. In addition, it could be used as incense, in the production of perfumes, of
+medicines, or it could be used to flavour wine. In fact, its culinary use as seasoning ( condimentum) was relatively small, perhaps the least of the cate- gories mentioned. The first text specifically to mention these ‘condiments’
+in the modern sense is that of Apicius. In some ways pepper is the most important of the spices. Unlike others,
+it is limited in its origins to India; it has variety within itself, between white, black and long pepper; it enjoyed a wide range of uses, especially in cooking. The late-antique recipe book attributed to Apicius mentions pepper in most
+cases, even for desserts. So valuable was it that attempts would be made to
+‘adulterate’ it by secretly compounding it with dried, ground juniper berries (Pliny 12.26-28) . In fact, it is a standard part ofPliny’s description ofany one
+spice to say that it can be adulterated by some particular substitute; it is fair to conclude that such manipulation was common practice. Archaeological evidence for its domestic use as condiments is provided by pepper shakers found in various parts of Italy.
+12 From some thirteen years after Pliny’s death the city of Rome had its own spice quarter, the horrea piperatoria built by the emperor Domitian
+in ad 92.13 The continuing status of pepper as a luxury item well into late antiquity is underlined by a striking statistic; in ad 408 when the city of Rome was blockaded by the Visigoths under Alaric, the Senate offered him,
+together with 5,000 lb of gold, 30,000 lb of silver and other gifts, no less than 3,000 lb of pepper subject to his withdrawal (Zosimus Historia nova
+5.35-42). Such a huge quantity is hard to square with what would otherwise seem to be declining proportions in this trade.
+12 D. E. Strong, Greek and Roman gold and silver plate (London: Methuen, 1966), pp. 154 and 178-80.
+13 L. J. Richardson, Jr, A new topographical dictionary of ancient Rome (Baltimore: Johns Hopkins
+University Press, 1992), pp. 194-5; M. Piranomonte, ‘Horrea piperatoria’, in LTVR> vol. Ill, pp. 45-6.
+154 Contexts ofa discourse How is the availability of spices conceptualised, more generally? Spices
+are perhaps the commodity that is most open to the process of abstraction. In Pliny’s Natural history the details and mechanics of their provenance are an important topic in their own right; but this is perhaps the exception. On
+the other hand, the Periplus ofthe Erythraean Sea may be closer to popular
+thinking, since quite naturally it views spices by their places of availability, that is, the coastal entrepots of Kerala rather than the hills of Tamil Nadu.
+1. 2. Precious stones The elder Pliny (ad 23-79), discussing precious stones in the thirty-seventh book of his Natural history, tells of several that he associates with India. Among the stones that are explicitly marked as Indian are the diamond,
+emerald, sardonyx, turquoise and onyx, to take merely those also mentioned
+by Marcian. 14 It is significant also that there are many undifferentiated
+references to precious stones from India, for example when the love elegist Propertius mentions the hair of the beloved, ‘which an Indian gemstone
+ties at the crown’ (2.22.10). Curtius Rufus’ History ofAlexander speaks in general terms of Indian rivers running with gold (8.9.18); Alexander, first contemplating the conquest ofIndia, was aware ofstories ofits great wealth: The area [of India] was considered rich, not merely for its gold but also for its precious stones and pearls, and thought to strive more for the luxurious life than
+for grandeur. (8.5-3)
+15 Here Curtius implies that the natural resources of India corrupt the lives of its inhabitants. On the strength of passages such as this, it is tempting
+to include here the pearl in our consideration, though it is not a stone but an animal product. Here Pliny’s treatment stands out for its explicit moralising, but he is not alone in this. The fourth-century text purporting to be Alexander’s letter to his former
+teacher Aristotle speaks at length of the precious stones and metals found
+in India. This text has no historical value for reconstructing Alexander’s
+expedition, but it does tell us much about popular conceptions of India
+in the early fourth century: here India is a wonderland of unfathomable
+wealth, a late Roman Eldorado that was just at or beyond the farthest
+14 A few examples of each will suffice. Diamonds: Plin. HN37.56; Avienus Ora maritima 1320, 1364; Aug. de civ. D. 21.4. Emeralds: Letter ofAlexander 9, 69; Avienus 1324. Sardonyx: Plin. HN}7.$6-%9;
+Mart. 4.28.4; Isid. Etym. 16.8.4. Turquoise: Plin. HN 37.110; Isid. Etym. 16.7.10. Onyx: Plin. HN
+37.90-91; Isid. Etym. 16.8.3.
+15 dines regio habebatur non auro modo, sed gemmis quoque margaritisque, ad luxum magis quam ad
+magnificentiam exculta.
+Commodities 155 possible limit of contemporary travel. It is worth noting that the list of
+stones in the supposed Letter ofAlexander to Aristotle overlaps considerably with that in Pliny’s Natural history, and hence the openness of Pliny’s text to excerption and use in very different kinds of text. The place of precious stones in Pliny’s encyclopaedic work points us to one register of geographic information; it is another that we find in passing
+references within a poem. A playful epigram from the end of the fourth century centres on a mock competition between two artifacts purportedly from India: What is this stone? Amethyst. And this? I’m a wine-goblet - both of us from India but unequal in our powers: the amethyst boasts that it exceeds the strength of my
+liquid, but I boast that with my wine I can make drunk anyone who drinks me.
+(Epigrammata Bobiensia 20)16 Light-hearted as it is, it is in such a popular reference that we see the notional presence of India at the dinner-parties of elite Romans, an impression confirmed by other accounts of Roman dinner-parties ( cenae) and the kinds of conversations held at them. Athenaeus’ Deipnosophists (‘Philosophers
+at dinner’, c. ad 200) is a special case of this, given that much of the conversation-matter concerns the very business of eating and drinking. This link between India and gemstones is important for late-antique geographies of India, in which it is seen to adjoin the earthly paradise. 17 Thus, when in the early fifth century ad Jerome speaks of India, he glosses
+it with a comment about the riches to be found there, and also the fantastic creatures guarding them:
+That’s where the carbuncle, emerald, shining pearl and large pearl are to be found,
+all ofwhich promote female display; and mountains ofgold, which humans cannot come near because ofdragons, griffins and monsters with enormous bodies, so that we can be aware how well avarice is guarded. (Letters 125. 3)
+18 This passage reveals a combination of a fairy-tale landscape, complete with
+dragons, on the one hand, and social criticism on the other. Jarring as this might at first seem, it is a way of emphasising the directness of the link between distant India and Jerome’s (east) Mediterranean world. Given that the monsoon trade in Jerome’s time is unlikely to have reached the heights
+16 Amethystus gemma: / quis lapis hie? - amethystus - at hie? - ego potor Iacchus, / ambo Indi, uerum
+uiribus impariles: II ille mei laticis iactat se uincere uires, / ast ego potantes ebrificare mero.
+17 Lozovsky, The earth.
+18 ibi nascitur carbunculus et smaragdus et margarita candentia et uniones, quibus nobilium feminarum
+ardet ambitio; montesque aurei, quos adirepropter dracones etgryphas et immensorum corporum monstra hominibus impossibile est, ut ostendatur nobis quales custodes habeat avaritia.
+156 Contexts ofa discourse
+it had in Pliny’s, the passage shows how central were precious stones to the memory of India.
+I.}. Fabrics Thirdly, let us consider fabrics. The Periplus makes several references to the import of silk from the subcontinent. In fact, it was one of only two
+products available at all of India’s four major exporting regions (the other being nard): Muziris and Nelkynda on the southwest coast offered silk cloth
+( 60ovia IripiKa, 56); Barbarikon in the Indus delta ‘Chinese pelts, cloth and yarn’ (ZipiKa SeppaTa xai oOovtov Kai vfjpa ZipiKov, 39); Barygaza
+silk cloth and yarn (49); and the Ganges delta the same, as well as silk
+floss (ipiov . . . ZppiKov, 64). There is some evidence that India had a
+silk industry of its own by this point,19 but this is not to deny that silk was predominantly imported from China. 10 The Indian ports, it seems, functioned largely as clearing-houses for Chinese goods. There is earlier evidence for the island of Cos as a source of silk, and in fact the expres- sion Coae vestes carries metaphorical force in the Augustan elegists as a symbol of luxury.11 But, if we are to go by the silence of our sources, Cos
+was in the imperial period superseded by Asia as a source of silk. Strictly speaking, the two products were in any case different, as the Coan vari- ety was not spun by caterpillars, and was of a less fine texture. When
+Diocletian’s price edict of ad 301 mentions raw silk (peTCX^a), we might
+take that as a reference to the Chinese product, not the Coan. What is clear
+is that Roman writers were not particularly curious about how silk was
+obtained. Major questions beset the issue of silk in the Roman world, for example the specifics of its price, 11 and the existence of a ‘Silk Road’ across
+central Asia, not least its supposed termini in east Asia and the eastern Mediterranean.13 The picture is further complicated by the fact that India itself, apart from
+serving as a point of distribution of Chinese silk, was also the source of cot- ton, that is to say less highly valued textiles as well. Herodotus associates
+19 L. Gopal, ‘Textiles in ancient India’, JESHO 4 (1961), 42-64.
+20 Manfred G. Raschke, ‘New studies in Roman commerce with the east’, ANRWW.9.1 (1978), 604-
+1378; E. J. W. Barber, Prehistoric textiles (Princeton University Press, 1991), pp. 30-2.
+21 Griffin, Latin poets, 1—31; Catharine Edwards, Thepolitics ofimmorality in ancient Rome (Cambridge
+University Press, 1993), pp. 176-8.
+22 Raschke, ‘New studies’, 624-5, 726 n. 315
+23 The Central Asian excavations of Sir Aurel Stein played into western fascination with a ‘Silk Road’ supposedly reaching nearly across the breadth of Asia; see now Young, Rome’s eastern trade, pp. 190-1. More skeptical are Millar, ‘Caravan cities’ and Ball, Rome in the east, pp. 138-9.
+Commodities i57 cotton exclusively with India (3.106). This is consonant with archaeobotanical finds, since fibres of the genus Gossypium have been found in the Indus
+valley sites of Mohenjo Daro and Harappa. 24 Some five centuries later, a number of references in the Periplus indicate that a range of textiles was
+traded together. Thus, for example, the author speaks of goods brought to the port of Barygaza from its hinterland: the list ends with ‘Indian garments
+of cotton; garments of molochinon\ and a considerable amount of cloth of
+ordinary quality.’25
+I.4. Slaves In slave-holding societies generally there is often a tendency to name slaves
+after their area of origin, and this was certainly true of the Greco-Roman
+world. Yet a passage that makes the point explicitly emphasises that the master is free to call the slave what he liked.
+16 As a result names are a highly
+qualified indicator of origin. This said, the available evidence for Indian
+slaves in the Mediterranean world is particularly scant: with the exception of
+the Digest passage above, all the references given are statements in passing. Three suggestions of Indian slaves in the Italian world can be identified, and as it happens all three refer to male slaves. 27 First, Horace speaks of a swarthy wine-serving slave, named after one of the tributaries of the Indus: ‘dusky Hydaspes emerges bearing Caecuban wines’. 18 Secondly, Martial aims a lampoon at one Caelia who, though Roman, consorts with various
+foreign men, whom we might feasibly regard as slaves: ‘your Egyptian lover [euphemism] sails to you from Alexandria, the dark-skinned Indian one from the Red Sea’.29 The shame of exotic promiscuousness on the part of
+a Roman woman is heightened if the men involved were slaves, or even
+freedmen. Here it is interesting to note the juxtaposition of Egyptian and
+24 Barber, Prehistoric textiles, pp. 32-3.
+25 Ch. 48: aivbovES IvSiKai Kai poAoxivai Kai ikocvov xvSaTov oQoviov, cf. 51. Casson, Periplus, p. 249, takes molochinon to represent cotton garments of high quality, but this is open to debate.
+26 Strabo 7.3.12 C304: ‘The Athenians would either name their slaves after the peoples from whom
+they were imported, like Lydos or Syros, or give them names which were common in those countries;
+like Manes or Midas for a Phrygian, or Tibios for a Paphlagonian.’ See further Fraser, Ptolemaic Alexandria, vol. II, p. 385.
+27 Compare Tiberius’ disparaging comments about a demand for ‘exotic’ slaves (Tac. Ann. 3.53-4): see section II below.
+28 Sat. 2.8.14—15: proceditfiiscus Hydaspes / Caecuba uina ferens. Cf. Andre and Filliozat, Linde, p. 341.
+It is possible that Tibullus is also referring to Indian slaves at Elegies 2.3.55-56: illi sint comitesfusci, quos India torret/ solis et admotis inficit ignis equis. Cf. Steven E. Sidebotham, Roman economic policy
+in the Erythra Thalassa, 30 bc- ad 217 (Leiden: Brill, 1986), p. 22.
+29 7.30.3-4: et tibi de Pharia Menphiticus urbefututor! nauigat, a rubris et niger Indus aquis.
+i5« Contexts ofa discourse Indian; this passage and that from Horace quoted above both mention skincolour. Thirdly, as we have seen above, Marcian mentions Indian eunuchs
+{spadones Indict) among the luxury goods from the east on which customs
+duties must be levied. The same passage apparently refers to Indian hair
+('capilli Indict) imported for use in wigs; and it seems that ‘Indian hair’ was
+used for the cirrus-type ‘Indian’ hairstyles reflected in a number of marble
+heads of the Severan age (on which, see below in this section).
+It is clear that this trade took place in the reverse direction as well. The
+Periplus makes it clear that slaves from afar were in demand on both the Egyptian and Indian sides of the monsoon voyage. The Indian king at Barygaza was an avid purchaser of singing boys and female concubines.30 In an episode that may have taken place some two centuries earlier, Eudoxus
+of Cyzicus on his third trip to India took with him a supply of young slave musicians, along with doctors and artisans. 31 Indian literature contains some references to western slaves, which may likewise have come from the Greco-Roman world.32 There are some indications in Han Chinese sources
+that slaves were exported even farther east. 33 All of these instances suggest
+a demand for slaves in the east. When the author of the Periplus speaks of
+acquiring female slaves at the Horn of Africa (ocopaTa QqAuKd, 31), it is possible that those slaves were to be sold farther down the African coast or on
+the Indian subcontinent, rather than being returned to the Mediterranean
+world. It is true that Nubia was the main source of ‘Ethiopian’ slaves throughout antiquity, in a tradition stretching back into Egypt’s Pharaonic
+age. 34 Hence the purchase of slaves in Adulis and to its east in the Horn
+should be seen as participation in a long-standing slave-trade in that area. References in the Periplus to the slave-trade between the Red Sea and India make it clear that slaves were traded along with other goods. This gives a slightly unusual picture when we compare it with other evidence on
+the slave-trade, which usually appears to be a separate sphere of economic
+activity. 35
+3 ° pouotKa Kai irapSevoi eOeiSeTs irpos TraAAaKsiav (49).
+31 pouaiKa iraiSiCTKapia Kai iaTpous Kai aAAous TEyvtTas (Strabo 2.3.4 C99).
+32 E. H. Warmington, The commerce between the Roman empire andIndia, 2nd edn (New York: Octagon,
+1974), p. 261.
+33 Ying-shih Yii, Trade and expansion in Han China (Berkeley: University of California Press, 1967),
+p. 180.
+34 On the continuation of the Nubian slave trade into the sixth-century ad, see R. H. Pierce, ‘A sale of
+an Alodian slave girl: a reexamination of Papyrus Strassburg Inv. 1404’, Symbolae Osbenses 70 (1995), 159-64; cf. Stanley M. Burstein, Ancient African civilizations: Kush and Axum (Princeton: Markus
+Wiener, 1998), pp. 118-20.
+35 On the underdeveloped topic ofancient slave trades, W. V. Harris, ‘Toward a study ofthe Roman slave
+trade’, MAAR 36 (1980), 117—40; K. R. Bradley, Sbvery and society at Rome (Cambridge University
+Press, 1994), pp. 31-56.
+Commodities 159
+Zy. Animals
+India was identified with certain animals, but here the problem of exclusive
+identification is extreme. Monstrous creatures such as winnowing fan-ears
+(Otoliknoi), single-eyes (Monophthalmoi) and shade-feet (Skyapods) were
+central to the earliest Greek descriptions of India. ’ 6 This element persisted
+in western views right into the later Middle Ages, ifwe consider the fantastic creatures that so define the outer edges of medieval world-maps. For the
+present, let us concentrate on the less fantastic animals, ones that can be understood with reference to modern zoology. A key text here is Aelian’s Historia animalium, a work shared between fantastic and ‘normal’ animals without making that distinction explicitly. Taking Aelian’s work as a central
+text in the zoology of the early empire, the key question we must ask is to what extent India emerges as a distinctive place. Perhaps the most distinctively South Asian animal was the (Indian) ele- phant, Elephas maximus. It was much more widely diffused in antiquity than it is today, when it exists only in India, Sri Lanka and a few parts of
+southeast Asia. Its domestic use in the subcontinent is attested from the
+early Indus valley site of Harappa; from the Early Holocene period the animal was found through much ofAsia, from Central China to the Syrian
+coast of the Mediterranean, where it survived to about the seventh century
+bc. The problem of identification comes when we consider the African
+elephant, Loxodonta africana, which is a separate genus, and frequently it is impossible to know which of the genera is meant in any one particular representation. In other words, elephants may be distinctively Indian from a zoological point ofview, but not in the restrictive sense used in this chapter. In fact, the difference between the two genera seems to have been of little interest to ancient authors; Aristotle, who, in various works speaks in depth
+about elephantine topics, from behaviour to inner organs, is apparently the
+first clearly to refer to elephants from India. 37 By far the predominant use of elephants in the Greco-Roman world was
+in the military. Their first and probably paradigmatic use was by Alexander on his campaign in the Indus Valley. Such was the military-political cachet attached to the animals that they appear on some of the coins minted by
+Alexander, and even more so by his successors. While it may even have been liability on the battlefield, the elephant thus became a symbol of power among Hellenistic kings claiming continuity with Alexander. The
+capture and use of elephants was one of the many ways in which Alexander
+36 Milns, ‘Greek writers’; Romm, Edges, pp. 83-92.
+37 Arist. Cael. 298313; Hist. an. 6ioai5 clearly refer to the military use of elephants in India; Paus. 1.12.4. On elephants in Aristotle, see Scullard, Elephant, pp. 37-52.
+160 Contexts ofa discourse adopted and adapted the social practices he encountered on his campaign,
+even though he was later to be thought ofas a key agent for the transmission of (Greek) culture. This latter phenomenon is central to Plutarch’s essay On thefortune ofAlexander, but the tradition is much older. 38 The problem of identification may be summed up as follows: whereas the ancient world’s most distinguished commander was associated with Indian
+elephants, those known first-hand in the Roman world were by the law of
+probability much more likely to have come from Africa, both north Africa, that is the coastal stretch from Morocco through western Libya, and the Horn ofAfrica. The elephants that were famously (and calamitously) taken
+across the Alps by the Carthaginian commander, Hannibal, in 218 bc were
+in all likelihood from the hinterland of his own territory. Thus far we have been speaking of live animals. To judge from the
+Periplus, they constituted a far smaller part of the eastern trade than animal
+products; the text does not mention the exchange of live animals at all, whereas it does mention such objects as ivory (49) and tortoiseshell (56). When it does mention wild animals such as leopards, tigers, elephants, huge serpents and monkeys (e.g., 50), it does so as a vague space-marker, with perhaps a hint of danger, rather than with any suggestion that they should be imported back to Egypt. In distinguishing here between animals and their products, it is significant that the word elephas first occurs of
+ivory; it is only later that it is used for the animal itself. 39 This suggests
+that the animal initially came into Greek consciousness through its most
+prized product, whereas the zoological interests of Aristotle and Aelian came after the event. The use of ivory to depict elephants is common,
+for example in the imperial diptych, and this is itself a case of synecdoche combined with metonymy; in other words, the medium and the obvious
+referent of the representation together enact the theme. This is a conceit more readily associated with the Wunderkammer of the early modern
+period.40 Yet, we do know that various animals considered Indian were known in Rome in their living form. The city’s public spectacles, so much part of a
+civic life from 186 bc and till the later Roman empire, produced a constant
+38 Cf. Millar, ‘Looking east’, 515.
+39 Ivory: Horn. II. 4.141; Od. 4.73; 8.404, etc. In a sixth-century bc inscription from Aegina the word
+indicates an ivory statue: Supplementum Epigraphicum Graecum 32.356. For what seems the earliest reference to the animal, see Hdt. 4.191, where the context makes it clear that it refers to the African
+variety. 40 See in general Lorraine Park and Katherine Daston, Wonders and the order ofnature, 1150-1750 (New
+York: Zone, 1998), pp. 265-90. For the diptych, which shows either Julian or Antoninus Pius, Scullard, Elephant, opposite p. 161.
+Commodities 1 61 demand for exotic animals: in particular, staged hunts ( venationes) held
+in the city’s Colosseum and other amphitheatres. Fierce animals would
+be pitched against each other or against specialised animal-fighting gladiators ( bestiarii). In some cases, violent scenes from classical mythology would be enacted, which might entail the devouring of a human, typically a condemned criminal, by an animal.41 At the opening of the Flavian Amphitheatre by the emperor Titus some 5,000 wild animals (and 4,000
+domesticated) lost their lives; and when the emperor Trajan celebrated his Dacian triumph in ad 107, 11,000 were killed in this way. The impressiveness of this practice in the eyes of viewers depended in large measure on
+their exotic quality, their size and aggression, and hence the use ofelephants,
+bears, ostriches, crocodiles and the gamut of large cats. For many living in Rome or other major cities, public spectacles would be the typical (if not
+the only) way in which such wild animals could be seen in the flesh. The ‘Great hunt’ mosaic at Piazza Armerina gives a vivid sense of the capture and transport of animals, for exactly such purposes, we can rea- sonably suppose. Close to the centre is the depiction of an elephant being coaxed onto a ship. However, given the proximity of Sicily to North Africa, we can safely assume that this was an African elephant from ‘Libya’ rather than an Indian. Indeed, there is no trace that elephants were transported with the monsoon trade, and it is hard to imagine the practical difficulties involved in such an operation.42 More practicable for domestic consumption were birds. There are several hints of a demand for parrots at Rome, and of the idea that they came from
+India. The opening line of Ovid’s playful lament is typical: ‘Parrot, avian
+imitator from India in the east, has died’ . . . 43 From the earliest classical references to parrots to late antiquity, the birds are consistently and almost
+exclusively linked with India.44 They, too, conferred luxury status on their owners, and it was a function of the emperor Elagabalus’ depravity that he would eat parrots and feed them to the lions.45
+41 Cf. K. M. Coleman, ‘Fatal charades: Roman executions staged as mythological enactments’, JRS 80
+(1990), 44-73.
+42 On the comparable difficulties of transporting an elephant to the early sixteenth-century Papal court,
+see Silvio A. Bedini, The Pope’s elephant (New York: Penguin, 2000).
+43 Am. 2.6.1-2 Psittacus, Eois imitatrix ales ab IndisJ occidir, for other laments, Stat. Silv. 2.4 and Corpus
+Inscriptiorum Graecarum III, p. 1076. See also Petron. fr. 31. 1-2; Plin. HN10.117; Apul. Flor. 12.1-4,
+etc. 44 The earliest reference is Ctesias, preserved in Phot. Bibl. 45334.
+45 SHA Heliogab. 20.4; 21.1; cf. D. W. Thompson, A glossary ofGreek birds (Oxford: Clarendon, 1895), pp. 335-42; O. Keller, Die antike Tierwelt, 2 vols. (Leipzig: Teubner, 1920), vol. II, pp. 45-50; G. Jennison, Animals for show and pleasure in ancient Rome (Manchester University Press, 1937), pp. 15-20, 107-12.
+162 Contexts ofa discourse
+Figure io Ivory statuette found at Pompeii, first century bc, Museo Nazionale, Naples.
+Commodities 163 Wild animals especially give the impression that it is much easier to know about their consumption at Rome, while details of their capture and
+importation are largely murky. That this should be so is due partly to the
+fact that their social impact was greater the farther afield their origins were deemed to be. In addition, when so many animals were required for a
+single event, this impact was surely aggregative rather dependent on any one of them. It is likely that some of the larger animals came from India, but
+certainly nowhere near as many as will have come from ‘Libya’, the Horn
+of Africa and the eastern Mediterranean. With parrots we are a priori on
+safer ground in asserting both that there was a demand for them in Rome
+and that long-distance networks responded to this demand. Nonetheless,
+the problems of evidence presented here in no way deny the fact that India was associated with wild animals in the minds of Romans.
+1. 6. Craft goods
+Lastly, we come to Indian craft goods found in the Roman world. The
+pickings are meagre, for there is apparently only one artifact that can be brought to the discussion. The fourth-century epigram mentioned above
+does refer to a wine-goblet made in India, but for that there seems to be no
+corroborating material evidence. An ivory statuette depicting a young woman was found at Pompeii in 1938, and is now in the Museo Nazionale, Naples (see Figure 10). She
+stands naked, her head, neck, arms and legs richly adorned. Her raised arms indicate that she is arranging her hair. On each side she is flanked by a smaller, child-like figure: these we may consider attendants, for they appear to be carrying items for her to use in her toilet. A protrusion extends from the left side of her head, as if a continuation of her hairstyle, and this
+is presumably a key to any understanding of the purpose this artifact may
+have served. Earlier scholars saw this as the handle of a mirror, but more
+recently it has been considered instead to have been the leg of a small piece of furniture. This is plausible, and better explains the fact that, apparently,
+it was intended to be viewed from three angles, if we take into account
+the two smaller figures; and the vertical hole that extends from the top of
+her head to the waist. It was found in one of the most densely populated
+areas of Pompeii, the Via dell’Abbondanza, in a cache of fine craft goods. The house in which it was found could easily have been that of a wealthy merchant involved in long-distance trade, to judge from its architectural
+plan.
+164 Contexts ofa discourse At 24 cm this is a small item, but distinguished by its fine craftsmanship;
+the head was delicately carved, so that it exudes a sense of composure. The
+earlier identification of the woman with Lakshmi, goddess of good luck,
+fertility and prosperity, can now be dismissed as groundless.46 But about
+its Indian origins there can be no dispute, as its style closely matches the
+statuary of the Satavahanas (first century bc to the third ad); in fact, two
+closely comparable ivory statuettes have been found at Ter (Tagara) and
+Bhokardan (Bhogavardhana) in India, and a brief inscription in Kharoshti
+is found in the base. Nor can anyone doubt that it was brought to the Italian peninsula by ad 79, the year in which an eruption of Vesuvius buried the
+city of Pompeii and others. Mary Helms’ comparative work, emphasising as it does craft goods over raw materials,47 might have led us to expect Romans to have had a vivid sense of and even appetite for artifacts produced in distant places. But
+given the nature of our evidence the phenomenon does not seem to apply
+to Roman ideas about India. Clearly, no argument from silence here can be
+strong, in light of the scattershot material record; nonetheless, the obser- vation does resonate when we compare the very strong Roman predilec- tion for things Egyptian, both in the importation of Egyptian obelisks to metropolitan Rome’s most central civic spaces and a clear tendency to recre- ate elements of Egyptian style in its own art.
+48 On the other hand, many
+craft goods from the Mediterranean have been found on the subcontinent
+(described in section III below). These have been the subject of intensive
+investigation, much ofwhich struggles with the issue ofwhether goods were imported in their current form or produced locally, whether from local or imported materials. In most of these cases we can merely speculate as to the life-histories of individual artifacts. 49 This survey has consistently pointed to the power of rare commodities
+to connote distance. Beyond that, India emerges as an origin of choice:
+it would be no exaggeration to say, in general, that Indian origins of any
+46 R. E. M. Wheeler, Rome beyond the imperialfrontiers (Harmondsworth: Penguin, 1954), p. 135, lists some of the various explanations that have been offered for the lengthy protrusion from her head;
+cf. Sahai, Iconography ofminor Hindu and Buddhist deities (Delhi: Abhinav, 1975), pp. 157—79.
+47 Mary W. Helms, Craft and the kingly ideal: art, trade, andpower (Austin: University of Texas Press, 1993)- 48 E.g., James Stevens Curl, Egyptomania: the Egyptian revival, a recurring theme in the history oftaste (Manchester University Press, 1994); W. A. Macdonald and J. A. Pinto, Hadrian s Villa and its legacy (New Haven: Yale University Press, 1995).
+49 Cf. Arjun Appadurai (ed.), The social life of things: commodities in cultural perspective (Cambridge
+University Press, 1986), with especially the articles by Appadurai and Igor Kopytoff; also Chris Gosden and Yvonne Marshall, ‘The cultural biography of objects’, World Archaeology 31 (1999), 169-78.
+Commodities 165 particular item, whether real or imagined, added value to it in Roman eyes. In very few cases can we say for certain that something would definitely have come from the subcontinent, on the empirical grounds that it could not have come from anywhere else. Pepper is the major exception here, and it is an important one. In most cases what we see in practice is a variety oforigins,
+if we are cognizant of the botanical and other evidence. This conclusion must impact on any attempt to see India through the lens of commodities, and acts as a sober reminder of the indivisibility of the imaginary and
+the real Indias. In sum, it is clear that the goods regarded by Romans as distinctively Indian carried with them a sense of the exotic. Not all of them
+were necessarily luxury goods in the normal sense of consumption, though,
+ifwe consider the presence of cotton in the monsoon trade and the medical and religious uses of spices and aromatics.
+II. THE RHETORIC OF EXCESS
+It is one thing to describe those goods that were considered ‘Indian’ by Romans; it is another to assess the social meanings of these objects. It is this second task that has taken on some urgency in anthropological work
+in the past twenty years or so: significant recent work has emphasised the material quality ofsymbols, and conversely the symbolic aspects of material
+culture. 50 It is to the consideration of social meaning that we must now
+turn. The most important point to make is the resilience of a moral discourse around economic issues in the Roman world. As early as the fifth century
+bc, the Twelve Tables, the earliest codification of law in the still small-scale Roman state, included steps to restrict the power of a ‘prodigal’ {prodigus) over his property, as we know from a much later source (Digest 27.10.1 pr. Ulpian, early third century ad). The so-called sumptuary laws of the midsecond century bc limited the amount that could be spent on a dinner-party,
+stipulating the kinds of food offered and the number of guests allowed. 51 The question of luxury engaged Hellenistic ethics, and we do know that it was the topic of philosophical treatises that are now lost. 52 Ofmore immediate concern, we must note that luxury was part ofa well- developed philosophy ofthe past, as is found in the historical monographs of
+Sallust and in Livy’s History. Writing in the late republic and the principate,
+50 Apart from the essays in Appadurai, Social life, eminent archaeological studies are Ian Hodder (ed.), The meaning ofthings: material culture and symbolic expression (London: Unwin Hyman, 1989).
+51 The lex Fannia (161 bc), extended and revised by the lex Didia (143) and the lex Licinia (after 143).
+52 Griffin, Latin poets, pp. 1—31.
+1 66 Contexts ofa discourse these writers particularly saw the progression of Roman history as a decline from a glorious past, which valued good Roman virtues, the ‘custom of the
+ancestors’ ( mos maiorum). They were writing at the time when Rome had
+greater power over the Mediterranean than ever before, and when the supply of luxury goods was larger than ever. For Sallust, it was the external threat from the Carthaginians in the western Mediterranean that had constantly honed Roman morality in the third and second centuries bc. This process ended with Rome’s victory over Carthage in 146 bc, upon which that city was destroyed: the date thus heralded the increasing hold of luxury and
+avarice on their lives, and constituted a turning point in the tradition of moral historiography that is seen in both Sallust and Livy. 53 For Livy as for others, it was the presence of Roman troops in the eastern Mediterranean
+that caused the rot to set in; the celebration of triumphs in the city brought home foreign goods and values. Thus when Manlius Vulso celebrated a triumph in 186 bc, ‘the beginnings of foreign luxury were brought to the
+city by the army from the east’. 54 By a variation on this, Pliny dated the onset of luxury in Rome to the conquest of Asia Minor. 55 The details of these analyses, which differ in the various texts, are less important than a basic premise: that external military threat had a salutary
+effect on the Romans, and that Rome’s ascendancy had instead brought about moral decline; or alternatively, that Roman troops in the eastern Mediterranean world brought back with them a taste for luxury goods. In
+either case the increase of luxury at Rome was viewed as an outside-inward dynamic, whether that movement involved Roman soldiers on campaign
+or commodities themselves. This phenomenon can be understood in part by a figure that stood in opposition to it, and came to epitomise Roman republican virtue. One of
+the earliest works of Latin prose is the elder Cato’s treatise on farming, De
+agri cultura: here farming represented the steadfast, old-fashioned Roman
+values to which the later onset of luxury seemed profoundly antithetical. The notoriously anti-Greek attitudes of Cato the Censor (234-149 bc) were in part an act of opposition to the effeminacy ( mollitia) associated with Greek culture: this is, however, not specifically a matter of commodities.
+56 We have already seen that the Italic herbs mentioned here by Cato
+53 Donald C. Earl, The moral andpolitical tradition ofRome (Ithaca: Cornell University Press, 1967).
+54 Livy 39.6.7: luxuriae . .
+. peregrinae origo ab exercitu Asiatico inuecta in urbem est. It is no coincidence
+that this coincides broadly with Rome s success over the Carthaginians.
+55 33.148-49; cf. A. W. Lintott, ‘Imperial expansion and moral decline in the Roman Republic’, Historia
+21 (1972), 626-38, at 628.
+56 Edwards, Politics ofimmorality, pp. 92-7.
+Commodities 1 67 formed the background against which imported, tropical spices seemed
+like luxury goods; more generally, farming, with its emphasis on cereals and other staples, formed the backdrop of the long-distance trade in luxury goods altogether. 57 At a time when Rome’s dominance spread throughout the Mediterranean and made the metropolis more cosmopolitan, Cato
+continued to stand for the republican ideal of good morals, grounded in agriculture. In these terms, there is a temporal aspect to luxury goods; they marked the modernity of the new cosmopolitan city and emerging world
+empire; they distinguished the city of Rome from its golden age of hazy memory, they are what made Rome’s past a ‘foreign country’ in the eyes of
+a Sallust or a Seneca. 58 Not only does the Roman imperial discourse about
+luxury thus have a long heritage, but that discourse involves the creation of a very particularised view of Rome’s past. There is an aggregative aspect in Roman responses to commodities: part of their social meaning comes, if not from their quantity, then from the
+fact that they are densely combined. This emerges even from the lines of
+Statius’ Silvae with which this chapter began, and can be illustrated in all the
+moralists. In effect, this is how an Apician recipe might also be read, even though of course the fact of combination has special reasons in a context of
+cooking. This aggregative aspect is perhaps analogous to the social meaning
+of a metropolis: a description of Rome, for example, by Juvenal presents not one but several of its distinctive features closely combined, with several of the senses engaged at the same time. 59 There was in Greek and Roman texts a long tradition of talking about
+luxury from the east. The first case concerns eastern Greeks of Asia Minor,
+that is the Greek-speaking inhabitants of what is now the western coast of Turkey. 60 From the archaic Greek world, then, Lydia and its surrounding
+area had connotations of vice and decadence. This applied not so much to goods from Asia Minor as to its inhabitants’ lives. For the purposes of this chapter, it might be said that this implied the construction of Asia Minor
+as a place of luxury. The key point is that this projected the practice of
+luxury in an eastward direction, something that can be traced throughout
+the rest of antiquity and even beyond. This tendency was never absolute,
+57 Indeed, this is one reason that a balanced view of the Roman economy requires a reasonable assess- ment of the proportional amounts involved between agriculture and trade, especially luxury trade: see section IV below.
+58 Cf. David Lowenthal, The past is aforeign country (Cambridge University Press, 1985).
+59 See Nicholas Purcells twin articles, ‘The city of Rome and the plebs urbana in the late Republic’, CAH, 2nd edn (1994), vol. IX, pp. 644-88; and ‘Rome and its development under Augustus and his successors’, CAH, 2nd edn (1996), vol. X, pp. 782-811.
+60 Leslie Kurke, ‘The politics of habrosune in archaic Greece’, Cl. Ant. 11 (1992), 81-120.
+i68 Contexts ofa discourse when for example the Italian (i.e. western) colony of Sybaris became for Greeks a byword for decadence (e.g., Plutarch Life ofCrassus 32); and when
+Trimalchio’s poem thematising the indulgence of his dinner-party mentions Carthaginian jewels and ‘Numidian bird’ (i.e. guinea-fowl), alongside Babylonian gold and Indian pearls, North Africa fulfils the same role (Petronius Satyrica 55, written before ad 66).
+It is worthwhile to dwell for a moment on one of the Roman empire’s most conspicuous consumers, the freedman Trimalchio. At his lavish dinner-party he presents only the most exotic delights from various parts of the world. As one of the more experienced guests tells the naive narrator, Trimalchio serves only foodstuffs from his own estates: You mustn’t think that he buys anything: everything grows on his own estates. Wool, citrus, pepper; you can even have cock’s milk if you like. To crown it all, his wool was not growing finely enough, so he bought rams from Tarentum sent them to his flocks with a smack on the rear. He ordered bees to be imported from
+Athens so Attic honey could be produced at his own home; and, by the way, Italian bees will be improved by the Greek ones. And these last few days, in fact, he gave
+instructions for mushroom-seed to be sent from India. (38.1)
+61
+It is significant to notice that in this passage the mushrooms are not strictly speaking from Trimalchio’s estate, but imported from beyond it. The dis- tinction is strictly beside the point when, for example, ‘cock’s milk’ is clearly exaggeration for comic effect. Nonetheless, they are deeply caught up in a system of value where geographical distance brings social prestige, something alluded to also in the reference to the Athenian bees. The passage
+is central to the concerns of this chapter also because the consumption
+involved is in the private sphere, and centred on the sumptuous dinnerparty. The cultural politics are heightened by the fact that Trimalchio is presented as the upstart, the crude social climber, who tries to compensate
+for his low-prestige, freedman status by the most conspicuous kinds of consumption. Of the commodities discussed above, we should examine two extreme
+cases in greater detail, moving beyond a description of their existence in the Mediterranean world to an analysis of their social meaning. Firstly, spices. In section I, we have already noted the readiness of Roman literary sources
+to use a moralising lens in considering pepper. A case in point is Pliny’s comments about the consumption of pepper (12.14). We must now step
+61 nec est quodputes ilium quicquam emere. omnia domi nascuntur: lana, citrea, piper; lacte gallinaceum
+si quaesieris, invenies. adsummam, parum illi bona lana nascebatur: arietes a Tarento emit et eos culavit
+in gregem. melAtticum ut domi nasceretur, apes ab Athenis iussit ajferri; obiter et vemaculae quae sunt, meliusculae a Graeculisfient. ecce intra hos dies scripsit, ut illi ex India semen boletorum mitteretur.
+Commodities 169 back and assess that bias in broader frame. What happens when we read such passages against the grain? Pliny says that the mixing of odorific forest substances to make the very
+first scent in time immemorial was done for the sake of luxuria (13. 1). However, it appears that, in his haste to criticise, Pliny seems to have got
+it wrong: overwhelming evidence suggests that the earliest use of spices was for incense and hence for the sake of worshipping the gods rather than decadence. Any comparison with Theophrastus’ more dispassionate On odours shows the prominence Pliny gives to his own concerns. As the comments earlier in this section suggest, Pliny’s position can be understood
+in terms of Rome’s new status in the Mediterranean world: a cosmopolitan
+city at the centre of a world empire. An implicit contrast should be detected in the rhetoric about spices: that with the earlier Roman cuisine as described by Cato in De agri cultura. Here there is no reference to pepper or other imported spices, though Cato
+does mention myrtle berries as flavouring (101.1) . These we would call herbs
+rather than spices: they were domestic rather than imported, and carried no
+connotations of luxury. The difference between the world of Cato and that of Apicius was, in part, one between modest Italian-grown herbs on the one hand and exotic eastern spices on the other, or so Pliny would have us
+believe. This latter, more commodity-conscious world of the early empire
+is vividly presented by Petronius in the form of Trimalchio’s dinner table, not least the host’s insistence that the gourmet delicacies served come from
+his own estates. One feature in Pliny’s books on spices may offer a clue to their social meaning in his world, namely the consumption of spices by Persian kings. As we have seen, there is a long tradition in Greek thought of Persian
+luxury, going back to Herodotus’ Histories, but the key point here is Pliny’s emphasis on the fact that the Achaemenid court received a huge amount
+of spices from Arabia annually (12.80). In this way, Pliny’s ‘east’ harboured both the production and the consumption of spices, and for that matter
+the distribution also. And this meant, by implication, that any Roman to indulge in spices would be partaking in the morally dubious ways of the
+east.Let us take a moment to consider the idiomatic uses of spice.
+62 When
+one Safinius is referred to in Petronius’ Satyrica as ‘pepper rather than
+a person’ (44.7: piper non homo), we see that the sharpness of the spice
+62 Here it can be noted that Christian idioms and moralistic vocabulary are not substantially different to polytheist; in other words, there seems no specifically Christian concept of spices: Lallemand and
+Dittmann, ‘Gewlirz’, RAC, vol. X.1201-7.
+170 Contexts ofa discourse gave it idiomatic force: ‘wherever he went, the earth caught fire’. Here
+it is interesting, in passing, to compare the idiomatic uses of salt: this sometimes serves as a spice when it is a condiment used for flavouring
+the good, though its potential utility goes far beyond that, and in modern
+times it is customary to refer to salt and pepper as a pair. Some recipes attributed to Apicius require salt in order to season meat (e.g. 1.5.1; 1.9.1), and this reveals its use in Roman cuisine. The interesting point about it, however, is that the word is related to the Latin word for health, salus. The
+word for salt occurs also in idioms, not unlike pepper, but its metaphorical
+use is more deeply embedded in the Latin language than that of pepper.
+63 This difference between the rhetoric of the two seasonings may be taken
+as symptomatic of the fact that salt was used in the Mediterranean since
+prehistoric times, long before pepper. Secondly, silk too deserves special consideration. This was the luxury
+fabric par excellence, and we find it referred to in morally coded and often gendered language. The Latin name for silk in love elegy, ‘Coan robes’, is virtually a byword for hedonism, notably in Propertius. 64 Another elegist, Tibullus, speaks of silk from Cos together with shell from the Red Sea
+as the causes of greed on the part of young women (2.4.29). The fact that in some cases silk is in such cases referred to merely as ‘the Coan
+garment’ or even ‘the Coan thing’ is an indication of the extent with which
+product had become synonymous with place of production. Thus Ovid
+can advise the would-be lover to be charmed with ‘Coan products’ if that
+is what he finds the beloved wearing. 65 In these cases silk is explicitly worn
+by women; later references tell us about silk being worn by men, often with connotations of sexual transgression. Under the emperor Tiberius the Senate in ad 16 forbade men from wearing silk (Tacitus Annals 2.33; Cassius Dio Roman history 57.15), a stipulation ignored by Tiberius’ successor Gaius
+(Caligula), according to the biographer Suetonius ( Life ofGaius 52.1). The
+flamboyant later emperor Elegabalus (ad 218-22) is said to have worn only
+silk, which helped make him a kind of Liberace figure. 66 In fact, several of the emperors represented in the biographies of the Historia Augusta
+(probably from the late fourth century ad) are said to have worn silk: in the case of Commodus, in order to hide a tumor in his groin from public
+63 A. Otto, Die Sprichworter und sprichwortlichen Redensarten der Romer (Leipzig: Teubner, 1890).
+64 The term Code uestes is used either in the singular or in the plural, as for example at Prop. 1.2.2;
+*• 3 - 53 ; 4- 5 -S7- 63 An am. 2.298 sive erit in Cois, Coa decere puta\ cf. Hor. Carm. 4.13. 13. 66 SHA Heliogab. 26.1; cf. David S. Potter, ‘Odor and power in the Roman empire’, in Constructions ofthe classical body, ed. J. I. Porter (Ann Arbor: University of Michigan Press, 1999), pp. 169—89, at 178-9.
+Commodities 171 view (13. 1). Given the negative disposition and gossipy nature of this work,
+silk functions as an unambiguous marker of vice. It is no accident that all three rulers mentioned here, Caligula, Elegabalus and Commodus, were remembered as ‘bad emperors’, a status that typically carried with it tales of sexual misconduct.
+Silk is thus an object lesson in the problems involved in linking product with its supposed place of origin: there was, it is clear, a particular social meaning attached to the product involved; and there was a tendency to link it with a place or places of origin. But this link remained vague, when
+the elegists and other Augustan age writers associated it with the Greek
+island of Cos; when its later name was closely tied with the name of China; and when some texts, such as Pliny and the Periplus, do indeed link it with India. In fact, we do know from the Periplus that several Indian ports served as entrepots at which Roman merchants could acquire silk, so this should certainly be considered a factor in the inability of Romans back in the Mediterranean, on the consumer side of these transactions, to retain a
+clear sense of provenance.
+III. TRADE NETWORKS AND THE LONGUE DUREE
+III. I. Varieties ofevidence Now that we have seen a number of specific goods and the rhetoric with which they are represented, it is necessary to step back to consider the mechanics ofexchange whereby they were conveyed from South Asia to the Mediterranean. Thus far, consumption has been foregrounded: different perspectives arise when we consider the productive and distributive parts of economic practice. The evidence to be considered in an overview of Roman trade with
+Asia is necessarily varied in nature. First, the largest single class of evidence comes from literary texts, of the kinds described above: as we have seen, they are very much the products of their own thought worlds and therefore of limited use in grasping the mechanics of exchange. Pliny’s Natural history looms large among these texts, but there is also much to be gained from the geographical texts of Strabo ( c
+.
+64 bc to after ad 21) and Claudius Ptolemy
+(fl. ad 146-70). While geography and natural history provide the most
+obvious genres for such study, texts in which ‘Indian’ goods are mentioned
+in passing are also of enormous importance, not least for their lesser degree
+of* self-consciousness on this specific topic. Expanding from the issue of consumption for the moment, what of literary sources for larger patterns
+172 Contexts ofa discourse of exchange? Apart from Pliny (6.104-6 and 12.84) mentioned below, there
+is information to be gleaned from Diodorus Siculus ( Bibliotheke 5.22-23) and Strabo ( Geography 2.5.12 C118 and 17.1.13 C686). It may be noticed
+that, with the partial exception of Diodorus, the Alexander historians are notable by their silence on this subject. Claudius Ptolemy in his Geography mentions several locations on the subcontinent, among them emporia, both on the near and the far side of the Ganges (7.1 and 7.2 respectively). For
+the later period, Cosmas Indicopleustes’ Christian topography shows us that the Indian trade was pursued by Byzantines in the sixth century. 67 To adhere in a formal way to the category of literary sources, we come
+to a work of the greatest significance: the Periplus of the Erythraean Sea. The work survives in a single manuscript, now in Heidelberg, from the beginning of the tenth century.68 Opinions about the date of this work
+have varied from about ad 40 to as late as 240. However, scholarly opinion
+is now largely united in dating the work to the period ad 40 to 70: the
+decisive issue is the reference to the Nabataean king Malichus, who may
+now safely be identified as Malichus II (reigned 40-70).69 We know that the anonymous author was an Egyptian Greek. 70
+It is tempting to conclude
+that the dating of the document to this period suggests that in these decades
+the seaborne trade with India was still a relative novelty. The value of the Periplus to our understanding of Roman long-distance
+trade generally and of the India trade in particular is enormous. When
+literary sources so consistently denigrate the merchant as a social type, or even social class, it is refreshing to have this insight into the perspective of a
+trader. On any reading, the enormously practical perspective of its author
+shines through. Whereas Pliny speaks in generalising and moralising terms, the Periplus author is centrally concerned with specific objects of trade at specific places, and with the conditions of engaging in trade. From the text
+67 See N. Pigulewskaja, Byzanz aufden Wegen nach Indien (Berlin: Akademie, 1969), pp. 110-29, on
+Cosmas. Note evidence of the demand for silk in fifth- and sixth-century Byzantium, pp. 80—91.
+68 This is Cod. Pal. Gr. 398. On the other hand, B. M. Add. 19391 fols. 9r—I2r, of the fourteenth or fifteenth century is merely a copy of the Palatine ms, adding no independent witness. It is accompanied by other geographical works. The work has often been printed, first in 1533: see Wilfred Schoff (ed.), The Periplus ofthe Erythraean Sea: travel and trade in the Indian Ocean (New
+York: Longmans, 1912), pp. 17-19, with Casson, Periplus, pp. 5-6, for details.
+69 These dates are secure from Nabataean king-lists, and may be taken as the termini of the Periplus. On the dating see Raschke, ‘New studies’, 979-81 nn. 1342-6; with G. W. Bowersock, Roman Arabia (Cambridge, MA: Harvard University Press, 1983), pp. 70-2, for the Nabataean context, followed by Casson, Periplus, pp. 6-7. Furthermore, a first-century dating seems now to be confirmed by
+Indian history: P. J. Turner and J. E. Cribb, ‘Numismatic evidence for the Roman trade with ancient
+India’, in The Indian Ocean in antiquity, ed. Julian Reade (London: Kegan Paul, 1996), pp. 309-20.
+70 At section 29 he speaks of ‘the trees we have in Egypt’; consistently he offers Egyptian equivalents
+for Roman months. See Casson, Periplus, pp. 7—10.
+Commodities 173 we get an acute sense of the dangers involved, e.g. pirates, winds, hostile competitors. The plain, sometimes repetitious language used is yet another
+indication of its pragmatism, free of stylistic considerations. Reading it is much like overhearing a conversation between sea-captains and merchants.
+Literary evidence from the south of India has much light to shed on this topic. The presence of ‘Yavanas’, which would seem at first blush to refer to ‘Greeks’ specifically, is attested in Tamil poetry: Here lies the thriving town of Muchiri (sc. Muziris), where the beautiful large ships of the Yavana come, bringing gold, splashing the white foam on the waters of the Periyar, and then return laden with pepper. Here the music of the surging
+sea never ceases, and the great king presents to visitors the rare products of sea and
+mountain. Another poem mentions the ‘cool and fragrant wine brought by the Yavana
+in their good ships’. In both cases, the Periplus would seem to receive outside verification as regards the cargo of Greek ships. There are, however, two problems here: first, it is not certain that the ‘Yavanas’ are Greeks
+rather than ‘westerners’ in a more general sense.
+71 There is no mistaking
+the terminological link with ‘Ionians’: one can compare the term ‘Yonas’ in Ashoka’s inscriptions.72 But some doubt still looms over the specificity with which the term was applied, as if in the same way as the term Firnngi was
+used by Arabs in the high Middle Ages to refer to all (western) Europeans,
+not merely Franks. 73 Then there is the problem of dating the work. Subject
+to a lengthy oral tradition, it is possible that the work goes back to the
+first century ad, but it is impossible to say so with any certainty: it might
+equally well have been written several centuries later. Secondly, there are a number of documentary sources. The so-called Muziris papyrus (/? Vind. G40822 of the mid-second century ad, now
+in Vienna) was not published till the 1980s.74 It presupposes a contract
+that had been concluded between two parties concerning the transport
+71 Wheeler, Imperialfrontiers, p. 178, for one, suggests that the term may have been used also for Arab
+traders, about which the poems otherwise have nothing to say. 72 For various compounds vnt\\ yona- in the Rock and Pillar edicts, see A. C. Woolner, Asoka: text and
+glossary (Oxford University Press, 1924), p. 126. Yavana is a back formation from the Prakrit Yona, and came to be used for various trading peoples from western Asia, including Arabs in subsequent
+centuries: Thapar, ‘Asokan India and the Gupta age’, in A cultural history ofIndia, ed. A. L. Basham
+(Oxford University Press, 1975), pp. 38-51, at 44. Further comparisons may be drawn for loanwords
+for ‘Greeks’ in other languages: Hebrew yavan (pi . yavanim)'. Old Persian yauna\ Assyrian iamanu
+(or iavanu); Egyptian Y'-v“n-(n)a. A Jewish source probably from the early sixth century bc speaks of Greeks (Yavan) as traders: Ezek. 27:13, in the lamentation over the fall ofTyre.
+73 A. Miquel (ed.), Us&ma Ihn Mundiqh, des enseignements de la vie (Paris: Colin, 1983), pp. 57-65.
+74 H. Harrauer and P. Sijpesteijn, ‘Ein neues Dokument zu Roms Indienhandel, P. Vindob. G40822 , Anzeiger der Osterreichischen Akademie der Wissenchaften, phiL-hist. KL 122 (1985), 124-55.
+174 Contexts ofa discourse of goods from Muziris (probably modern Cranganore) to Myos Hormos
+on the north-eastern coast of the Red Sea (perhaps Quseir al-Qadim),75 in particular a loan to be paid back on the return voyage: the papyrus
+itself sets out the consequences of non-repayment. Whereas the Periplus suggests that traders would mix low-cost everyday items within its cargo of predominantly luxury goods, the Muziris papyrus is limited to expensive
+articles. In fact, the extremely high value of the cargo here described is something to which we shall have to return in section IV below.
+In addition, a number of inscriptions survive testifying to the kind of
+trade mentioned by Pliny. Annius Plocamus’ freedman left two inscriptions
+at the Wadi Menih on the Berenike-Koptos road, both of them dating to the year ad 6: 1, Lysas, freedman of Publius Annius Plocamus, came here on 2 July (5 July), ad 6.’76 Excavations at Quseir al-Qadim beginning in the late 1970s turned up
+two ostraka inscribed in the southern India’s Tamil-Brahmi script. These, which contain the names Kanan and Catan, have been dated to the first century ad. Amidst a find of pottery that can be dated to ad 60—70, the Berenike excavation has also produced two ostraka inscribed in Tamil- Brahmi.77 Archaeological finds constitute the third and most problematic category ofevidence. South Asia itself has produced a variety ofevidence, particularly from the southwest coast (known variously as Limyrike, the Malabar Coast and Kerala), and the southeast coast (the Coromandel coast or Tamil Nadu);
+likewise the Red Sea coast, and especially the Egyptian port of Berenike.78
+75 Myos Hormos used to be located at Abu-Sha ‘ar until excavations (1987-93) suggested that it was
+not settled until the third century ad, thus invalidating the identification: Talbert, Barrington atlas map 78 D3 and 80 Ei, with Young, Rome's eastern trade, pp. 40-4, and Donald Whitcomb, ‘Quseir al-Qadim and the location of Myos Hormos’, Topoi 6 (1996), 747-72.
+76 Auoas FTottAiou ’Avvlou TTAoKapou f|Kcp AAe Kaioapos l-rreitj) rj (2 July), and LysaP.Anni Plocami
+veni anno XXXVIII non. IuL (5 July). The twin inscriptions were initially published by D. Meredith,
+‘Annius Plocamus: two inscriptions from the Berenice road’, JRS 43 (1953), 38-40; cf. Federico de Romanis, Cassia cinnamomo ossidiana. Uomini e merci tra Oceano indiano e Mediterraneo (Rome:
+Bretschneider, 1996), pp. 211-12. The term kaisaros in the Greek version points to Augustus, hence
+the dating. As it happens, this Lysa(s) corresponds with the freedman of Annius Plocamus, who
+is mentioned at Pliny 6.84 as a collector of taxes along the Red Sea coast. See further Federico de Romanis, ‘Graffiti greci da Wadi Menih el-Her. Un Vestorius tra Coptos e Berenice’, Topoi 6 (1996), 731-45- 77
+I. Mahadevan, ‘Tamil-Brahmi graffito’, in Berenike 199s: preliminary report ofthe 199y excavations at Berenike (Egyptian RedSea coast), ed. S. E. Sidebotham and W. Z. Wendrich (Leiden: CNWS, 1996), pp. 206-8.
+78 For a recent summary, see W. Z. Wendrich et al., ‘Berenike crossroads: the integration of infor- mation , JESHO 46.1 (2003), 46—87. Site reports have been published regularly, beginning with
+S. E. Sidebotham and W. Z. Wendrich (eds.), Berenike 1994: preliminary report ofthe 1994 excavations at Berenike (Egyptian Red Sea coast) (Leiden: CNWS, 1995).
+Commodities 175 By contrast, the Nile Valley itself has almost nothing to offer; 79 and, as we
+have seen above, the archaeological yield from Italy itself has been extremely
+scant.
+80 Various kinds of material have been found: pots and amphorae,
+bronzeware, and coins. The best-known Indian site is that of Arikamedu,
+in part because it was excavated by the British archaeologist Mortimer
+Wheeler in the years 1944-48; but more recent work has challenged his analysis that this may be viewed as a Roman settlement.81 It is in respect to glassware that archaeology and the Periplus are most
+closely compatible. In the Periplus we hear of three different sorts: coloured
+or millefiori-type glass (6, 7, 17), glass vessels (39) and unworked glass (49, 56).
+82 Many different kinds of glass beads were found in the 1967
+excavations at Ter (Tagara of the Periplus), and many of its items have been
+dated to the first century ad. Glass vessels tended to be imported to the northwest of the subcontinent, whereas southern India received a greater proportion of raw glass, in the form of ingots. Much of this was destined
+for Indian bead industries in the Deccan and in the south of India,83 but some may have found its way farther east to China. Finds at Arikamedu
+reveal a specialised glassworking industry there. 84 Predictably, the most plentiful Greco-Roman material remains to be found on the subcontinent have been amphorae. The majority of those found at Arikamedu carried wine, others olive oil or the fish-sauce called garum.85 On a recent assessment these are thought to be of the first century
+79 Richard Alston, ‘Trade and the city in Roman Egypt’, in Trade, traders and the ancient city, ed. Helen
+Parkins and Christopher Smith (London: Routledge, 1998), pp. 168-202, at 194.
+80
+It is striking how little of obviously Indian origin has been found in the Mediterranean world, compared with Greco-Roman finds in India and Egypt. One factor to be taken into account is that
+archaeologists who have worked in the subcontinent (e.g., Mortimer Wheeler and John Marshall) came to their Indian work with a background in classical archaeology, and were thus quick to recognise Greco-Roman artifacts when they encountered them; not so the reverse. On Wheeler in India see Jacquetta Hawkes, Adventurer in archaeology: the biography ofSir Mortimer Wheeler (New
+York: St Martins, 1982), with reference also to his memoirs.
+81 M. P. Charlesworth, Trade routes and commerce ofthe Roman Empire, 2nd edn (New York: Cooper
+Square, 1970), p. 131; Vimala Begley, The ancient port ofArikamedu: new excavations and researches, 1989-1992 (Pondichery: Ecole fran9aise d’ Extreme-Orient, 1996), p. 6.
+82 For a comparable range of glass material found on the African side of the Periplus trade, see
+E. M. Stern, ‘The glass from Heis’, in Sur les routes antiques de TAzanie et de TInde. Le fonds
+Revoil du Musee de I’Homme (Heis et Damo, en Somalie), ed. J. Desanges, E. M. Stern and P. Ballet
+(Paris: MAI, 1993), pp. 21-61.
+83 E. M. Stern, ‘Early Roman glass from Heis on the north Somali coast’, in Annales du ioe Congres de
+TAssociation pour THistoire du Verre (Amsterdam: AHIV, 1985), pp. 23—36, at 33. 84 E. M. Stern, ‘Early Roman export glass in India’, in Rome and India: the ancient sea trade, ed. Vimala
+Begley and Richard D. De Puma (Madison: University of Wisconsin Press, 1991), pp. 113-24.
+85 E. Will, Les Palmyreniens. Venise des sables (Paris: Colin, 1992), p. 150. A detailed recent study of
+terra sigillata at Arikamedu concludes that its remains originated in different production centres in
+176 Contexts ofa discourse ad, though they had earlier been considered somewhat later in date.86 The
+same can be said for Berenike, where pots have been shown to come from
+as far west as Spain. In addition, several terracotta oil lamps of the early imperial period have come to light at Arikamedu and Ter in the Indian
+interior. A somewhat different picture emerges from Begley’s study of Indian
+ceramics on the subcontinent,87 and this is introduced here to complicate an otherwise clear picture. On the basis of two types of ceramic finds, namely rouletted ware from the northwestern coast and mouldmade ware from the southeast,88 she suggests that the Coromandel coast traded with
+the Mediterranean as early as the second century bc, that is some two
+hundred years before the Periplus. But this must be taken with some caution,
+as the only apparent grounds for viewing these ceramics as evidence for Greco-Roman trade is that they ‘show clear influence of classical ceramic
+techniques and styles’. 89 The inland site of Kolhapur has yielded a cache of 102 bronzes.90 This is a great windfall: the value of bronze is such that it is prone to melting down
+and reuse. At least ten are Roman imports, including mirrors, stands and
+lamps, whereas the rest are more likely Indian in origin. Most famous is the statuette of Poseidon, 12.8 cm high and finely crafted. 9' The Kolhapur museum alone offers also jugs (Millingen-type oinochoe), basins, strainers, mirrors and a delicate calithiscus (cup) made of bronze. But just how
+much of this was imported from the Greco-Roman world, and how much
+produced locally?92 In the case ofartifacts such as the Poseidon, the emblema
+the Mediterranean world: Howard Comfort, ‘Terra sigillata at Arikamedu’, in Rome and India, ed. Begley and De Puma, pp. 134-50.
+86 Will, Palmyreniens, pp. 154-5, places the ceramic finds in the first century bc and the first ad, whereas
+since Wheeler it has been customary to date them to the first two centuries ad. She has found no
+clear evidence pointing to the second century.
+87 Vimala Begley, ‘Ceramic evidence for pre-periplus trade on the Indian coasts’, in Rome and India, ed. Begley and De Puma, pp. 157-96.
+88 The best examples of these ceramics are stamped bowls, footed cups and dishes from Arikamedu,
+and they differ markedly with finds from the northwest. The ceramic types of the two groups
+are not related to each other, hence Begley’s conclusion that, while both regions traded with the Mediterranean world, they did not have contact with each other.
+89 Begley, ‘Ceramic evidence’, in Rome and India, ed. Begley and De Puma, p. 157. 90 On the problems of identifying this site, see Richard Daniel De Puma, ‘The Roman bronzes from
+Kolhapur’, in Rome and India, ed. Begley and De Puma, pp. 8z—112, at 82.
+91 Kolhapur Museum inv. 932. It may be considered a copy of a lost original by Lysippus ( c. 340 bc), and can itself not be exactly dated, nor can we exclude the possibility that it came to the subcontinent much later. 92 De Puma, ‘Roman bronzes’, in Rome and India, ed. Begley and De Puma. It might be noted here,
+in passing and by comparison, that a substantial number of Roman bronze statuettes have been
+unearthed in Frisia, another region ‘beyond the imperial frontiers’ (Wheeler, Imperial frontiers, p. 52). This may be taken as a reminder of the problem of the diffusion of artifacts.
+Commodities 1 77
+with Perseus and Andromeda, and the distinctive jug-handles, importation seems probable, a priori, given the degree of similarity to artifacts in the Mediterranean world itself. But not so for all the bronze finds. An interesting case is presented by the three mirrors, which despite overall similarity exhibit
+features not matched in any Roman mirrors thus far found.93 In general, the bronzes point to the Satavahana period (first to third centuries ad) but do not suggest any more specific a date for trade contact. Coins are the final and most complex class of Greco-Roman goods to be found in India. 94 Hoards have been found at an astonishing variety of locations throughout the subcontinent, particularly but not exclusively
+in the south. In the 1980s coins were found on the Laccadive Islands:
+this appears to be a first ‘shipwreck’ hoard, i.e. one reflecting the kinds of coin in the condition in which they were imported from the west, and
+as such particularly valuable. These finds are still being examined, but
+initial indications are that this hoard contains a much higher percentage of Republican coins than anything yet found on the subcontinent.95 The known hoards have usefully been classed into three sections.96 First, the early Julio-Claudian silver hoards, e.g. those found in the Coimbatore
+district. These exhibit only a small number of types, and are in fair to good condition, suggesting that they were carefully selected and quickly buried near centres of trade. Most of these date to the reigns of Augustus and Tiberius.97 Secondly, there are Julio-Claudian gold hoards. These reveal greater diversity oftypes, and their state ofwear depends on the composition
+ofthe hoards: they vary in condition between worn (that is, much used) and
+new. Tiberian and Claudian types predominate, thus making them slightly
+later. Thirdly, there are second-century gold hoards, which are mostly in good condition. Antoninus Pius and Septimius Severus feature large. 98 The relative absence of Republican coins is accentuated by a sudden
+influx ofAugustan and Tiberian denarii: this suggests a sudden surge in trade
+93 [)e Puma, ‘Roman bronzes’, in Rome and India, ed. Begley and de Puma, pp. 98—100.
+94 A general problem in the use of coins as historical evidence is germane here: how long had the coins been in circulation before being buried in hoards? Given that we are dealing with a region outside
+the Roman world, it is a genuine question, for that matter, whether coins were used at all. 95 Ball, Rome in the east, p. 127.
+96
+P. J. Turner, Roman coins from India (London: Royal Numismatic Society, 1989).
+97 For the Tiberian context, see Cosmo Rodewald, Money in the age of Tiberius (Manchester University
+Press, 1976), esp. pp. 29-51.
+98 A staggering number of Roman coins have been found in Sri Lanka, perhaps many times the number
+of finds on the subcontinent itself. But they are far from fully published and have thus far received
+relatively little attention from scholars, the exceptions being Weerakkody, Taprobane, pp. 151-70; Osmund Bopearachchi and Wilfried Pieper, Ancient coinsfrom Sri Lanka (Turnhout: Brepols, 1998); Kenneth W. Harl, Coinage in the Roman economy (Baltimore: Johns Hopkins University Press, 1996), pp. 290-314.
+i7» Contexts ofa discourse
+in the latter part of Augustus’ reign. This at least has been the orthodoxy
+for some time, and may be revised in the light of the new Laccadive islands, which reveal both a greater number of Republican coins and a wider variety of Augustan types than had hitherto been seen. About this there remain many questions. What is clear is that the Julio-Claudian period saw a
+transition from silver to gold. It is possible that local traders lost confidence
+in the denarius." What is puzzling is that this switch took place before Nero’s debasement of the currency in ad 64, so that it does not seem as if the switch was occasioned by the debasement.100 At any rate, gold replaced
+silver, which is not found after that point. A feature of the Roman coins found in India is that many have been
+slashed, whereas others have two punch-marks. This is true for two silver hoards, namely those at Akenpalle and Nasthullapur. Punch-marks are
+to be found also on the terracotta figures resembling coins, which were most likely produced locally as imitations.101 It is not easy to explain why
+they have received this treatment. Given the locality of the finds, Buddhist
+practices may have played a part, it has been argued. Possibly, the punchmarks suggest use as jewellery. 102 Economic explanations have also been
+advanced, namely that the silver coins were marked so as not to interfere with the new Indian coinage, the Satavahana silver of around ad 70—90;
+or to disqualify them from returning to the Mediterranean. This complex
+issue has been subject to much speculation and is far from resolved.
+III.2. Chronologies, personnel and routes How are we to understand the dating of these exchanges? The literary sources discussed above point overwhelmingly to the first and second centuries ad as the high point of commerce. The key documents bear this out, namely the Periplus of the mid-first century ad and the Muzuris papyrus of the mid-second. The archaeological record presents many complications of detail, but even here it is possible to detect a similar centre of gravity. For one thing, finds of Roman coins have generally reflected this pattern, though new finds tend to give increasing prominence to Republican coins.
+59 By contrast, Sidebotham, Roman economicpolicy, p. 30, suggests that the Roman government may
+have restricted silver exports but not gold.
+100 Nero reduced the aureus from 1/42 to 1/45 of a pound, and the denarius from 1/84 to 1/96 the amount of silver.
+101 See, e.g., Wheeler, Imperialfrontiers, plates xxviii and xxix for Tiberian examples.
+102 Certainly the practice of turning coins into jewellery was known in the Roman world, as was its reverse: see Christopher Howgego, ‘The supply and use of money in the Roman world 200 bc to ad 300\JRS 82 (1992), 1-32, at 9.
+Commodities 179 There are obvious reasons whywe should be faced with this basic chronology. The Pax Romana that began with Augustus’ victory over the forces of Antony at Actium in 31 bc brought an end to decades of civil war and made
+possible an ease of long-distance commerce that had earlier been impossible. But it was even earlier, in 65 bc, that Pompey quashed piracy in the
+eastern Mediterranean, and turned Nabataea into a client state of Rome.
+This fact serves as a reminder of the economic implications, if not impetus, of military initiatives. It does not, of course, tell us anything about state
+initiatives per se. To take a later instance, we might consider L. Aelius Gallus was prefect of Egypt about 25-24 bc. 103 The story of his ill-fated expedition into Arabia recorded by Strabo, who claims he was misdirected and
+otherwise deceived by the epitropos Sullaios. 104 Strabo suggests that there
+are economic motives to the expedition, stemming from tales of wealth of
+Arabia and this has, plausibly, won acceptance from modern scholars.IOS From the early third century, we have Herodian’s account (4.10.4) of a remarkable proposal of the emperor Caracalla to the Parthian king, Arta- banus V: the unity of our two empires, he says in a letter that proves to be
+a ruse, would be a great boost for the exchange and consumption of luxury
+goods. There is no reason to take this remarkable episode at face value, and it is perhaps no accident that the Roman emperor involved is known
+to have been a keen imitator of Alexander.106 All of these accounts give a
+political-military edge to the story of long-distance exchange, particularly around the time of Augustus. While their relevance cannot be denied, it
+is important to put them into perspective by emphasising traces of such exchange before and after the Pax Romana. The Ptolemies may have taken measures to control the Red Sea itself, including the establishment of Berenike and other ports, but they do not appear to have developed long-distance trade of the scale involved here. This at least is the orthodoxy, and it is not entirely wide of the mark. But a few qualifications must be aired. As early as the second century bc we hear of commercially motivated travel to ‘spice lands’, which may be India. 107 The picture is considerably complicated by the possibility that Arab and
+103 Prosopographia Imperii Romani
+1 A 179.
+104 16.4.22-24 C780-782. Gallus receives brief mention also at 2.5.12 C118 for ‘opening up’ Arabia to Roman geographical knowledge through military conquest.
+105 Cf. Cass. Dio 53.29.3-4; Bowersock, Roman Arabia, pp. 46-9.
+106 For a discussion of Herodian’s anecdote, Otto Kurz, ‘Cultural relations between Parthia and Rome’,
+in Cambridge History of Iran, ed. Ehsan Yarshater (Cambridge University Press, 1983), vol. III.i, pp. 559-60; Malcolm A. R. Colledge, The Parthians (New York: Praeger, 1967), pp. 171-2. On
+imitation of Alexander on the part of Roman emperors, see Chapter 5, sections I.5-6 below.
+107 Ulrich Wilcken, ‘Punt-Fahrten in der Ptolemaerzeit’, Zeitschrift fur agyptische Sprache und Alter- tumskunde 60 (1925), 86-102.
+180 Contexts ofa discourse Indian traders acted as intermediaries. 108 Furthermore, among the various
+theories advanced in antiquity about the ‘discovery’ of the monsoon route between the Red Sea and India, two point to the Ptolemaic period (see section V.i below). The issue of continuities between the Hellenistic and Roman periods is an important one. In the most obvious sense, the port of Berenike was a Ptolemaic foundation.109 Yet it seems that the initiatives of the Ptolemaic
+period were aimed at control of the Red Sea (in the narrow modern sense), rather than of the Indian Ocean trade. 110 The Periplus offers a revealing comment on the port of Eudaimon Arabia, modern-day Aden, which had
+fallen on evil days by the time he was writing: Eudaimon Arabia, previously a fully-fledged city, was called Eudaimon (‘prosperous’) when it used to receive the cargoes of both India and Egypt, since ships from
+India did not venture as far as Egypt and those from Egypt did not dare sail to
+farther destinations but came only this far, just as Alexandria receives goods from
+distant lands as well as from Egypt. (26)
+111 The suggestion here that there was trade activity predating the Periplus is a
+significant one, and one that adds resonance to Strabo’s comment at 2.5.12 C118, that the Roman takeover of Egypt boosted trade with India. It is important to note the Periplus author’s reference to ‘vessels from India’: it
+is quite possible that these were Arabian or Indian vessels rather than ones from Egypt. The picture becomes even more complicated when we consider the other
+large Hellenistic kingdom, that of the Seleucids. Now there are a number
+of signs that the Seleucid empire pursued some trade contact with India, and this points us toward alternatives to the monsoon route. It is after all true that the Periplus shows no more than a most rudimentary knowledge
+of the Gulf. Seleucid commercial exploitation of Failaka and of Dilmun
+had roots in earlier trading patterns involving Mesopotamian peoples. 112 In
+fact, this is the point at which we must consider trade in the Arabian Gulfin
+108 Raschke, ‘New studies’, 637-50, accords a prominent role to intermediaries.
+109 Pliny (6.168) tells us that Ptolemy II Philadelphus founded Berenike in his mother’s honour.
+110 Sidebotham, Roman economic policy.
+111 euSaipcov 5e ETtEKAf|6p, npoTEpov oucta ttoAis, ote, pfinco cato Tfjs IvSiKps e!s ti)v Aiyunrov
+SpX°U£Vcov pt|8e atro Aiyutrrou toApcovtcov eIj tous ectco tottous SiaipEiv aKh' aypt Tatnris
+TTctpayivopEvcov, tous Ttapa apcpOTEpcov <|>6pTOUs cnreSeyETo, monsp 'AAEfjccvSpeia Kai tcov
+e£co6ev Kai tcov cnro ttis Aiyunrou <|>EpopEvcov crrroSEXETai. Compare this passage with Plin. HN12.82-88.
+112 Jean-Franpois Salles, ‘The Arab-Persian Gulf under the Seleucids’, in Hellenism in the East, ed. Amdlie Kuhrt and Susan Sherwin-White (Berkeley: University of California Press, 1987), pp. 75-108.
+Commodities 181 a slightly broader compass. This is something that helps put the monsoon
+trade in perspective, but not without adding problems of its own. Excavations undertaken since the 1950s in Bahrain (Dilmun of ancient Sumerian
+sources) suggest that trade activity in the Arabian Gulf reached a high point
+in the period around 3300-2200 bc. The island acted as a clearing house
+for exchange involving the Mesopotamian and Indus valley civilisations, a role it lost only with the decline of India’s Harappan civilisation in the
+early second millennium bc.113 The first centuries of the first millennium bc saw expansion of trade
+activity in the Gulf: there had been active trade links between India and Mesopotamia or southern Iran under the Neoassyrians and Neobabylonians, lasting at least through the Achaemenid empire.114 Later still, the Achaemenids and Seleucids maintained a naval presence in the Gulf to support their entrepots. Rather than establishing a colonial settlement in the usual sense, the Seleucids seem to have pursued a deliberate policy with commercial objectives. 115 It is important here to see Seleucid commerce as a continuation of earlier activity in the Gulf. Its continued use into Roman times is something to keep in mind, and prevents us from seeing the Periplus trade in isolation. The Parthian stations of Isidore of Charax (early first century ad), not to mention the archaeological record of sites such as Palmyra, must keep us mindful that overland transport in the very period of the Periplus continued
+to be an important alternative. The Gulf, together with the Euphrates
+(for someone sailing upstream) provided an alternative route that then led overland from Palmyra. This settlement in modern-day Syria is the only
+definite ‘caravan city’ for whom trade represents an entire raison d’etre.
+116 There can be no doubt that it was a major commercial centre with various
+trade-routes passing through it. Appian provides an instructive reference
+to Palmyra in narrating the events of 41 bc ( Civil wars 5.9). Antonius sends
+troops to plunder Palmyra: his motives are the enrichment of his soldiers,
+113 R. H. Brunswig, A. Parpola and D. Potts, ‘New Indus type and related seals from the Near East’, in Dilmun: new studies in the archaeology and early history ofBahrain, ed. D. T. Potts (Berlin: Reimer,
+1983), pp. 101-15; Michael Rice, Searchfor theparadise island ( London: Longman, 1984), p. 8; Harriet Crawford, Dilmun and its Gulfneighbours (Cambridge University Press, 1998), p. 141.
+114 Michael Rice, The archaeology of the Arabian Gulf, c. $000-323 bc (London: Routledge, 1994);
+cf. H. Schiwek, ‘Das Persische Golf als Schiffahrts- und Seehandelsroute in Achamenidischer Zeit und in der Zeit Alexanders des Grossen’, BonnerJahrbiicher 162 (1962), 4-97. "s Salles, ‘Arab-Persian Gulf, p. 98.
+116 M. Rostovtseff, Caravan cities (Oxford University Press, 1932), had written in broadly similar terms
+also of Petra and Gerasa (Jerash) in Jordan, and Dura-Europos on the Euphrates. This is subject
+to critique by Millar, ‘Caravan cities’; cf. Will, Palmyreniens, pp. 57—102, esp. 78—81, and Young,
+Rome’s eastern trade, pp. 136-86.
+i 82 Contexts ofa discourse says Appian, though he invents a pretext for the attack. But in the event, the Palmyrenes, forewarned, transported themselves and their goods to the
+far side of the river, and from there protected themselves with their archery. Of significance to us here is Appian’s gloss on the Palmyrenes, who ‘being
+traders, bring Indian and Arabian goods from the Persians and distribute them in Roman territory’. 117 Pliny (5.88) speaks of Palmyra as preserving
+its own fortunes, given its economic role and its location in an interstitial zone between the Roman and Parthian empires. It should thus be stressed that the extensive use of the monsoon from the Augustan period onward
+brought about a partial, not complete, change of trade-routes. In late antiquity, Greco-Roman seaborne trade with India was to be
+eclipsed by Axumite trade. It is the Periplus that offers the earliest reference
+in Greek literature to the city of Axum, at a stage when it had not yet acquired its subsequent prominence: On this section of the coast, facing [the island of] Oreine, the moderately sized
+village of Adulis is located twenty stades inland. From Adulis it is a three-day journey to Koloe,118 an inland city that is the first trading post for ivory, and from
+there another five days to the metropolis itself, which is called Axum; all the ivory from beyond the Nile is brought into it through what is called Kyeneion, and from
+there down to Adulis. The large number of elephants and rhinoceroses slaughtered
+all inhabit the upland regions, though very occasionally they are also seen on the
+coast around Adulis itself. (4)
+119 The city ofAxum emerges from the Periplus as the main commercial centre of the Southern Red Sea basin.120 From the later third to the seventh century ad its power was to expand to such an extent that we can talk about an Axumite kingdom. The fact that Axum began to mint its own
+coins from the third century may well indicate its increasing economic self- determination. 121 Its high point came in the mid-fourth century following
+the conquest of Meroe. 122 Central to its power as an empire would be its
+117 gpuropoi yap ovtes kohi^oucti |i£v ek FlEpacov Tdlv8iKa p Apa(3 ia, 8iaTi0£VTat 8’ev TrjPconaicov.
+118 This location does not fit well with Ptolemy’s reference to the city of Koloe (4.7.25): see further Casson, Periplus, p. 106.
+119 Kat kot’ auTpv Tpv ev Tp OpEivr) f|7TEipov atro crraSlcov eikocti tt\s 0aAdcrCTps ecttiv p A8ouAi,
+Kcbprj cjunnETpos, at})’ fjs eis nev KoAopv MEcroyEtov ttoAiv Kal rrpcoTov Eiitroptov tou eAe^ovtos 080s ECTTIV T)|JEpCOV TplGOV OCTTO 8e TaUTpS EIS OCUTpV TpV ppTpOTTOAlV TOV ’A^CO|ilTT|V A£y6|i£VOV aAAcov ppEpcov ttevte, e!s ov 6 ttocs £AE(J>as diro tou TTEpav toO NeiAou <J>£pETai 81a toO AsyopiEvou
+KurjVEiou, ekeT0ev 8e e!s ASouAi. to pev oOv oAov TrAf)0os tcov <|>oveuom£vcov £AE<j>avTcov Kai piVOKEpCOTCOV TTEpi TOUS OtVCO VEHETCTl TOTTOUS, CTTTaVlCOS 84 TTOTE Kat EV TCO TTapa 0aAaCTCTCfV TTEpl auT-pv Tpv A8ouAt 0EcopoOvTai.
+120 Burstein, Ancient African civilizations, p. 18.
+121 Sidebotham, Roman economic policy, p. 47 n. 94.
+122 Once Axum first circulated coins, in the third century, they used Greek as well as Sabaean and
+Ethiopic, thus suggesting some degree of Hellenic influence.
+Commodities 183
+role in the Red Sea trade, a role it was finally to lose with the Arab conquest of Egypt and the Near East. Kushite civilisation reached its apogee at much
+the same time as the Periplus trade, that is in the first and second centuries ad, as we gather from the archaeological record of its cult monuments and
+royal pyramids . 123 It was thus not till somewhat later than the Periplus that Axumite trade rises, stepping into the breach left by the decline in direct Greco-Roman commerce.
+This consideration of chronology shows that the first two centuries ad
+indeed seem to have been a high point of commercial contact, but in the
+limited sense of the monsoon trade only, and in so far as traders from Roman Egypt were undertaking the entire journey on their own. However,
+every effort should be made to keep this in perspective, both by being aware of traces of the participation of Arab and Indian traders, and particularly of the phenomenon of ‘tramp trading’ (for which the Periplus itself gives extensive evidence). 124 Furthermore, the monsoon should be seen in terms of much larger trade networks also, especially the Arabian Gulf route which
+flourished in the third millennium bc and was also known to Romans,
+though not obviously to the Periplus author. Significant new work has shown the degree of commerce between the subcontinent and southeast
+Asia, something on which the Greco-Roman sources have relatively little to say. 125 The broader context of the eastern trade has implications for any
+attempt to assess Roman experiences of the subcontinent, direct or indirect (section V.i below).
+IV. COUNTING COMMODITIES, OR HOW TO
+LIE WITH STATISTICS The two best-known passages concerning Roman trade with the east are to be found in Pliny’s Natural history. The first comes in the context of his topographic discussion of the parts of the inhabited world, at a point when
+he is discussing the Indian Ocean: And it will not be inappropriate to set out the entire route from Egypt, now that
+reliable information of it is available for the first time. It is an important topic, given that in no year does India drain off less than fifty million sesterces of our
+123 Derek A. Welsby, The kingdom of Kush: the Napatan and Meroitic empires (Princeton: Markus
+Wiener, 1998), esp. p. 199.
+124 Pace Miller, Spice trade, p. 241, who claims that ‘most of the Indian trade by sea was direct’.
+125 Indian Ocean., ed. Reade; but see section v below for ancient information on the Bay of Bengal.
+184 Contexts ofa discourse
+empire’s wealth, sending back goods to be sold among us at a hundred times their original cost. (6.101)
+126 Pliny proceeds, after this passage, to describe the route taken by traders on
+the way to India, on much the same lines as described in section III above: they would sail down the Nile from Alexandria, cross the Eastern Desert, then embark at one of two ports on Egypt’s Red Sea coast (6.104—6). The
+tone of this passage is neutral, and the reference to commercial activity serves to underline the importance of the topic rather than undermine it; but in a comparable passage elsewhere Pliny sounds a moralising note.127 Here the discussion is about spices and their origin. Proceeding regionally, Pliny is here covering ‘Happy Arabia’ (Arabia Felix, where the adjective in the name carries connotations of fertility and prosperity too): But the title ‘happy’ is still more appropriate to the Arabian Sea, for it is the source ofthe pearls which that country sends us. And by the lowest count India, China and
+the Arabian peninsula remove 100 million sesterces from our empire each year -
+that is what our luxuries and our women cost us. For what fraction of these, I ask you, now goes to the gods or to the underworld deities? (12. 84)'28 Moral rectitude again emerges as the all-important lens through which
+Pliny visualises the issues at hand. Nonetheless, this obvious insight cannot
+exonerate us from considering in more strictly economic terms the implications of luxury consumption. Both passages contain numbers which are potentially valuable evidence; in fact they have been used to support the most divergent kinds of analysis. They have been dismissed as ideological
+projections.129 As a hypothesis, we might nonetheless still want to ask what
+these figures, and indeed the undoubted reality of the trade as a whole, mean for the Roman economy. Such a question obviously has implications
+for any understanding of Pliny’s statements above; can they in any way be
+used to write an economic history of Rome? The larger question concerns
+the place oftrade in the economy, long-distance trade in non-essential items
+126 nec pigebit totum cursum ab Aegypto exponere, nunc primum certa notitia patescente: digna res, nullo anno minus HS.\D\ [milia] imperii nostri exhauriente India et merces remittente, quae apud nos
+centiplicato veneant.
+127 Wallace-Hadrill, ‘The elder Pliny’, and Beagon, Roman nature. In the case of the second passage
+Pliny’s negative attitude to the emperor Nero accounts for some of the animus shown: Beagon, Roman nature, p. 191.
+128 verum Arabiae etiamnumfelicius mare est; ex illo namque margaritas mittit. minimaque computatione
+miliens centena milia sestertium annis omnibus India et Seres etpaeninsula ilia imperio nostro adimunt:
+tanti nobis deliciae et feminae constant, quota enim portio ex illis ad deos, quaeso, iam vel ad inferos pertinet?
+129 Thus Moses I. Finley, The ancient economy, 2nd edn (Berkeley: University of California Press, 1985),
+p. 132, influentially.
+Commodities 185 being one subsection of trade tout court. It is worth stating the obvious here: of the goods discussed in section I above, none is a subsistence item, and
+there is every indication that high-value items predominated by far in the
+eastern trade. Yet, one complication arises when we bear in mind that this trade passed through Egypt, the breadbasket of imperial Rome. Within the Mediterranean itself, the distribution of these luxury items will not have been as easily distinguished from the bulk transport of staple products as would have been the case in the Red Sea and the Indian Ocean. There are several senses in which Pliny’s figures are a problem. One is that the current archaeological record on the subcontinent provides nowhere
+near the quantity of gold (or silver) coins suggested. Of course no great conclusions can be placed on this fact in itself, especially when, as shown
+above, some coin hoards have indeed been found and many still await scholarly examination. Secondly, it is clear from the Periplus that coins are among
+the items exchanged in the eastern trade. Thus the major port of Barygaza
+in the northwestern province ofGujarat offers a market for ‘Roman money,
+gold and silver, which commands an exchange at some profit against the
+local currency’ (49): these are listed among several items for import and
+export. Further, the port of Bakare farther south is also listed as a major
+importer of money, this being one of the items for which pepper and mala- bathron would be obtained (56). As indicated above, it is possible that gold and silver coins were melted down or otherwise used as bullion outside of
+their original area of exchange; the fact that hoards were frequently slashed or punched suggests they could have been disqualified from reintroduction
+into the narrower Roman economy of the Mediterranean.
+Perhaps the greatest pitfall in the attempt to make economic sense of this trade is the error of enthusiasm, the tendency to overestimate its extent.130 Reasons for such enthusiasm are not hard to find, when it suggests a model
+of commercial activity much more glamorous than the exchange of the
+staples, such as the ‘Mediterranean triad’ of wine, olive oil and wheat, the
+first two ofwhich are especially well attested archaeologically. So the extent of the luxury trade has enormous implications for any understanding of the Roman economy: to emphasise the trade in commodities, at the expense of
+staples, is to give ancient trade a modern aspect. How much was the supply
+of luxury goods driven by the demand at home? Did the state promote
+and regulate the trade, or was it entirely in the hands of entrepreneurs working in their own interest? When modern western economic practices have been so intensively studied, with so much more evidence to hand,
+130 Whittaker, ‘To reach out’, 20.
+i8 6 Contexts ofa discourse there are both advantages and dangers in adopting modern analyses in order to understand premodern. All of these subsidiary questions impact on the way in which we characterise ancient economic practices generally. In sum, we are faced with two distinct questions: can we, and should we
+separate ancient moralising from economics?
+Self-evidently, it is impossible to make sense out of statistics such as Pliny’s without a broader context. The most recent comprehensive assess- ment of the Roman imperial economy estimates the mint production at around 170—200 million sesterces per annum, reaching about one-quarter of the total budget of around 800 million sesterces.'31 By this reckoning,
+fully one-eighth of the total budget of the early empire was being siphoned
+off to the greater Red Sea region — an improbably high percentage. But
+here the Muziris papyrus offers valuable evidence, for the loan agreement
+to which it refers states its total value at 1,154 talents and 2,852 drachmae
+of silver, which would have amounted to a massive 7 million sesterces.
+132 Strabo says, on the basis of his own experience, that 120 ships per year would sail from the Red Sea port of Myos Hormos to India (2.5.12 C118),
+a number that presumably would have increased hugely if other Red Sea
+ports were included. Thus, even if these figures are not adjusted considerably, they suggest that Pliny’s numbers at the start of this section are still within the bounds of the possible. Further, if the average annual income per head in the Roman empire around Pliny’s time has been calculated at somewhat below 400 HS, then
+the figures mentioned by Pliny are astronomical. On the other hand, the same study emphasises the high degree to which wealth was concentrated
+in the hands ofa very small group: 600 senatorial families received some 0.6
+per cent ofthe total personal income, and the top 3 per cent received between
+20 and 25 per cent.133 Ifwe can thus conclude that a small number ofRomans
+were extremely wealthy, then Pliny’s numbers are not so unbelievable. His
+high figures may thus be explained by the wealth of the richest Romans
+both in having the spare resources for such purchases, and their use for them in maintaining the luxurious lifestyle. A further general consideration keeps Pliny’s figures within the limits of credibility. It seems likely that a very high percentage of the Roman
+empire’s gross national product was materialised in the form of gold and
+131 R. Duncan-Jones, Money andgovernment in the Roman Empire (Cambridge University Press, 1994).
+132 Millar, ‘Looking east’, 531.
+133 R. W. Goldsmith, ‘An estimate of the size and structure of the national product of the early Roman
+empire’, Review ofIncome and Wealth 30 (1984), 263-88.
+Commodities 187
+silver coinage, and was thus in circulation. 134 This feature is of course in
+stark contrast to the modern American economy, in which only a very small
+fraction of the GNP is in circulation at any one time. As a result, though
+this was a huge sum of money, it would not have affected the Roman
+economy to the extent Pliny implies. Again this would mean that Pliny’s
+statistics for the supposed haemorrhage are not impossible a priori. This
+conclusion comes as something of a surprise when there has already been so much evidence for Pliny’s ethical concerns. Certainly, the moralistic edge
+of Pliny’s comments are no guarantee that they make bad economic sense. The demand side of the eastern trade is easily established and needs little clarification. The city of Rome was in the late Republic more of a con- sumer city than the Mediterranean world had ever seen before; this meant, among other things, the ever increasing need for grain to be imported from
+far afield to satisfy the needs of its population. 135 Its population may have been as high as 500,000 around the turn of the millennium, making it by
+far the Mediterranean’s largest city. Its cosmopolitanism is seen in many
+sources, not least Juvenal’s Satires and Martial’s Epigrams. Popular enter- tainments were more important than ever before in securing the goodwill of the Roman plebs, and these alone created a demand for the wild ani- mals mentioned in section 1 . 5 above. Whereas they played an important
+role in the political rivalries that marked the middle decades of the first centuries bc, under the Principate of Octavian/Augustus they continued
+to be a sign of imperial beneficence. The description of the spectacles given above already made it clear that, at least in contemporary descriptions to survive, there was a politics of numbers: the greater the number of animals
+that were killed, the more impressive, and hence the more effective, the
+spectacle. But there was, in addition, a private aspect to this. The legendary wealth ofLucullus and Pompey, both obtained on military campaigns in the eastern Mediterranean, provided the benchmark for conspicuous consumption. The area of the Bay of Naples, archaeologically well preserved as a result of
+the eruption ofVesuvius in ad 79, contained elite areas with villa complexes.
+It is here that the social practices and attitudes of the Roman 6lite have been
+well studied, especially through architectural remains.136
+134 Duncan-Jones, Money andgovernment.
+135 Purcell, ‘The city of Rome and the plebs urbana\ pp. 644-88.
+136 John H. D’Arms, Romans on the Bay ofNaples (Cambridge, MA: Harvard University Press, 1970); Andrew Wallace-Hadrill, Houses and society in Pompeii and Herculaneum (Princeton University
+Press, 1994); Paul Zanker, Pompeii: public and private life (Cambridge, MA: Harvard University
+Press, 1998).
+i88 Contexts ofa discourse The younger Seneca takes a grim view of this world of pleasures: in aphoristic fashion he says that ‘people eat to vomit and vomit to eat. Their
+dishes are brought from every corner of the earth, but they do not even
+bother to digest them.’137 Trimalchio’s dinner-party, with its eminently
+lavish fare, is exactly the kind of gathering Seneca will have had in mind, all the more so in light of the host’s upstart social status. And when Pliny tells of individual fish that cost the price of three cooks (9.67), or Juvenal of a mullet that cost 6,000 sesterces (Sat. 4), there is moral outrage, but there is also a note offascination underlying the account. It is to a later account that we must turn to see both competitiveness of consumption and its hold over an author’s imagination. Macrobius, writing around ad 400, tells the story of rivalry between Mark Antony and Cleopatra in the 30s bc. So greedy had Antony become for the delights of the east that he had conquered Egypt; but his wife Cleopatra, ‘since she could not endure being outdone in luxury by Romans’ (quae uinci a Romanis nee luxuria dignaretur), took a bet with him that she could consume 10 million sesterces at a single dinner. This she won by drinking a large pearl that she had dissolved in vinegar.138 In this admittedly extreme example, in which the passage of four centuries had made Antony and Cleopatra into bons vivants of legendary proportions,
+the rhetoric of numbers is a means of one-upmanship. Thus far we have seen large numbers but there are numbers on a smaller
+scale too. Pliny’s account of eastern spices in book 12 makes consistent
+reference to the price fetched at Rome in each case. Thus, for example,
+long pepper sells at fifteen denarii per pound, white pepper at seven, black
+at four. 139 This is in itselfa reminder that we cannot expect Pliny’s work to be
+in any sense ‘pure’ natural history, a concept against which Foucault argued with regard to eighteenth-century encyclopaedias.140 In effect, when Pliny’s text does reflect the information from contemporary traders (admittedly,
+less so than the authority of texts), it is in some ways closer than one might
+have expected to the Periplus. Without denying the utilitarian nature of this
+text, it is also striking that here too we find information, both historical and
+natural historical, which would be of no apparent value to a trader. Nobody
+would deny the power of textual authority in Pliny’s Natural history, as has been made evident by contrast with other forms of authority on any
+one topic.141 But a comparison with the Periplus allows us to glimpse an
+unexpected facet of the making of this important work.
+137 Helv. 10.3; cf. Ep. 95.42. And see Edwards, Politics ofimmortality, pp. 186-7.
+138 Sat. 3. 17.15; cf. Plin. HN9. 120-21. 139 12.28; cf. Miller, Spice trade, pp. 26-8.
+140 Foucault, Discipline andpunish. 141 Lloyd, Science, folklore, pp. 139—45.
+Commodities 189 To conclude this section, we are left with the problem of numbers, both
+the large numbers for the trade as a whole, and the smaller ones for indi- vidual commodities. Nobody will deny their usefulness for certain kinds of economic history, yet there are serious difficulties in using them; but they should not be used uncritically when they appear in historical sources.' 42 Certainly, it is appropriate to say that Pliny’s statistics are suspect: they are suspiciously rounded, and in any case, it is unclear what source could possi- bly have given him the information he claims to have. So Pliny himself may
+have been lying with statistics, using them to reinforce points motivated by
+concerns with morality. But at all events their purely econometric function
+is of limited use to us in the present inquiry. Invaluable statistical analyses have been done on the Roman economy, and with justification these continue to be used; however, when we are speaking of the wider region of the
+eastern trade, the margin for error escalates in undertaking such analyses, and the available evidence may simply not be adequate. Cultural factors should be considered relative not only to the Greco-Roman world, but
+also the Indian or other areas, including the Arabian peninsula and north
+Africa. It is much the safest option to make a virtue out of the biases in sources for the social meaning of Indian goods, since this is what is attested abundantly.
+V. MAPPING COMMODITIES
+‘Brazil, where the nuts come from’ (Brandon Thomas, Charley’s Aunt) To what extent was Roman geographical knowledge about India generated by trade activity? (This question is deliberately posed in such a way as to maintain the view from Rome.) It is worth noting that many ofthe passages discussed in section I above are not formally and explicitly geographical but
+are drawn from other literary genres. This alone is a reminder that popular
+thinking linked commodities and the particular place called India. So when
+an Apician recipe specifies that spica Indica should be used, that can be said
+to constitute a popular conception ofIndia, whether the specification Indica
+in any such case emphasises that the product supposedly comes from India, or that the Indian variety rather than any other should be used. We should
+try to get beyond this limited though widespread link of product and place. Scrutiny ofgeographical treatises, especially those of Strabo and Ptolemy, add new dimensions to the question, and they make clear that the practice
+142 D. Huff, How to lie with statistics, 2nd edn (New York: Norton, 1993).
+190 Contexts ofa discourse of trade did much to make India known, beyond the limited sense mentioned above. Most obviously, Ptolemy in his Geography devotes considerable attention to India’s east coast and to other parts of the Bay of Bengal.
+In his seventh book Ptolemy describes the western side of the Ganges, then
+the eastern (chapters 1 and 2), before proceeding to describe the island of Taprobane or Sri Lanka (3) and to delineate the inhabited world more
+generally (4). Thus it is the Ganges, at the north of the Bay of Bengal,
+that acts as the key divider of India. It should also be noted that these are the last of the world’s regions given in Ptolemy’s rationalisation of space. Like Ptolemy’s other ‘descriptions’ this is very statistical: that is, particular points are plotted with their co-ordinates; in the case of these regions, the points which Ptolemy maps are settlements, river mouths and mountains. He provides almost double the amount of information for India on the near side of the Ganges than beyond, giving the impression of a marked
+difference of available geographical knowledge. Two striking features of
+Ptolemy’s South Asia is that India is greatly flattened, in other words it has nowhere near the character of a subcontinent so familiar from modern
+maps; and that the size of Sri Lanka is much exaggerated. Both features are
+still reflected in fifteenth-century maps of the India Ocean. However, the
+crucial point here is that it can only have been through merchants, one way
+or another, that Ptolemy obtained the information revealed in this part of
+his work.143 In order to gauge the significance of this, we should bear in mind that the Alexander histories present almost exclusively the Indus Valley; Pliny and the Periplus focuses on the west coast, though it does briefly mention
+the east. The pattern is thus clear: it is the western part of India, and
+particularly the Indus Valley, that is best represented in Greek and Roman
+literary texts ofhigh prestige; the east coast, on the other hand, receives little attention at all, and then only in the lower-status texts linked with trade. We
+have already seen that long-distance traders were looked down upon. 144
+It appears that this had a direct impact on the social value of the topographical information associated with them. As regards India, Strabo says as much
+in a telling passage for the sociology of geographical knowledge:
+As for the merchants who nowadays sail from Egypt via the Nile and Arabian Gulf
+as far as India, few have sailed as far as the Ganges, and even these are merely
+143 For merchants among Ptolemy’s sources see O. A. W. Dilke, ‘The culmination of Greek cartography
+in Ptolemy’, in History ofcartography, ed. Harley and Woodward, vol. I, pp. 177-200, at 178.
+144 John H. D’Arms, Commerce and social standing in ancient Rome (Cambridge, MA: Harvard
+University Press, 1981).
+Commodities 191
+private individuals and are useless with regard to accounts of the places visited.
+(15. 1. 4 C686)145 The context of this remark is the difficulty of obtaining any information about India, and the importance ofAlexander in doing so for certain parts of it. Strabo strongly implies that the cachet of geographical knowledge
+is in direct proportion to that of the person identified with it. It is also in this regard that we see the relative prestige value of the various texts discussed in the view of contemporary Romans: at the high end are the Alexander historians, with Strabo’s Geography close behind; Pliny’s Natural
+history and Ptolemy’s Geography seem to be considerably lower. Certainly,
+Pliny’s learned encyclopaedia is based on thousands of earlier works, as he
+is at pains to stress; yet he admits the presence of more everyday, lower
+prestige kinds of information, not least when discussing the geography of South Asia: ‘now that reliable information is available for the first time’.146 Ptolemy’s text is in many ways the most scientific geographic text produced
+in Greco-Roman antiquity, yet its technical nature associated it more with merchants than literati; in the end it is hard to judge the contemporary
+status of and responses to this work, however important it was to prove in the Renaissance.
+It would, however, appear that differences of social status among the
+users of spatial information influenced or even created different registers of
+geographical thought. In the rest ofthis section, this thesis will be developed
+in two directions, namely the issue of experience in the acquisition of knowledge about India, and the specificity of India relative to a more
+generalised ‘east’.
+V.i. Experience and mediation
+It would be possible to hold that supposedly Indian goods were linked with various kinds of lived experience on the part of ancient Greeks and Romans: most commonly, direct experience of pepper and other luxuries; direct experience of a small number of merchantmen; less direct experience
+is available to ordinary persons via the accounts of others. The ultimate
+authorising experience, on this model, is that of Alexander on his eastern campaign; the same things that are being tasted and smelled in the Rome
+145 Kai oi vOv 5e Aiyuirrou ttAeovtes EpuopiKoi tu NeiAco Kai tw Apa(3ico koAttco pexP1 T-ns
+’IvSik^s (jtt&vioi pev Kai TTEpiiTETrAEUKaai pexP1 T°v rayyou, Kai outoi 6’ iSiarrai Kai ou5ev
+Trpos iaTOpiav twv tottcov xpifaipoi.
+146 6.101 nunc primum certa notitia patescente.
+192 Contexts ofa discourse of Pliny’s time receive in the Natural history their foundation myth in the person of Alexander (e.g., book 12). It is thus typical, for example, that when his survey of trees reaches India, Alexander is the focaliser: Now we will present those trees at which Alexander the Great’s conquest marvelled once that part of the universe was first revealed.'47 The Pala tree is the marker of the campaign’s farthest point, and another is remembered for having caused diarrhoea among the troops (12.24). By way
+of comparison, even the Periplus, which seems so much like a functional
+text without literary embellishment, lives in the memory of Alexander:
+Alexander, setting out from these parts, penetrated as far as the Ganges but did not
+get to Limyrike and the south of India. For this reason, one can find on the market
+in Barygaza even today old drachmas engraved with the inscriptions, in Greek
+letters, ofApollodotus and Menander, rulers who came after Alexander. (47)
+148 The past plays no major role in the work, but it is no coincidence that such
+a sense of the past as there is centres on Alexander. Elsewhere the Periplus author speaks ofa place on India’s northwest coast as ‘preserving to this very day signs ofAlexander’s expedition, ancient shrines and the foundations of encampments and huge wells’ (41).
+149 Perfumes were first used by the Persians, according to Pliny: when
+Alexander defeated King Darius he captured a chest of them, and this
+is how they came to the Greek world. From there it was a short step to
+their use among Romans as part of the elegant life (13.2). Alexander is thus presented not exactly as the first inventor of the practice, but as the agent of its transmission from the east to the Mediterranean, a role attributed to Pompey in other instances (see section II above). The figure of Alexander is crucial, once again, as a lens by which India
+exists in Roman minds. And, though there is a superficial attractiveness to using experience as a criterion for assessing his and other responses to
+India, it is ultimately unsatisfactory. To speak in an unproblematic way
+of experience is to imply that there is some authentic, originary quality,
+147 12.21 nunc eas exponemus quas mirata est ALexandri magni victoria orbe eo patefacto. By something
+of a stretch of syntax, the subject of the first subordinate clause is not Alexander himself but his conquest, victoria.
+148 Kai AAs£av6pos op|jr|0Eis cttto tgov pgpcbv toutcov axpi tou r&yyous SifjAOe, Kon-aAiTTcbv
+tt)v te AipupiKTjv Kai tcx voTia ’IvSiktis' a<}>’ ou psxpi vOv ev papuya^ois TtaAaiai TrpoxcopoOai Spaxucri, ypapnaaiv'EAAr|viKoTs EyKExapaypEvai ETriaripa tcov pet’ AAg£av5pov
+(3e(3cc(7iAeuk6tgov AttoAAoSotou Kai MEvavSpou.
+149 Ico^ETai 6e eti Kai vuv Tfjs AAs^avSpou CTTpaTias armsTa TTgpi tous tottous, Upa te apxaTa Kai
+QeheAioi TTapE|j(3oAcov Kai <j>pEaTa psyiaTa.
+Commodities 193 which merely awaits uncovering from under layers of discourse.150 Given how unsatisfactory this assumption is, it is better to concentrate on those
+layers in their own right, to focus on what we might call different tenors of mediation. This also allows us to write Roman subjects themselves into the account. In these terms, Alexander’s expedition is highly mediated for
+a Roman in the first century ad, by a complex tissue of social memory
+and history. There were other journeys too, mediated by different forms of
+discourse, just as ‘Indian’ objects themselves provided kinds of mediation. At this point we should consider other journeys to India that provided,
+in one way or another, a certain kind of authorising experience in Roman
+minds. An important foundation myth in this story concerns the supposed dis- covery of the monsoon, and it is worth brief consideration here for the way
+in which it writes individual heroes into history. There are four candidates.
+First and foremost, there is the figure of shadowy Hippalos: the Periplus
+states that the monsoon was thus named after its discoverer (57). It gives no
+date, though it has been suggested that he was steersman of Eudoxus.151 It
+is from Strabo, secondly, that we hear about this Eudoxus of Cyzicus who,
+towards the end of the reign of Ptolemy VIII Euergetes II (c. 117 bc), was
+sent from Alexandria to explore sea-trading routes along the African coast. As a guide Eudoxus used an Indian sailor who had narrowly survived a ship- wreck. Eudoxus was blown off course while sailing down the African coast; on a subsequent voyage he set out from Alexandria in order to circumnavigate Africa.152 Thirdly, one Iambulos is mentioned in Theophrastus
+(.Research on plants 9.7.2), Diodorus Siculus (2.55.2; 2.60.1-4) and Pliny
+(12.135; 13-18) . While engaged in the spice trade off the Somali coast, he was blown off course to an island, perhaps Sri Lanka. There he spent several
+years, before visiting Palibothra and returning overland.153 Lastly, one story about the discovery of the monsoon centres on the unnamed freedman of
+150 For problems with the category of experience as a foundation of historical inquiry, see, e.g., Joan W. Scott, ‘Experience’, in Feminists theorize the political, ed. Judith Butler and Joan W. Scott (New
+York: Routledge, 1992), pp. 71-96.
+151 E.g., Dihle, Antike und Orient, p. 120; Casson, Periplus, p. 224. The suggestion that it represents some kind of ‘submarine’ wind, i.e. sea-current ( 0<t>aAos), does not persuade, ingenious though it may be: Santo Mazzarino, ‘On the name of the Hipalus ( Hippalus
+)
+wind in Pliny’, in Crossings:
+early Mediterranean contact with India, ed. F. de Romanis and A. Tchernia (Delhi: Manohar, 1997), pp. 72-9.
+152 Strabo C98-102, based on Poseidonius (= FGrH 87 F 28); cf. also Pomponius Mela 3.90 and 92, and Pliny 2.169, both of them based on a lost geographical work of Nepos (cf. 6.188). Among modern scholars see J. H. Thiel, Eudoxus ofCyzicus: a chapter in the history ofthe sea-route to India and the route around the Cape in ancient times (Groningen: Wolters, 1967), though the extent of Eudoxus’ travels may be exaggerated.
+153 Widu-Wolfgang Ehlers, ‘Mit dem Monsunwind nach Indien’, WJA n (1984), 73-84.
+194 Contexts ofa discourse Annius Plocamus, and is found also in Pliny (6.84-85 and 12.30 instead). Carried astray by winds, the unnamed freedman reached the island of Sri Lanka after a fortnight. (In Pliny’s version ‘Hippuros’ is not a person but a place in Sri Lanka.) He is entertained by the king, who is so impressed by
+the consistent weight of Roman denarii that he sends an embassy back to Rome.154 The intriguing possibility is that this is the same person who is attested in the bilingual inscription mentioned in section III.i above.
+Self-evidently, these stories have several features in common: ‘discovery’ by someone engaged in commercial activity; chance arrival on the southern
+part of the subcontinent, or alternatively in Taprobane. All of them have,
+to some degree, the character of an episode from the Greek novel, and this alone is grounds for suspicion about their empirical value. What we can conclude from the evidence discussed is that there was some debate on the timing involved, as if it required to be discovered more than once. This is not the place to adjudicate between the different claims: rather, the various
+stories are attempts to identify the origins of the Periplus trade, and are thus foundation myths of a kind. We can see this as part of a subjective history of Rome, even if the ethnocentric concept of ‘discovery’ is particularly awkward here. In a sense it is true that ‘there was little to discover, since the Arabs knew of it earlier’. 155 Yet we must be mindful of the above stories as ways by which Romans made sense of the monsoon to themselves. There are many interesting aspects to these stories, not least the fortuitous
+accident. In fact, the English word ‘serendipity’ comes from a medieval
+Arabic version of such a story of the discovery of Sri Lanka (Serendib in Arabic). What is more, the Greek novel provides several parallels to several of the stories recounted above: here again we see the nameless, low-prestige merchants receiving names for the purposes offictional narration.156 It must
+be remembered that the novel was itself not a canonical genre in antiquity, and was thus freer to reflect more of the lower social strata than the ‘higher’ genres such as epic and tragedy. On the other hand, it is possible to detect instances of direct experience
+that have no authorising function in Roman society. Here we are speak- ing of people such as the author of the Periplus-. such people are written out of the literary record, most explicitly by Strabo, even though he and
+Ptolemy almost certainly made use of information stemming from their journeys. The mime (Chapter 2, section I.4) may be considered an oblique
+154 Weerakkody, Taprobane, p. 45.
+155 Romila Thapar, A history ofIndia, 2nd edn (London: Penguin, 1990), voi. I, p. 107.
+156 Take, for example, the pirates in Xenophon of Ephesus’ Ephesian Tale, who kidnap the heroine
+Anthia: cf. Chapter 2, section 1 . 4 above.
+Commodities 195 pointer to such travel. Furthermore, we know of some people from the Mediterranean who actually were in India at some time. A census register from Arsinoe in Egypt from ad 72-73 mentions a 32-year-old male who is absent ‘in India’.157 Like the author of the Periplus, he is nameless
+today. There is one other figure of apparently the same social status whose name has lived on vividly: Thomas the Christian missionary. While this
+is not the place to consider this history of missionary activity in detail, 158 it is nonetheless striking that this figure, widely remembered as the first and most important of his kind, travelled to India as an artisan. The main
+source on him, the apocryphal Acts ofSaint Thomas, speak of him not as a merchant, but as a carpenter: it is in this role that he was bought by an agent of the Indian king Gundaphar. And this is how he is initially occupied once
+in India, giving his earnings to the poor. If the source, which on textual grounds may be dated to the late second or early third century ad, can be
+trusted on this point, that would make him effectively one of the Yavanas
+referred to in the Tamil poems. According to tradition, this Thomas was
+the same person referred to in the Gospels as ‘doubting Thomas’, and so the
+story is set around the middle ofthe first century ad, even though the earliest remaining evidence for it is more than a century later. By any reckoning Thomas has special significance when he continues to be commemorated
+today as the founding father of Christianity in India.159 Among the many
+aspects of the Thomas story that deserve consideration, it is important to recognise here that it constitutes independent evidence for the presence of
+Yavanas in south India in the first and second centuries ad.
+Stories about both the discovery of the monsoon and Thomas’ mission may be seen as attempts to add Roman faces to long-term history. They construct experiences which mediated India for Romans who did not themselves travel to the subcontinent. They act as a reminder to us to concentrate on the tenors ofmediation themselves rather than the supposed
+experiences. This is particularly so when that group which experienced India most directly, the traders, were regarded with such disdain in the literary sources.
+160 Items of long-distance trade, being geographically encoded, also offered a kind of experience of distant places.
+157
+P. Lond. 2.260 = Stud. Pal. 4.72-79 at p. 74, line 749.
+158 Compare Chapter 6, section V below.
+159 L. W. Brown, The Indian Christians ofSaint Thomas (Cambridge University Press, 1956).
+160 D’Arms, Commerce. For merchants in Christian tradition the Apocalypse is indicative, when it foretells the destruction of the city of Babylon, ‘the whore’, which may be considered an allegory of Rome: ‘the merchants of the earth are waxed rich through the abundance of her delicacies’ (18:3).
+196 Contexts ofa discourse
+V.2. Specificity and identification A central aspect of Edward Said’s concept of orientalism is the tendency
+to generalise about ‘the east’. If this chapter has shown that commodities
+themselves can construct mental maps, then we may well inquire into the
+applicability of the orientalist model to ancient Greece and Rome. On
+the face of it, the fit is snug, in light of what we have already seen. With
+regard to the Indian trade discussed above, there are three possible kinds of
+generalisation we might hypothetically pursue here, under the sign oforientalism. First, it is possible to construct a generalised ‘East’ beginning in Asia Minor, the area of Herodotus’ Lydians, through the eastern Mediterranean,
+Arabia, Mesopotamia and extending by extrapolation as far as South Asia. This approach has the advantage of emphasising the fact that, with the
+possible exception of Lydia, all the lands mentioned produced goods that were marked as distinctive. This may be a gross generalisation, but it is true that all these eastern lands provided the Roman world with high-value commodities to an extent far exceeding that of, say, northern Europe, and
+hence they do share this feature in common. There was a high-value item from Rome’s far northern frontier, namely amber or pine-resin (sucina), but
+this had nowhere near the same impact in quantity and cachet.' 61 Broadly
+speaking, however, topographies of far western and northern lands place much less emphasis on commodities. The contrast serves to clump together
+the eastern lands all the more tightly. Secondly, a generalised east can act as a reminder to consider the coexistence of land and sea-routes in long-distance trade. As we have seen in section III above, this is especially important when Greek and Latin sources tend to emphasise the monsoon route at the expense of the Arabian Gulf
+route, which was no less important; and to emphasise direct trade over indirect. Tramp trading via the Gulfwas just as much part of the Asian trade as the monsoon route, over an even longer span of time. In any evaluation of
+these networks it is necessary to take intermediaries into account, not least the Parthians. Thirdly, the concept of orientalism can make it easier to see the Indian Ocean writ large as a unified zone of exchange. The exotic element of the Indian Ocean expresses the difference between Mediterranean and more
+tropical products: spices are an extreme case of distinctiveness, when their
+Italian equivalents were so different.' 62 The effect of the monsoon winds is
+161 Barry CunlifFe, The extraordinary voyage ofPytheas the Greek (London: Penguin, 2001), pp. 134—50; Dalby, Empire ofpleasures, p. 207.
+162 On large-scale geophysical differences, see most strikingly Jared M. Diamond, Guns, germs, and
+steel: thefates ofhuman societies (New York: Norton, 1997).
+Commodities 197 such that they facilitate travel not only from Arabia to India but in a series of routes that spanned the entire ocean as far east as Indonesia. It is only
+relatively recently that a more holistic approach to the Indian Ocean has won its supporters; though it does not seem to exhibit the same unitariness
+as has recently been shown for the Mediterranean, there is certainly much
+to be said for viewing the Indian Ocean as a wider zone of contact.'63 In
+these respects, there can be no doubt that Orientalism offers important
+insights to the present study, not least the entanglement of representations and power relations. For current purposes, we are still left with difficulties surrounding the
+specificity of origins. Among the many topics broached by Pliny in his Natural history there is a pervasive concern, or perhaps lip-service, to the question of origins. The underlying thought, we might say, is that an
+object is known by knowing its origin, whether topographical or personal,
+in the case of an inventor (the sense in which the monsoon was ‘invented’ or ‘discovered’). Consequently, it might be said that he offers a series of
+geographies of objects: for example, when he discusses trees or marble he
+organises his material partly by provenance. Certainly, the attempt to pin down the provenance of specific long-distance goods has occupied a great deal of scholarship. However, in its empirical form that is a problem more
+for conventional archaeology than for intellectual history, or for cognitive archaeologies that seek access to the minds of ancient people. As we have
+seen, the system quickly breaks down when, for example, the Periplus says that ‘Indian cinnabar’ can be obtained on the island of Dioscorides (modern
+Suqutra, ch. 30). The emphasis here has been on the responses of Romans to Indian goods, which is a side-stepping of the empirical question of origins.
+If this line of analysis is valid, then it is possible to speak of a foreshortened
+east seen from the point of view of Roman consumers: it would not have
+mattered much whether a luxury item came from the Arabian peninsula or south Asia or the horn of Africa, for they would have arrived in the same
+vessels and caravans. This would be true both of seaborne and overland commerce, viewed from the consumption end.
+In the discussion of spices above, we have already touched on the prob- lems in distinguishing origins (botanically determined) from points of dis- tribution. The Periplus, with its practical edge, essentially gives us centres of
+distribution rather than production: in the case of the Indian ports, goods
+are gathered from the hinterland (e.g., chs. 51, 55). Closer to Italy, there is an object lesson to be learned from a study of Black Sea fish in classical
+165 E.g., Chaudhuri, Trade and civilisation-, Reade, Indian Ocean-, Ray, Archaeology ofseafaring (2003); and Himanshu P. Ray (ed.), Archaeology ofseafaring: the Indian Ocean in the ancientperiod (Delhi:
+Pragati, 1999).
+198 Contexts ofa discourse sources. It is now clear that several parts of the Black Sea provided these
+fish, yet ancient texts consistently give the impression that they came from
+Byzantium: this was a Greek-built city, the product of colonisation, amidst an area that was considered a wilderness. By the necessities of sea-travel,
+fish imported from the Black Sea to the Mediterranean would have had to pass through Byzantium on its way to the Aegean. The obvious conclusion
+is that cultural factors cloud any notion of the provenance of commodities, and this is certainly something to bear in mind regarding Indian goods.164 Origins ofcommodities relate typically to their production, and by extension to their distribution; but consumption plays a major role in this also. From the earliest reference to eastern people, including the Lydians, we
+see them referred to in Greek sources as consumers, almost by stereotype; the wealth of Croesus is perhaps the most famous example of this. Other
+examples too can be found. A telling instance is given by Pliny with regard
+to spices, when he quotes Herodotus to say that the Arabs would pay
+an annual tribute of one thousand talents of incense to the king of the
+Persians (12.80, referring to Herodotus 3.97). The point here is as much the
+practice itself as the fact that Pliny repeats it with a sense of amazement. What we see here is that eastern peoples are both producers and consumers
+of luxury items, in this case incense produced by Arabs and consumed by
+the Persian kings. This combined sense of production and consumption
+emerges as one explanation for the process of generalising about the east in antiquity. It was the Persians that invented perfume; this was introduced to the Greco-Roman world when Alexander found a chest of it among Darius’ goods. 165 To look outside of Persia, Cleopatra’s supposed drinking of the expensive pearl is an eminent case of conspicuous consumption from Egypt
